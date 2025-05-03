@@ -25,10 +25,13 @@ jobs:
       - name: Run tag.py
         run: python tag.py
 
-      - name: Commit tags.json
+      - name: Commit changes
+        env:
+          TOKEN: ${{ secrets.ACTIONS_TOKEN }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/24119937/GROUP1_Bartlett_RC11_2025_main.git
           git add data/tags.json
           git commit -m "Update tags.json via GitHub Actions" || echo "No changes to commit"
-          git push
+          git push origin main
