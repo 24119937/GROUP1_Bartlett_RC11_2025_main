@@ -1,2466 +1,27 @@
 {
   "files": {
-<<<<<<< HEAD
-    "Ideal_Home_December_2015.txt": {
-      "type": "text",
-=======
-    "top_level.txt": {
-      "type": "text",
-      "tags": [
-        {
-          "tag": "graphviz",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "text",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "top_level",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:38:29.714293",
-      "file_size": 9
-    },
-    "monkey/monkey.glb": {
-      "type": "3d",
->>>>>>> 8007c48915da0fc69587da4d8025a0e6e24dfcae
-      "tags": [
-        {
-          "tag": "from",
-          "confidence": "0.88%"
-        },
-        {
-          "tag": "your",
-          "confidence": "0.81%"
-        },
-        {
-          "tag": "you",
-          "confidence": "0.71%"
-        },
-        {
-          "tag": "home",
-          "confidence": "0.57%"
-        },
-        {
-          "tag": "this",
-          "confidence": "0.52%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "text",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "ideal_home_december_2015",
-          "confidence": "100.00%"
-        }
-      ],
-<<<<<<< HEAD
-      "last_analyzed": "2025-05-03T02:30:46.660446",
-      "file_size": 336983
-    },
-    "Ideal_Home_December_2015_UK.txt": {
-      "type": "text",
-      "tags": [
-        {
-          "tag": "from",
-          "confidence": "0.88%"
-        },
-        {
-          "tag": "your",
-          "confidence": "0.81%"
-        },
-        {
-          "tag": "you",
-          "confidence": "0.71%"
-        },
-        {
-          "tag": "home",
-          "confidence": "0.57%"
-        },
-        {
-          "tag": "this",
-          "confidence": "0.52%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "text",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "ideal_home_december_2015_uk",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:46.684827",
-      "file_size": 336983
-    },
-    "Ideal_Home_January_2016_UK.txt": {
-      "type": "text",
-      "tags": [
-        {
-          "tag": "from",
-          "confidence": "0.78%"
-        },
-        {
-          "tag": "your",
-          "confidence": "0.77%"
-        },
-        {
-          "tag": "you",
-          "confidence": "0.70%"
-        },
-        {
-          "tag": "home",
-          "confidence": "0.59%"
-        },
-        {
-          "tag": "this",
-          "confidence": "0.49%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "text",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "ideal_home_january_2016_uk",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:46.707701",
-      "file_size": 282361
-    },
-    "Ideal_Home_March_2016.txt": {
-      "type": "text",
-      "tags": [
-        {
-          "tag": "from",
-          "confidence": "0.88%"
-        },
-        {
-          "tag": "your",
-          "confidence": "0.77%"
-        },
-        {
-          "tag": "you",
-          "confidence": "0.73%"
-        },
-        {
-          "tag": "home",
-          "confidence": "0.58%"
-        },
-        {
-          "tag": "march",
-          "confidence": "0.53%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "text",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "ideal_home_march_2016",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:46.731086",
-      "file_size": 312747
-    },
-    "Ideal_Home_March_2016_1.txt": {
-      "type": "text",
-      "tags": [
-        {
-          "tag": "from",
-          "confidence": "0.88%"
-        },
-        {
-          "tag": "your",
-          "confidence": "0.77%"
-        },
-        {
-          "tag": "you",
-          "confidence": "0.73%"
-        },
-        {
-          "tag": "home",
-          "confidence": "0.58%"
-        },
-        {
-          "tag": "march",
-          "confidence": "0.53%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "text",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "ideal_home_march_2016_1",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:46.755191",
-      "file_size": 312747
-    },
-    "Ideal_Home_November_2015.txt": {
-      "type": "text",
-      "tags": [
-        {
-          "tag": "from",
-          "confidence": "0.83%"
-        },
-        {
-          "tag": "your",
-          "confidence": "0.67%"
-        },
-        {
-          "tag": "home",
-          "confidence": "0.59%"
-        },
-        {
-          "tag": "you",
-          "confidence": "0.58%"
-        },
-        {
-          "tag": "this",
-          "confidence": "0.49%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "text",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "ideal_home_november_2015",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:46.780159",
-      "file_size": 312018
-    },
-    "Ideal_Home_October_2015_UK.txt": {
-      "type": "text",
-      "tags": [
-        {
-          "tag": "from",
-          "confidence": "0.75%"
-        },
-        {
-          "tag": "your",
-          "confidence": "0.69%"
-        },
-        {
-          "tag": "you",
-          "confidence": "0.49%"
-        },
-        {
-          "tag": "home",
-          "confidence": "0.49%"
-        },
-        {
-          "tag": "october",
-          "confidence": "0.44%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "text",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "ideal_home_october_2015_uk",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:46.804011",
-      "file_size": 317716
-    },
-    "image1.jpg": {
+    "image6.jpg": {
       "type": "image",
       "tags": [
         {
-          "tag": "ox",
-          "confidence": "11.05%"
-        },
-        {
-          "tag": "oxcart",
-          "confidence": "2.99%"
-        },
-        {
-          "tag": "Arabian camel",
-          "confidence": "2.71%"
-        },
-        {
-          "tag": "water buffalo",
-          "confidence": "1.11%"
-        },
-        {
-          "tag": "hog",
-          "confidence": "0.98%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image1",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "761x1024",
-      "last_analyzed": "2025-05-03T02:30:46.882964",
-      "file_size": 395938
-    },
-    "image10.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "palace",
-          "confidence": "45.10%"
-        },
-        {
-          "tag": "monastery",
-          "confidence": "2.73%"
-        },
-        {
-          "tag": "mosque",
-          "confidence": "2.20%"
-        },
-        {
-          "tag": "castle",
-          "confidence": "1.49%"
-        },
-        {
-          "tag": "gondola",
-          "confidence": "0.71%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image10",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "1024x650",
-      "last_analyzed": "2025-05-03T02:30:46.935423",
-      "file_size": 221190
-    },
-    "image11.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "cliff dwelling",
-          "confidence": "3.59%"
-        },
-        {
-          "tag": "cliff",
-          "confidence": "2.58%"
-        },
-        {
-          "tag": "church",
-          "confidence": "1.83%"
-        },
-        {
-          "tag": "vault",
-          "confidence": "1.79%"
-        },
-        {
-          "tag": "monastery",
-          "confidence": "1.78%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image11",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "1024x762",
-      "last_analyzed": "2025-05-03T02:30:46.989723",
-      "file_size": 415047
-    },
-    "image12.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "submarine",
-          "confidence": "6.48%"
-        },
-        {
-          "tag": "breakwater",
-          "confidence": "5.41%"
-        },
-        {
-          "tag": "pier",
-          "confidence": "4.33%"
-        },
-        {
-          "tag": "wreck",
-          "confidence": "3.56%"
-        },
-        {
-          "tag": "liner",
-          "confidence": "2.10%"
-        },
-        {
-          "tag": "pink",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image12",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "pink",
-      "dimensions": "1024x664",
-      "last_analyzed": "2025-05-03T02:30:47.045920",
-      "file_size": 397468
-    },
-    "image13.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "cliff",
-          "confidence": "12.31%"
-        },
-        {
-          "tag": "promontory",
-          "confidence": "5.73%"
-        },
-        {
-          "tag": "seashore",
-          "confidence": "4.22%"
-        },
-        {
-          "tag": "breakwater",
-          "confidence": "2.49%"
-        },
-        {
-          "tag": "lakeside",
-          "confidence": "1.96%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image13",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "1024x675",
-      "last_analyzed": "2025-05-03T02:30:47.105429",
-      "file_size": 401321
-    },
-    "image14.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "vault",
-          "confidence": "7.28%"
-        },
-        {
-          "tag": "prison",
-          "confidence": "5.01%"
-        },
-        {
-          "tag": "jigsaw puzzle",
-          "confidence": "4.80%"
-        },
-        {
-          "tag": "monastery",
-          "confidence": "3.99%"
-        },
-        {
-          "tag": "altar",
-          "confidence": "2.95%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image14",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "510x1024",
-      "last_analyzed": "2025-05-03T02:30:47.163156",
-      "file_size": 281276
-    },
-    "image15.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "bannister",
-          "confidence": "39.97%"
-        },
-        {
-          "tag": "coil",
-          "confidence": "0.55%"
-        },
-        {
-          "tag": "barn",
-          "confidence": "0.48%"
-        },
-        {
-          "tag": "vault",
-          "confidence": "0.43%"
-        },
-        {
-          "tag": "studio couch",
-          "confidence": "0.42%"
-        },
-        {
-          "tag": "brown",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image15",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "brown",
-      "dimensions": "836x1024",
-      "last_analyzed": "2025-05-03T02:30:47.224981",
-      "file_size": 462802
-    },
-    "image16.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "monastery",
-          "confidence": "22.82%"
-        },
-        {
-          "tag": "palace",
-          "confidence": "5.12%"
-        },
-        {
-          "tag": "triumphal arch",
-          "confidence": "2.59%"
-        },
-        {
-          "tag": "castle",
-          "confidence": "1.81%"
-        },
-        {
-          "tag": "horse cart",
-          "confidence": "1.55%"
-        },
-        {
-          "tag": "pink",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image16",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "pink",
-      "dimensions": "1024x840",
-      "last_analyzed": "2025-05-03T02:30:47.287487",
-      "file_size": 398248
-    },
-    "image17.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "rock crab",
-          "confidence": "4.63%"
-        },
-        {
-          "tag": "Dungeness crab",
-          "confidence": "4.36%"
-        },
-        {
-          "tag": "crayfish",
-          "confidence": "4.17%"
-        },
-        {
-          "tag": "king crab",
-          "confidence": "2.67%"
-        },
-        {
-          "tag": "starfish",
-          "confidence": "2.60%"
-        },
-        {
-          "tag": "brown",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image17",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "brown",
-      "dimensions": "1024x918",
-      "last_analyzed": "2025-05-03T02:30:47.350357",
-      "file_size": 476153
-    },
-    "image18.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "monastery",
-          "confidence": "3.08%"
-        },
-        {
-          "tag": "cannon",
-          "confidence": "2.62%"
-        },
-        {
-          "tag": "book jacket",
-          "confidence": "2.03%"
-        },
-        {
-          "tag": "vault",
-          "confidence": "2.00%"
-        },
-        {
-          "tag": "viaduct",
-          "confidence": "1.95%"
-=======
-      "last_analyzed": "2025-05-03T02:38:29.715064",
-      "file_size": 8378260,
-      "thumbnail": "monkey/thumbnail.png"
-    },
-    "2017-8-25-scaffolding-cfa-5-edited.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "thresher",
-          "confidence": "11.84%"
-        },
-        {
-          "tag": "drilling platform",
-          "confidence": "5.53%"
-        },
-        {
-          "tag": "harvester",
-          "confidence": "4.61%"
-        },
-        {
-          "tag": "lumbermill",
-          "confidence": "2.35%"
-        },
-        {
-          "tag": "bannister",
-          "confidence": "2.05%"
->>>>>>> 8007c48915da0fc69587da4d8025a0e6e24dfcae
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-<<<<<<< HEAD
-          "tag": "image18",
-=======
-          "tag": "2017-8-25-scaffolding-cfa-5-edited",
->>>>>>> 8007c48915da0fc69587da4d8025a0e6e24dfcae
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-<<<<<<< HEAD
-      "dimensions": "1024x768",
-      "last_analyzed": "2025-05-03T02:30:47.410018",
-      "file_size": 419207
-=======
-      "dimensions": "1200x800",
-      "last_analyzed": "2025-05-03T02:38:29.943019",
-      "file_size": 1179877
->>>>>>> 8007c48915da0fc69587da4d8025a0e6e24dfcae
-    },
-    "image19.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "book jacket",
-          "confidence": "4.09%"
-        },
-        {
-          "tag": "jigsaw puzzle",
-          "confidence": "3.63%"
-        },
-        {
-          "tag": "restaurant",
-          "confidence": "2.12%"
-        },
-        {
-          "tag": "carton",
-          "confidence": "1.63%"
-        },
-        {
-          "tag": "airship",
-          "confidence": "1.53%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image19",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "655x1024",
-      "last_analyzed": "2025-05-03T02:30:47.466816",
-      "file_size": 320037
-    },
-    "image2.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "vestment",
-          "confidence": "13.72%"
-        },
-        {
-          "tag": "cloak",
-          "confidence": "7.76%"
-        },
-        {
-          "tag": "overskirt",
-          "confidence": "7.35%"
-        },
-        {
-          "tag": "book jacket",
-          "confidence": "5.53%"
-        },
-        {
-          "tag": "altar",
-          "confidence": "5.37%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image2",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "827x1024",
-      "last_analyzed": "2025-05-03T02:30:47.527989",
-      "file_size": 367585
-    },
-    "image20.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "book jacket",
-          "confidence": "72.76%"
-        },
-        {
-          "tag": "jigsaw puzzle",
-          "confidence": "1.53%"
-        },
-        {
-          "tag": "comic book",
-          "confidence": "0.74%"
-        },
-        {
-          "tag": "missile",
-          "confidence": "0.54%"
-        },
-        {
-          "tag": "guillotine",
-          "confidence": "0.41%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image20",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "668x1024",
-      "last_analyzed": "2025-05-03T02:30:47.592567",
-      "file_size": 336421
-    },
-    "image21.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "horse cart",
-          "confidence": "40.67%"
-        },
-        {
-          "tag": "barn",
-          "confidence": "1.78%"
-        },
-        {
-          "tag": "lumbermill",
-          "confidence": "1.40%"
-        },
-        {
-          "tag": "boathouse",
-          "confidence": "1.36%"
-        },
-        {
-          "tag": "dogsled",
-          "confidence": "1.23%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image21",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "1024x818",
-      "last_analyzed": "2025-05-03T02:30:47.657577",
-      "file_size": 472722
-    },
-    "image22.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "lifeboat",
-          "confidence": "9.70%"
-        },
-        {
-          "tag": "liner",
-          "confidence": "6.40%"
-        },
-        {
-          "tag": "container ship",
-          "confidence": "6.32%"
-        },
-        {
-          "tag": "fireboat",
-          "confidence": "3.40%"
-        },
-        {
-          "tag": "breakwater",
-          "confidence": "2.28%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image22",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "943x1024",
-      "last_analyzed": "2025-05-03T02:30:47.718962",
-      "file_size": 406051
-    },
-    "image23.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "hyena",
-          "confidence": "10.44%"
-        },
-        {
-          "tag": "coyote",
-          "confidence": "3.24%"
-        },
-        {
-          "tag": "cliff",
-          "confidence": "2.59%"
-        },
-        {
-          "tag": "African hunting dog",
-          "confidence": "1.76%"
-        },
-        {
-          "tag": "English setter",
-          "confidence": "1.67%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image23",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-<<<<<<< HEAD
-      "dimensions": "820x1024",
-      "last_analyzed": "2025-05-03T02:30:47.785534",
-      "file_size": 480396
-    },
-    "image24.jpg": {
-=======
-      "dimensions": "1431x992",
-      "last_analyzed": "2025-05-03T02:38:30.130101",
-      "file_size": 3197494
-    },
-    "Telemetry_data_architecture_workshop3.png": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "garbage truck",
-          "confidence": "5.61%"
-        },
-        {
-          "tag": "solar dish",
-          "confidence": "3.94%"
-        },
-        {
-          "tag": "racer",
-          "confidence": "3.00%"
-        },
-        {
-          "tag": "jeep",
-          "confidence": "2.53%"
-        },
-        {
-          "tag": "tow truck",
-          "confidence": "2.47%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "telemetry_data_architecture_workshop3",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "1918x919",
-      "last_analyzed": "2025-05-03T02:38:30.307525",
-      "file_size": 2650949
-    },
-    "heatmap/heatmap.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "heatmap",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:38:30.376665",
-      "file_size": 3247384,
-      "thumbnail": "heatmap/thumbnail.png"
-    },
-    "entry_points.txt": {
-      "type": "text",
-      "tags": [
-        {
-          "tag": "setuptoolsdistcheckrequirements",
-          "confidence": "3.00%"
-        },
-        {
-          "tag": "setuptoolscommandegginfooverwritearg",
-          "confidence": "3.00%"
-        },
-        {
-          "tag": "setuptoolsdistassertstringlist",
-          "confidence": "2.00%"
-        },
-        {
-          "tag": "setuptoolsdistcheckpackagedata",
-          "confidence": "2.00%"
-        },
-        {
-          "tag": "setuptoolsdistassertbool",
-          "confidence": "2.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "text",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "entry_points",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:38:30.377090",
-      "file_size": 2636
-    },
-    "totem/totem.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "totem",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:38:30.377313",
-      "file_size": 6876568,
-      "thumbnail": "totem/thumbnail.png"
-    },
-    "testing/testing.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "piramid",
-          "confidence": "33.33%"
-        },
-        {
-          "tag": "scheef",
-          "confidence": "33.33%"
-        },
-        {
-          "tag": "test",
-          "confidence": "33.33%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "testing",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:38:30.544362",
-      "file_size": 161772,
-      "thumbnail": "testing/thumbnail.png"
-    },
-    "New Folder/test.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "monkey",
-          "confidence": "25.00%"
-        },
-        {
-          "tag": "architecture",
-          "confidence": "25.00%"
-        },
-        {
-          "tag": "suzanne",
-          "confidence": "25.00%"
-        },
-        {
-          "tag": "pink",
-          "confidence": "25.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "new folder",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:38:30.544820",
-      "file_size": 1387512,
-      "thumbnail": "New Folder/thumbnail.png"
-    },
-    "suzanne/suzanne.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "monkey",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "suzanne",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:38:30.545226",
-      "file_size": 69624,
-      "thumbnail": null
-    },
-    "korean_tree.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "park bench",
-          "confidence": "2.80%"
-        },
-        {
-          "tag": "baboon",
-          "confidence": "2.59%"
-        },
-        {
-          "tag": "worm fence",
-          "confidence": "2.52%"
-        },
-        {
-          "tag": "birdhouse",
-          "confidence": "1.77%"
-        },
-        {
-          "tag": "cheetah",
-          "confidence": "1.62%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "korean_tree",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "1200x804",
-      "last_analyzed": "2025-05-03T02:38:30.646101",
-      "file_size": 217634
-    },
-    "test.png": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "comic book",
-          "confidence": "14.42%"
-        },
-        {
-          "tag": "umbrella",
-          "confidence": "3.74%"
-        },
-        {
-          "tag": "padlock",
-          "confidence": "2.58%"
-        },
-        {
-          "tag": "quilt",
-          "confidence": "2.21%"
-        },
-        {
-          "tag": "shoe shop",
-          "confidence": "1.90%"
-        },
-        {
-          "tag": "brown",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "test",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "brown",
-      "dimensions": "1913x920",
-      "last_analyzed": "2025-05-03T02:38:30.837362",
-      "file_size": 2709314
-    },
-    "2024-09-26-173618_1920x924_scrot.png": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "comic book",
-          "confidence": "59.09%"
-        },
-        {
-          "tag": "bookshop",
-          "confidence": "4.09%"
-        },
-        {
-          "tag": "solar dish",
-          "confidence": "2.46%"
-        },
-        {
-          "tag": "cassette",
-          "confidence": "1.66%"
-        },
-        {
-          "tag": "book jacket",
-          "confidence": "0.96%"
-        },
-        {
-          "tag": "brown",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2024-09-26-173618_1920x924_scrot",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "brown",
-      "dimensions": "1920x924",
-      "last_analyzed": "2025-05-03T02:38:31.015652",
-      "file_size": 2559534
-    },
-    "daniel_fspy.fspy.jpg": {
->>>>>>> 8007c48915da0fc69587da4d8025a0e6e24dfcae
-      "type": "image",
-      "tags": [
-        {
-          "tag": "horse cart",
-          "confidence": "31.50%"
-        },
-        {
-          "tag": "plow",
-          "confidence": "5.28%"
-        },
-        {
-          "tag": "American lobster",
-          "confidence": "1.04%"
-        },
-        {
-          "tag": "crayfish",
-          "confidence": "0.88%"
-        },
-        {
-          "tag": "book jacket",
-          "confidence": "0.66%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image24",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-<<<<<<< HEAD
-      "dimensions": "1024x756",
-      "last_analyzed": "2025-05-03T02:30:47.855911",
-      "file_size": 339865
-    },
-    "image25.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "jigsaw puzzle",
-          "confidence": "13.57%"
-        },
-        {
-          "tag": "palace",
-          "confidence": "13.13%"
-        },
-        {
-          "tag": "horse cart",
-          "confidence": "5.61%"
-        },
-        {
-          "tag": "castle",
-          "confidence": "4.67%"
-        },
-        {
-          "tag": "streetcar",
-          "confidence": "4.07%"
-=======
-      "dimensions": "4624x3468",
-      "last_analyzed": "2025-05-03T02:38:31.362070",
-      "file_size": 3251183
-    },
-    "satellite.jpeg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "wing",
-          "confidence": "12.13%"
-        },
-        {
-          "tag": "seashore",
-          "confidence": "6.17%"
-        },
-        {
-          "tag": "cliff",
-          "confidence": "5.34%"
-        },
-        {
-          "tag": "jigsaw puzzle",
-          "confidence": "3.99%"
-        },
-        {
-          "tag": "alp",
-          "confidence": "2.79%"
->>>>>>> 8007c48915da0fc69587da4d8025a0e6e24dfcae
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-<<<<<<< HEAD
-          "tag": "image25",
-=======
-          "tag": "satellite",
->>>>>>> 8007c48915da0fc69587da4d8025a0e6e24dfcae
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-<<<<<<< HEAD
-      "dimensions": "1024x797",
-      "last_analyzed": "2025-05-03T02:30:47.918037",
-      "file_size": 330472
-    },
-    "image26.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "dogsled",
-          "confidence": "5.68%"
-        },
-        {
-          "tag": "cliff",
-          "confidence": "3.51%"
-        },
-        {
-          "tag": "snowmobile",
-          "confidence": "2.67%"
-        },
-        {
-          "tag": "valley",
-          "confidence": "1.73%"
-        },
-        {
-          "tag": "coyote",
-          "confidence": "1.61%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-=======
-      "dimensions": "3858x4096",
-      "last_analyzed": "2025-05-03T02:38:31.698815",
-      "file_size": 2891287
-    },
-    "LICENSE.txt": {
-      "type": "text",
-      "tags": [
-        {
-          "tag": "data",
-          "confidence": "5.41%"
-        },
-        {
-          "tag": "any",
-          "confidence": "2.70%"
-        },
-        {
-          "tag": "inconsistencies",
-          "confidence": "2.70%"
-        },
-        {
-          "tag": "licenses",
-          "confidence": "2.70%"
-        },
-        {
-          "tag": "copyrights",
-          "confidence": "2.70%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "text",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "license",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:38:31.699514",
-      "file_size": 845
-    },
-    "piramid/piramid.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "piramid",
-          "confidence": "33.33%"
-        },
-        {
-          "tag": "scheef",
-          "confidence": "33.33%"
-        },
-        {
-          "tag": "test",
-          "confidence": "33.33%"
-        },
-        {
->>>>>>> 8007c48915da0fc69587da4d8025a0e6e24dfcae
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-<<<<<<< HEAD
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image26",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "742x1024",
-      "last_analyzed": "2025-05-03T02:30:47.978939",
-      "file_size": 393525
-    },
-    "image27.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "African hunting dog",
-          "confidence": "9.23%"
-        },
-        {
-          "tag": "dogsled",
-          "confidence": "6.15%"
-        },
-        {
-          "tag": "Arabian camel",
-          "confidence": "3.07%"
-        },
-        {
-          "tag": "hyena",
-          "confidence": "2.11%"
-        },
-        {
-          "tag": "tiger",
-          "confidence": "1.57%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image27",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "1024x746",
-      "last_analyzed": "2025-05-03T02:30:48.048528",
-      "file_size": 381515
-    },
-    "image28.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "volcano",
-          "confidence": "3.38%"
-        },
-        {
-          "tag": "dhole",
-          "confidence": "2.73%"
-        },
-        {
-          "tag": "ox",
-          "confidence": "2.51%"
-        },
-        {
-          "tag": "geyser",
-          "confidence": "2.21%"
-        },
-        {
-          "tag": "Welsh springer spaniel",
-          "confidence": "2.20%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image28",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "1024x765",
-      "last_analyzed": "2025-05-03T02:30:48.112289",
-      "file_size": 289051
-    },
-    "image29.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "abaya",
-          "confidence": "11.69%"
-        },
-        {
-          "tag": "cloak",
-          "confidence": "10.01%"
-        },
-        {
-          "tag": "castle",
-          "confidence": "3.48%"
-        },
-        {
-          "tag": "groom",
-          "confidence": "2.79%"
-        },
-        {
-          "tag": "monastery",
-          "confidence": "1.89%"
-        },
-        {
-          "tag": "brown",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image29",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "brown",
-      "dimensions": "1024x815",
-      "last_analyzed": "2025-05-03T02:30:48.173718",
-      "file_size": 362837
-    },
-    "image3.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "throne",
-          "confidence": "15.67%"
-        },
-        {
-          "tag": "rocking chair",
-          "confidence": "2.27%"
-        },
-        {
-          "tag": "studio couch",
-          "confidence": "2.20%"
-        },
-        {
-          "tag": "cock",
-          "confidence": "1.97%"
-        },
-        {
-          "tag": "wig",
-          "confidence": "1.93%"
-        },
-        {
-          "tag": "brown",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image3",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "brown",
-      "dimensions": "1024x774",
-      "last_analyzed": "2025-05-03T02:30:48.240538",
-      "file_size": 300179
-    },
-    "image30.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "castle",
-          "confidence": "52.62%"
-        },
-        {
-          "tag": "monastery",
-          "confidence": "10.48%"
-        },
-        {
-          "tag": "church",
-          "confidence": "2.98%"
-        },
-        {
-          "tag": "palace",
-          "confidence": "1.52%"
-        },
-        {
-          "tag": "cliff dwelling",
-          "confidence": "0.50%"
-        },
-        {
-          "tag": "brown",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image30",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "brown",
-      "dimensions": "1024x742",
-      "last_analyzed": "2025-05-03T02:30:48.302565",
-      "file_size": 340168
-    },
-    "image31.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "castle",
-          "confidence": "45.72%"
-        },
-        {
-          "tag": "church",
-          "confidence": "2.54%"
-        },
-        {
-          "tag": "monastery",
-          "confidence": "1.80%"
-        },
-        {
-          "tag": "groom",
-          "confidence": "1.61%"
-        },
-        {
-          "tag": "palace",
-          "confidence": "1.16%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image31",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "1024x849",
-      "last_analyzed": "2025-05-03T02:30:48.360522",
-      "file_size": 340739
-    },
-    "image32.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "castle",
-          "confidence": "17.97%"
-        },
-        {
-          "tag": "groom",
-          "confidence": "6.86%"
-        },
-        {
-          "tag": "fountain",
-          "confidence": "4.27%"
-        },
-        {
-          "tag": "boathouse",
-          "confidence": "4.18%"
-        },
-        {
-          "tag": "church",
-          "confidence": "1.67%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image32",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "1024x867",
-      "last_analyzed": "2025-05-03T02:30:48.426326",
-      "file_size": 374296
-    },
-    "image33.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "worm fence",
-          "confidence": "9.06%"
-        },
-        {
-          "tag": "cliff dwelling",
-          "confidence": "4.68%"
-        },
-        {
-          "tag": "barn",
-          "confidence": "3.03%"
-        },
-        {
-          "tag": "cliff",
-          "confidence": "2.67%"
-        },
-        {
-          "tag": "bell cote",
-          "confidence": "2.30%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image33",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "1024x725",
-      "last_analyzed": "2025-05-03T02:30:48.485952",
-      "file_size": 343682
-    },
-    "image34.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "sandbar",
-          "confidence": "17.74%"
-        },
-        {
-          "tag": "geyser",
-          "confidence": "9.97%"
-        },
-        {
-          "tag": "seashore",
-          "confidence": "2.65%"
-        },
-        {
-          "tag": "valley",
-          "confidence": "1.46%"
-        },
-        {
-          "tag": "volcano",
-          "confidence": "1.36%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image34",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "1024x657",
-      "last_analyzed": "2025-05-03T02:30:48.540534",
-      "file_size": 254785
-    },
-    "image35.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "valley",
-          "confidence": "22.67%"
-        },
-        {
-          "tag": "alp",
-          "confidence": "15.85%"
-        },
-        {
-          "tag": "barn",
-          "confidence": "2.17%"
-        },
-        {
-          "tag": "lakeside",
-          "confidence": "2.04%"
-        },
-        {
-          "tag": "water buffalo",
-          "confidence": "1.98%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image35",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "1024x733",
-      "last_analyzed": "2025-05-03T02:30:48.596560",
-      "file_size": 277163
-    },
-    "image36.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "castle",
-          "confidence": "32.79%"
-        },
-        {
-          "tag": "monastery",
-          "confidence": "4.43%"
-        },
-        {
-          "tag": "palace",
-          "confidence": "0.59%"
-        },
-        {
-          "tag": "church",
-          "confidence": "0.57%"
-        },
-        {
-          "tag": "cliff dwelling",
-          "confidence": "0.35%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image36",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "1024x893",
-      "last_analyzed": "2025-05-03T02:30:48.662826",
-      "file_size": 413478
-    },
-    "image37.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "palace",
+          "tag": "pedestal",
           "confidence": "15.04%"
         },
         {
-          "tag": "monastery",
-          "confidence": "10.16%"
+          "tag": "fountain",
+          "confidence": "4.07%"
         },
         {
-          "tag": "alp",
-          "confidence": "3.83%"
+          "tag": "brass",
+          "confidence": "4.00%"
         },
         {
-          "tag": "triumphal arch",
-          "confidence": "2.03%"
+          "tag": "shield",
+          "confidence": "3.58%"
         },
         {
-          "tag": "ibex",
-          "confidence": "1.98%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image37",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "1024x933",
-      "last_analyzed": "2025-05-03T02:30:48.726684",
-      "file_size": 435522
-    },
-    "image38.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "lakeside",
-          "confidence": "12.88%"
-        },
-        {
-          "tag": "cliff",
-          "confidence": "5.73%"
-        },
-        {
-          "tag": "alp",
-          "confidence": "5.24%"
-        },
-        {
-          "tag": "volcano",
-          "confidence": "4.47%"
-        },
-        {
-          "tag": "valley",
-          "confidence": "3.88%"
-        },
-        {
-          "tag": "brown",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image38",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "brown",
-      "dimensions": "575x1024",
-      "last_analyzed": "2025-05-03T02:30:48.782127",
-      "file_size": 276921
-    },
-    "image39.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "bannister",
-          "confidence": "17.30%"
-        },
-        {
-          "tag": "tusker",
-          "confidence": "3.54%"
-        },
-        {
-          "tag": "African elephant",
-          "confidence": "3.09%"
-        },
-        {
-          "tag": "Indian elephant",
-          "confidence": "2.56%"
-        },
-        {
-          "tag": "viaduct",
-          "confidence": "2.38%"
+          "tag": "vault",
+          "confidence": "2.57%"
         },
         {
           "tag": "gray",
@@ -2479,14 +40,70 @@
           "confidence": "100.00%"
         },
         {
-          "tag": "image39",
+          "tag": "image6",
           "confidence": "100.00%"
         }
       ],
       "color": "gray",
-      "dimensions": "1024x653",
-      "last_analyzed": "2025-05-03T02:30:48.839529",
-      "file_size": 338526
+      "dimensions": "1024x474",
+      "last_analyzed": "2025-05-03T03:56:54.016773",
+      "file_size": 198944
+    },
+    "model_007_art/art_7.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "art7",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_007_art",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:54.017931",
+      "file_size": 8633836,
+      "thumbnail": "model_007_art/thumbnail.png"
+    },
+    "model_009_film/film_9.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "film9",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_009_film",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:54.018506",
+      "file_size": 6586672,
+      "thumbnail": "model_009_film/thumbnail.png"
     },
     "image4.jpg": {
       "type": "image",
@@ -2534,35 +151,31 @@
       ],
       "color": "gray",
       "dimensions": "741x1024",
-      "last_analyzed": "2025-05-03T02:30:48.897196",
+      "last_analyzed": "2025-05-03T03:56:54.124711",
       "file_size": 352970
     },
-    "image40.jpg": {
-      "type": "image",
+    "Ideal_Home_December_2015.txt": {
+      "type": "text",
       "tags": [
         {
-          "tag": "cliff",
-          "confidence": "6.52%"
+          "tag": "from",
+          "confidence": "0.88%"
         },
         {
-          "tag": "cliff dwelling",
-          "confidence": "6.35%"
+          "tag": "your",
+          "confidence": "0.81%"
         },
         {
-          "tag": "castle",
-          "confidence": "4.55%"
+          "tag": "you",
+          "confidence": "0.71%"
         },
         {
-          "tag": "airship",
-          "confidence": "2.63%"
+          "tag": "home",
+          "confidence": "0.57%"
         },
         {
-          "tag": "wreck",
-          "confidence": "2.29%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
+          "tag": "this",
+          "confidence": "0.52%"
         },
         {
           "tag": "2025",
@@ -2573,165 +186,16 @@
           "confidence": "100.00%"
         },
         {
-          "tag": "image",
+          "tag": "text",
           "confidence": "100.00%"
         },
         {
-          "tag": "image40",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "773x1024",
-      "last_analyzed": "2025-05-03T02:30:48.949056",
-      "file_size": 286306
-    },
-    "image41.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "maypole",
-          "confidence": "21.52%"
-        },
-        {
-          "tag": "triumphal arch",
-          "confidence": "5.14%"
-        },
-        {
-          "tag": "vestment",
-          "confidence": "2.16%"
-        },
-        {
-          "tag": "pole",
-          "confidence": "1.48%"
-        },
-        {
-          "tag": "library",
-          "confidence": "1.37%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image41",
+          "tag": "ideal_home_december_2015",
           "confidence": "100.00%"
         }
       ],
-      "color": "gray",
-      "dimensions": "1024x697",
-      "last_analyzed": "2025-05-03T02:30:49.007353",
-      "file_size": 343789
-    },
-    "image42.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "prison",
-          "confidence": "14.92%"
-        },
-        {
-          "tag": "monastery",
-          "confidence": "4.19%"
-        },
-        {
-          "tag": "vault",
-          "confidence": "3.94%"
-        },
-        {
-          "tag": "cliff dwelling",
-          "confidence": "2.49%"
-        },
-        {
-          "tag": "padlock",
-          "confidence": "2.15%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image42",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "647x1024",
-      "last_analyzed": "2025-05-03T02:30:49.068929",
-      "file_size": 321908
-    },
-    "image43.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "book jacket",
-          "confidence": "8.20%"
-        },
-        {
-          "tag": "wreck",
-          "confidence": "5.36%"
-        },
-        {
-          "tag": "ox",
-          "confidence": "4.59%"
-        },
-        {
-          "tag": "chain saw",
-          "confidence": "3.23%"
-        },
-        {
-          "tag": "lumbermill",
-          "confidence": "2.91%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image43",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "1024x581",
-      "last_analyzed": "2025-05-03T02:30:49.123195",
-      "file_size": 285414
+      "last_analyzed": "2025-05-03T03:56:54.182681",
+      "file_size": 336983
     },
     "image44.jpg": {
       "type": "image",
@@ -2779,253 +243,8 @@
       ],
       "color": "black",
       "dimensions": "872x1024",
-      "last_analyzed": "2025-05-03T02:30:49.178299",
+      "last_analyzed": "2025-05-03T03:56:54.277474",
       "file_size": 313239
-    },
-    "image45.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "ox",
-          "confidence": "29.78%"
-        },
-        {
-          "tag": "oxcart",
-          "confidence": "12.71%"
-        },
-        {
-          "tag": "barbershop",
-          "confidence": "1.68%"
-        },
-        {
-          "tag": "jigsaw puzzle",
-          "confidence": "0.87%"
-        },
-        {
-          "tag": "restaurant",
-          "confidence": "0.84%"
-        },
-        {
-          "tag": "black",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image45",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "black",
-      "dimensions": "1024x783",
-      "last_analyzed": "2025-05-03T02:30:49.234571",
-      "file_size": 412850
-    },
-    "image46.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "throne",
-          "confidence": "19.40%"
-        },
-        {
-          "tag": "restaurant",
-          "confidence": "4.60%"
-        },
-        {
-          "tag": "wardrobe",
-          "confidence": "4.34%"
-        },
-        {
-          "tag": "barber chair",
-          "confidence": "1.99%"
-        },
-        {
-          "tag": "grand piano",
-          "confidence": "1.90%"
-        },
-        {
-          "tag": "brown",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image46",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "brown",
-      "dimensions": "1024x698",
-      "last_analyzed": "2025-05-03T02:30:49.295739",
-      "file_size": 391481
-    },
-    "image47.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "barbershop",
-          "confidence": "14.04%"
-        },
-        {
-          "tag": "barber chair",
-          "confidence": "5.93%"
-        },
-        {
-          "tag": "restaurant",
-          "confidence": "5.71%"
-        },
-        {
-          "tag": "rocking chair",
-          "confidence": "1.30%"
-        },
-        {
-          "tag": "butcher shop",
-          "confidence": "1.00%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image47",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "1024x807",
-      "last_analyzed": "2025-05-03T02:30:49.353926",
-      "file_size": 414376
-    },
-    "image48.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "monastery",
-          "confidence": "35.05%"
-        },
-        {
-          "tag": "prison",
-          "confidence": "12.55%"
-        },
-        {
-          "tag": "castle",
-          "confidence": "5.12%"
-        },
-        {
-          "tag": "palace",
-          "confidence": "4.01%"
-        },
-        {
-          "tag": "cannon",
-          "confidence": "0.51%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image48",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "787x1024",
-      "last_analyzed": "2025-05-03T02:30:49.416469",
-      "file_size": 439499
-    },
-    "image49.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "water buffalo",
-          "confidence": "12.67%"
-        },
-        {
-          "tag": "book jacket",
-          "confidence": "6.35%"
-        },
-        {
-          "tag": "ox",
-          "confidence": "2.65%"
-        },
-        {
-          "tag": "comic book",
-          "confidence": "2.29%"
-        },
-        {
-          "tag": "oxcart",
-          "confidence": "1.92%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image49",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "1024x748",
-      "last_analyzed": "2025-05-03T02:30:49.474429",
-      "file_size": 325080
     },
     "image5.jpg": {
       "type": "image",
@@ -3073,178 +292,80 @@
       ],
       "color": "gray",
       "dimensions": "1024x692",
-      "last_analyzed": "2025-05-03T02:30:49.527778",
+      "last_analyzed": "2025-05-03T03:56:54.370322",
       "file_size": 325118
     },
-    "image50.jpg": {
+    "image45.jpg": {
       "type": "image",
       "tags": [
         {
-          "tag": "barrel",
-          "confidence": "4.09%"
+          "tag": "ox",
+          "confidence": "29.78%"
         },
         {
-          "tag": "book jacket",
-          "confidence": "3.32%"
+          "tag": "oxcart",
+          "confidence": "12.71%"
         },
         {
-          "tag": "chest",
-          "confidence": "3.19%"
+          "tag": "barbershop",
+          "confidence": "1.68%"
         },
         {
-          "tag": "table lamp",
-          "confidence": "2.50%"
-        },
-        {
-          "tag": "altar",
-          "confidence": "2.44%"
-        },
-        {
-          "tag": "brown",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image50",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "brown",
-      "dimensions": "1024x762",
-      "last_analyzed": "2025-05-03T02:30:49.582897",
-      "file_size": 287531
-    },
-    "image51.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "altar",
-          "confidence": "8.06%"
-        },
-        {
-          "tag": "vault",
-          "confidence": "5.39%"
-        },
-        {
-          "tag": "tobacco shop",
-          "confidence": "3.39%"
-        },
-        {
-          "tag": "potter's wheel",
-          "confidence": "3.20%"
-        },
-        {
-          "tag": "throne",
-          "confidence": "2.89%"
-        },
-        {
-          "tag": "brown",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image51",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "brown",
-      "dimensions": "827x1024",
-      "last_analyzed": "2025-05-03T02:30:49.647638",
-      "file_size": 347482
-    },
-    "image52.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "stove",
-          "confidence": "10.99%"
-        },
-        {
-          "tag": "potter's wheel",
-          "confidence": "8.76%"
-        },
-        {
-          "tag": "vault",
-          "confidence": "4.50%"
-        },
-        {
-          "tag": "scale",
-          "confidence": "2.53%"
-        },
-        {
-          "tag": "mortar",
-          "confidence": "2.03%"
-        },
-        {
-          "tag": "brown",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image52",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "brown",
-      "dimensions": "1024x764",
-      "last_analyzed": "2025-05-03T02:30:49.705729",
-      "file_size": 343159
-    },
-    "image53.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "throne",
-          "confidence": "23.72%"
+          "tag": "jigsaw puzzle",
+          "confidence": "0.87%"
         },
         {
           "tag": "restaurant",
-          "confidence": "9.87%"
+          "confidence": "0.84%"
         },
         {
-          "tag": "grand piano",
-          "confidence": "3.58%"
+          "tag": "black",
+          "confidence": "100.00%"
         },
         {
-          "tag": "four-poster",
-          "confidence": "2.95%"
+          "tag": "2025",
+          "confidence": "100.00%"
         },
         {
-          "tag": "barber chair",
-          "confidence": "1.86%"
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image45",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "black",
+      "dimensions": "1024x783",
+      "last_analyzed": "2025-05-03T03:56:54.470125",
+      "file_size": 412850
+    },
+    "image30.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "castle",
+          "confidence": "52.62%"
+        },
+        {
+          "tag": "monastery",
+          "confidence": "10.48%"
+        },
+        {
+          "tag": "church",
+          "confidence": "2.98%"
+        },
+        {
+          "tag": "palace",
+          "confidence": "1.52%"
+        },
+        {
+          "tag": "cliff dwelling",
+          "confidence": "0.50%"
         },
         {
           "tag": "brown",
@@ -3263,14 +384,134 @@
           "confidence": "100.00%"
         },
         {
-          "tag": "image53",
+          "tag": "image30",
           "confidence": "100.00%"
         }
       ],
       "color": "brown",
-      "dimensions": "840x1024",
-      "last_analyzed": "2025-05-03T02:30:49.765480",
-      "file_size": 425685
+      "dimensions": "1024x742",
+      "last_analyzed": "2025-05-03T03:56:54.570677",
+      "file_size": 340168
+    },
+    "Ideal_Home_March_2016_1.txt": {
+      "type": "text",
+      "tags": [
+        {
+          "tag": "from",
+          "confidence": "0.88%"
+        },
+        {
+          "tag": "your",
+          "confidence": "0.77%"
+        },
+        {
+          "tag": "you",
+          "confidence": "0.73%"
+        },
+        {
+          "tag": "home",
+          "confidence": "0.58%"
+        },
+        {
+          "tag": "march",
+          "confidence": "0.53%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "text",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "ideal_home_march_2016_1",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:54.624173",
+      "file_size": 312747
+    },
+    "model_001_home/home_1.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "home1",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_001_home",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:54.624688",
+      "file_size": 1988032,
+      "thumbnail": "model_001_home/thumbnail.png"
+    },
+    "image11.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "cliff dwelling",
+          "confidence": "3.59%"
+        },
+        {
+          "tag": "cliff",
+          "confidence": "2.58%"
+        },
+        {
+          "tag": "church",
+          "confidence": "1.83%"
+        },
+        {
+          "tag": "vault",
+          "confidence": "1.79%"
+        },
+        {
+          "tag": "monastery",
+          "confidence": "1.78%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image11",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "1024x762",
+      "last_analyzed": "2025-05-03T03:56:54.722162",
+      "file_size": 415047
     },
     "image54.jpg": {
       "type": "image",
@@ -3281,7 +522,7 @@
         },
         {
           "tag": "gown",
-          "confidence": "7.33%"
+          "confidence": "7.34%"
         },
         {
           "tag": "hoopskirt",
@@ -3318,31 +559,31 @@
       ],
       "color": "gray",
       "dimensions": "839x1024",
-      "last_analyzed": "2025-05-03T02:30:49.828327",
+      "last_analyzed": "2025-05-03T03:56:54.822462",
       "file_size": 286953
     },
-    "image55.jpg": {
+    "image3.jpg": {
       "type": "image",
       "tags": [
         {
-          "tag": "altar",
-          "confidence": "15.10%"
-        },
-        {
-          "tag": "vault",
-          "confidence": "4.36%"
-        },
-        {
-          "tag": "vestment",
-          "confidence": "3.77%"
-        },
-        {
-          "tag": "grand piano",
-          "confidence": "3.09%"
-        },
-        {
           "tag": "throne",
-          "confidence": "2.08%"
+          "confidence": "15.67%"
+        },
+        {
+          "tag": "rocking chair",
+          "confidence": "2.27%"
+        },
+        {
+          "tag": "studio couch",
+          "confidence": "2.20%"
+        },
+        {
+          "tag": "cock",
+          "confidence": "1.97%"
+        },
+        {
+          "tag": "wig",
+          "confidence": "1.93%"
         },
         {
           "tag": "brown",
@@ -3361,41 +602,37 @@
           "confidence": "100.00%"
         },
         {
-          "tag": "image55",
+          "tag": "image3",
           "confidence": "100.00%"
         }
       ],
       "color": "brown",
-      "dimensions": "1024x790",
-      "last_analyzed": "2025-05-03T02:30:49.884187",
-      "file_size": 333527
+      "dimensions": "1024x774",
+      "last_analyzed": "2025-05-03T03:56:54.921510",
+      "file_size": 300179
     },
-    "image56.jpg": {
-      "type": "image",
+    "Ideal_Home_December_2015_UK.txt": {
+      "type": "text",
       "tags": [
         {
-          "tag": "throne",
-          "confidence": "50.98%"
+          "tag": "from",
+          "confidence": "0.88%"
         },
         {
-          "tag": "rocking chair",
-          "confidence": "4.41%"
+          "tag": "your",
+          "confidence": "0.81%"
         },
         {
-          "tag": "dining table",
-          "confidence": "2.87%"
+          "tag": "you",
+          "confidence": "0.71%"
         },
         {
-          "tag": "cradle",
-          "confidence": "1.24%"
+          "tag": "home",
+          "confidence": "0.57%"
         },
         {
-          "tag": "guillotine",
-          "confidence": "0.68%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
+          "tag": "this",
+          "confidence": "0.52%"
         },
         {
           "tag": "2025",
@@ -3406,190 +643,41 @@
           "confidence": "100.00%"
         },
         {
-          "tag": "image",
+          "tag": "text",
           "confidence": "100.00%"
         },
         {
-          "tag": "image56",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "1024x699",
-      "last_analyzed": "2025-05-03T02:30:49.941485",
-      "file_size": 293547
-    },
-    "image57.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "vault",
-          "confidence": "39.40%"
-        },
-        {
-          "tag": "altar",
-          "confidence": "5.85%"
-        },
-        {
-          "tag": "monastery",
-          "confidence": "5.15%"
-        },
-        {
-          "tag": "caldron",
-          "confidence": "1.90%"
-        },
-        {
-          "tag": "restaurant",
-          "confidence": "1.14%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image57",
+          "tag": "ideal_home_december_2015_uk",
           "confidence": "100.00%"
         }
       ],
-      "color": "gray",
-      "dimensions": "1024x737",
-      "last_analyzed": "2025-05-03T02:30:50.006498",
-      "file_size": 354567
+      "last_analyzed": "2025-05-03T03:56:54.979525",
+      "file_size": 336983
     },
-    "image58.jpg": {
+    "image25.jpg": {
       "type": "image",
       "tags": [
         {
-          "tag": "stupa",
-          "confidence": "7.54%"
+          "tag": "jigsaw puzzle",
+          "confidence": "13.57%"
         },
         {
-          "tag": "macaque",
-          "confidence": "5.44%"
-        },
-        {
-          "tag": "baboon",
-          "confidence": "4.79%"
-        },
-        {
-          "tag": "cliff dwelling",
-          "confidence": "4.71%"
-        },
-        {
-          "tag": "bannister",
-          "confidence": "3.93%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image58",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "686x1024",
-      "last_analyzed": "2025-05-03T02:30:50.065700",
-      "file_size": 298503
-    },
-    "image59.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "stretcher",
-          "confidence": "3.35%"
+          "tag": "palace",
+          "confidence": "13.13%"
         },
         {
           "tag": "horse cart",
-          "confidence": "2.25%"
+          "confidence": "5.61%"
         },
         {
-          "tag": "African hunting dog",
-          "confidence": "2.14%"
+          "tag": "castle",
+          "confidence": "4.67%"
         },
         {
-          "tag": "assault rifle",
-          "confidence": "2.03%"
-        },
-        {
-          "tag": "cock",
-          "confidence": "1.95%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image59",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "1024x768",
-      "last_analyzed": "2025-05-03T02:30:50.126215",
-      "file_size": 326987
-    },
-    "image6.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "pedestal",
-          "confidence": "15.04%"
-        },
-        {
-          "tag": "fountain",
+          "tag": "streetcar",
           "confidence": "4.07%"
         },
         {
-          "tag": "brass",
-          "confidence": "4.00%"
-        },
-        {
-          "tag": "shield",
-          "confidence": "3.58%"
-        },
-        {
-          "tag": "vault",
-          "confidence": "2.57%"
-        },
-        {
           "tag": "gray",
           "confidence": "100.00%"
         },
@@ -3606,86 +694,37 @@
           "confidence": "100.00%"
         },
         {
-          "tag": "image6",
+          "tag": "image25",
           "confidence": "100.00%"
         }
       ],
       "color": "gray",
-      "dimensions": "1024x474",
-      "last_analyzed": "2025-05-03T02:30:50.182969",
-      "file_size": 198944
+      "dimensions": "1024x797",
+      "last_analyzed": "2025-05-03T03:56:55.082958",
+      "file_size": 330472
     },
-    "image60.jpg": {
+    "image19.jpg": {
       "type": "image",
       "tags": [
         {
-          "tag": "throne",
-          "confidence": "14.93%"
+          "tag": "book jacket",
+          "confidence": "4.09%"
         },
         {
-          "tag": "barber chair",
-          "confidence": "7.57%"
+          "tag": "jigsaw puzzle",
+          "confidence": "3.63%"
         },
         {
           "tag": "restaurant",
-          "confidence": "4.43%"
+          "confidence": "2.12%"
         },
         {
-          "tag": "guillotine",
-          "confidence": "3.31%"
+          "tag": "carton",
+          "confidence": "1.63%"
         },
         {
-          "tag": "barbershop",
-          "confidence": "2.52%"
-        },
-        {
-          "tag": "gray",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "image60",
-          "confidence": "100.00%"
-        }
-      ],
-      "color": "gray",
-      "dimensions": "911x1024",
-      "last_analyzed": "2025-05-03T02:30:50.244633",
-      "file_size": 481733
-    },
-    "image7.jpg": {
-      "type": "image",
-      "tags": [
-        {
-          "tag": "Dungeness crab",
-          "confidence": "9.50%"
-        },
-        {
-          "tag": "rock crab",
-          "confidence": "7.43%"
-        },
-        {
-          "tag": "crayfish",
-          "confidence": "4.74%"
-        },
-        {
-          "tag": "king crab",
-          "confidence": "2.83%"
-        },
-        {
-          "tag": "fiddler crab",
-          "confidence": "2.78%"
+          "tag": "airship",
+          "confidence": "1.53%"
         },
         {
           "tag": "gray",
@@ -3704,37 +743,65 @@
           "confidence": "100.00%"
         },
         {
-          "tag": "image7",
+          "tag": "image19",
           "confidence": "100.00%"
         }
       ],
       "color": "gray",
-      "dimensions": "1024x919",
-      "last_analyzed": "2025-05-03T02:30:50.307945",
-      "file_size": 403985
+      "dimensions": "655x1024",
+      "last_analyzed": "2025-05-03T03:56:55.181063",
+      "file_size": 320037
     },
-    "image8.jpg": {
+    "model_006_art/art_6.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "film6",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_006_art",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:55.181679",
+      "file_size": 9037200,
+      "thumbnail": "model_006_art/thumbnail.png"
+    },
+    "image35.jpg": {
       "type": "image",
       "tags": [
         {
-          "tag": "lumbermill",
-          "confidence": "7.33%"
+          "tag": "valley",
+          "confidence": "22.67%"
         },
         {
-          "tag": "barrow",
-          "confidence": "4.03%"
+          "tag": "alp",
+          "confidence": "15.85%"
         },
         {
           "tag": "barn",
-          "confidence": "3.59%"
+          "confidence": "2.17%"
         },
         {
-          "tag": "bucket",
-          "confidence": "2.77%"
+          "tag": "lakeside",
+          "confidence": "2.04%"
         },
         {
-          "tag": "shovel",
-          "confidence": "1.75%"
+          "tag": "water buffalo",
+          "confidence": "1.98%"
         },
         {
           "tag": "gray",
@@ -3753,14 +820,14 @@
           "confidence": "100.00%"
         },
         {
-          "tag": "image8",
+          "tag": "image35",
           "confidence": "100.00%"
         }
       ],
       "color": "gray",
-      "dimensions": "740x1024",
-      "last_analyzed": "2025-05-03T02:30:50.362616",
-      "file_size": 335038
+      "dimensions": "1024x733",
+      "last_analyzed": "2025-05-03T03:56:55.281311",
+      "file_size": 277163
     },
     "image9.jpg": {
       "type": "image",
@@ -3808,45 +875,34 @@
       ],
       "color": "gray",
       "dimensions": "1024x750",
-      "last_analyzed": "2025-05-03T02:30:50.416788",
+      "last_analyzed": "2025-05-03T03:56:55.377634",
       "file_size": 348895
     },
-    "model_001_art\\art_1.glb": {
-      "type": "3d",
+    "image15.jpg": {
+      "type": "image",
       "tags": [
         {
-          "tag": "art1",
-          "confidence": "100.00%"
+          "tag": "bannister",
+          "confidence": "39.97%"
         },
         {
-          "tag": "2025",
-          "confidence": "100.00%"
+          "tag": "coil",
+          "confidence": "0.55%"
         },
         {
-          "tag": "may",
-=======
->>>>>>> 8007c48915da0fc69587da4d8025a0e6e24dfcae
-          "confidence": "100.00%"
+          "tag": "barn",
+          "confidence": "0.48%"
         },
         {
-          "tag": "3d",
-          "confidence": "100.00%"
+          "tag": "vault",
+          "confidence": "0.43%"
         },
         {
-<<<<<<< HEAD
-          "tag": "model_001_art",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:50.416788",
-      "file_size": 9516384,
-      "thumbnail": "model_001_art\\thumbnail.png"
-    },
-    "model_001_film\\film_1.glb": {
-      "type": "3d",
-      "tags": [
+          "tag": "studio couch",
+          "confidence": "0.42%"
+        },
         {
-          "tag": "film1",
+          "tag": "brown",
           "confidence": "100.00%"
         },
         {
@@ -3858,23 +914,44 @@
           "confidence": "100.00%"
         },
         {
-          "tag": "3d",
+          "tag": "image",
           "confidence": "100.00%"
         },
         {
-          "tag": "model_001_film",
+          "tag": "image15",
           "confidence": "100.00%"
         }
       ],
-      "last_analyzed": "2025-05-03T02:30:50.417788",
-      "file_size": 6586696,
-      "thumbnail": "model_001_film\\thumbnail.png"
+      "color": "brown",
+      "dimensions": "836x1024",
+      "last_analyzed": "2025-05-03T03:56:55.483957",
+      "file_size": 462802
     },
-    "model_001_home\\home_1.glb": {
-      "type": "3d",
+    "image24.jpg": {
+      "type": "image",
       "tags": [
         {
-          "tag": "home1",
+          "tag": "horse cart",
+          "confidence": "31.50%"
+        },
+        {
+          "tag": "plow",
+          "confidence": "5.28%"
+        },
+        {
+          "tag": "American lobster",
+          "confidence": "1.04%"
+        },
+        {
+          "tag": "crayfish",
+          "confidence": "0.88%"
+        },
+        {
+          "tag": "book jacket",
+          "confidence": "0.66%"
+        },
+        {
+          "tag": "gray",
           "confidence": "100.00%"
         },
         {
@@ -3886,607 +963,20 @@
           "confidence": "100.00%"
         },
         {
-          "tag": "3d",
+          "tag": "image",
           "confidence": "100.00%"
         },
         {
-          "tag": "model_001_home",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:50.418307",
-      "file_size": 1988032,
-      "thumbnail": "model_001_home\\thumbnail.png"
-    },
-    "model_002_art\\art_2.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "art2",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "model_002_art",
+          "tag": "image24",
           "confidence": "100.00%"
         }
       ],
-      "last_analyzed": "2025-05-03T02:30:50.418307",
-      "file_size": 10111788,
-      "thumbnail": "model_002_art\\thumbnail.png"
+      "color": "gray",
+      "dimensions": "1024x756",
+      "last_analyzed": "2025-05-03T03:56:55.583315",
+      "file_size": 339865
     },
-    "model_002_film\\film_2.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "film2",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "model_002_film",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:50.418307",
-      "file_size": 6587636,
-      "thumbnail": "model_002_film\\thumbnail.png"
-    },
-    "model_002_home\\home_2.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "home2",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "model_002_home",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:50.418307",
-      "file_size": 1985772,
-      "thumbnail": "model_002_home\\thumbnail.png"
-    },
-    "model_003_art\\art_3.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "art3",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "model_003_art",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:50.419325",
-      "file_size": 10497904,
-      "thumbnail": "model_003_art\\thumbnail.png"
-    },
-    "model_003_film\\film_3.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "film3",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "model_003_film",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:50.419325",
-      "file_size": 6586680,
-      "thumbnail": "model_003_film\\thumbnail.png"
-    },
-    "model_003_home\\home_3.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "home3",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "model_003_home",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:50.419325",
-      "file_size": 1982168,
-      "thumbnail": "model_003_home\\thumbnail.png"
-    },
-    "model_004_art\\art_4.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "art4",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "model_004_art",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:50.419325",
-      "file_size": 10083512,
-      "thumbnail": "model_004_art\\thumbnail.png"
-    },
-    "model_004_film\\film_4.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "film4",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "model_004_film",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:50.420390",
-      "file_size": 6585720,
-      "thumbnail": "model_004_film\\thumbnail.png"
-    },
-    "model_004_home\\home_4.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "home4",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "model_004_home",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:50.420390",
-      "file_size": 1988620,
-      "thumbnail": "model_004_home\\thumbnail.png"
-    },
-    "model_005_art\\art_5.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "art5",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "model_005_art",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:50.420390",
-      "file_size": 9967688,
-      "thumbnail": "model_005_art\\thumbnail.png"
-    },
-    "model_005_film\\film_5.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "film5",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "model_005_film",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:50.421412",
-      "file_size": 6585740,
-      "thumbnail": "model_005_film\\thumbnail.png"
-    },
-    "model_005_home\\home_5.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "home5",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "model_005_home",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:50.421412",
-      "file_size": 1988248,
-      "thumbnail": "model_005_home\\thumbnail.png"
-    },
-    "model_006_art\\art_6.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "film6",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "model_006_art",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:50.421412",
-      "file_size": 9037200,
-      "thumbnail": "model_006_art\\thumbnail.png"
-    },
-    "model_006_film\\film_6.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "film6",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "model_006_film",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:50.421412",
-      "file_size": 6586672,
-      "thumbnail": "model_006_film\\thumbnail.png"
-    },
-    "model_006_home\\home_6.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "home6",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "model_006_home",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:50.422428",
-      "file_size": 1986424,
-      "thumbnail": "model_006_home\\thumbnail.png"
-    },
-    "model_007_art\\art_7.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "art7",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "model_007_art",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:50.422428",
-      "file_size": 8633836,
-      "thumbnail": "model_007_art\\thumbnail.png"
-    },
-    "model_007_film\\film_7.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "film7",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "model_007_film",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:50.422428",
-      "file_size": 6586676,
-      "thumbnail": "model_007_film\\thumbnail.png"
-    },
-    "model_007_home\\home_7.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "home7",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "model_007_home",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:50.422428",
-      "file_size": 1992488,
-      "thumbnail": "model_007_home\\thumbnail.png"
-    },
-    "model_008_art\\art_8.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "art8",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "model_008_art",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:50.422428",
-      "file_size": 10438628,
-      "thumbnail": "model_008_art\\thumbnail.png"
-    },
-    "model_008_film\\film_8.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "film8",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "model_008_film",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:50.423440",
-      "file_size": 6583004,
-      "thumbnail": "model_008_film\\thumbnail.png"
-    },
-    "model_008_home\\home_8.glb": {
-      "type": "3d",
-      "tags": [
-        {
-          "tag": "home8",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "2025",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "may",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "3d",
-          "confidence": "100.00%"
-        },
-        {
-          "tag": "model_008_home",
-          "confidence": "100.00%"
-        }
-      ],
-      "last_analyzed": "2025-05-03T02:30:50.423440",
-      "file_size": 1986828,
-      "thumbnail": "model_008_home\\thumbnail.png"
-    },
-    "model_009_art\\art_9.glb": {
+    "model_009_art/art_9.glb": {
       "type": "3d",
       "tags": [
         {
@@ -4510,15 +1000,15 @@
           "confidence": "100.00%"
         }
       ],
-      "last_analyzed": "2025-05-03T02:30:50.423440",
+      "last_analyzed": "2025-05-03T03:56:55.583916",
       "file_size": 9595172,
-      "thumbnail": "model_009_art\\thumbnail.png"
+      "thumbnail": "model_009_art/thumbnail.png"
     },
-    "model_009_film\\film_9.glb": {
+    "model_007_film/film_7.glb": {
       "type": "3d",
       "tags": [
         {
-          "tag": "film9",
+          "tag": "film7",
           "confidence": "100.00%"
         },
         {
@@ -4534,19 +1024,39 @@
           "confidence": "100.00%"
         },
         {
-          "tag": "model_009_film",
+          "tag": "model_007_film",
           "confidence": "100.00%"
         }
       ],
-      "last_analyzed": "2025-05-03T02:30:50.423440",
-      "file_size": 6586672,
-      "thumbnail": "model_009_film\\thumbnail.png"
+      "last_analyzed": "2025-05-03T03:56:55.584422",
+      "file_size": 6586676,
+      "thumbnail": "model_007_film/thumbnail.png"
     },
-    "model_009_home\\home_9.glb": {
-      "type": "3d",
+    "image50.jpg": {
+      "type": "image",
       "tags": [
         {
-          "tag": "home9",
+          "tag": "barrel",
+          "confidence": "4.09%"
+        },
+        {
+          "tag": "book jacket",
+          "confidence": "3.32%"
+        },
+        {
+          "tag": "chest",
+          "confidence": "3.19%"
+        },
+        {
+          "tag": "table lamp",
+          "confidence": "2.50%"
+        },
+        {
+          "tag": "altar",
+          "confidence": "2.44%"
+        },
+        {
+          "tag": "brown",
           "confidence": "100.00%"
         },
         {
@@ -4558,23 +1068,44 @@
           "confidence": "100.00%"
         },
         {
-          "tag": "3d",
+          "tag": "image",
           "confidence": "100.00%"
         },
         {
-          "tag": "model_009_home",
+          "tag": "image50",
           "confidence": "100.00%"
         }
       ],
-      "last_analyzed": "2025-05-03T02:30:50.423440",
-      "file_size": 1989140,
-      "thumbnail": "model_009_home\\thumbnail.png"
+      "color": "brown",
+      "dimensions": "1024x762",
+      "last_analyzed": "2025-05-03T03:56:55.681675",
+      "file_size": 287531
     },
-    "model_010_art\\art_10.glb": {
-      "type": "3d",
+    "image43.jpg": {
+      "type": "image",
       "tags": [
         {
-          "tag": "art10",
+          "tag": "book jacket",
+          "confidence": "8.20%"
+        },
+        {
+          "tag": "wreck",
+          "confidence": "5.36%"
+        },
+        {
+          "tag": "ox",
+          "confidence": "4.59%"
+        },
+        {
+          "tag": "chain saw",
+          "confidence": "3.23%"
+        },
+        {
+          "tag": "lumbermill",
+          "confidence": "2.91%"
+        },
+        {
+          "tag": "gray",
           "confidence": "100.00%"
         },
         {
@@ -4586,23 +1117,44 @@
           "confidence": "100.00%"
         },
         {
-          "tag": "3d",
+          "tag": "image",
           "confidence": "100.00%"
         },
         {
-          "tag": "model_010_art",
+          "tag": "image43",
           "confidence": "100.00%"
         }
       ],
-      "last_analyzed": "2025-05-03T02:30:50.424451",
-      "file_size": 10206820,
-      "thumbnail": "model_010_art\\thumbnail.png"
+      "color": "gray",
+      "dimensions": "1024x581",
+      "last_analyzed": "2025-05-03T03:56:55.778892",
+      "file_size": 285414
     },
-    "model_010_film\\film_10.glb": {
-      "type": "3d",
+    "image36.jpg": {
+      "type": "image",
       "tags": [
         {
-          "tag": "film10",
+          "tag": "castle",
+          "confidence": "32.79%"
+        },
+        {
+          "tag": "monastery",
+          "confidence": "4.43%"
+        },
+        {
+          "tag": "palace",
+          "confidence": "0.59%"
+        },
+        {
+          "tag": "church",
+          "confidence": "0.57%"
+        },
+        {
+          "tag": "cliff dwelling",
+          "confidence": "0.35%"
+        },
+        {
+          "tag": "gray",
           "confidence": "100.00%"
         },
         {
@@ -4614,23 +1166,44 @@
           "confidence": "100.00%"
         },
         {
-          "tag": "3d",
+          "tag": "image",
           "confidence": "100.00%"
         },
         {
-          "tag": "model_010_film",
+          "tag": "image36",
           "confidence": "100.00%"
         }
       ],
-      "last_analyzed": "2025-05-03T02:30:50.424451",
-      "file_size": 6587640,
-      "thumbnail": "model_010_film\\thumbnail.png"
+      "color": "gray",
+      "dimensions": "1024x893",
+      "last_analyzed": "2025-05-03T03:56:55.879746",
+      "file_size": 413478
     },
-    "model_010_home\\home_10.glb": {
-      "type": "3d",
+    "image32.jpg": {
+      "type": "image",
       "tags": [
         {
-          "tag": "home10",
+          "tag": "castle",
+          "confidence": "17.97%"
+        },
+        {
+          "tag": "groom",
+          "confidence": "6.86%"
+        },
+        {
+          "tag": "fountain",
+          "confidence": "4.27%"
+        },
+        {
+          "tag": "boathouse",
+          "confidence": "4.18%"
+        },
+        {
+          "tag": "church",
+          "confidence": "1.67%"
+        },
+        {
+          "tag": "gray",
           "confidence": "100.00%"
         },
         {
@@ -4642,40 +1215,45 @@
           "confidence": "100.00%"
         },
         {
-          "tag": "3d",
+          "tag": "image",
           "confidence": "100.00%"
         },
         {
-          "tag": "model_010_home",
+          "tag": "image32",
           "confidence": "100.00%"
         }
       ],
-      "last_analyzed": "2025-05-03T02:30:50.424451",
-      "file_size": 1986352,
-      "thumbnail": "model_010_home\\thumbnail.png"
+      "color": "gray",
+      "dimensions": "1024x867",
+      "last_analyzed": "2025-05-03T03:56:55.980699",
+      "file_size": 374296
     },
-    "The_Ideal_Home_and_Garden_August_2015_IN.txt": {
-      "type": "text",
+    "image23.jpg": {
+      "type": "image",
       "tags": [
         {
-          "tag": "home",
-          "confidence": "1.52%"
+          "tag": "hyena",
+          "confidence": "10.44%"
         },
         {
-          "tag": "kitchen",
-          "confidence": "1.12%"
+          "tag": "coyote",
+          "confidence": "3.24%"
         },
         {
-          "tag": "ideal",
-          "confidence": "1.07%"
+          "tag": "cliff",
+          "confidence": "2.59%"
         },
         {
-          "tag": "2015",
-          "confidence": "0.95%"
+          "tag": "African hunting dog",
+          "confidence": "1.76%"
         },
         {
-          "tag": "august",
-          "confidence": "0.93%"
+          "tag": "English setter",
+          "confidence": "1.67%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
         },
         {
           "tag": "2025",
@@ -4686,39 +1264,45 @@
           "confidence": "100.00%"
         },
         {
-          "tag": "text",
+          "tag": "image",
           "confidence": "100.00%"
         },
         {
-          "tag": "the_ideal_home_and_garden_august_2015_in",
+          "tag": "image23",
           "confidence": "100.00%"
         }
       ],
-      "last_analyzed": "2025-05-03T02:30:50.433415",
-      "file_size": 111240
+      "color": "gray",
+      "dimensions": "820x1024",
+      "last_analyzed": "2025-05-03T03:56:56.088565",
+      "file_size": 480396
     },
-    "The_Ideal_Home_and_Garden_December_2014.txt": {
-      "type": "text",
+    "image53.jpg": {
+      "type": "image",
       "tags": [
         {
-          "tag": "home",
-          "confidence": "2.04%"
+          "tag": "throne",
+          "confidence": "23.72%"
         },
         {
-          "tag": "ideal",
-          "confidence": "1.40%"
+          "tag": "restaurant",
+          "confidence": "9.87%"
         },
         {
-          "tag": "december",
-          "confidence": "1.14%"
+          "tag": "grand piano",
+          "confidence": "3.58%"
         },
         {
-          "tag": "2014",
-          "confidence": "1.12%"
+          "tag": "four-poster",
+          "confidence": "2.95%"
         },
         {
-          "tag": "garden",
-          "confidence": "0.96%"
+          "tag": "barber chair",
+          "confidence": "1.86%"
+        },
+        {
+          "tag": "brown",
+          "confidence": "100.00%"
         },
         {
           "tag": "2025",
@@ -4729,16 +1313,18 @@
           "confidence": "100.00%"
         },
         {
-          "tag": "text",
+          "tag": "image",
           "confidence": "100.00%"
         },
         {
-          "tag": "the_ideal_home_and_garden_december_2014",
+          "tag": "image53",
           "confidence": "100.00%"
         }
       ],
-      "last_analyzed": "2025-05-03T02:30:50.440471",
-      "file_size": 96942
+      "color": "brown",
+      "dimensions": "840x1024",
+      "last_analyzed": "2025-05-03T03:56:56.194586",
+      "file_size": 425685
     },
     "The_Ideal_Home_and_Garden_July_2015.txt": {
       "type": "text",
@@ -4780,17 +1366,2849 @@
           "confidence": "100.00%"
         }
       ],
-      "last_analyzed": "2025-05-03T02:30:50.447179",
+      "last_analyzed": "2025-05-03T03:56:56.209651",
       "file_size": 85964
-=======
-          "tag": "piramid",
+    },
+    "model_001_film/film_1.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "film1",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_001_film",
           "confidence": "100.00%"
         }
       ],
-      "last_analyzed": "2025-05-03T02:38:31.785524",
-      "file_size": 161772,
-      "thumbnail": "piramid/thumbnail.png"
->>>>>>> 8007c48915da0fc69587da4d8025a0e6e24dfcae
+      "last_analyzed": "2025-05-03T03:56:56.210184",
+      "file_size": 6586696,
+      "thumbnail": "model_001_film/thumbnail.png"
+    },
+    "model_008_film/film_8.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "film8",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_008_film",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:56.217178",
+      "file_size": 6583004,
+      "thumbnail": "model_008_film/thumbnail.png"
+    },
+    "image58.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "stupa",
+          "confidence": "7.54%"
+        },
+        {
+          "tag": "macaque",
+          "confidence": "5.44%"
+        },
+        {
+          "tag": "baboon",
+          "confidence": "4.79%"
+        },
+        {
+          "tag": "cliff dwelling",
+          "confidence": "4.71%"
+        },
+        {
+          "tag": "bannister",
+          "confidence": "3.93%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image58",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "686x1024",
+      "last_analyzed": "2025-05-03T03:56:56.318272",
+      "file_size": 298503
+    },
+    "image8.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "lumbermill",
+          "confidence": "7.33%"
+        },
+        {
+          "tag": "barrow",
+          "confidence": "4.03%"
+        },
+        {
+          "tag": "barn",
+          "confidence": "3.59%"
+        },
+        {
+          "tag": "bucket",
+          "confidence": "2.77%"
+        },
+        {
+          "tag": "shovel",
+          "confidence": "1.75%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image8",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "740x1024",
+      "last_analyzed": "2025-05-03T03:56:56.408902",
+      "file_size": 335038
+    },
+    "model_002_art/art_2.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "art2",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_002_art",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:56.409590",
+      "file_size": 10111788,
+      "thumbnail": "model_002_art/thumbnail.png"
+    },
+    "image16.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "monastery",
+          "confidence": "22.82%"
+        },
+        {
+          "tag": "palace",
+          "confidence": "5.12%"
+        },
+        {
+          "tag": "triumphal arch",
+          "confidence": "2.59%"
+        },
+        {
+          "tag": "castle",
+          "confidence": "1.81%"
+        },
+        {
+          "tag": "horse cart",
+          "confidence": "1.55%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image16",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "1024x840",
+      "last_analyzed": "2025-05-03T03:56:56.511965",
+      "file_size": 398248
+    },
+    "model_004_art/art_4.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "art4",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_004_art",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:56.512581",
+      "file_size": 10083512,
+      "thumbnail": "model_004_art/thumbnail.png"
+    },
+    "image29.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "abaya",
+          "confidence": "11.69%"
+        },
+        {
+          "tag": "cloak",
+          "confidence": "10.01%"
+        },
+        {
+          "tag": "castle",
+          "confidence": "3.48%"
+        },
+        {
+          "tag": "groom",
+          "confidence": "2.79%"
+        },
+        {
+          "tag": "monastery",
+          "confidence": "1.89%"
+        },
+        {
+          "tag": "brown",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image29",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "brown",
+      "dimensions": "1024x815",
+      "last_analyzed": "2025-05-03T03:56:56.613521",
+      "file_size": 362837
+    },
+    "image12.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "submarine",
+          "confidence": "6.48%"
+        },
+        {
+          "tag": "breakwater",
+          "confidence": "5.41%"
+        },
+        {
+          "tag": "pier",
+          "confidence": "4.33%"
+        },
+        {
+          "tag": "wreck",
+          "confidence": "3.56%"
+        },
+        {
+          "tag": "liner",
+          "confidence": "2.10%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image12",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "1024x664",
+      "last_analyzed": "2025-05-03T03:56:56.712155",
+      "file_size": 397468
+    },
+    "image57.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "vault",
+          "confidence": "39.40%"
+        },
+        {
+          "tag": "altar",
+          "confidence": "5.85%"
+        },
+        {
+          "tag": "monastery",
+          "confidence": "5.15%"
+        },
+        {
+          "tag": "caldron",
+          "confidence": "1.90%"
+        },
+        {
+          "tag": "restaurant",
+          "confidence": "1.14%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image57",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "1024x737",
+      "last_analyzed": "2025-05-03T03:56:56.815605",
+      "file_size": 354567
+    },
+    "image31.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "castle",
+          "confidence": "45.72%"
+        },
+        {
+          "tag": "church",
+          "confidence": "2.54%"
+        },
+        {
+          "tag": "monastery",
+          "confidence": "1.80%"
+        },
+        {
+          "tag": "groom",
+          "confidence": "1.61%"
+        },
+        {
+          "tag": "palace",
+          "confidence": "1.16%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image31",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "1024x849",
+      "last_analyzed": "2025-05-03T03:56:56.916991",
+      "file_size": 340739
+    },
+    "model_001_art/art_1.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "art1",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_001_art",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:56.917687",
+      "file_size": 9516384,
+      "thumbnail": "model_001_art/thumbnail.png"
+    },
+    "model_002_home/home_2.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "home2",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_002_home",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:56.918355",
+      "file_size": 1985772,
+      "thumbnail": "model_002_home/thumbnail.png"
+    },
+    "model_009_home/home_9.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "home9",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_009_home",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:56.918788",
+      "file_size": 1989140,
+      "thumbnail": "model_009_home/thumbnail.png"
+    },
+    "model_004_film/film_4.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "film4",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_004_film",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:56.919279",
+      "file_size": 6585720,
+      "thumbnail": "model_004_film/thumbnail.png"
+    },
+    "image46.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "throne",
+          "confidence": "19.40%"
+        },
+        {
+          "tag": "restaurant",
+          "confidence": "4.60%"
+        },
+        {
+          "tag": "wardrobe",
+          "confidence": "4.34%"
+        },
+        {
+          "tag": "barber chair",
+          "confidence": "1.99%"
+        },
+        {
+          "tag": "grand piano",
+          "confidence": "1.90%"
+        },
+        {
+          "tag": "brown",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image46",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "brown",
+      "dimensions": "1024x698",
+      "last_analyzed": "2025-05-03T03:56:57.023168",
+      "file_size": 391481
+    },
+    "image52.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "stove",
+          "confidence": "10.99%"
+        },
+        {
+          "tag": "potter's wheel",
+          "confidence": "8.76%"
+        },
+        {
+          "tag": "vault",
+          "confidence": "4.50%"
+        },
+        {
+          "tag": "scale",
+          "confidence": "2.53%"
+        },
+        {
+          "tag": "mortar",
+          "confidence": "2.03%"
+        },
+        {
+          "tag": "brown",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image52",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "brown",
+      "dimensions": "1024x764",
+      "last_analyzed": "2025-05-03T03:56:57.125180",
+      "file_size": 343159
+    },
+    "model_010_home/home_10.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "home10",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_010_home",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:57.125988",
+      "file_size": 1986352,
+      "thumbnail": "model_010_home/thumbnail.png"
+    },
+    "The_Ideal_Home_and_Garden_August_2015_IN.txt": {
+      "type": "text",
+      "tags": [
+        {
+          "tag": "home",
+          "confidence": "1.52%"
+        },
+        {
+          "tag": "kitchen",
+          "confidence": "1.12%"
+        },
+        {
+          "tag": "ideal",
+          "confidence": "1.07%"
+        },
+        {
+          "tag": "2015",
+          "confidence": "0.95%"
+        },
+        {
+          "tag": "august",
+          "confidence": "0.93%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "text",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "the_ideal_home_and_garden_august_2015_in",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:57.145506",
+      "file_size": 111240
+    },
+    "model_006_home/home_6.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "home6",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_006_home",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:57.145982",
+      "file_size": 1986424,
+      "thumbnail": "model_006_home/thumbnail.png"
+    },
+    "image18.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "monastery",
+          "confidence": "3.08%"
+        },
+        {
+          "tag": "cannon",
+          "confidence": "2.62%"
+        },
+        {
+          "tag": "book jacket",
+          "confidence": "2.03%"
+        },
+        {
+          "tag": "vault",
+          "confidence": "2.00%"
+        },
+        {
+          "tag": "viaduct",
+          "confidence": "1.95%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image18",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "1024x768",
+      "last_analyzed": "2025-05-03T03:56:57.248397",
+      "file_size": 419207
+    },
+    "The_Ideal_Home_and_Garden_December_2014.txt": {
+      "type": "text",
+      "tags": [
+        {
+          "tag": "home",
+          "confidence": "2.04%"
+        },
+        {
+          "tag": "ideal",
+          "confidence": "1.40%"
+        },
+        {
+          "tag": "december",
+          "confidence": "1.14%"
+        },
+        {
+          "tag": "2014",
+          "confidence": "1.12%"
+        },
+        {
+          "tag": "garden",
+          "confidence": "0.96%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "text",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "the_ideal_home_and_garden_december_2014",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:57.265894",
+      "file_size": 96942
+    },
+    "image10.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "palace",
+          "confidence": "45.10%"
+        },
+        {
+          "tag": "monastery",
+          "confidence": "2.73%"
+        },
+        {
+          "tag": "mosque",
+          "confidence": "2.20%"
+        },
+        {
+          "tag": "castle",
+          "confidence": "1.49%"
+        },
+        {
+          "tag": "gondola",
+          "confidence": "0.71%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image10",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "1024x650",
+      "last_analyzed": "2025-05-03T03:56:57.353913",
+      "file_size": 221190
+    },
+    "model_004_home/home_4.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "home4",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_004_home",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:57.354521",
+      "file_size": 1988620,
+      "thumbnail": "model_004_home/thumbnail.png"
+    },
+    "model_005_home/home_5.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "home5",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_005_home",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:57.354996",
+      "file_size": 1988248,
+      "thumbnail": "model_005_home/thumbnail.png"
+    },
+    "image41.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "maypole",
+          "confidence": "21.52%"
+        },
+        {
+          "tag": "triumphal arch",
+          "confidence": "5.14%"
+        },
+        {
+          "tag": "vestment",
+          "confidence": "2.16%"
+        },
+        {
+          "tag": "pole",
+          "confidence": "1.48%"
+        },
+        {
+          "tag": "library",
+          "confidence": "1.37%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image41",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "1024x697",
+      "last_analyzed": "2025-05-03T03:56:57.457426",
+      "file_size": 343789
+    },
+    "Ideal_Home_October_2015_UK.txt": {
+      "type": "text",
+      "tags": [
+        {
+          "tag": "from",
+          "confidence": "0.75%"
+        },
+        {
+          "tag": "your",
+          "confidence": "0.69%"
+        },
+        {
+          "tag": "you",
+          "confidence": "0.49%"
+        },
+        {
+          "tag": "home",
+          "confidence": "0.49%"
+        },
+        {
+          "tag": "october",
+          "confidence": "0.44%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "text",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "ideal_home_october_2015_uk",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:57.511665",
+      "file_size": 308224
+    },
+    "image60.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "throne",
+          "confidence": "14.93%"
+        },
+        {
+          "tag": "barber chair",
+          "confidence": "7.57%"
+        },
+        {
+          "tag": "restaurant",
+          "confidence": "4.43%"
+        },
+        {
+          "tag": "guillotine",
+          "confidence": "3.31%"
+        },
+        {
+          "tag": "barbershop",
+          "confidence": "2.52%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image60",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "911x1024",
+      "last_analyzed": "2025-05-03T03:56:57.625449",
+      "file_size": 481733
+    },
+    "model_003_film/film_3.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "film3",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_003_film",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:57.626085",
+      "file_size": 6586680,
+      "thumbnail": "model_003_film/thumbnail.png"
+    },
+    "image47.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "barbershop",
+          "confidence": "14.04%"
+        },
+        {
+          "tag": "barber chair",
+          "confidence": "5.93%"
+        },
+        {
+          "tag": "restaurant",
+          "confidence": "5.71%"
+        },
+        {
+          "tag": "rocking chair",
+          "confidence": "1.30%"
+        },
+        {
+          "tag": "butcher shop",
+          "confidence": "1.00%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image47",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "1024x807",
+      "last_analyzed": "2025-05-03T03:56:57.731786",
+      "file_size": 414376
+    },
+    "model_002_film/film_2.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "film2",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_002_film",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:57.732448",
+      "file_size": 6587636,
+      "thumbnail": "model_002_film/thumbnail.png"
+    },
+    "image33.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "worm fence",
+          "confidence": "9.06%"
+        },
+        {
+          "tag": "cliff dwelling",
+          "confidence": "4.68%"
+        },
+        {
+          "tag": "barn",
+          "confidence": "3.03%"
+        },
+        {
+          "tag": "cliff",
+          "confidence": "2.67%"
+        },
+        {
+          "tag": "bell cote",
+          "confidence": "2.30%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image33",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "1024x725",
+      "last_analyzed": "2025-05-03T03:56:57.836315",
+      "file_size": 343682
+    },
+    "model_006_film/film_6.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "film6",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_006_film",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:57.836896",
+      "file_size": 6586672,
+      "thumbnail": "model_006_film/thumbnail.png"
+    },
+    "image20.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "book jacket",
+          "confidence": "72.76%"
+        },
+        {
+          "tag": "jigsaw puzzle",
+          "confidence": "1.53%"
+        },
+        {
+          "tag": "comic book",
+          "confidence": "0.74%"
+        },
+        {
+          "tag": "missile",
+          "confidence": "0.54%"
+        },
+        {
+          "tag": "guillotine",
+          "confidence": "0.41%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image20",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "668x1024",
+      "last_analyzed": "2025-05-03T03:56:57.937600",
+      "file_size": 336421
+    },
+    "model_007_home/home_7.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "home7",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_007_home",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:57.938188",
+      "file_size": 1992488,
+      "thumbnail": "model_007_home/thumbnail.png"
+    },
+    "model_003_home/home_3.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "home3",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_003_home",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:57.938666",
+      "file_size": 1982168,
+      "thumbnail": "model_003_home/thumbnail.png"
+    },
+    "image1.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "ox",
+          "confidence": "11.05%"
+        },
+        {
+          "tag": "oxcart",
+          "confidence": "2.99%"
+        },
+        {
+          "tag": "Arabian camel",
+          "confidence": "2.71%"
+        },
+        {
+          "tag": "water buffalo",
+          "confidence": "1.11%"
+        },
+        {
+          "tag": "hog",
+          "confidence": "0.98%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image1",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "761x1024",
+      "last_analyzed": "2025-05-03T03:56:58.044820",
+      "file_size": 395938
+    },
+    "image26.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "dogsled",
+          "confidence": "5.68%"
+        },
+        {
+          "tag": "cliff",
+          "confidence": "3.51%"
+        },
+        {
+          "tag": "snowmobile",
+          "confidence": "2.67%"
+        },
+        {
+          "tag": "valley",
+          "confidence": "1.73%"
+        },
+        {
+          "tag": "coyote",
+          "confidence": "1.61%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image26",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "742x1024",
+      "last_analyzed": "2025-05-03T03:56:58.148936",
+      "file_size": 393525
+    },
+    "image48.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "monastery",
+          "confidence": "35.05%"
+        },
+        {
+          "tag": "prison",
+          "confidence": "12.55%"
+        },
+        {
+          "tag": "castle",
+          "confidence": "5.12%"
+        },
+        {
+          "tag": "palace",
+          "confidence": "4.01%"
+        },
+        {
+          "tag": "cannon",
+          "confidence": "0.51%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image48",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "787x1024",
+      "last_analyzed": "2025-05-03T03:56:58.255111",
+      "file_size": 439499
+    },
+    "model_010_art/art_10.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "art10",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_010_art",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:58.255707",
+      "file_size": 10206820,
+      "thumbnail": "model_010_art/thumbnail.png"
+    },
+    "image51.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "altar",
+          "confidence": "8.06%"
+        },
+        {
+          "tag": "vault",
+          "confidence": "5.39%"
+        },
+        {
+          "tag": "tobacco shop",
+          "confidence": "3.39%"
+        },
+        {
+          "tag": "potter's wheel",
+          "confidence": "3.20%"
+        },
+        {
+          "tag": "throne",
+          "confidence": "2.89%"
+        },
+        {
+          "tag": "brown",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image51",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "brown",
+      "dimensions": "827x1024",
+      "last_analyzed": "2025-05-03T03:56:58.356389",
+      "file_size": 347482
+    },
+    "image37.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "palace",
+          "confidence": "15.04%"
+        },
+        {
+          "tag": "monastery",
+          "confidence": "10.16%"
+        },
+        {
+          "tag": "alp",
+          "confidence": "3.83%"
+        },
+        {
+          "tag": "triumphal arch",
+          "confidence": "2.03%"
+        },
+        {
+          "tag": "ibex",
+          "confidence": "1.98%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image37",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "1024x933",
+      "last_analyzed": "2025-05-03T03:56:58.460332",
+      "file_size": 435522
+    },
+    "image14.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "vault",
+          "confidence": "7.28%"
+        },
+        {
+          "tag": "prison",
+          "confidence": "5.01%"
+        },
+        {
+          "tag": "jigsaw puzzle",
+          "confidence": "4.80%"
+        },
+        {
+          "tag": "monastery",
+          "confidence": "3.99%"
+        },
+        {
+          "tag": "altar",
+          "confidence": "2.95%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image14",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "510x1024",
+      "last_analyzed": "2025-05-03T03:56:58.559089",
+      "file_size": 281276
+    },
+    "model_008_art/art_8.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "art8",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_008_art",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:58.559671",
+      "file_size": 10438628,
+      "thumbnail": "model_008_art/thumbnail.png"
+    },
+    "image22.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "lifeboat",
+          "confidence": "9.70%"
+        },
+        {
+          "tag": "liner",
+          "confidence": "6.40%"
+        },
+        {
+          "tag": "container ship",
+          "confidence": "6.32%"
+        },
+        {
+          "tag": "fireboat",
+          "confidence": "3.40%"
+        },
+        {
+          "tag": "breakwater",
+          "confidence": "2.28%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image22",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "943x1024",
+      "last_analyzed": "2025-05-03T03:56:58.662778",
+      "file_size": 406051
+    },
+    "Ideal_Home_March_2016.txt": {
+      "type": "text",
+      "tags": [
+        {
+          "tag": "from",
+          "confidence": "0.88%"
+        },
+        {
+          "tag": "your",
+          "confidence": "0.77%"
+        },
+        {
+          "tag": "you",
+          "confidence": "0.73%"
+        },
+        {
+          "tag": "home",
+          "confidence": "0.58%"
+        },
+        {
+          "tag": "march",
+          "confidence": "0.53%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "text",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "ideal_home_march_2016",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:58.716218",
+      "file_size": 312747
+    },
+    "image40.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "cliff",
+          "confidence": "6.52%"
+        },
+        {
+          "tag": "cliff dwelling",
+          "confidence": "6.35%"
+        },
+        {
+          "tag": "castle",
+          "confidence": "4.55%"
+        },
+        {
+          "tag": "airship",
+          "confidence": "2.63%"
+        },
+        {
+          "tag": "wreck",
+          "confidence": "2.29%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image40",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "773x1024",
+      "last_analyzed": "2025-05-03T03:56:58.813426",
+      "file_size": 286306
+    },
+    "model_008_home/home_8.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "home8",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_008_home",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:58.814031",
+      "file_size": 1986828,
+      "thumbnail": "model_008_home/thumbnail.png"
+    },
+    "image28.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "volcano",
+          "confidence": "3.38%"
+        },
+        {
+          "tag": "dhole",
+          "confidence": "2.73%"
+        },
+        {
+          "tag": "ox",
+          "confidence": "2.51%"
+        },
+        {
+          "tag": "geyser",
+          "confidence": "2.21%"
+        },
+        {
+          "tag": "Welsh springer spaniel",
+          "confidence": "2.20%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image28",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "1024x765",
+      "last_analyzed": "2025-05-03T03:56:58.915192",
+      "file_size": 289051
+    },
+    "image7.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "Dungeness crab",
+          "confidence": "9.50%"
+        },
+        {
+          "tag": "rock crab",
+          "confidence": "7.43%"
+        },
+        {
+          "tag": "crayfish",
+          "confidence": "4.74%"
+        },
+        {
+          "tag": "king crab",
+          "confidence": "2.83%"
+        },
+        {
+          "tag": "fiddler crab",
+          "confidence": "2.78%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image7",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "1024x919",
+      "last_analyzed": "2025-05-03T03:56:59.018008",
+      "file_size": 403985
+    },
+    "image39.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "bannister",
+          "confidence": "17.30%"
+        },
+        {
+          "tag": "tusker",
+          "confidence": "3.54%"
+        },
+        {
+          "tag": "African elephant",
+          "confidence": "3.09%"
+        },
+        {
+          "tag": "Indian elephant",
+          "confidence": "2.56%"
+        },
+        {
+          "tag": "viaduct",
+          "confidence": "2.38%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image39",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "1024x653",
+      "last_analyzed": "2025-05-03T03:56:59.117090",
+      "file_size": 338526
+    },
+    "Ideal_Home_November_2015.txt": {
+      "type": "text",
+      "tags": [
+        {
+          "tag": "from",
+          "confidence": "0.83%"
+        },
+        {
+          "tag": "your",
+          "confidence": "0.67%"
+        },
+        {
+          "tag": "home",
+          "confidence": "0.59%"
+        },
+        {
+          "tag": "you",
+          "confidence": "0.58%"
+        },
+        {
+          "tag": "this",
+          "confidence": "0.49%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "text",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "ideal_home_november_2015",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:59.170549",
+      "file_size": 312018
+    },
+    "Ideal_Home_January_2016_UK.txt": {
+      "type": "text",
+      "tags": [
+        {
+          "tag": "from",
+          "confidence": "0.78%"
+        },
+        {
+          "tag": "your",
+          "confidence": "0.77%"
+        },
+        {
+          "tag": "you",
+          "confidence": "0.70%"
+        },
+        {
+          "tag": "home",
+          "confidence": "0.59%"
+        },
+        {
+          "tag": "this",
+          "confidence": "0.49%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "text",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "ideal_home_january_2016_uk",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:59.219083",
+      "file_size": 282361
+    },
+    "image21.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "horse cart",
+          "confidence": "40.67%"
+        },
+        {
+          "tag": "barn",
+          "confidence": "1.78%"
+        },
+        {
+          "tag": "lumbermill",
+          "confidence": "1.40%"
+        },
+        {
+          "tag": "boathouse",
+          "confidence": "1.36%"
+        },
+        {
+          "tag": "dogsled",
+          "confidence": "1.23%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image21",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "1024x818",
+      "last_analyzed": "2025-05-03T03:56:59.321699",
+      "file_size": 472722
+    },
+    "model_003_art/art_3.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "art3",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_003_art",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:59.322304",
+      "file_size": 10497904,
+      "thumbnail": "model_003_art/thumbnail.png"
+    },
+    "image17.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "rock crab",
+          "confidence": "4.63%"
+        },
+        {
+          "tag": "Dungeness crab",
+          "confidence": "4.36%"
+        },
+        {
+          "tag": "crayfish",
+          "confidence": "4.17%"
+        },
+        {
+          "tag": "king crab",
+          "confidence": "2.67%"
+        },
+        {
+          "tag": "starfish",
+          "confidence": "2.60%"
+        },
+        {
+          "tag": "brown",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image17",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "brown",
+      "dimensions": "1024x918",
+      "last_analyzed": "2025-05-03T03:56:59.428586",
+      "file_size": 476153
+    },
+    "model_010_film/film_10.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "film10",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_010_film",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:59.429224",
+      "file_size": 6587640,
+      "thumbnail": "model_010_film/thumbnail.png"
+    },
+    "image49.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "water buffalo",
+          "confidence": "12.67%"
+        },
+        {
+          "tag": "book jacket",
+          "confidence": "6.35%"
+        },
+        {
+          "tag": "ox",
+          "confidence": "2.65%"
+        },
+        {
+          "tag": "comic book",
+          "confidence": "2.29%"
+        },
+        {
+          "tag": "oxcart",
+          "confidence": "1.92%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image49",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "1024x748",
+      "last_analyzed": "2025-05-03T03:56:59.526680",
+      "file_size": 325080
+    },
+    "image38.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "lakeside",
+          "confidence": "12.88%"
+        },
+        {
+          "tag": "cliff",
+          "confidence": "5.73%"
+        },
+        {
+          "tag": "alp",
+          "confidence": "5.24%"
+        },
+        {
+          "tag": "volcano",
+          "confidence": "4.47%"
+        },
+        {
+          "tag": "valley",
+          "confidence": "3.88%"
+        },
+        {
+          "tag": "brown",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image38",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "brown",
+      "dimensions": "575x1024",
+      "last_analyzed": "2025-05-03T03:56:59.621950",
+      "file_size": 276921
+    },
+    "model_005_art/art_5.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "art5",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_005_art",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:59.622547",
+      "file_size": 9967688,
+      "thumbnail": "model_005_art/thumbnail.png"
+    },
+    "image56.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "throne",
+          "confidence": "50.98%"
+        },
+        {
+          "tag": "rocking chair",
+          "confidence": "4.41%"
+        },
+        {
+          "tag": "dining table",
+          "confidence": "2.87%"
+        },
+        {
+          "tag": "cradle",
+          "confidence": "1.24%"
+        },
+        {
+          "tag": "guillotine",
+          "confidence": "0.68%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image56",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "1024x699",
+      "last_analyzed": "2025-05-03T03:56:59.725265",
+      "file_size": 293547
+    },
+    "image55.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "altar",
+          "confidence": "15.10%"
+        },
+        {
+          "tag": "vault",
+          "confidence": "4.36%"
+        },
+        {
+          "tag": "vestment",
+          "confidence": "3.77%"
+        },
+        {
+          "tag": "grand piano",
+          "confidence": "3.09%"
+        },
+        {
+          "tag": "throne",
+          "confidence": "2.08%"
+        },
+        {
+          "tag": "brown",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image55",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "brown",
+      "dimensions": "1024x790",
+      "last_analyzed": "2025-05-03T03:56:59.827967",
+      "file_size": 333527
+    },
+    "model_005_film/film_5.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "film5",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "model_005_film",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-03T03:56:59.828594",
+      "file_size": 6585740,
+      "thumbnail": "model_005_film/thumbnail.png"
+    },
+    "image2.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "vestment",
+          "confidence": "13.72%"
+        },
+        {
+          "tag": "cloak",
+          "confidence": "7.76%"
+        },
+        {
+          "tag": "overskirt",
+          "confidence": "7.35%"
+        },
+        {
+          "tag": "book jacket",
+          "confidence": "5.53%"
+        },
+        {
+          "tag": "altar",
+          "confidence": "5.37%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image2",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "827x1024",
+      "last_analyzed": "2025-05-03T03:56:59.933968",
+      "file_size": 367585
+    },
+    "image42.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "prison",
+          "confidence": "14.92%"
+        },
+        {
+          "tag": "monastery",
+          "confidence": "4.19%"
+        },
+        {
+          "tag": "vault",
+          "confidence": "3.94%"
+        },
+        {
+          "tag": "cliff dwelling",
+          "confidence": "2.49%"
+        },
+        {
+          "tag": "padlock",
+          "confidence": "2.15%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image42",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "647x1024",
+      "last_analyzed": "2025-05-03T03:57:00.036487",
+      "file_size": 321908
+    },
+    "image34.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "sandbar",
+          "confidence": "17.74%"
+        },
+        {
+          "tag": "geyser",
+          "confidence": "9.97%"
+        },
+        {
+          "tag": "seashore",
+          "confidence": "2.65%"
+        },
+        {
+          "tag": "valley",
+          "confidence": "1.46%"
+        },
+        {
+          "tag": "volcano",
+          "confidence": "1.36%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image34",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "1024x657",
+      "last_analyzed": "2025-05-03T03:57:00.132828",
+      "file_size": 254785
+    },
+    "image59.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "stretcher",
+          "confidence": "3.35%"
+        },
+        {
+          "tag": "horse cart",
+          "confidence": "2.25%"
+        },
+        {
+          "tag": "African hunting dog",
+          "confidence": "2.14%"
+        },
+        {
+          "tag": "assault rifle",
+          "confidence": "2.03%"
+        },
+        {
+          "tag": "cock",
+          "confidence": "1.95%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image59",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "1024x768",
+      "last_analyzed": "2025-05-03T03:57:00.233766",
+      "file_size": 326987
+    },
+    "image13.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "cliff",
+          "confidence": "12.31%"
+        },
+        {
+          "tag": "promontory",
+          "confidence": "5.73%"
+        },
+        {
+          "tag": "seashore",
+          "confidence": "4.22%"
+        },
+        {
+          "tag": "breakwater",
+          "confidence": "2.49%"
+        },
+        {
+          "tag": "lakeside",
+          "confidence": "1.96%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image13",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "1024x675",
+      "last_analyzed": "2025-05-03T03:57:00.335113",
+      "file_size": 401321
+    },
+    "image27.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "African hunting dog",
+          "confidence": "9.23%"
+        },
+        {
+          "tag": "dogsled",
+          "confidence": "6.15%"
+        },
+        {
+          "tag": "Arabian camel",
+          "confidence": "3.07%"
+        },
+        {
+          "tag": "hyena",
+          "confidence": "2.11%"
+        },
+        {
+          "tag": "tiger",
+          "confidence": "1.57%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image27",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "1024x746",
+      "last_analyzed": "2025-05-03T03:57:00.438538",
+      "file_size": 381515
     }
   }
 }
