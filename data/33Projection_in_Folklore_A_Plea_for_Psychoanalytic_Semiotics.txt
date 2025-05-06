@@ -1,0 +1,1493 @@
+Projection in Folklore: A Plea for Psychoanalytic Semiotics
+Author(s): Alan Dundes
+Source: MLN, Vol. 91, No. 6, Comparative Literature (Dec., 1976), pp. 1500-1533
+Published by: The Johns Hopkins University Press
+Stable URL: https://www.jstor.org/stable/2907148
+Accessed: 14-02-2025 08:27 UTC
+ 
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+ 
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+The Johns Hopkins University Press is collaborating with JSTOR to digitize, preserve and
+extend access to MLN
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+I ROJECTION IN FOLKLORE: A PLEA
+FOR PSYCHOANALYTIC SEMIOTICS e
+ALAN DUNDES i Folklore means something-to the
+tale teller, to the song singer, to the riddler, and to the audience or
+addressees. A given item of folklore may mean different things to
+different tale tellers or to different audiences. It may mean differ-
+ent things to different members of the same audience; it may
+mean different things to a single tale teller at different times in his
+life. This seems obvious enough. But despite the assiduous collec-
+tion of scores and scores of folklore texts, there has been precious
+little attention paid to what these texts mean.
+In the nineteenth century and before, folklore was thought to be
+dead survival from ages past rather than a live functioning part of
+the present day world of man. Even as late as 1931, Ruth Benedict
+writing the entry on folklore for the prestigious Encyclopaedia of the
+Social Sciences observed that "Folklore has not survived as a living
+trait in modern civilization" and that "Thus in a strict sense folklore
+is a dead trait in the modern world."' To be sure, one can find
+easily enough bona fide evidence of survivals. Consider, for exam-
+ple, the name of the month September which is our ninth month. It
+is derived from the Latin word for seven (as October is from eight,
+November from nine, and December from ten). Reconstructing
+history from etymology, we can see that if September were the
+seventh month, then the first month of the year must have been
+March rather than January, and in fact the onset of spring makes
+much better sense metaphorically as the appropriate time to signal
+the birth of a new year. In Europe, the designation of January first
+as the beginning of the new year is a relatively recent innovation.
+But the point is that folklore can hardly be limited to survivals. The
+folklore of social protest and the folklore of computers dem-
+onstrate convincingly that folklore is a living trait in the modern
+world.
+One difficulty impeding the study of meaning of folklore stems
+1 Ruth Benedict, "Folklore," Encyclopaedia of the Social Sciences, VI (New York,
+1931), pp. 288-293.
+MLN 91 (1976) 1500-1533
+Copyright ? 1976 by The Johns Hopkins University Press
+All rights of reproduction in any form reserved.
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+M L N 1501
+from the fact that a goodly portion of folklore is fantasy, collective
+or collectivized fantasy. I do not refer here to any Jungian sense of
+a collective unconscious. The evidence available from the Motif-
+Index of Folk Literature shows quite plainly that few if any narrative
+elements have universal distribution.2 Quite the contrary, most
+narrative traditions have strictly circumscribed areas of distribu-
+tion. The localization of fantasy is empirically demonstrable. Trolls
+are found only in Scandinavia; leprechauns only in Ireland,
+menehune only in Polynesia.3 The cultural relativity of fantasy is
+also suggested by the fact that it is only Christians who report
+seeing visions of the Virgin Mary. Those who argue that a given
+example of fantasy is universal rarely cite data from aboriginal
+Australia, Africa, or the Indian peoples of South America. It is true
+that all peoples have folklore and in that sense folklore could con-
+ceivably qualify as a universal. However, the particular folklore
+possessed by a particular folk varies from culture to culture even
+though historically related peoples share some folklore in common.
+When I speak of folklore being collective, I mean that a myth or a
+folksong is known by more than a single individual. An item of
+folklore is known by several individuals, usually many individuals,
+and it is transmitted from person to person, often over the course
+of generations. Collective folklore differs from individual dreams.
+Dreams appear to be similar to narratives in part because they are
+related in words. But a dream may or may not be sufficiently intel-
+ligible or interesting to be related by a second party to a third party.
+Folktales, in contrast, like all folklore, have passed the test of time,
+and are transmitted again and again. Unlike individual dreams,
+folktales must appeal to the psyches of many, many individuals if
+they are to survive.
+The fantastic dimensions of folklore have been consistently dis-
+2 Stith Thompson, Motif-Index of Folk Literature, 6 vols. (Bloomington, 1955-1958).
+For a discussion of some of the more widespread narrative elements in the world,
+see Clyde Kluckhohn, "Recurrent Themes in Myths and Mythmaking," Daedalus, 88
+(1959), 266-279, reprinted in Alan Dundes, ed., The Study of Folklore (Englewood
+Cliffs, 1965), pp. 158-168. For a balanced account of the Jungian view, see Wilson
+M. Hudson, "Jung on Myth and the Mythic," in The Sunny Slopes of Long Ago,
+Publications of the Texas Folklore Society XXXIII (Dallas, 1966), pp. 181-197. For a
+more partisan treatment, see Marie Louise von Franz, An Introduction to the In-
+terpretation of Fairy Tales (New York, 1970).
+3 For details of the menehune, see Katharine Luomala, The Menehune oj Polynesia
+and Other Mythical Little People of Oceania, Bernice P. Bishop Museum Bulletin 203
+(Honolulu, 1951).
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+1502 ALAN DUNDES
+regarded by folklorists and members of other disciplines studying
+folkloristic data. These scholars prefer instead to concentrate upon
+collection, classification, storage (in archives), comparison, and
+endless searching for the oldest cognate versions of a particular
+piece of folklore. The history of folklore scholarship is by and large
+a series of attempts to dehumanize folklore. I mean dehumanize
+quite literally. Considering "folklore" without reference to "folk" is
+commonplace in folkloristics. Whether one assigns motif or tale
+type numbers, or attempts to structurally dissect a given folklore
+text, one can effectively forget about the fact that folklore is used as
+a means of traditional communication between humans.
+The influence of semiotics upon folkloristics has not been al-
+together salutary. The scholarship of semiotics seems bloated with
+pompous terminology and littered with competing unintelligible
+abstract formulations, formulations which seem far removed from
+any close contact with empirical data. For semiotics, although os-
+tensibly concerned with meaning, tends to emphasize the logical
+rather than the psychological facets of the data being examined.
+Semiotic analyses generally treat the composition or structural pat-
+terning of a text to the exclusion of any concern for possible
+psychological meanings of that text. Structuralism perceived as one
+branch of semiotics should be considered as essentially being a
+rigorous means of descriptive ethnography. Structural analyses at-
+tempt to tell us what an object is, not what the object is for or what it
+means. To be sure, there is nothing wrong with descriptive ethnog-
+raphy. On the contrary, one needs to know the nature of the object
+one is studying. It is only that pure structuralism has a tendency to
+stop after describing in agonizing detail an object's actual or
+imagined constituent elements and the patterns of interrelationships
+between those elements. In short, however useful semiotics may be
+for honing the tools of description and classification in folkloristics,
+it has yet to prove itself in the study of the meaning of folklore.
+Thus, for example, Propp's important Morphology of the Folktale
+gives us an unrivaled view of the nature of Indo-European mdrchen,
+but Propp's delineation of thirty-one functions (or what I have
+rechristened motifemes following Kenneth Pike) does not explain
+why the fairy tale pattern should exist in the first place or what, if
+anything, it means.4
+4 Vladimir Propp, Morphology of the Folktale (Austin, 1968). For my adaptation of
+Propp's function, see "From Etic to Emic Units in the Structural Study of Folktales,"
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+M L N 1503
+I believe that one reason why structuralism is sweeping through
+folkloristics (which habitually maintains a respectful pace of a dec-
+ade or so behind advances in linguistics theory) is that the shift
+from diachronic to synchronic methodology posed no serious
+threat to the folk-less study of folklore. At first practitioners of the
+historical and comparative methods were adamantly opposed to
+structuralism which they felt gave short shrift to historical and
+comparative dimensions. But in time, it was realized that the same
+nonpsychological bias could prevail. Instead of plotting the dis-
+tribution of motifs or quaint customs on maps-as is done in Euro-
+pean atlas work in folkloristics, one could stick the very same "but-
+terflies" on another kind of board and proceed to dissect them.
+Butterfly collection of antiquarian days had finally advanced to the
+point of demonstrating that a butterfly was a mediating model
+consisting primarily of two wings in opposition-if I may somewhat
+facetiously and unfairly describe the binary penchant of Levi-
+Straussians.
+Interestingly enough, structuralism has opened up anew the
+question of the existence of the unconscious, but it has done so in a
+curiously unproductive way from my point of view. It is true that
+matters of grammar and syntax are not conscious-in the sense
+that individuals perfectly well able to speak a language cannot ar-
+ticulate the underlying grammatical or syntactical principles gov-
+erning their speech acts. But this is hardly the unconscious of the
+Freudian variety in which materials, often of a taboo nature, are
+repressed and disguised.
+It is my contention that much of the meaning of folkloristic fan-
+tasy is unconscious. Indeed, it would have to be unconscious-in
+the Freudian sense-for folklore to function as it does. Among its
+functions, folklore provides a socially sanctioned outlet for the ex-
+pression of what cannot be articulated in the more usual, direct
+way. It is precisely in jokes, folktales, folksongs, proverbs, chil-
+dren's games, gestures, etc. that anxieties can be vented. If a person
+knew exactly what he was doing when he told ajoke to his boss or to
+his spouse (or if the boss or spouse knew what he was doing), the
+Journal of American Folklore, 75 (1962), 95-105, reprinted in Alan Dundes, Analytic
+Essays in Folklore (The Hague, 1975), pp. 61-72. For an indication of trends in the
+semiotic study of folk narrative, see Claude Bremond, Logique du recit (Paris, 1973)
+and William O. Hendricks, Essays on Semiolinguistics and Verbal Art, Approaches to
+Semiotics 37 (The Hague, 1973). For a useful survey of structuralism, see Robert
+Scholes, Structuralism in Literature: An Introduction (New Haven, 1974).
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+1504 ALAN DUNDES
+joke would probably cease to be an escape mechanism. Man needs
+such mechanisms which is why there will always be folklore, and
+also incidentally why there is always new folklore being created to
+take care of new anxieties-I refer, for example, to the folklore of
+bureaucracy transmitted so effectively by the office-copier
+machine.5
+The unconscious nature of so much of folklore makes the study of
+meaning difficult though not impossible. It is difficult because it is
+not easy to elicit native testimony about such meanings. Uncon-
+scious symbolism is just as hard for informants to articulate as is the
+grammar of the languages they speak. Moreover, just as there are
+competing modes of grammatical analysis, so also are there com-
+peting schools of symbolism. So if the informant cannot enlighten
+the folklorist with respect to meaning-either by telling him about
+it initially or by corroborating an educated guess of the folklorist,
+how can the meaning of folklore be investigated?
+Fortunately, there is patterning and system in folklore, and it is
+this remarkable consistency which can assist the folklorist in-
+terested in meaning. Jakobson and Bogatyrev in 1929 pointed out
+that the Saussurean distinction between langue and parole could be
+applied to folklore.6 Accordingly, an individual folkloristic per-
+formance or communication act bore the same kind of relationship
+to the general folkloristic code that an individualistic speech act did
+to the language as a whole. I believe symbolism works in a similar
+fashion, such that the symbol employed in any one given folkloris-
+tic (con) text may be related to a general system of symbols. This
+does not mean that I think any one symbol is necessarily universal.
+In fact, I know of no symbol which is reported from all peoples,just
+as I know of no myth which has universal distribution. What I am
+saying is that within a culturally relative system of symbols, the use
+of a particular symbol may be remarkably consistent. I hasten to
+also add that symbols-opposed to signs-may carry multiple
+meanings. (I realize that some semioticians consider symbol a sub-
+category of sign, but I prefer to treat them separately.)
+5 For a representative collection of office-copier folklore, see Alan Dundes and
+Carl R. Pagter, Urban Folklore from the Paperwork Empire (Austin, 1975).
+6 P. Bogatyrev and R. Jakobson, "Die Folklore als besondere Form des Schaffens,"
+in Verzameling van Opstellen Door Oud-Leerlingen en Bevriende Vakgenooten Opgedragen
+Aan Mrg. Prof. Jos. Schrijnen (Donum Natalicium Schrijnen) (Nijmegen-Utrecht,
+1929), pp. 900-913.
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+M L N 1505
+I intend to illustrate the above by referring to several specific
+examples of folklore; but before I do so, I should like to mention
+briefly the crucial device of projection. In psychology, projection
+refers to the tendency to attribute to another person or to the
+environment what is actually within oneself. What is attributed is
+usually some internal impulse or feeling which is painful, unac-
+ceptable, or taboo. The ascription of feelings and qualities of one's
+own to a source in the external world is accomplished without the
+individual's being consciously aware of the fact. The individual
+perceives the external object as possessing the taboo tendencies
+without recognizing their source in himself.7 I might mention that
+Charles S. Peirce was aware of the existence of projection. He
+wrote, "I think it is probably true that every element of experience is
+in the first instance applied to an external object. A man who gets
+up out of the wrong side of the bed, for example, attributes wrong-
+ness to almost every object he perceives. This is the way in which he
+experiences his bad temper."8 Despite the triviality of the example,
+the aptness of the insight remains valid. Of course, Freud said it too
+and with specific reference to folklore: "As a matter of fact, I be-
+lieve that a large portion of the mythological conception of the
+world which reaches far into the most modern religions, is nothing
+but psychology projected to the outer world."9
+7 My sources for the definition of projection include: Leopold Bellak, "The Con-
+cept of Projection: An Experimental Investigation and Study of the Concept,"
+Psychiatry, 7 (1944), 354; Gardiner Lindzey, Projective Techniques and Cross-Cultural
+Research (New York, 1961), pp. 25-31; and Ludwig Eidelberg, ed., Encyclopedia of
+Psychoanalysis (New York, 1968), p. 331.
+8 Justus Buchler, ed., Philosophical Writings of Peirce (New York, 1955), p. 88.
+9 Sigmund Freud, The Basic Writings of Sigmund Freud (New York, 1938), p. 164.
+One distinct advantage of Freud's approach as opposed to Jung's is the possibility of
+reconciling it with cultural relativism. It was Kardiner, among others, who dem-
+onstrated how specific projective systems might be derived from particular cul-
+tural contexts. See Abram Kardiner, The Individual and his Society (New York, 1939)
+and The Psychological Frontiers of Society (New York, 1945). Jung's projections in
+theory cannot as easily be reconciled with cultural relativism inasmuch as they are
+presumed to be genetic, innate, a priori, inherited, ptre-cultural archetypes. Jung is
+quite clear on this point. "One encounters projections, one does not make them."
+"The primitive mentality does not invent myths, it experiences them. Myths are
+original revelations of the pre-conscious psyche, involuntary statements about un-
+conscious psychic happenings." "For the archetype, of course, exists a priori." "Ar-
+chetypes are . . . autonomous elements of the unconscious psyche which were there
+before any invention was thought of." "We must therefore assume that they corre-
+spond to certain collective (and not personal) structural elements of the human
+psyche in general, and, like the morphological elements of the human body, are
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+1506 ALAN DUNDES
+I should also point out en passant that the discipline most con-
+cerned with projection is psychology and yet psychologists rarely
+think of folklore in connection with projection. Lindzey's Projective
+Techniques and Cross-Cultural Research published in 1961, for exam-
+ple, contains not even a mention of folklore.10 For psychologists,
+projective techniques involve the utilization of tests or devices such
+as Rorschach or T.A.T. (Thematic Apperception Test). As a
+folklorist, I would argue that such devices are a priori artificial
+techniques usually imposed upon hapless subjects from outside the
+cultures of many of the subjects. How many peoples around the
+world are accustomed to interpreting inkblots? It is a question
+whether the results of such tests reflect the personalities of the
+test-takers or the test-makers! Folklore is quite different. The pro-
+jective materials, if folklore is indeed projective, come from within
+the culture. It has been created, passed on, and enjoyed for consid-
+erable time long before the analyst arrives upon the scene. Folklore
+as autobiographical ethnography, as a mirror of culture, is a
+natural projective test-as opposed to the artifical schemata de-
+signed by psychologists.
+If one admits there is no such thing as a culture-free test, projec-
+tive or otherwise, one ought in theory to be delighted to have native
+or folk projective tests, that is, projective materials devised by a
+people themselves. Consider the New Year's practice found in Fin-
+land and elsewhere which calls for boiling lead and pouring bits of
+it into water. Someone then "reads" the shapes formed by the lead
+to predict the fortunes of individuals in the coming year. Reading
+lead shapes is somewhat similar to reading inkblots. By the same
+token, there are folkloristic analogues to sentence completion,
+word association, or storytelling psychological tests. For example,
+inherited." "The archetype-let us never forget this-is a psychic organ present in all
+of us." See Psyche & Symbol: A Selection from the Writings of C. G. Jung, Violet S. de
+Laszlo, ed. (Garden City, 1958), pp. 8, 117, 15, 108, 123.
+10 Gardner Lindzey, Projective Techniques and Cross-Cultural Research (New York,
+1961). There have been relatively few attempts to study folklore as projection. See
+Bert Kaplan, "Psychological Themes in Zuni Mythology and Zuni TAT's," The
+Psychoanalytic Study of Society, 2 (1962), 255-262; George R. Horner, "Folklore as a
+Psychological Projective System," The Conch, III, no. 1 (March, 1971), 3-13. See also
+J. L. Fischer, "The Sociopsychological Analysis of Folktales," Current Anthropology, 4
+(1963), 235-295, and the section entitled "The Analysis of Folklore" in Victor Bar-
+nouw, Culture and Personality (Homewood, 1963), pp. 301-324. One of the best
+studies of the projective aspect of folklore is Melville Jacobs, The Content and Style of
+an Oral Literature (Chicago, 1959).
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+M L N 1507
+there is a popular American party game in which "It" is sent out of
+the room while supposedly those remaining are engaged in making
+up a story. "It" is told that he will be summoned shortly and asked
+to guess the story plot. After "It' leaves, the group members are
+told that there is no story, but that "It" will make up his own story
+upon his return. The trick is that to each of "It's" questions, the
+group will answer only yes or no, according to whether the last
+orthographic letter in "It's" question is a vowel (plus "y") or a con-
+sonant. Thus if "It" asks, "Is it a story about me?" a member of the
+group would answer yes. The question, "Does it take place on
+earth?" would require a no response. (In a variant, the rule is 'yes' if
+the last letter of the last word falls within the first half of the
+alphabet, no for the last half.) What usually happens in this game is
+that the story "reconstructed" by "It" often reveals interesting
+facets of "It's" own personality. A psychologist would probably say
+that "It" projects his own anxieties, thoughts, wishes, etc. upon the
+minimal structuring provided by the mechanical replies of the
+group.
+The above party game and most of the examples of folklore I
+shall discuss will be familiar ones. This is intentional. Typically
+anthropologists offer elaborate exegeses of some esoteric symbolic
+system which their audience cannot really confirm or reject inas-
+much as they are completely dependent upon the data provided by
+the anthropologist for any knowledge of the culture under exami-
+nation. It is for this reason that I have chosen examples from
+American folklore. I assume that most Americans will have per-
+sonal acquaintance with the data. Let us begin with a jump rope
+rhyme."
+Fudge, fudge, tell the judge
+Mama's got a newborn baby.
+It ain't no girl, it ain't no boy
+Just a newborn (or 'common', or 'plain ol', or 'ordinary') baby.
+Wrap it up in tissue paper
+Throw (send) it down the elevator.
+First floor, miss
+Second floor, miss, etc. (until the jumper misses)
+11 This is a standard jump rope rhyme. See Roger D. Abrahams, Jump Rope
+Rhymes: A Dictionary (Austin, 1969), p. 51, # 148, for references to several
+dozen versions of "Fudge, fudge." For another jump rope rhyme with obvious
+sibling rivalry, see Abrahams, pp. 79-80, #224, "I had a little brother," with the
+very tense of the verb in the first line revealing wishful thinking.
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+1508 ALAN DUNDES
+What does this rhyme mean? Were we to ask little girls jumping
+rope to it to give us a full explication de texte, what would we elicit?
+What does "fudge" mean? Here we have a typical piece of concrete
+data and what would conventional semiotics do with it? Why is
+there ajudge? Is it merely a matter of 'judge' rhyming with 'fudge',
+or 'fudge' rhyming with 'judge'? Folklore is admirably concise and I
+am persuaded that whatever is contained in a folkloristic text is
+meaningful-even if we do not always have full insight into what
+the meanings may be. What I am unalterably opposed to is the all
+too commonly vouchsafed platitude that folklore is bound to con-
+tain irrational nonsense which has no meaning. Why would indi-
+viduals bother to remember something and repeat it with such
+gusto if it had no meaning? It seems clear that if an item remains in
+tradition, it must have meaning for the carriers of the tradition.
+We can see that the jump rope rhyme reflects sibling rivalry. A
+newborn baby is a threat to the older children who may resent all
+the attention paid to it by their parents. We know that there is often
+a wish on the part of older children to dispose of the new baby.
+Wishful thinking and wish fulfillment are, of course, widely found
+in folklore.12 There is more than a hint that Mama has committed a
+crime in producing a sibling rival. The crime is signalled in the first
+line insofar as a judge is to be informed (and possibly the punish-
+ment for the 'crime' of throwing the baby away is projected to the
+judge). But why fudge? If one thinks of the color and texture of
+fudge, and is also familiar with infantile sexual theory, one can
+arrive at a possible explanation. In the days before sex education
+was taught in elementary school, young children in our culture did
+not always understand the true nature of childbirth. After having
+been told by a parent that a baby brother or sister was present in
+mother's obviously expanding abdomen and that it would soon
+come out to join the family, the often bewildered child frequently
+assumed that this new baby would come out of the stomach area the
+same way the child understood that all materials exited from its
+own stomach, namely, via the anus. The equation of feces with
+babies is reported extensively in the psychoanalytic literature, but I
+doubt that any little girl jumping rope would offer such an in-
+terpretation of the possible meaning of 'fudge.' Yet there is addi-
+12 One of the first studies of this important characteristic of folklore is Franz
+Ricklin, Wishfulfillment and Symbolism in Fairy Tales (New York, 1915).
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+M L N 1509
+tional evidence, for cultural symbols rarely occur in unique single
+texts. Another children's rhyme, though not one used for jumping
+rope, goes as follows:
+Milk, milk, lemonade
+Around the corner, fudge is made.
+Gestures accompanying this rhyme point in turn to several areas of
+female anatomy (breasts, vagina, and anus). However distasteful or
+crude one may find the rhyme, one cannot very well deny the
+explicit equation of fudge and feces. Returning to our original
+jump rope rhyme, we can now better understand the action taken.
+Wrap it up in tissue (toilet) paper, throw it down the elevator. The
+new baby is 'giftwrapped to go,' namely, to be flushed down the
+toilet-elevator. Notice also that the more skillful the jumper, the
+greater the number of floors or distance the baby is sent away,
+thereby providing a most effective means of 'passing' judgment
+on or "wasting" a sibling rival.
+It should not be necessary to say that sibling rivalry is a normal
+feature of family life. However, since parents often interfere with
+or restrict overt acts of violence directed by one child towards
+another, it is clear that some outlet is necessary for the expression
+of the hostility which is bound to occur. Rhymes against babies are
+just as healthy as are rhymes against parents, e.g., Step on a crack
+(line); break your mother's (father's) back (spine). In terms of
+projection, it would be interesting to know whether individual chil-
+dren intentionally stepped on sidewalk cracks or intentionally
+avoided doing so, and then correlating such behavior with the overall
+personalities of such children and their stated attitudes towards
+each parent.
+Children's projections of parents occur more commonly in nar-
+rative form than in rhymes. Fairy tales, for instance, are essentially
+stories about children and their relationships to siblings and pa-
+rents. The "step" relationship is a convenient device to allow full-
+fledged hatred. A girl can, with clear conscience, hate wicked step-
+sisters, or a wicked step-mother. Fairy tales with girl protagonists
+may include both wicked sibling rivals as well as a wicked mother in
+the form of a step-mother or witch. Fairy tales with boy heroes may
+include the same kind of wicked brothers plus a male antagonist in
+the form of a monster (e.g., dragon) or a giant. Let me select one
+fairy tale found primarily in England and the United States to
+illustrate the nature of symbolic projection. Once upon a time, a
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+1510 ALAN DUNDES
+boy named Jack lived alone with his mother! That very opening
+should give pause to anyone with a psychological bias. In boy-
+centered fairy tales, the father is often portrayed as missing or
+dead-which allows the boy to be "alone with his mother." (In
+girl-centered fairy tales, the mother is similarly missing or deceased
+which allows the girl to be alone with her father.) As most will
+remember, Jack trades his milk-giving cow to an old man who gives
+him some beans in exchange. Jack's mother, insists at the sight of
+the beans, that he throw them out of the window. (I shall forbear
+from commenting upon each and every symbol.) The next day, a
+huge beanstalk is discovered. Jack's mother begs him not to as-
+cend, but he disobeys. Up in the beanstalk world, there is a can-
+nibalistic giant who often in some vague way is linked with Jack's
+father-e.g., the giant allegedly stole Jack's father's treasures. For-
+tunately, someone up there helps Jack. It is Mrs. Giant. Did it ever
+strike you as somewhat peculiar that Mrs. Giant would help a total
+stranger, a young boy, taking sides against her own husband? (In
+this Oedipal projection, the upper world is an extension of the
+lower one.) In this connection, it may be worth recalling where Mrs.
+Giant hides Jack-it is in her oven. (The symbolism of ovens in
+European folklore generally is quite consistent.13 Consider, for
+example, the initial morpheme of the verb "fornicate" and in this
+context, note the poetic justice in the best known version of tale
+type 327A,14 Hansel and Gretel, according to which Gretel tricks
+the witch into being burned to death in her own oven.) In any
+event, the stupid old giant fails to see Jack hiding in his wife's oven.
+Finally, Jack rushes down the stalk with the giant in close pursuit.
+As it happens, down at the bottom of the stalk waiting with a hatchet
+in her hand is Jack's mother. Taking the hatchet, Jack cuts down
+the stalk, an act which causes the death of the giant. The story ends
+with Jack living happily ever after with his mother.15
+Surely the maternal aid in both the upper and lower worlds can be
+understood as a projection of the young boy's point of view in
+13 Sigmund Freud, A General Introduction to Psycho-Analysis (New York, 1953), p.
+170.
+14 Tale type numbers refer to Stith Thompson, The Types of the Folktale, FFC
+184 (Helsinki, 1961). Jack and the Beanstalk is tale type 328, The Boy Steals
+the Giant's Treasure.
+15 For further psychoanalytic commentary on this tale, see Alan Dundes, ed.,
+The Study of Folklore (Englewood Cliffs, 1965), pp. 107-113.
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+M L N 1511
+terms of an Oedipal struggle against the villainous giant. From Jack
+and the Beanstalk, I should like to turn to another example of
+projection. This example is not folklore, but it is dependent upon
+folklore and folkloristic associations. One reason for using the
+example is to show that projection is such an important device that
+it may utilize even historical events rather than relying solely upon
+the traditional forms found in folklore proper.
+The example of projection I have in mind is the first lunar land-
+ing. I must insist that nothing of what I am about to present should
+be understood as in any way demeaning the very real and splendid
+achievement of landing on the moon. My sole purpose is to try to
+demonstrate how much folkloristic projection plays in all our
+lives-whether we are aware of it or not.
+First of all, we have the name of the lunar mission. It was Apollo.
+I should stress here that it is precisely in the selection of names and
+symbols that those of us interested in psychoanalytic semiotics are
+afforded prime data. It might well be erroneous to interpret a
+detail which was an integral part of the scientific apparatus, but the
+choice of the name Apollo is not such a detail. In theory, the mis-
+sion might have had any one of a hundred names. The name
+Apollo is a conscious or perhaps unconscious invocation of tradi-
+tional mythology. And in mythology round the world, we find the
+most pressing problems of earthly bodies projected onto heavenly
+bodies. In this light, constellations and their names in different
+cultures may appropriately be studied as native projective
+Rorschach gestalts. As for planet names in our own culture, it is
+interesting that earth falls between Venus and Mars, love and war,
+perhaps even life and death. Has earth separated god and goddess
+lovers just as in the widely diffused Oedipal sky-father/earth-
+mother myth (Motif A 625, World parents: sky-father and earth-
+mother)16 in which a culture hero forcibly pushes the sky back out
+of the connubial embrace with the earth in order to provide living
+space for man?
+To return to the lunar mission, who is Apollo and what, if any, is
+his relationship to the moon? Apollo the sun is the brother of Diana
+the moon. Thus mythologically speaking we have a brother trying
+16 The motif number is from Stith Thompson, Motif-Index of Folk Literature, 6
+vols. (Bloomington, 1955-1958). The separation of the parents is included
+under motif A 625.2, Raising of the sky.
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+1512 ALAN DUNDES
+to reach or land on his sister. And what are the semantic associa-
+tions of Diana? One of the most obvious is virginity. Diana is tradi-
+tionally associated with chastity.
+Once the projective metaphor has been pointed out, it is easy
+enough to see its consistency. Among the principal problems to be
+overcome in the Apollo missions was gaining enough power to
+escape the gravitational pull of the earth. The standard term for
+this power was "thrust." Keeping in mind that the mythological
+associations of earth include 'mother,' we have the astronauts try-
+ing to get up enough thrust to escape the gravitational pull of
+mother earth. (I shall not dwell on the symbolism of rockets other
+than to recall that "to have a rocket in my pocket" can be a
+euphemistic phrase for masturbation (cf. "pocket pool").)
+I have spoken of the name of the mission, but what were the
+names of the three astronauts and who was the first man on the
+moon? Neil Armstrong. Why was Armstrong the first? Was it mere
+alphabetical order? No, it was not because in that event, Aldrin
+would have been first, not Armstrong, or Collins. Could it have
+been the association of Jack Armstrong, the all-American boy, hero
+of radio adventure serials of several decades past? And could it
+have been the very name Armstrong was deemed appropriate be-
+cause it literally refers to a strong body extremity? A well placed
+television camera allowed all other earthlings to voyeuristically
+watch as Armstrong's leg emerged from the capsule and stepped
+upon the surface of the moon. Certainly it made symbolic sense for
+the name of the first man to stand on the moon to begin with the
+first letter of our alphabet. Who can remember the names of any of
+the men who made the second lunar landing? The point is that the
+moon could only be violated once. No one cares who the other
+violaters were. It is, after all, only on a maiden voyage that a bottle
+of champagne is broken over a ship's hull. Once on the moon, the
+astronauts put up an American flag, a common symbolic ritual act
+for claiming virgin land for one's mother country (or fatherland).
+We may have here the same projection which led earlier genera-
+tions of American explorers into what Henry Nash Smith has so
+aptly termed the "Virgin Land."17 What did the astronauts bring
+back as souvenirs of their conquest? Pieces of rock. In this context,
+the whole mission involved going out to get a piece of virgin moon
+17 Henry Nash Smith, Virgin Land: The American West as Symbol and Myth (New
+York, 1957).
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+M L N 1513
+to show off to one's peers back home-a super masculinity dream
+come true! Americans surely wanted to get to the moon before the
+Russians did. The fantasy I have just delineated is not a universal
+one-in some cultures the moon is considered masculine rather
+than feminine. But in American culture, the moon is definitely
+feminine. It even has maternal associations of a cow jumping over it
+or being made of green cheese. The image of a 'man in the moon'
+may even suggest an idealized intrauterine one. The maternal as-
+sociations of the moon hint at an Oedipal projection and in English,
+the choice of the name Apollo at least permits the possibility of a
+homonymic pun on sun/son. So the sun/son who leaves mother
+earth to be the first to violate the virgin moon (sister, mother) may
+well be related to American fantasy-regardless of the purely
+scientific features of the mission.
+The lunar mission brings to mind the interweaving of folklore
+and history. The point is that historical events and personages may
+serve as anchors for flights of projective fantasy. I believe many
+historians seriously err in dismissing or ignoring elements which
+they label as spurious or apocryphal. Folklore, as an item of folk
+speech-think of the phrase "that's (just) folklore"-means error,
+that is, something to be carefully weeded out of otherwise accurate
+historical source material. As a folklorist, I have learned to respect
+what the folk say and think about history regardless of the histori-
+city of their words and thoughts. What happened is important, but
+no less important is what people think happened or what people
+wished had happened. Folk history may tell us more about folk
+than about history, but surely that is worth knowing. The folk
+history of George Washington, for example, includes his famous
+confrontation with his father over the chopping down, not of a
+beanstalk, but of a cherry tree. Actually, George, a son in that
+anecdote, is more celebrated for his paternal role. Why is it, for
+instance, that George is reputed to have slept in so many beds on
+the east coast of the United States. Signs proclaim that George
+Washington slept here, not ate, drank, or visited here. Of course, if
+he is considered to be thefather of our country then the verb choice
+is apt-just as the particular style of monuments erected to honor
+him.18
+18 For a slightly more detailed consideration of the George Washington
+legend, see Alan Dundes, "On the Psychology of Legend," in Wayland Hand,
+ed., American Folk Legend: A Symposium (Berkeley and Los Angeles, 1971), pp.
+26-29.
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+1514 ALAN DUNDES
+But can there be any validity to the projections discussed thus far?
+I can anticipate the most obvious objection. The reader may have
+watched the lunar landing himself and he did not think of any
+associations of Apollo-Diana, brother-sister incest, etc. He did not
+think of the lunar landing as a violation of the moon. Any tension
+he may have felt was strictly due to his genuine concern for the
+safety of the astronauts. But sometimes the tension was excessive.
+Some individuals refused to believe that the lunar landing actually
+occurred. Rather they assumed that the whole event was simply a
+fictionalized television program. Several individuals suffered
+breakdowns evidently precipitated by the successful lunar land-
+ing.19 Here I must reiterate the important point that folkloristic
+projection is often, though not always, unconscious. Rarely is the
+nature of the projection consciously recognized. I am always
+amused by would-be critics of the Oedipal reading of the Oedipus
+story when they claim that the Freudian interpretation is invalid
+because Oedipus didn't know that he was killing his father and
+marrying his mother. Of course, he didn't know consciously. That
+is precisely the point. It is the bringing of the unconscious into the
+purview of the conscious which is difficult and painful for the
+psyche. Projection is one of a number of psychological defense
+mechanisms which provides an unconscious screen or arena for the
+display of the causes of anxiety and it is for this reason that
+folkloristic projections are so indispensable as tools in the human
+arsenal for mental health.
+The unconscious nature of symbols and projections does present
+a serious challenge to those folklorists who are seeking meaning in
+folklore. But materials which have entered the unconscious can
+also be brought out of the unconscious. One characteristic which is
+19 I must here express my thanks to Dr. Donald H. Stanford for having first
+called my attention to the possible psychological significance of the lunar land-
+ing. Dr. Stanford, a psychiatrist, had two patients, both latent homosexuals, who
+were seriously affected by the lunar landing. Both required hospitalization im-
+mediately following their television viewing of the landing. Dr. Stanford con-
+tacted me initially to inquire about mythological or folkloristic associations sur-
+rounding the moon. Subsequent discussions with Dr. Stanford convinced me
+that the folkloristic features of the lunar mission did have psychological signifi-
+cance not just for his patients but for Americans generally. For other interpre-
+tations of the lunar mission, see Joseph Cambell, "The Moon Walk-The Out-
+ward Journey," in Myths to Live By (New York, 1972), pp. 233-249; and Ian I.
+Mitroff, The Subjective Side of Science: A Philosophical Inquiry into the Psychology of
+the Apollo Moon Scientists (New York, 1974).
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+M L N 1515
+helpful in the study of folkloristic projections is the play upon
+'literal versus metaphorical.' Sometimes seeing projections as
+literalizations of metaphors or, if one prefers, as metaphorical
+transformations of literal statements can greatly aid in deciphering
+the unconscious content of folklore. Let me illustrate this by briefly
+considering an important detail of the American wedding ritual.
+One of the high points of the ritual involves the bride's casting her
+floral bouquet to the females in attendance. What is the meaning of
+this act? I wish to reiterate my firm conviction that semiotics must
+ultimately be concerned with meaning. One can analyze the struc-
+ture of American weddings and note the binary oppositions be-
+tween bride and groom, married and unmarried, etc., but unless
+semiotics can take account of the symbolic, projective aspects of
+ritual, it can never be more than a purely descriptive technique as
+opposed to an explanatory one. The throwing of the bridal
+bouquet involves homeopathic magic and therefore metaphor.
+Homeopathic magic is functionally equivalent to metaphor just as
+contagious magic is analogous to simile. Most poetic tropes have
+structural analogues in types of magic. Synecdoche, for example,
+corresponds to the principle of pars pro toto in magic practice. In
+terms of the literalization of metaphor, the bride is through the
+ritual act of throwing away her floral bouquet signifying her wil-
+lingness or intention of being deflowered. Interestingly enough, the
+flowers, once separated from the bride, furnish an example of
+contagious magic inasmuch as the lucky girl who catches the
+bouquet is said to be the next to marry.
+I might mention several other examples of the literalization of
+metaphor in American folklore. There is an American superstition
+which states that if one wants to ensure that one's newborn baby
+will rise in the world, one should carry it up a flight of stairs shortly
+after birth. The metaphorical notion of rising in the world is thus
+literally carried out. Literalization of metaphor can also occur in
+folktales. I think, for instance of tale type 311, Rescue by the Sister,
+in which there is a forbidden chamber. The heroine, as one may
+remember, opens the interdicted door whereupon an egg or key
+becomes bloody. The symbolism of tell-tale blood marking an egg
+or key after opening a forbidden door seems to be a projection of
+defloration. What is also of interest is the sight that the heroine sees
+in the forbidden chamber. Commonly she finds the decapitated
+bodies of her older sisters. The literalization of metaphor would be,
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+1516 ALAN DUNDES
+if I am correct, exemplified by the vivid depiction of girls who had
+quite literally lost their maiden heads!
+An even better example of the literalization of metaphor in
+folkloristic projections may be found in yet another genre, namely
+nursery rhymes. "There was an old woman who lived in a shoe; she
+had so many children she didn't know what to do." Now what
+possible connection could there be between a woman living in a
+shoe and having a superabundance of children? Upon reflection, we
+may recall that there is a traditional connection between shoes and
+marriage. Not only does Cinderella find her prince charming
+through the perfect fit between her foot and a glass slipper, but in
+American culture, we continue to tie old shoes on the bumpers of
+cars carrying newlyweds off on their honeymoon. With respect to
+the Cinderella story (tale type 510A), it might be observed that very
+few versions have the shoe made of glass. Cox in her 1892 study of
+345 versions of Cinderella found only six instances of glass slippers.
+However, the occurence of the glass slipper in the celebrated Per-
+rault version of Cinderella may explain the widespread popularity
+of this element. I shall refrain from commenting on the theory that
+the slipper in question was not really made of glass but was rather a
+mistranslation of the French word "vair" which was a kind of fur,20 a
+theory which strongly suggests that interpretations of folklore can
+involve almost as much symbolic projection as the folklore itself. The
+mystery of the association of shoes with marriage and children is
+partly solved by another version of the Mother Goose rhyme re-
+ported from the Ozarks of the 1890's. "There was another old
+woman who lived in a shoe. She didn't have any children; she knew
+what to do." The consistency of the symbolism should be apparent.
+In nursery rhymes, in fairy tales, in post-wedding customs, the same
+symbolic equation is found. This supports the idea that symbol
+patterns are culturewide. One could easily cite additional illustra-
+tions, e.g., Cock a doodle doo; My dame has lost her shoe [a real
+challenge for transplant surgeons]; Her master's lost his fiddling
+stick. They don't know what to do."21 So it may be that participants in
+20 For Cox's study, see Marian Roalfe Cox, Cinderella, Publications of the
+Folk-Lore Society XXXI (London, 1892). For the statistics on the number of
+versions containing the glass slipper as well as a discussion of "vair," see Cox, p.
+506. For an earlier discussion of "vair," see W. R. S. Ralston, "Cinderella,"
+Nineteenth Century, 6 (1879), 832-853.
+21 This rhyme is #108 in the standard collection, Iona and Peter Opie, The
+Oxford Dictionary of Nursery Rhymes (Oxford, 1959), pp. 128-129. "The old
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+M L N 1517
+a wedding cannot articulate any rationale for the custom of tying
+shoes to the car bumper, but that does not mean that the custom is a
+"meaningless" survival. The marriage car carries off the shoe trophies
+just as the groom will later carry his bride across the threshold of
+their dwelling, the latter custom being perhaps a metaphor for the
+successful initation of male dominated sexual intercourse.
+Now I fear I may perhaps have done a serious disservice to my
+thesis by having utilized so many examples of sexual symbolism.
+Some may think that I have badly misconstrued the term semiotics
+as being the scientific study of the "seamy." I must stress that pro-
+jection in folklore is not limited to sexuality. Any anxiety-producing
+topic can find expression in projective form. For example, there is
+projection in the modern urban legend in which a family is obliged
+to take its old grandmother along on a vacation trip. In a remote
+area, grandmother dies and the family is forced to curtail its vaca-
+tion. Strapping the body to the roof of the Volkswagen, the family
+starts for home. Enroute the family stops for lunch during which
+time the car plus grandmother's corpse is stolen. Sometimes the
+absence of the body causes delay in probating grandmother's will. I
+have argued that this legend reflects American attitudes towards
+the older generation and towards death. In terms of wishful think-
+ing, there is the wish that grandmother should die and that some-
+one else should dispose of the body. In terms of the literalization of
+metaphor, grandmother is "taken for a ride," if I may be permitted
+to use the appropriate gangster idiom. The normally unutterable
+mercenary interest in grandmother's demise also finds expression
+in the concern about the delay in probate.
+Similarly there is projection in the standard legend of the medi-
+cal school prank in which a group of medical students crossing a
+toll bridge leave a cadaver's arm holding the coin in the surprised
+woman who lived in a shoe" is #546 in the same collection, pp. 434-435. Even
+the conservative Opies seem aware of the symbolism inasmuch as they note that
+"The shoe has long been symbolic of what is personal to a woman until mar-
+riage." Similarly, Swedish folklorist Anna Birgitta Rooth in her comprehensive
+modern study of Cinderella has a brief discussion of "The shoe as a sexual
+symbol." See Rooth, The Cinderella Cycle (Lund, 1951), pp. 104-105. For other
+folkloristic data concerning shoes, see Paul Sartori, "Der Schuh im Vol-
+ksglauben," Zeitschrift des Vereins fur Volkskunde, 4 (1894), 41-54; 148-180; 282-
+305; 414-427; and James E. Crombie, "Shoe-Throwing at Weddings," Folklore, 6
+(1895), 258-281. For early studies of the erotic symbolism of shoes, see the en-
+tries under "Shoe, Symbolism of," in Roger Goodland, A Bibliography of Sexual
+Rites and Customs (London, 1931), p. 739.
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+1518 ALAN DUNDES
+and shocked grasp of the tollbooth attendant. Medical students
+have anxiety-at least initially-about handling cadavers and prob-
+ably also about paying their way through life at the expense of the
+health of their patients. After all, the families of patients are
+charged for operations whether the operations are successful or
+not. Doctors have to learn to be dispassionate objective practition-
+ers who are able to leave their patients' medical problems, e.g.,
+anatomical parts such as an arm, behind them even as these prob-
+lems literally hold the lucrative financial rewards of medical prac-
+tice. Notice that in this projection, the fear and shock of taking
+money from a dead man's hand is displaced from the medical
+students to the outside world, the tollbooth attendant.22
+Racism is another anxiety-producing problem which is expressed
+in folkloristic form. Let us briefly consider the folksong John
+Henry. A popular folksong, this ballad tells the sad story of a black
+steel-driver who wages a valiant struggle against the steam drill. He
+wins the battle, but the victory is Pyrrhic for in the end John Henry
+dies. I have had white middle class school teachers tell me they use
+this folksong in the classroom as an example of Afro-American
+folklore. They like the ballad's depiction of the increasingly impor-
+tant issue of man versus machine. This is all well and good, but as a
+projection, John Henry is little more than the white stereotype of
+what black men should be. John Henry is strong, doggedly loyal to
+the white boss, and he dies doing the white man's work. He is, in
+short, a projection of the ideal "good nigger." He even dies with his
+hammer in his hand-no threat there to the white womanhood of
+the south. The ballad of John Henry is thus more part of white
+folklore about blacks than Afro-American folklore, and its con-
+tinued use in schools promoted the image of the strong, docile,
+Uncle Tom figure of the black male so ardently desired by whites.
+The unconscious projective aspects of folklore make its use all
+the more insidious and perhaps dangerous inasmuch as few indi-
+viduals are aware of the semiotic implications of the projection.
+Racism is nonetheless virulent for its being unconscious. Many
+whites may not see the racism in an advertisement for "flesh-
+colored bandaids" but it is there all the same. A terse bit of Afro-
+22 For further discussion of the medical school cadaver legend and the pre-
+ceding grandmother legend, see Dundes, "On the Psychology of Legend," in
+Wayland Hand, ed., American Folk Legend, pp. 31-36.
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+M L N 1519
+American folklore conveys a unique indictment of the use of white
+folklore in classrooms containing black students. There's the young
+black girl who asks a question of the mirror on the wall. "Mirror,
+mirror on the wall, who's the fairest one of all?" and the mirror
+answers, "Snow White, you black bitch, and don't you forget it!" In
+an educational system and society where the values come from
+white folklore, there is not much potential for a positive self-image
+for black students. Americans inherited from Europe an entire
+semiotic of color in which black was evil and white was good. Even a
+lie, if it's white, is all right. "Black is beautiful" is a conscious at-
+tempt by the black community to fight the semantic set of countless
+words (blackmail, blackguard, blackball, black list, etc.) which assert
+the contrary.23
+Racist projections are also found in literature and I do not want to
+give the impression that projections are limited to folkloristic form.
+Let me cite just one illustration from children's literature. Charlie
+and the Chocolate Factory is a popular children's book which was
+made into a motion picture. The cover blurb calls it "an uproarious
+morality tale by the world-renowned storyteller, Roald Dahl." And
+it is a highly moral story poking fun as it does at a gluttonous eater,
+a spoiled little rich girl, a fanatic gum chewer, and a television
+addict. But as some readers may recall, there is a chocolate factory
+run by Willy Wonka. Who is it that does all the work at the factory?
+The work is done by the Oompa-Loompas. Who are the
+Oompa-Loompas? They are pygmies "imported direct from Af-
+rica." "Their skin is almost black" and Willy Wonka "shipped them
+all over here, every man, woman and child in the Oompa-Loompa
+tribe. It was easy." He "smuggled them over in large packing cases
+with holes in them, and they all got here safely." "They love danc-
+ing and music."24 According to Willy Wonka, the Oompa-Loompas
+came willingly because they were told they could have all they
+wanted to eat (at the company store)! It is hard to know whether
+this white porjection of contented 'lumps' of black slave labor is
+conscious or unconscious on the author's part, but its potential
+impact upon a generation of children (and parents) in terms of
+continuing a stereotype is devastating. Curiously, the title of the
+23 For a general discussion of this point, see Eldridge Cleaver, "As Crinkly as
+Yours," in Alan Dundes, ed., Mother Wit from the Laughing Barrel: Readings in the
+Interpretation of Afro-American Folklore (Englewood Cliffs, 1972), pp. 9-21.
+24 Roald Dahl, Charlie and the Chocolate Factory (New York, 1964), pp. 72-76.
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+1520 ALAN DUNDES
+book (and the name of the little boy hero) revolves around the
+name Charlie, the standard slang term in Afro-American folklore
+for the 'white man.'
+Projections are to be found in all types of literature including
+comics, television, and motion pictures. My plea for psychoanalytic
+semiotics is based primarily upon folklore only because I am most
+familiar with folkloristic data. It is equally imperative that popular
+culture be understood as projective materials. One thinks of the
+generic "Western" with its rugged individual hero who often has to
+take the law into his own hands, vigilante style, in order to prevail
+over the "bad guys" and to establish law and order, thereby protect-
+ing property rights. Similarly, we might look at Star Trek which
+relates the adventures of an eternally floating bastion of American
+values in the context of a popular science fiction television program
+series. Typically the space ship makes an uninvited visit to some
+alien culture which somehow threatens the existence or safety of the
+ship (or the ship is itself invaded by the alien culture). Often the
+progress of the space ship is imperiled or stopped. Its leader
+heroes, of obvious Anglo-Saxon ancestry (Kirk, Spock, Scotty,
+McCoy), assisted by various assorted ethnic underlings who obey
+rather than give orders, take whatever action they deem necessary
+to free the ship. Since the ship's name is Enterprise, we have an all
+too thinly disguised projection of what Americans will do in the
+name of free enterprise. And what does the crew of the Enterprise
+do? The usual solution consists of converting or destroying the
+alien cultures. Only after such justifiable homicide can the United
+Starship (=U.S.) Enterprise return to its set course-in accordance
+with its 'manifest destiny.'25 It is not hard to see how the Western-
+vigilante and Star Trek projections could lead to the American
+officer in Viet Nam who explained in all seriousness that "It was
+necessary to destory the village in order to save it."
+Projection can involve placement in the far distant past or the far
+25 I am indebted to Professor Arthur Asa Berger of San Francisco State Uni-
+versity for the suggestion that Star Trek might be viewed as a projection of
+American values. For details of Star Trek, see David Gerrold, The World of Star
+Trek (New York, 1973). It might be argued that Star Trek's crew represents the
+entire world rather than just the United States, but the world appears to be
+ethnocentrically defined much as it is in the "World Series" baseball champion-
+ships in which the 'world' boils down to just American (plus one Canadian) en-
+tries.
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+M L N 1521
+distant future. This is why one can study projection in myth, the far
+distant past, or projection in science fiction, the far distant future.
+The plots and the dramatis personae are strikingly similar in both
+myth and science fiction. In sum, it is the projection which is cru-
+cial, not so much the time and place or local coloring. It is the
+removal from reality to fantasy which allows the human spirit free
+rein to portray its spiritual struggles and play out its moments of
+anguish. Yet sometimes, even fantasy does not afford sufficient
+disguise for such activities, not without recourse to what I would
+call projective inversion.
+Most of the projections discussed thus far have been more or less
+direct translations of reality into fantasy. The code of symbols per-
+mits a healthful rewriting of a problem on earth into a disguised
+arena where it may be happily resolved. So the lunar landing
+might be interpreted as an extended metaphor for the American
+male's quest to break the silver (umbilical) cord or maternal apron
+strings in order to seek a virgin bride. But there are some human
+problems which evidently require more elaborate disguise.
+One of the finest examples of projective inversion in folklore is
+the one first analyzed by Otto Rank in his brilliant monograph, The
+Myth of the Birth of the Hero, first published in 1909. In this classic
+study, Rank attempts to explain why the Indo-European hero
+should so often be born of a virgin mother and why he should be
+abandoned to die immediately upon being born. According to
+Rank, it is an Oedipal plot from the son's point of view. A virgin
+mother represents a complete repudiation of the father and espe-
+cially his normal necessary role in procreation.26 In Oedipal theory,
+it is supposedly the son who would like to get rid of his father
+(which would thereby reserve his mother for his exclusive use) but
+a narrative in which a son deposed or disposed of his father would
+produce considerable guilt. Thus, according to Rank, the child's
+wish to get rid of the father is neatly transposed in the myth to the
+father's getting rid of the child. Rank called this projection, but I
+would call it projective inversion. The son's wishful thinking is
+projected in inverted form so that the father does everything he
+can to kill the son. One obvious advantage of such projective inver-
+sion is the avoidance of guilt. The son need not feel guilt for want-
+ing to get rid of his father inasmuch as the traditional fantasy
+26 Otto Rank, The Myth of the Birth of the Hero (New York, 1959), p. 81.
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+1522 ALAN DUNDES
+projects the 'crime' and the presumed responsibility for the crime
+upon the victim. Projective inversion permits one to blame the
+victim. Rather than feeling guilt, the son-hero can justifiably take
+Oedipal style revenge and kill the villainous father figure.
+In the psychological literature, it seems that both kinds of projec-
+tion, that is, direct translation from inner thoughts to outward man-
+ifestation, as well as what I am calling projective inversion, fall
+under the same general rubric of projection. Freud, for example,
+in his 1911 paper, "Psycho-Analytic Notes upon an Autobiographi-
+cal Account of a Case of Paranoia," remarks how the "proposition 'I
+hate him' becomes transformed by projection into another one: 'He
+hates (persecutes) me, which will justify me in hating him'."27 I would
+call the transposition of'I hate him' into 'He hates me' an example
+of projective inversion. Moreover, in terms of a possible generative
+grammar of folktales, one could imagine predictable rewrite rules
+governing when a taboo-laden wish would be transformed-active
+to passive, subject to object. Instead of the hero or heroine doing
+something to a parent surrogate or sibling, the rival does that very
+thing to the hero or heroine. Boys wishing to eliminate father fig-
+ures can be rewritten as kings-fathers attempting to eliminate
+sons. Girls wishing to eliminate mother figures can be rewritten as
+queens-stepmothers attempting to eliminate daughters.
+Insightful as Rank was with respect to the Oedipal features of the
+standard Indo-European hero pattern, he seems to have missed the
+analogous projective inversion in heroine (Electra) narratives.
+Rank says, for example, "The father who refuses to give his daugh-
+ter to any of her suitors, or who attaches to the winning of the
+daughter certain conditions difficult of fulfillment, does this be-
+cause he really begrudges her to all others, for when all is told he
+wishes to possess her himself. He locks her up in some inaccessible
+spot, so as to safeguard her virginity."28 It is not at all clear why
+27 Sigmund Freud, Collected Papers, III (New York, 1959), p. 449. I have no
+desire to become embroiled in any controversy over terminology. My impression
+is that psychologists may not have sufficiently differentiated various subtypes of
+projection. Bellak has proposed the term "inverted projection" to refer to in-
+stances where reaction formation takes place prior to outward projection. Thus
+"I love him" becomes "I hate him" through reaction formation and then "I hate
+him" becomes "He hates me" through projection. See Gardner Lindzey, Projective
+Techniques and Cross-Cultural Research, pp. 29-30.
+28 The Myth of the Birth of the Hero, p. 80.
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+M L N 1523
+Rank is willing to accept the literalness of a father's concupiscence
+for his daughter but not his presumed hatred of his newborn son.
+If we examine a typical Electral folktale, e.g., tale type 706, The
+Maiden Without Hands, we find projective inversion. The typical
+girl's wish to eliminate her mother and marry her father is expressed
+in projective form. The mother dies (not through any fault of
+the girl) and the father wants to marry someone just like the dead
+mother. After some search, he decides to marry his own daughter.
+In the folktale, the heroine cuts her hands off because she will not
+marry her father. Why should the heroine take this drastic action?
+Those who would claim that the father's incestuous wish to marry
+his daughter is a literal reflection of reality ought to offer some
+explanation for the daughter's act of cutting her hands off. In part,
+it might be a macabre literalization of a metaphor insofar as the
+father has asked for his daughter's hand in marriage. But one diffi-
+culty with this literal approach is: why should the daughter be
+punished for the father's crime? On the other hand, if we assume
+this might be an instance of projective inversion, then the father's
+wish for the daughter is in fact an expression of the daughter's
+unconscious wish for the father. This would explain why it is the
+daughter, not the father, who is punished. Hands are commonly
+used in initiating masturbatory fantasy and therefore they might
+provide appropriate 'sinning' objects to be punished.
+The rationale for the punishment of the girl is also relevant to
+the fate of Cordelia in Shakespeare's King Lear. Critics have been
+troubled by Cordelia's death. In the majority of the literary ver-
+sions of the plot, Cordelia takes her own life. King Lear is derived
+ultimately from "Love Like Salt" (tale type 923) which in turn is an
+abridged version of a major form of the Cinderella cycle, namely
+tale type, 510B, The Dress of Gold, of Silver, and of Stars (Cap o'
+Rushes). As in tale type 706, The Maiden Without Hands, an appar-
+ently lecherous father wants to marry his daughter. But if this
+father-daughter incest is a projective inversion of a daughter's sex-
+ual desire for her father, then the 'original' sin is Cordelia's and
+Lear truly is "a man more sinn'd against than sinning." From this
+perspective, Cordelia's triumph over her dead mother and her two
+sibling rivals for the final exclusive attention of her father is a
+punishable offense. Incidentally, the adaptation of this projective
+inversion (tale type 510B) by Shakespeare means that King Lear is a
+girl's fairy tale told from the father's point of view.
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+1524 ALAN DUNDES
+In some versions of tale type 706, the maiden's hands are
+miraculously restored, sometimes through the intervention of the
+Virgin Mary herself. In the present context, it is worth remarking
+that the Virgin Mary could be construed as a religious projection of
+a young girl who is impregnated by a heavenly father. Christian
+mythology, of course, has an Oedipal projection to go along with
+the Electra projection. A hero who is born of a virgin mother may
+represent the Oedipal ideal. As Rank observed, a virgin mother
+means that one's father did not succeed in gaining sexual access to
+one's mother. Moreover, the doctrine of consubstantiation claims
+the son and the father are one, the begotten is the begetter.
+Through this projection, one is doubly protected: one's mother is
+virgin, and one is in some sense interchangeable with one's father.
+According to this argument, Christian mythology is an ideal projec-
+tion for European family structure, containing as it does both Oed-
+ipal and Electral components. For those who are skeptical about
+viewing mythological beings as projections of human beings, I
+might mention that it is not only in Christianity that one finds
+explicit references to god the father, among other kinship ter-
+minological parallels. The ruling god of the Roman pantheon was
+Jupiter whose name includes "piter," surely cognate with one of the
+most widespread Indo-European roots, namely the one for father,
+including Sanskrit "pitar-" and Latin "pater."29
+Let me give an additional example of projective inversion
+from modern American legend. The gist of the legend is a re-
+port that Negro youths have castrated a young white boy in a
+public bathroom. Like all legends, it is told as true, and in fact
+several years ago (1969) it was reported repeatedly by telephone
+to various police stations in San Francisco. The legend's sudden
+popularity was almost certainly related to the discussion of the
+bussing of school children in San Francisco to achieve desegre-
+gation. Now historically one may ask which race has castrated
+which race? It is surely whites who castrated blacks as punish-
+ment for actual or imagined crimes. But in this exemplar of
+urban folklore, through projective inversion, the whites have
+metamorphosed their own fears of the stereotyped super-phallic
+Negro male into a form where their victim becomes the aggres-
+29 Carl Darling Buck, A Dictionary of Selected Synonyms in the Principal Indo-
+European Languages (Chicago, 1949), p. 103.
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+M L N 1525
+sor. The wish to castrate black males is projected to those males
+who are depicted as castrating a white boy. This makes it possi-
+ble to blame the black victim for the crime the white would like
+to commit. Just as in the myth of the birth of the hero, the
+wisher can through projective inversion punish in fantasy not
+himself but the victim of his aggression. It is the evil parent
+(king, giant) who is guilty, not the child. It is the black who is
+guilty, not the white.
+It was no mere coincidence that the increased circulation of
+the legend in the San Francisco Bay Area occurred at the same
+time bussing was being discussed. This raises, once again, the
+question of the interrelationship of historical event to folkloristic
+projective fantasy. Some scholars tend to feel that historical and
+psychological approaches are mutually exclusive, but I believe
+this to be a serious error. Frequently a historical event may re-
+kindle an old projection or inspire a new one. It has been
+suggested, for example, that the elephant joke cycle of the early
+1960's might be related to the rise of the Civil Rights movement
+of the same period. Elephants, like blacks, are associated by
+whites with African origins. In the joke cycle, elephants were
+typically described in terms of color "Do you know why
+elephants are gray? So you can tell them from bluebirds" and
+in terms of making phallic leaps down from trees upon unsus-
+pecting victims "Why do elephants climb trees? To rape squir-
+rels." The Civil Rights movement aroused longstanding fears
+among whites that the superphallic militant Negro male might
+assert himself with respect to former white oppressors. As men-
+tioned in the analysis of the previous legend, castration, sym-
+bolic or literal, is one solution. How do you keep an elephant
+from charging? Take away his credit card. How do you keep an
+elephant from stampeding? Cut his 'tam peter off.30
+In the same way, I believe it is possible to show historical roots for
+other recent American folkloristic phenomena. For example, the
+spate of "dead baby" jokes in the early 1970's provides a challeng-
+30 For a more complete analysis of the elephant joke cycle, see Roger D.
+Abrahams and Alan Dundes, "On Elephantasy and Elephanticide," Psychoanalytic
+Review, 56 (1969), 225-241, reprinted in Dundes, Analytic Essays in Folklore, pp.
+192-205. Incidentally, the play on "color" might be another example of the
+literalization of metaphor occurring in folkloristic projections.
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+1526 ALAN DUNDES
+ing instance. What's red and hangs from the ceiling? A baby on a
+meathook. What's red and sits in the corner? A baby chewing on a
+razor blade. It is never easy to make sense of nonsense, but that
+does not mean that nonsense is meaningless. These jokes told by
+post-pubertal adolescents may reflect simple sibling rivalry, but
+that would not explain why this particular cycle became so popular
+in the early 1970's. Sibling rivalry, after all, has presumably always
+existed. I would hazard a guess that new techniques of contracep-
+tion (including the pill) and especially the liberalized laws govern-
+ing abortion have generated more discussion (and guilt) concern-
+ing the "murder" of babies. Contraception and abortion measures
+may have encouraged a higher incidence of sexual activity among
+teenagers and this might also account for the expression of literally
+murderous wishes that babies be eliminated.
+Perhaps a more graphic example of the connection between his-
+torical events and folkloristic fantasy is "streaking." Streaking con-
+sists of one or more persons running naked through a public place.
+Is it only coincidence that it became a national phenomenon during
+the Watergate political scandal of the 1970's? I would argue that
+streaking is a projective protest against the Watergate cover up.
+Whatever individualistic exhibitionistic impulses streaking may
+have fulfilled, it also served to emphasize the demand that Water-
+gate details be uncovered or disclosed publicly. Accordingly, it
+might be possible to say that streaking is in part a ritual literaliza-
+tion of a metaphor. It is certainly interesting that once the Water-
+gate coverup was stripped away, streaking stopped.
+Whether or not a particular joke cycle, legend, or public ritual
+derives from a historical impetus is not crucial for the present
+argument. The issue is whether or not there is a projective aspect to
+the collectivized forms of fantasy we call folklore. If there is such an
+aspect, then I believe there are important implications for semiotics
+which, as I have noted previously, tends to concentrate upon rules,
+formulas, binary paradigms, and the like. If one examines the
+gamut of semiotic studies which have been made thus far, one can
+see that the projective aspect has been almost totally ignored. For
+example, one of the finest examples, in my opinion, of semiotic
+analysis is Paul Bouissac's insightful descriptions of various circus
+acts. In his essay "Poetics in the Lion's Den: The Circus Act as a
+Text," Bouissac analyzes the constituent elements of a lion act per-
+formance. He even describes some of the many standard tricks as
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+M L N 1527
+metaphorical, e.g., the lion walks in the center of the ring to be
+ridden by the man, or the lion straddles two stools allowing the man
+to bend under him and carry the lion on his shoulders. Bouissac's
+analysis is fine as far as it goes.31 My point again is that semiotics
+seems to stop with description, classification, and typology whereas
+description, classification and typology ought to be beginnings not
+ends. Circus acts, like zoological gardens, involve man's attitude
+towards animals and towards animality-including human animal-
+ity. Part of the thrill and pleasure in circus and zoo is the implicit
+struggle of man versus animal. The animals are caged and kept in
+check, just as man's own animal nature is supposed to be. Yet there
+is always the possibility, the danger, or the risk one could call it, that
+the animal will escape the bonds of man or to put it metaphorically
+that emotion and passion will escape the bonds of reason.32 One of
+the techniques used to keep the animal or animality in check con-
+sists of requiring the animal, in this case, a lion, to perform human
+acts. In terms of projective inversion, one is tempted to suggest that
+although men would like to yield to "animal" desires and to per-
+form animal acts, this is not a guilt-free wish. Hence, through in-
+version, it is pretended that animals would like to be like humans.
+The more human the behavior performed by the animal, the more
+complete the projective inversion. The inversion is hinted at by
+such tricks in which the animal is first ridden by the man and then
+later is carried by the man. The latter trick would appear to reverse
+the normal roles of man and beast. Whether or not my particular
+analysis of a lion's act in terms of projection is valid, the issue it
+seems to me is the necessity of adding a consideration of projection
+to conventional semiotic analysis.
+In my view, psychoanalytic semiotics could be applied to a wide
+31 Paul Bouissac, "Poetics in the Lion's Den: The Circus Act as a Text," Mod-
+ern Language Notes, 86 (1971), 845-857. For other essays by Bouissac, see "Pour
+une semiotique du cirque," Semiotica, 3 (1970), 93-120; "On Jugglers and Magi-
+cians: Some Aspects of the Semantics of Circus Performances," Journal of Sym-
+bolic Anthropology, 1 (1973), 127-145.
+32 Ujamlal Kothari in his brief essay, "The Animals and Their Symbolic Mean-
+ings," American Imago, 19 (1962), 157-162, tends to be a bit simplistic and overly
+doctrinaire. In the American rodeo, he sees the cowboy as ego with the wild
+animals (horse, bull) as id. In the circus animal show, he similarly labels the
+trainer as ego and the animals as id. Nevertheless, his attempt to view rodeo
+and circus acts as projections of individual psychology helped stimulate my
+analysis of Bouissac's data.
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+1528 ALAN DUNDES
+variety of phenomena, folkloristic and otherwise. One could, for
+example, imagine such a study of the bullfight. But besides study-
+ing the structure of the bullring or the social hierarchy of the
+various participants, one could also perceive the matador versus
+the bull as a projection. It is not just man versus animal, culture
+versus nature, but a projection of traditional male rivalry in
+Spanish (and other Mediterranean) cultures. In a homosexual bat-
+tle of masculinity, it is critical just who penetrates whom. If the
+matador penetrates the bull properly, then the bull becomes
+feminized (as symbolized by having one or more of his extremities
+(tail, hoofs) cut off as trophies.)33 As a projective drama, the
+bullfight is a ritualized cognate of ordinary verbal dueling as found
+among adolescent youths. In fact, we have similar ritual behavior in
+American culture.
+One of the most common gestures, obscene or nonobscene, in
+the United States consists of giving a rival or enemy the "digitus
+impudicus" better known in folk parlance as "the finger." There
+are endless variations in style and technique to "flipping the bird"
+as it is termed in California, but the overall impact of the insult is
+the same. Yet I suspect that relatively few Americans have ever
+thought about precisely what the gesture signifies. It is enough to
+know that to be the addressee of such a gesture constitutes suffi-
+cient grounds to reply in kind or to engage in a physical fight. A
+whole host of lesser phallic gestures share a similar import-I refer
+to sticking out one's tongue or thumbing one's nose, often termed
+the Shanghai gesture.34 The words which as often as not accom-
+pany the gesture make the meaning fairly clear, e.g., fuck you,
+screw you, up yours, etc. Strangely enough, even professional stu-
+dents of obscenity appear to have missed the underlying semiotic
+significance of this gesture cum locution. Since the famous four
+letter word refers to a pleasurable act, Sagarin in The Anatomy of
+Dirty Words, argues that to tell someone "go fuck yourself' as an
+insulting order is absurd. He quotes Albert Ellis to the effect that it
+would be more appropriate to give the command "go unfuck your-
+33 John M. Ingham, "The Bullfighter: A Study in Sexual Dialectic," American
+Imago, 21 (1964), 95-102.
+34 For relevant scholarship, see Archer Taylor, The Shanghai Gesture, FFC 166
+(Helsinki, 1956), reprinted in Taylor, Comparative Studies in Folklore: Asia-Europe-
+America (Taipei, 1972), pp. 293-366.
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+M L N 1529
+self."35 What Sagarin and Ellis seem not to understand is that the
+basic gesture signifies that the addressee is a passive homosexual.
+To be the recipient of the phallic finger is to assume the 'female'
+position or role. The idiom "to put someone down" reflects the
+winner's stance while "to get the shaft" reflects the loser's. When an
+opponent is urged to carry out the act all by himself, passive
+homosexuality is coupled with implied imaginary masturbatory be-
+havior. I might also mention that the present analysis of this ex-
+tremely common gesture would explain why the word "ass" can
+refer both to a woman's genitals (as in "a piece of ass") and to the
+buttocks area-of a male (as in "I'm going to kick your ass.")
+For those who think that such types of symbolic phallic fighting
+are unusual, I would call their attention to the existence of compar-
+able ritual phenomena in many other cultures. The cock fight, a
+Balinese version of which was so admirably analyzed by Geertz,
+showed how handlers attached spurs consisting of "razor sharp,
+pointed steel swords, four or five inches long" to the legs of their
+cocks with the hope of annihilating the cocks of their opponents.36
+From the point of view of symbolic projection, the cockfight is
+isomorphic with kite-fighting in which men attach broken glass to
+their kite strings and then once the kites are aloft, the men ma-
+neuver so as to sever the kites of their rivals.
+The possibility of identifying projective isomorphisms in
+folkloristic fantasies opens up a new dimension in the study of
+folklore. Folkloristic phenomena which may be historically unre-
+lated may nevertheless share a common projective structure and
+function. For example, I earlier alluded to George Washington as
+35 Edward Sagarin, The Anatomy of Dirty Words (New York, 1962), p. 143.
+Some of the scholarship on the word includes Allen Walker Read's essay, "An
+Obscenity Symbol," American Speech, 9 (1934), 264-278, and Leo Stone, "On the
+Principal Obscene Word of the English Language," International Journal of
+Psycho-Analysis, 35 (1954), 30-56. If I were as speculatively venturesome as
+Stone, I might propose that the "cul" in the word "masculine" were related to
+the Latin root "culus" for buttocks, implying that a man as opposed to a boy
+exercised complete control over his anal area, that is, he kept it safe from
+homosexual phallic attack. For a Turkish example of this widespread Mediter-
+ranean ritual means of proving one's masculinity, see Alan Dundes, Jerry W.
+Leach, and Boar Ozk6k, "The Strategy of Turkish Boys' Verbal Dueling
+Rhymes," Journal of American Folklore, 83 (1970), 325-349.
+36 Clifford Geertz, "Deep Play: Notes on the Balinese Cockfight," Daedalus,
+101 (1972), 1-37, reprinted in Geertz, The Interpretation of Cultures (New York,
+1973), pp. 412-453.
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+1530 ALAN DUNDES
+our founding father. Why do we Americans have founding fathers
+and no founding mothers? In the various recountings of the
+"birth" of our nation, we invariably find references to forefathers
+and founding fathers. This reflection of male chauvinism goes back
+to Old World folkloristic projections which not only consistently
+deny women's role in procreation, but which in fact insist upon
+depicting men as fulfilling the role singlehandedly.
+In a "man's world," women themselves are defined in terms of
+men. Before marriage, a girl is in theory a "virgin," a term evi-
+dently derived from the Latin word for man (vir).37 If to be mar-
+ried, a woman gives up her maiden name which is, of course, her
+father's name, and exchanges it for her husband's name. At her
+wedding, she is pronounced "wife" in the phrase "man and wife."
+Wife is a term like woman which is defined in relationship to man,
+e.g., with man. (It is theoretically possible for the pronouncement
+to have been "man and woman" or even "woman and husband.")
+The linguistic derivation of "woman" from "man" is also literally
+expressed in mythic projective form as in the creation of Eve from
+Adam's rib. But the irony is that even though woman may derive
+from man, man in fantasy tries to become a womb-man, that is, a
+man with a womb. In an Old Testament setting where the most
+famous bosom belongs to Abraham, it is no surprise to learn of
+Noah's construction of a womb-like ark which floats in a flood for
+approximately nine months. Similar examples abound in classical
+mythology. One might mention the sowing of dragon's teeth to
+produce all-male offspring, or the marvelous creation of Athene
+from the brow of Zeus, making her a truly literal male brainchild.
+The bolstering of male egos via folkloristic projections continues in
+modern America. A rotund Santa Claus delivers gifts down our
+chimneys, the very same chimneys through which male storks de-
+liver the babies they carry! Perhaps an even more striking male
+usurper of female procreativity is the Easter Bunny who delivers
+eggs! These various and sundry folkloristic projections are clearly
+not historically related-there is no connection between the stork as
+the bringer of babies and the Easter Bunny. But from the perspec-
+tive afforded by psychoanalytic semiotics, they may be seen as shar-
+ing common projective content.
+37 If "gin" were understood as a snare or net, then a virgin would be literally
+a 'man trap'! In any case, words like virgin and virago indicate that women are
+described using men as a basic frame of reference.
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+M L N 1531
+There is yet one additional point I should like to make about
+projection in folklore. I fear I may have implied that viewing
+folklore as projective material is a mechanical, reductionistic
+technique. Quite the contrary is the case, for there is great variety
+in the projective dimensions of even a single item of folklore. One
+may recall that I began this whole discussion with the statement
+that folklore means something and that it may mean different
+things to different performers and to different audiences. To the
+extent that all artistic creativity is autobiographical, all artistic
+creativity is projective. Moreover, the way in which individuals in-
+terpret artistic creativity is also autobiographically projective. Each
+age and each individual in an age is free to interpret art, music, and
+literature anew. And so it is with folklore. It is not simply a matter,
+then, that folklore as fantasy contains projective material. Each
+individual who tells a tale or who hears a tale cannot help but
+project his own personality into that tale. This is why the study or
+projection in folklore cannot be limited to the text alone. The pro-
+cess of projection also occurs in the very act of communicating an
+item of folklore.
+Let me illustrate the multiplicity of meanings or the projective
+potential of a single text with a final example. This text was related
+to me in 1964 by a black male informant from Alabama. "Governor
+Wallace of Alabama died and went to heaven. After entering the
+pearly gates, he walked up to the door of a splendid mansion and
+knocked. A voice inside exclaimed, "Who dat?" Wallace shook his
+head sadly and said, "Never mind, I'll go the other way." First of all,
+the item is older than 1964 inasmuch as a similar joke was told
+during World War II with Adolf Hitler as the protagonist con-
+fronted by a voice in heaven with a pronounced Jewish accent. In
+the present version, the projective aspects include the wishful
+thinking (for Wallace's death) and Wallace's being sent to hell by his
+own prejudice. The historical fact of Governor Wallace's having
+stood dramatically at the door of the University of Alabama to deny
+admission to black students is also relevant (as is no doubt the
+context of a black informant telling the joke to a white folklorist).
+But the joke may function as a projective text for whites as well as
+blacks. What is understood by individual whites when they hear the
+stereotyped dialect "Who dat?" Clearly the implication is that a
+Negro is inside the mansion. But individuals differ markedly as to
+the identity of the Negro voice. Some think it is God; others think it
+might be Saint Peter. A few assume it is a doorman or gatekeeper
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+1532 ALAN DUNES
+or other menial. The joke itself does not say. I would argue that it is
+projection on the part of the interpreter in making ajudgement as
+to the identity of the speaker. Similarly, some whites claim they
+understood from "Who dat?" that heaven is now integrated, while
+others assumed that heaven has been completely "taken over" by
+Negroes. None of this is articulated in the joke proper, but it is part
+of the joke as semiotic text. Folklore is not only projective material,
+but it allows if not encourages projection on the part of participants
+in the act of communicating folklore. In fact, I would go so far as to
+argue that if folklore did not provide a socially sanctioned outlet
+for projection, it would almost certainly cease to exist. The problem
+in folkloristics is that while we have literally thousands upon
+thousands of folklore texts recorded-think of all the folktales,
+folksongs, and legends in print, the projective part of the semiotic
+text has not been recorded and so it is that we continue to have lore
+without reference to folk.
+If the interpretation or understanding of a folkloristic item also
+involves projection, then it is perfectly obvious that scholarship in
+general has a projective aspect. Maybe there are even national
+characterological tendencies in scholarship just as there are un-
+questionably individual idiosyncratic biases at work no matter how
+purportedly objective any scholar claims to be. This means that
+there could be a personal projective aspect to my present argument
+that folklore fantasy may be based upon projection. Yet if there is
+truth in dreams, then there may be truth in dreams within dreams
+as well. So whatever my personal need may be to interpret folklore
+in terms of projection as opposed to listing identifying motif num-
+bers or segmenting folkloristic discourse into elegant syntagmatic or
+paradigmatic schemata, I would hope that there is notwithstanding
+some objective validity to the notion of treating folklore as projective
+material.
+From this all too cursory consideration of selected examples of
+jump rope and nursery rhymes, fairy tales, legends, and rituals, I
+have tried to show that projection is an inherent feature of folklore.
+Whether the issue is sibling rivalry, Oedipal or Electral impulses,
+male envy of female procreativity, or racism, projection offers a
+guilt-free means of exploring the problem. If semiotics is to be-
+come a seminal science of signs and symbols, it must be willing and
+able to analyze fantasy as fantasy, that is, in terms of projection. For
+humans, projection provides protection. Folklore although collec-
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms
+
+M L N 1533
+tivized fantasy does meet the psychological needs of individuals.
+Indeed it is literally and figuratively custom-made for the purpose.
+If projection provides a means of translating inner thoughts into
+outer expression, then psychoanalytic semiotics ought to try to
+show from close analysis of such expressions what these inner
+thoughts are. By this means, psychoanalytic semiotics could become
+a kind of magic lantern which might afford new illumination for us
+in our unceasing quest to study and enjoy some of the marvels of
+the mind of man.
+University of California, Berkeley
+This content downloaded from 5.151.133.4 on Fri, 14 Feb 2025 08:27:14 UTC
+All use subject to https://about.jstor.org/terms

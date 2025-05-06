@@ -1,0 +1,84 @@
+4 
+An Overview of 
+Psychological 
+Measurement 
+JUM C. NUNNALLY 
+I. Introduction 
+Because this book is being written for clinical psychologists, psychiatrists, and kin-
+dred professionals, in this chapter it will be assumed that the reader is already famil-
+iar with fundamental issues relating to behavioral measurement and, consequently, 
+that there will be no need to discuss low-level principles. Rather, the discussion will 
+center on controversial issues that are of immediate importance to the professional 
+clinician or researcher in the behavioral sciences. Whereas the examples chosen for 
+this chapter to illustrate principles of measurement are particularly applicable to 
+clinical diagnosis, the principles are quite general to empirical science. Because some 
+methods of statistical and mathematical analysis are intimately related to the de-
+velopment and use of measurement methods, critical comments will be made about 
+some prominent approaches to statistical analysis, but details regarding their ap-
+plications will be left to referenced sources rather than be discussed in detail here. 
+(Any reader who is not already familiar with fundamental principles of psychomet-
+ric theory and analysis, or would like a refresher course in that regard, might want 
+to consult my book Psychometric Theory, 1978.) 
+I started writing about the generality of measurement problems in science and 
+the usefulness of related methods of mathematical analysis long before I had the 
+actual experience to substantiate the case, e.g., in my first book on psychological 
+measurement (1959). I sensed this generality of principles, and, more importantly, 
+I was told this was so by older and wiser hands who specialized in various aspects 
+of psychological measurement, e.g., in the lectures of the great L. L. Thurstone. As 
+I gradually became involved as a consultant or participant in some manner or 
+another in a wide variety of projects, I came to realize how genuinely true such state-
+JUM C. NUNNALLY • 
+Department of Psychology, Vanderbilt University, Nashville, Tennessee 
+37203. 
+97 
+B. B. Wolman (ed.), Clinical Diagnosis of Mental Disorders
+© Plenum Press, New York 1978
+
+98 
+JUM C. NUNNALLY 
+ments are regarding the generality of measurement methods and attendant meth-
+ods of analysis. I have found similar principles to apply in an extremely wide vari-
+ety of scientific issues in psychology, psychiatry, numerous fields of medicine, and 
+law, and in special issues in the physical sciences and engineering, particularly bio-
+medical engineering. Indeed, I have been surprised at the commonality of issues re-
+garding psychological measurement that runs through these various disciplines. I 
+have been even more surprised to find that some research issues regarding what I 
+had thought of as "psychometrics" were more easily testable on physiological vari-
+ables such as brain waves and pupillary response than on more conventional psy-
+chological measures such as achievement tests in arithmetic and personality inven-
+tories relating to adjustment. 
+1.1. Science and Clinical Art 
+A great deal of ink has been spilled and unkind words have been said regard-
+ing the requirements for psychometric methods in research as opposed to clinical 
+practice. Amid unseemly snickers, basic researchers (primarily those who specialize 
+in psychometrics) claim that many of the clinicians' would-be measures lack the 
+refinements of standardization, with all the name implies, and that many of them 
+are at the level of crystal-ball gazing and soothsaying psychologizing. With indig-
+nant response, the clinicians have claimed that many of the supposedly well-honed 
+tools of the basic researchers concern only surface-layer trivia and fail to touch the 
+deep richness of human psychological processes. When the partisan rudeness is 
+wrung out of them, both points of view contain a germ of truth; and the outlooks 
+on psychometric theory and analysis for basic science and clinical practice should 
+be compatible. 
+The squabbles about measurement methods and indeed the inherent problems 
+of measurement themselves relate to the fact that it simply is difficult to study peo-
+ple. The basic scientist is frequently frustrated by the inability to conduct experi-
+ments that produce interesting results, and the clinician is frequently frustrated by 
+the intractability of patients to be understood or to lend themselves to successful 
+treatment. Although psychological phenomena are the most intriguing with which 
+any basic researchers or clinical practitioners deal (indeed, one finds this sentiment 
+expressed by people in disciplines far removed from the behavioral sciences), work-
+ing in the people-oriented disciplines requires tolerance of ambiguity and the abil-
+ity to operate on low-percentage-of-reward schedules. The difficulties of finding 
+adequate measurement methods for prominent theoretical constructs have had 
+some adverse effects on at least some individuals in both basic science and applied 
+work, or at least so it would seem from my own personal contacts and what is said 
+in print. Some of the more hard-nosed, brass-instrument, basic researchers in psy-
+chology (some of the very best ones, so I would judge) have retreated into the study 
+of extremely simple processes relating to memory, reaction time, and perception-
+as much or more because the phenomena are easily subjected to measurement and 
+experimental control as because they are intrinsically interesting to the investiga-
+tors or anyone else. In contrast, some of our clinical brethren, in despair of finding 
+standardized measures of truly meaningful human attributes, have retreated into a 
+holistic, existential jargon. In this heady atmosphere, one is not sure whether the 
+goal is to develop clinical practice, a new religion that considers Zen Buddhism as
