@@ -1,0 +1,693 @@
+Citation: Liu, Y.; Jia, L.; Xiao, J.; Chen,
+Q.; Gan, Q.; Huang, J.; Zhu, X.;
+Zhang, C.; Wan, C. The Subjective
+Well-Being of Elderly Migrants in
+Dongguan: The Role of Residential
+Environment. Trop. Med. Infect. Dis.
+2022, 7, 199. https://doi.org/
+10.3390/tropicalmed7080199
+Academic Editor: John Frean
+Received: 14 July 2022
+Accepted: 17 August 2022
+Published: 21 August 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright:
+© 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Tropical Medicine and 
+Infectious Disease
+Article
+The Subjective Well-Being of Elderly Migrants in Dongguan:
+The Role of Residential Environment
+Yuxi Liu 1,2,†, Li Jia 1,†, Junhui Xiao 1,2, Qin Chen 1,2, Qihui Gan 1,2, Jie Huang 1,2, Xianglei Zhu 1,
+Chichen Zhang 3,4,5,* and Chonghua Wan 1,6,*
+1
+School of Humanities and Management, Guangdong Medical University, Dongguan 523808, China
+2
+Institute of Health Law and Policy, Guangdong Medical University, Dongguan 523808, China
+3
+School of Health Management, Southern Medical University, Guangzhou 510515, China
+4
+Institute of Health Management, Southern Medical University, Guangzhou 510515, China
+5
+Department of Health Management, Nanfang Hospital, Guangzhou 510515, China
+6
+Research Center for Quality of Life and Applied Psychology, Guangdong Medical University,
+Dongguan 523808, China
+*
+Correspondence: zhangchichen1105@smu.edu.cn (C.Z.); wanchh@gdmu.edu.cn (C.W.)
+†
+These authors have contributed equally to this work.
+Abstract: To examine the association between community and individual-level residential envi-
+ronment in relation to subjective well-being (SWB) amongst 470 elderly migrants in China, this
+community-based survey was conducted. The manner and extent to which the SWB of these elderly
+migrants is inﬂuenced by their residential environment was the main area of focus. The Scale of
+Happiness of the Memorial University of Newfoundland was used to assess SWB. SWB was found
+to be associated signiﬁcantly with environmental factors such as social cohesion, closeness to the
+nearest facility of recreation, the density of recreation facilities, ﬁnancial facilities, and health facilities.
+The health facility density (B = 0.026, p < 0.001) and recreation facility density (B = 0.032, p < 0.001)
+had positive associations with SWB, while ﬁnancial facility density (B = −0.035, p < 0.001) had a
+negative association. The primary determinants of SWB for elderly migrants ranged from individual
+to environmental factors. Through the enhancement of the accessibility to healthcare facilities in their
+new homes, in addition to promoting recreational activities and social services, the SWB amongst
+elderly migrants could be enhanced further.
+Keywords: subjective well-being; residential environment; elderly migrants; China
+1. Introduction
+With the development of high-quality cities in China, the pursuit to improve people’s
+life and happiness has gradually replaced the simple yearning for wealth. Enhancing
+people’s subjective well-being (SWB) has become an important goal of the current govern-
+ment’s livelihood construction. SWB is an important psychological index of individual
+quality of life, and the term includes affective states, valuations of quality of life of different
+people, their residential environment, and the events they encounter [1]. The term SWB was
+ﬁrst introduced by Edward Diener in 1984 as being central to a person’s experience, consist-
+ing of positive aspects, and a global assessment of a person’s life [2]. In 1995 he modiﬁed
+this deﬁnition by also including cognitive evaluations or appraisals of life satisfaction as a
+whole, and emotional reactions to life events [3]. In 2006 he developed the latest version,
+identifying SWB as a term for different valuations of people’s quality of life, the events that
+happen to them, their physical and mental health, and the circumstances in which they
+live [4]. Issues regarding the SWB of the elderly have been garnering more attention lately,
+as the rapid aging of the population has increasingly become a social challenge [5,6].
+There are many factors that affect older adults’ SWB. However, the evidence regarding
+the inﬂuence of the factors of residential environment on the SWB of elderly migrants has
+Trop. Med. Infect. Dis. 2022, 7, 199. https://doi.org/10.3390/tropicalmed7080199
+https://www.mdpi.com/journal/tropicalmed
+
+Trop. Med. Infect. Dis. 2022, 7, 199
+2 of 9
+been limited, unlike that regarding individual resources, and most studies have focused
+on the association between an individual’s attributes and SWB [7,8]. In fact, residential
+environment can have a substantial impact on elderly SWB, as they become less mobile due
+to deteriorating health status and because they tend to spend more time in their residential
+community [9–11]. Previous studies have conﬁrmed that residential environment has a sig-
+niﬁcant positive effect on SWB [8,12]. Liu et al., another study based in China, reported that
+residential environments have a stronger impact on SWB than do individual attributes [7].
+The major environmental factors of SWB included residential environments of good quality
+with better socio-economic background in the neighborhood and ease of accessibility to
+basic facilities. The SWB of the older adults is highly inﬂuenced by the social and physical
+environments, as conﬁrmed by several studies in this regard [7,8]. The physical aspect of a
+residential environment mainly focuses on the role of accessibility to local amenities, such
+as healthcare centers, banks, and parks, all of which are the locus of most material facilities
+related to older adults’ well-being [7,8,13]. For instance, good accessibility to green parks
+can provide an open, natural public space, which positively impacts SWB. The accessibility
+of a residence to the city center inﬂuences residents’ abilities to easily enjoy various services
+and improve residents’ SWB. The social aspect of the residential environment encompasses
+interpersonal relationships and neighborhood characteristics [14,15]. For instance, social
+cohesion, a measure of an individual’s social environment, can also inﬂuence individual
+health and SWB [8,16].
+Internal migrants, people who travel a substantial distance but within the country,
+account for approximately 18% of the total population in China, and 7% of these internal
+migrants, or approximately 18 million people, are elderly [17]. The number of elderly
+migrants has grown rapidly in recent years due to the persistence of internal migration
+and aging trends in China [7,17]. Neglecting the elderly migrants having migrated to new
+cities, the majority of the earlier studies concentrated on the SWB of either the rural elders
+or the local elders in China [18,19]. Older adult internal migration is expected to be a
+universal phenomenon in China soon, which may affect the health of elderly migrants [5].
+Policymakers should be aware of the situation, especially on the implications for elderly
+migrants’ SWB. However, it is only recently that evaluating elderly migrants’ SWB has
+received academic attention. These migrants were not provided the services and social
+beneﬁts enjoyed by the local residents, as a result of the “hukou” restriction, a registry
+system of the households in China [5,20]. Impacting the well-being of the elderly migrants
+in a much higher manner as compared to the other local elders, the “hukou” system
+inﬂuenced inequality amongst the migrants [20,21]. Due to the environmental inequities
+and the difﬁculty of the migrants to adapt to the new cities (like interacting with neighbors),
+the elderly migrants of China were found by Gao et al. to display lower levels of SWB
+compared to the other local elderly (e.g., unequal access to healthcare facilities, social
+services, and resources) [20,22].
+In addition to being interrelated and inﬂuencing each other, the social and physical
+environments also are hypothesized to inﬂuence SWB and health issues [23,24]. Hence,
+at both the community and the individual levels, it is imperative to measure residential
+environmental characteristics. Nevertheless, there has been very little effort towards the
+integration of these multi-level SWB factors, with the existing studies focusing on just one
+such level [18,24]. Applying a multilevel perspective, this study endeavors to ﬁll in the
+knowledge gaps, assessing the factors that inﬂuenced the SWB of the elderly migrants. This
+study aimed to identify the determinants of subjective well-being of elderly migrants at
+the individual and environmental levels. The manner and the extent to which the SWB of
+elderly migrants is inﬂuenced by residential environments was the speciﬁc focus of this
+study. Our ﬁndings will provide useful information to help policy-makers devise suitable
+strategies to improve the SWB of elderly migrants in China by making appropriate changes
+to their residential environments.
+
+Trop. Med. Infect. Dis. 2022, 7, 199
+3 of 9
+2. Materials and Methods
+2.1. Study Design and Setting
+Between December 2018 and December 2019, a community-based questionnaire survey
+was conducted in Dongguan, an industrial city in the Guangdong–Hong Kong–Macau
+Greater Bay, in South China. The Dongguan area was identiﬁed for two speciﬁc reasons for
+this study. First, the largest migrant population of China resided in Dongguan. Second,
+regarding the cultural and its socio-demographic background, the migrant population of
+Dongguan was found to be heterogeneous in nature [25,26].
+2.2. Participants
+Participants included elderly migrants who had come at least six months prior to the
+study and were not listed in the Dongguan household registration system. This study
+deﬁned an elderly person as aged 60 or more years. The eligible list of elderly migrants
+for this study was provided by the community committee. To identify the participants,
+a multi-stage cluster sampling survey technique was applied. In the ﬁrst stage, 4 out of
+33 districts were purposively selected (Songshan Lake, Dalang, Liaobu, and Dalingshan),
+each having more than 75 percent elderly in the population and all located within 30 km of
+Guangdong Medical University. In the second stage, 22 clusters, which included 20 migrant
+elders in each cluster, were randomly selected from 26 communities with a probability
+proportional to the elderly population density. After excluding 11 communities due to
+low population density, 15 communities were selected. In the third stage, within each
+cluster, migrant elderly participants were selected randomly. Finally, 470 elderly migrants
+participated in this study.
+2.3. Measurements
+2.3.1. Subjective Well-Being (SWB)
+SWB was assessed by the Memorial University of Newfoundland Scale of Happiness
+(MUNSH), which was designed speciﬁcally for older adults, and which has high validity
+(Kaiser–Meyer–Olkin of 0.703) and consistency (Cronbach’s alpha of 0.735). The MUNSH is
+a multi-item scale which has 24 items, with total scores ranging between −24 and +24 points,
+and where higher scores indicate better SWB [27].
+2.3.2. Residential Environment
+Both the social and the physical environmental factors were measured. The walkability
+and the distances (< 1 km or ≥1 km) from the residence of the participant to healthcare
+facilities (such as hospitals, health centers, clinics, and nursing homes) and ﬁnancial facili-
+ties (such as post ofﬁce and banks) were included in the study of the physical environment.
+Google Maps® was used to measure the distances from the participant’s home to each
+of the closest abovementioned facilities in kilometers. Participants were asked whether
+they had seen other people in their neighborhood walking around, if there was enough
+green space and walking area, and if there were sufﬁcient opportunities or facilities for
+physical activities. Applying a scale Mujahid et al. developed, the walkability of the
+neighborhood was determined [28]. A 5-point Likert Scale, from 1 = strongly disagree
+to 5 = strongly agree with the statements, was applied in the questionnaire; 0.73 was the
+original scale’s Cronbach alpha, with the total score ranged between 7 and 35, where higher
+scores indicated better walkability [28].
+Social environment included distances (< 1 km or ≥1 km) from home to the closest
+culture facilities (cultural centers, libraries) and recreation facilities (elderly activity centers,
+parks, and cinemas) and social cohesion. Google Maps® was again used to measure the
+distances from the participants’ homes to each of the closest abovementioned facilities
+in kilometers. Asking the respondents four questions, including their relationship with
+their neighbors and their values such as their inter-personal trust, the good relationship
+between members of the community, also known as social cohesion, was determined by
+the Neighborhood Relation Scale developed by Mujahid et al. [22,28]. The 5-point Likert
+
+Trop. Med. Infect. Dis. 2022, 7, 199
+4 of 9
+Scale, having responses between 1 = strongly disagree to 5 = strongly agree with each
+statement, was applied in the questionnaire. With the total score ranging between 4 and
+20, the Cronbach’s alpha of the original scale was found to be 0.74, where higher scores
+indicated better social cohesion [28].
+The numbers and details of the recreational, cultural, health, and the financial facilities in
+every community were also compiled. The number of recreational/cultural/health/financial
+facilities divided by the total area in square kilometers of each community determined the
+density of the recreational/cultural/health/ﬁnancial facilities.
+2.3.3. Individual Characteristics
+We measured individual characteristics including demographic information and health
+condition. The demographic characteristics recorded were gender, age, and marital sta-
+tus (married or cohabiting vs. other). Details of health conditions such as depressive
+symptoms and self-rated health were also compiled. Self-rated health was divided into
+3 ordinal categories: “good”, “fair”, and “poor”. Containing twenty questions as per the
+recommendations of the World Health Organization to screen depression, the Zung Self-
+rating Depression Scale was used to measure the depressive symptoms of the participants,
+with scores ranging between 20 and 80. A score higher than 53 indicated possible clinical
+depression [29].
+2.4. Data Collection
+Nine interviewers were trained by an experienced researcher before formally collecting
+data. The questionnaires were tested in a pilot study. The structured questionnaire as
+mentioned above was used to conduct the personal interviews of all the participants
+using their local language at their homes, with each interview lasting around 20–25 min.
+The administrative committees from the communities in which the participants resided
+provided the information regarding the community.
+2.5. Statistical Analysis
+For quantifying the effects of the community environment and the individual at-
+tributes, the multi-level linear models were found suitable. To account for clustering at the
+community level, within the 15 communities (level 2), the individuals (level 1) were nested.
+Considering only the clustering by community, the null model (no covariates) was applied
+for an estimation of the intercept and residual variance. The following were the equations
+for the null model:
+Level 1 model (individual level): Yij = β0j + rij
+Level 2 model (communities): β0j = γ00 + µ0j
+Combined model (ﬁxed model): Yij = γ00 + µ0j+ rij
+where Yij is the SWB of the ith person in the jth community, and where rij = random error
+associated with ith person in the jth community. β0j is the community-speciﬁc (random)
+intercept, where γ00 = the overall mean SWB across all communities; µ0j = a series of
+random deviations from the mean SWB or QoL for the community.
+The relationship between the community-level and individual-level attributes of
+communities with SWB was examined subsequent to the testing of the community-level
+variance in the SWB excluding all explanatory variables (Model 1 and Model 2, respectively).
+Then, we modeled all individual- and community-level variables simultaneously (Model
+3). Two-level linear regression analyses with random intercept models were ﬁtted using
+the −2 log likelihood (−2 LL) and Akaike information criterion (AIC) for model selection.
+All analyses were done using R version 3.4.2.
+
+Trop. Med. Infect. Dis. 2022, 7, 199
+5 of 9
+3. Results
+There was a total of 470 migrant elderly, and the mean age was 67.5 ± 5.5 years. The
+ratio of males (47.9%) to females (52.1%) was approximately 1:1, and most were married
+or cohabitating (79.8%). Most said they had fair to good health (90.2%). Generally, elderly
+migrants lived within 3 km of facilities that provided basic needs such as ﬁnancial and
+healthcare facilities as well as cultural and recreational facilities. However, the migrants
+lived closer to ﬁnancial and health facilities but further from cultural and recreational
+facilities. They had good walkable environments (median score = 28) and social cohesion
+(median score = 16). The community-level residential environment determinants, namely,
+density of each facility, are also shown in Table 1.
+Table 1. Summary of participants’ characteristics and residential environment of individual-level
+and community-level.
+Variable
+N
+%
+Median
+Range
+Age (years)
+60–69
+333
+70.9
+70–79
+123
+26.2
+80–99
+14
+3.0
+Gender
+Male
+225
+47.9
+Female
+245
+52.1
+Marital status
+Married/cohabitating
+375
+79.8
+Other
+95
+20.2
+Self-rated health
+Good
+211
+44.9
+Fair
+213
+45.3
+Poor
+46
+9.8
+Depression
+Yes
+99
+21.1
+No
+371
+78.9
+Distance to closest
+ﬁnancial facility (km)
+470
+0.50
+0.13–4.09
+Distance to closest
+health facility (km)
+470
+1.00
+0.15–3.27
+Distance to closest
+cultural facility (km)
+470
+2.00
+0.12–15.12
+Distance to closest
+recreation facility (km)
+470
+2.00
+0.18–9.76
+Walkability (score)
+470
+28.00
+7.00–35.00
+Social cohesion (score)
+470
+16.00
+4.00–20.00
+Health facility density
+(facilities/km2)
+4.95
+0.88–19.02
+Financial facility
+density (facilities/km2)
+5.03
+0.65–12.23
+Culture facility density
+(facilities/km2)
+1.72
+0.23–5.26
+Recreation facility
+density (facilities/km2)
+2.99
+0.43–7.65
+At both the community and individual levels, to assess the determinants of SWB,
+multi-level models were applied. The regression models were expanded further to examine
+community-level factors inﬂuencing elderly SWB using linear mixed models. The null
+model indicated that there was a statistically signiﬁcant variation in SWB across communi-
+ties (X2 = 167.23, p < 0.05). A variance of SWB of 26.1% was indicated by the random effect
+across communities, with the intra-class correlation coefﬁcient (ICC) being 0.261.
+
+Trop. Med. Infect. Dis. 2022, 7, 199
+6 of 9
+The results of the determining factors and the multi-level analysis on the SWB of the
+elderly migrants are displayed in Table 2. Model 1 included all the variables at the individ-
+ual level. After adjusting the various covariates, the strongest association with SWB was
+found in the case of depression. Compared to those who were depressed, individuals who
+were not depressed indicated a higher SWB by 0.732 points. Higher SWB was found to be
+signiﬁcantly related to good self-rated health conditions, namely, married/cohabiting, and
+old age. Nevertheless, social cohesion, walkable environment, and closeness to recreational
+facilities were weakly associated with SWB. There was inclusion of only the community
+level variables in Model 2. Whereas the density of ﬁnancial facilities displayed a negative
+association (B = −0.044, p < 0.01), the densities of recreation facilities (B = 0.038, p < 0.01)
+and of health facilities (B = 0.035, p < 0.01) indicated a positive association with SWB. Both
+the community- and individual-level variables were included in Model 3 simultaneously.
+Signiﬁcant associations with SWB were illustrated by age, marital status, self-rated health,
+depression, distance to closest recreation facility, social cohesion, and density of health facil-
+ity, and ﬁnancial facility and recreation facility remained signiﬁcantly associated with SWB
+when the other covariates were controlled, except for walkable environment (B = 0.014,
+p > 0.05). That this model was capable of explaining better the variation in SWB, compared
+to the other two models, was implied by Model 3 indicating a much smaller AIC value.
+Table 2. Individual and community factors of participants’ subjective well-being.
+Model 1
+Model 2
+Model 3
+Estimate
+SE
+Estimate
+SE
+Estimate
+SE
+Fixed part
+Individual-level variables
+Gender (ref. = male)
+Female
+0.157
+0.083
+0.079
+0.096
+Age (ref. = 60–69 years)
+70–79 years
+0.087
+0.049
+0.052
+0.057
+80–99 years
+0.107 *
+0.084
+0.096 *
+0.042
+Marital status (ref. = other)
+Married/cohabitating
+0.203 *
+0.078
+0.185 *
+0.078
+Self-rated health (ref. = poor)
+Good/fair
+0.248 *
+0.092
+0.236 *
+0.093
+Depression (ref. = yes)
+No
+0.732 ***
+0.079
+0.745 ***
+0.079
+Distance to closest ﬁnancial
+facility (ref. ≥1 km)
+<1 km
+0.159
+0.082
+0.146
+0.085
+Distance to closest health
+facility (ref. ≥1 km)
+<1 km
+0.201
+0.074
+0.198
+0.075
+Distance to closest culture
+facility (ref. ≥1 km)
+<1 km
+0.195
+0.082
+0.146
+0.085
+Distance to closest recreation
+facility (ref. ≥1 km)
+<1 km
+0.239 ***
+0.066
+0.227 ***
+0.067
+Walkability (ref. < 28)
+≥28
+0.018 *
+0.006
+0.014
+0.007
+Social cohesion (ref. < 16)
+≥16
+0.077 ***
+0.013
+0.079 ***
+0.014
+Community-level variables
+Health facility density
+0.035 **
+0.013
+0.026 *
+0.014
+Financial facility density
+−0.044 **
+0.014
+−0.035 **
+0.012
+Culture facility density
+0.017
+0.029
+0.015
+0.030
+Recreation facility density
+0.038 **
+0.012
+0.032 *
+0.013
+Random effect
+Community-level variance
+0.176
+0.135
+0.291
+0.155
+0.204
+0.123
+Model ﬁt
+−2 LL
+2355.3
+2659.8
+2281.3
+AIC
+2329.3
+2671.8
+2227.3
+ICC = 0.261; * p < 0.05; ** p < 0.01; *** p < 0.001.
+
+Trop. Med. Infect. Dis. 2022, 7, 199
+7 of 9
+4. Discussion
+This study assessed the associated factors of SWB of elderly migrants in Dongguan city,
+one of the most rapidly developing areas of China, using both single-level and multi-level
+models. SWB is associated with various factors, ranging from individual to environmental
+factors. The results shed light on multi-disciplinary and multi-level factors of SWB, partic-
+ularly focusing on the extent to which, and the ways in which, migrant elderly people’s
+residential environments inﬂuence their SWB.
+This study found that physical and social environments affect the SWB of elderly
+migrants. However, environmental factors exert a weaker effect on older adults’ SWB than
+individual factors, which is consistent with the quantitative results from the same migrant
+elderly cohorts [5], but different from the result from older adults in Shanghai [7]. Health
+conditions highly contribute to their SWB, and depression has the strongest association
+with SWB. In addition to improving their lives, good health was found to be the most
+signiﬁcant prerequisite for SWB in elders, as indicated by earlier studies [5,30]. Older
+adults were more likely to report higher levels of SWB when they had a positive attitude
+for aging [31]. The study by Kosloski et al. found that depression was associated with
+lower SWB in older adults, especially among elderly migrants who were acclimatizing to a
+new community [32].
+We found that living near recreation facilities and having good social cohesion are
+associated with high SWB for elderly migrants. These ﬁndings are consistent with Lin’s
+results that an increase in opportunities for leisure activities with other people leads to
+positive SWB [33]. Moreover, the neighborhood in which the elders lived had an important
+bearing on their SWB, as indicated by the results. Previous studies veriﬁed that a cohesive
+neighborhood offers migrants support and alleviates their life stress [33,34]. Our study
+also showed that the density of health facilities is positively associated with good SWB,
+while the density of ﬁnancial facilities negatively impacts SWB. Thus, the importance of
+healthcare to the elderly migrants and their effects on SWB were implied. This could
+be related to the idea that health status is strongest factor of SWB among older adults.
+Good accessibility to health facilities has a strong effect on SWB, while this outcome is in
+consonance with that of the existing literature [7,8]. The overcrowding and noise in areas
+with a high density of ﬁnancial facilities explained the negative inﬂuence on the SWB of
+elderly persons by the density of the ﬁnancial facilities [35,36]. Most elderly migrants in
+this study lived in the city center, which has more ﬁnancial facilities and transportation.
+Thus, the ﬁnancial facility-dense areas where migrants live have more noise and industrial
+pollution. This result is different from that of a study on older adults in Shanghai, which
+showed that good accessibility to ﬁnancial facilities seemed to positively inﬂuence older
+adults’ perceptions of personal relationships and affection [7].
+Certain limitations of this study need to be noted. First, temporal ambiguity (a concept
+where researchers cannot determine whether an exposure preceded an outcome) concerning
+causes and effects may be present. Second, memory recall could have been an issue, since
+the information obtained from each participant was self-reported. Third, the effects may
+not have been interpreted causally, since in the multi-level analysis, contextual effects tend
+to be interpreted by the individual averages used as group effects.
+Based on the ﬁndings discussed above, the following policy implications are recom-
+mended. First, in addition to providing suitable community-based support, the social
+services policies need to look into the needs of the elderly migrants. Second, the following
+planning strategies are needed: enhancing physical planning approaches (e.g., the public
+space of communities), and promoting access to healthcare by planning the service delivery
+for the whole community. Third, for promoting mutual help and the interaction between
+the local elderly population and the migrants, community events, recreational spaces, and
+healthcare centers would be indispensable.
+
+Trop. Med. Infect. Dis. 2022, 7, 199
+8 of 9
+5. Conclusions
+This study assessed the determinant of SWB of the migrant elderly, integrating indi-
+vidual, community, and environmental factors. The study included both individual- and
+community-level variables using a multi-level sampling frame and analysis. By enhancing
+their accessibility to healthcare and recreational activities, and promoting social services in
+their new homes, the SWB amongst elderly migrants could be enhanced further. To ensure
+that the elderly do not undergo undue mental health problems, this study suggests further
+evaluation periodically based on how the evidence evolves.
+Author Contributions: Conceptualization, Y.L. and C.W.; methodology, Y.L. and J.X.; software, Q.C.
+and Q.G.; validation, L.J. and J.H.; formal analysis, Y.L. and L.J.; investigation, Y.L. and X.Z.; resources,
+Y.L. and C.W.; data curation, J.X. and C.Z.; writing draft preparation, Y.L. and L.J.; manuscript editing,
+C.W. and Y.L.; supervision, C.W. and C.Z.; funding acquisition, Y.L. All authors have read and agreed
+to the published version of the manuscript.
+Funding: This research was funded by the Universities’ Young Innovative Talents Project of Guang-
+dong Province (ID: 2021KQNCX024), Basic and Applied Basic Research Funding of Guangdong
+Province (ID:2021A1515110436), Discipline Construction Project of Guangdong Medical Univer-
+sity (ID:4SG22265G), and PHD Researcher Foundation of Guangdong Medical University (ID:
+GDMUB2021011).
+Institutional Review Board Statement: This research was approved by the Institutional Ethics
+Committee of Guangdong Medical University, China (REC: PJ2018037).
+Informed Consent Statement: Informed consent was obtained from all participants.
+Data Availability Statement: Data are available upon request from the corresponding author.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+References
+1.
+Diener, E. Subjective well-being: The science of happiness and a proposal for a national index. Am. Psychol. 2000, 55, 34–43.
+[CrossRef] [PubMed]
+2.
+Diener, E. Subjective well-being. Psychol. Bull. 1984, 95, 542–575. [CrossRef] [PubMed]
+3.
+Diener, E.; Wolsic, B.; Fujita, F. Physical attractiveness and subjective well-being. J. Personal. Soc. Psychol. 1995, 69, 120–129.
+[CrossRef]
+4.
+Diener, E. Guidelines for National Indicators of Subjective Well-Being and Ill-Being. Appl. Res. Qual. Life 2006, 1, 151–157.
+[CrossRef]
+5.
+Liu, Y.; Sangthong, R.; Ingviya, T.; Wan, C. Nothing Like Living with a Family: A Qualitative Study of Subjective Well-Being
+and its Determinants among Migrant and Local Elderly in Dongguan, China. Int. J. Environ. Res. Public Health 2019, 16, 4874.
+[CrossRef]
+6.
+Wang, X. Subjective well-being associated with size of social network and social support of elderly. J. Health Psychol. 2014, 21,
+1037–1042. [CrossRef]
+7.
+Liu, Y.; Dijst, M.; Geertman, S. The subjective well-being of older adults in Shanghai: The role of residential environment and
+individual resources. Urban Stud. 2017, 54, 1692–1714. [CrossRef]
+8.
+Liu, Y.; Sangthong, R.; Ingviya, T.; Wan, C. Determinants of subjective well-being among migrant and local elderly in China: A
+cross-sectional study. BMJ Open 2022, 12, e060628.
+9.
+Steverink, N.; Lindenberg, S.; Ormel, J. Towards Understanding Successful Ageing: Patterned Change in Resources and Goals.
+Ageing Soc. 1998, 18, 441–467. [CrossRef]
+10.
+Burton, E.J.; Mitchell, L.; Stride, C.B. Good places for ageing in place: Development of objective built environment measures for
+investigating links with older people’s wellbeing. BMC Public Health 2011, 11, 839. [CrossRef]
+11.
+Wiles, J.L.; Leibing, A.; Guberman, N.; Reeve, J.; Allen, E.S. The meaning of ‘aging in place’ to older people. Gerontologist 2012, 52,
+357–366. [CrossRef] [PubMed]
+12.
+He, T.; Liu, L.; Huang, J.; Li, G.; Guo, X. The Community Health Supporting Environments and Residents’ Health and Well-Being:
+The Role of Health Literacy. Int. J. Environ. Res. Public Health 2021, 18, 7769. [CrossRef] [PubMed]
+13.
+Morrison, P.S. Local expressions of subjective well-being: The New Zealand experience. Reg. Stud. 2011, 45, 1039–1058. [CrossRef]
+14.
+Cao, X. How does neighborhood design affect life satisfaction? Evidence from twin cities. Travel Behav. Soc. 2016, 5, 68–76.
+[CrossRef]
+15.
+Leyden, K.M.; Goldberg, A.; Michelbach, P. Understanding the pursuit of happiness in ten major cities. Urban Aff. Rev. 2011, 47,
+861–888. [CrossRef]
+
+Trop. Med. Infect. Dis. 2022, 7, 199
+9 of 9
+16.
+Manca, A.R. Social Cohesion. In Encyclopedia of Quality of Life and Well-Being Research; Michalos, A.C., Ed.; Springer: Dordrecht,
+The Netherlands, 2014.
+17.
+Li, S.; Huang, Z.Y. Subjective health conditions and the inﬂuencing factors of the elderly migrating population in Chinese
+megacities. J. Shenzhen Univ. 2018, 35, 98–104.
+18.
+Liu, Y.Q.; Zhang, F.Z.; Wu, F.L.; Liu, Y.; Li, Z.G. The subjective wellbeing of migrants in Guangzhou, China: The impacts of the
+social and physical environment. Cities 2017, 60, 333–342. [CrossRef]
+19.
+Yip, N.M.; Leung, T.T.F.; Huang, R. Impact of community on personal wellbeing in urban China. J. Soc. Serv. Res. 2013, 39,
+675–689. [CrossRef]
+20.
+Liu, Y.; Dijst, M.; Geertman, S. Residential segregation and well-being inequality between local and migrant elderly in Shanghai.
+Habitat Int. 2014, 42, 175–185. [CrossRef]
+21.
+Chan, K.W. The household registration system and migrant labor in China: Notes on a debate. Popul. Dev. Rev. 2010, 36, 357–364.
+[CrossRef]
+22.
+Gao, J.L.; Fu, H.; Li, J.; Jia, Y.N. Association between social and built environments and leisure-time physical activity among
+Chinese older adults—A multilevel analysis. BMC Public Health 2015, 15, 1317. [CrossRef] [PubMed]
+23.
+Alfonzo, M.A. To walk or not to walk? The hierarchy of walking needs. Environ. Behav. 2005, 37, 808–836. [CrossRef]
+24.
+Dannenberg, A.L.; Howard, F.; Jackson, R.J. Making Healthy Places: Designing and Building for Health, Well-Being, and Sustainability;
+Island Press: Washington, DC, USA, 2011.
+25.
+The Municipal Government of Dongguan. Demographia of Dongguan. Available online: http://www.dongguantoday.com
+(accessed on 25 June 2020).
+26.
+Yang, Q.; Zhang, H.M.; Mwenda, K. County-Scale Destination Migration Attractivity Measurement and Determinants Analysis:
+A Case Study of Guangdong Province, China. Sustainability 2019, 11, 362. [CrossRef]
+27.
+Kozma, A.; Stones, M.J. The measurement of happiness: Development of the Memorial Univrsity of Newfoundland Scale of
+Happiness (MUNSH). J. Gerontol. 1980, 35, 906–912. [CrossRef]
+28.
+Mujahid, M.S.; Diez Roux, A.V.; Morenoff, J.D.; Raghunathan, T. Assessing the measurement properties of neighborhood scales:
+From psychometrics to ecometrics. Am. J. Epidemiol. 2007, 165, 858–867. [CrossRef] [PubMed]
+29.
+Dunstan, D.A.; Scott, N. Clariﬁcation of the cut-off score for Zung’s self-rating depression scale. BMC Psychiatry 2019, 19, 177.
+[CrossRef] [PubMed]
+30.
+Liu, Y.; Ingviya, T.; Sangthong, R.; Wan, C. Subjective well-being and quality of life of rural-to-urban migrant and local older
+adults in Dongguan, China. Soc. Behav. Personal. Int. J. 2021, 49, e10959. [CrossRef]
+31.
+Herero, V.G.; Extremera, N. Daily life activities as mediators of the relationship between personality variables and subjective
+well-being among older adults. Personal. Individ. Differ. 2010, 49, 124–129. [CrossRef]
+32.
+Kosloski, K.; Stull, D.E.; Kercher, K.; Van Dussen, D.J. Longitudinal analysis of the reciprocal effects of self-assessed global health
+and depressive symptoms. J. Gerontol. Ser. B Psychol. Sci. Soc. Sci. 2005, 60, 296–303. [CrossRef]
+33.
+Lin, J.P.; Yi, C. Filial norms and intergenerational support to aging parents in China and Taiwan. Int. J. Soc. Welf. 2011, 20, 109–120.
+[CrossRef]
+34.
+Cramm, J.M.; Dijk, H.M.; Van Nieboer, A.P. The importance of neighborhood social cohesion and social capital for the well being
+of older adults in the community. Gerontologist 2013, 53, 142–152. [CrossRef] [PubMed]
+35.
+Cerin, E.; Sit, C.H.; Cheung, M.; Ho, S.; Lee, L.; Chan, W. Reliable and valid NEWS for Chinese seniors: Measuring perceived
+neighborhood attributes related to walking. Int. J. Behav. Nutr. Phys. Act. 2010, 7, 84. [CrossRef] [PubMed]
+36.
+Cerin, E.; Sit, C.H.P.; Zhang, C.J.P.; Barnett, A.; Cheung, M.M.C.; Lai, P.; Lee, R.S.Y. Neighbourhood environment, physical activity,
+quality of life and depressive symptoms in Hong Kong older adults: A protocol for an observational study. BMJ Open 2016,
+6, e010384. [CrossRef] [PubMed]

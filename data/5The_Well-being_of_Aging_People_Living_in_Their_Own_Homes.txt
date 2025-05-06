@@ -1,0 +1,1796 @@
+Journal of Environmental Psychology 25 (2005) 231–243
+The well-being of aging people living in their own homes
+Liliane Rioux
+Universite´ d’Orle´ans, France
+Available online 15 August 2005
+Abstract
+The present research adopts a transactional world view in which the home is conceived as a holistic entity comprising inter-related
+qualities of people, activities, setting, and time. The study is guided by the congruence model of aging people/environment
+interactions as ﬁrst suggested by (Kahana (1975). Aging the environment theoretical approaches. New York: Sage Publications) and
+extended by (Carp (1987). Housing the aged, design directives and policy considerations. New-York: Elsevier). It aims at assessing the
+general well-being of elderly women living in their own houses or ﬂats, while more speciﬁcally focussing on the well-being or
+enjoyment they feel in everyday life situations. One hundred fourteen women residents of the Re´ gion Centre, France, ranging in age
+from 72 to 86 years old, answered (a) a purposely developed questionnaire to measure their well-being in various everyday life
+situations in their homes, (b) the ESV examining the general well-being of aging people (Blais, Vallerand, Pelletier, & Brie` re (1989).
+Canadian Journal of Behavioral Science, 21, 210), a French adaptation of the Satisfaction With Life Scale, SWLS, designed by
+Diener, Emmons, Larsen, and Grifﬁn ((1985). Journal of Personality Assessment, 49, 71), and (c) four items assessing (1) perceived
+social pressure to leave their homes, (2) perceived housing-related constraints, (3) satisfaction with the neighborhood and (4)
+satisfaction with the social environment. The results indicated differential impact of such factors as ‘‘age’’, ‘‘reasons for choosing to
+stay in the home’’, ‘‘general well being’’, ‘‘degree of perceived social pressure’’, and ‘‘level of housing related constraints’’ on the well-
+being felt by aging women living in their own homes, according to whether or not an activity is performed in company (alone or in
+the presence either their spouses or guests).
+r 2005 Elsevier Ltd. All rights reserved.
+1. Introduction
+Most elderly people wish to live at home for as long as
+they can (Oswald, Wahl, Mollenkolf, & Schilling, 2000).
+In fact, many continue to live in residences they
+occupied for most of their adult lives (Law & Warnes,
+1982). Often, houses and ﬂats are full of priceless
+souvenirs and precious memories (Pynoos & Regnier,
+1991) that turn settings into meaningful places (Vikko,
+1996). Homes are safe havens where people put down
+roots,
+feel
+a
+sense
+of
+belonging,
+and
+ultimately
+experience ‘‘place identity’’, or oneness with the home
+(Proshansky,
+1978).
+Dwellings
+can
+be
+sources
+of
+physical and psychological revitalisation, which con-
+tribute to emotional attachment and the sense that the
+residence is a ‘‘home’’ (Casey, 1993; Hollander, 1993).
+The stronger this sense of belonging, the safer, the freer
+and the more comfortable aging people feel in their
+homes (Fischer, 1997). The present research examines
+how experiences in the home and feelings about the
+home are related to quality of life among an aging
+female population. The study is based on a transactional
+world view, in which the home is conceived as a holistic
+entity
+comprising
+inter-related
+qualities
+of
+people,
+activities, setting, and time (Altman & Rogoff, 1987).
+The speciﬁc research approach is guided by Kahana’s
+(1975) congruence model and Carp’s (1987) extension of
+that model.
+1.1. Determinants of general well-being of elderly people
+In-depth studies related to the well-being of elderly
+people have already been carried out with two types of
+variables, (a) those that reﬂect socioeconomic factors,
+and (b) those that refer to psychological and psycho-
+social variables.
+ARTICLE IN PRESS
+www.elsevier.com/locate/yjevp
+0272-4944/$ - see front matter r 2005 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jenvp.2005.05.001
+E-mail address: Liliane.rioux@univ-orleans.fr.
+
+(a) The ﬁrst category indicates that well-being increases
+with such variables as: increases in the general level
+of wealth of the country of residence (Diener &
+Diener, 1995), higher income (Mack, Salmoni,
+Vivarais-Dressler, Porter, & Garg, 1997) and socio-
+economic levels (Pinquart & So¨ rensen, 2000), as well
+as when the respondent is married (Essex & Nam,
+1987), and female (Rousseau & Dube´ , 1993).
+(b) Research bearing on the second category has shown
+that self-reported well-being is more positive when
+self-reported health status is more positive (Webster,
+1997), respondents report regular physical exercise
+(McAuley et al., 2000), personality traits include
+high
+extraversion
+and
+high
+emotional
+stability
+(Adkins, Martin, & Poon, 1996), respondents report
+aspirations of self-development and interest in the
+well-being of others (Lapierre, Bouffard, & Bastin,
+1997), have more mature social understanding and
+wisdom (Ardelt, 1997), have religious belief or faith
+(Levin & Chatters, 1998), feel control over their
+environment (Smits, Deeg, & Bosscher, 1995), feel
+independent
+(Mack
+et
+al.,
+1997),
+have
+higher
+numbers and quality of social relationships (Pin-
+quart & So¨ rensen, 2000), and report a sense of
+belonging to a supportive social network (Gibson,
+1986).
+Recent studies have shown that the level of general
+well-being does not decrease with age (Pinquart, 1998)
+but may even increase (Lawton, 1996). Though they are
+often faced with problems of health and autonomy that
+reduce their mobility and their involvement with their
+social network, aging people have a feeling of general
+well-being at least equal to that of other adults. Lawton
+suggested this seemingly inconsistent result could be due
+to the fact that the elderly have better control of their
+feelings and are adaptable to change and unexpected
+events in their everyday lives. One purpose of the
+present study was to examine these ideas with respect to
+control in and satisfaction with the home. Because
+elderly people tend to spend more time at home, it is
+important to study the determinants of well-being in this
+important setting.
+1.2. Housing-related determinants of well-being in elderly
+people
+Although homes are important for the elderly, little
+research has examined relationships between life in the
+home and well-being. Because they have less involve-
+ment in outside activities, aging people may focus on or
+emphasize their residences and their feelings of well-
+being in their own homes as signiﬁcant components of
+their general well-being.
+Despite living in homes that are modest or even
+inadequate for their unique needs, most elders perceive
+their homes as restful, comfortable and safe spaces. This
+might occur because elders’ homes often become the sole
+and unique places where they maintain social bonds
+with individuals and their community, and/or because
+women do not want to go to an elder care home (Rioux,
+2004). Some authors say that homes, as much as
+spouses, are the most important element in the lives of
+the elderly (Maltais, 1999a). At the centre of their lives,
+the home can be an important source of well-being or,
+alternatively, an obstacle to quality of life—an element
+that facilitates or conversely undermines autonomy and
+social integration (Kendig et al., 1996), and a place that
+helps them to have control of everyday life or conversely
+prevents them from having it (Morin, Dansereau, &
+Nadeau, 1990). Therefore well-being is strongly related
+to satisfaction with the home, neighbourhood, and level
+of residential embeddedness or connection (Rousseau &
+Dube´ , 1993). These relationships are found whatever the
+type of housing, whether individual houses (Klein, 1993)
+or large blocks (Carp & Christensen, 1986). Elders’
+feelings of well-being in the home depend on such
+factors as state of health, degree of physical disability
+and sensory impairment (Klein, 1993), as well as on
+psychological
+variables
+such
+as self-esteem
+(Klein,
+1993).
+Whereas this literature has examined housing-related
+determinants of the well-being of elderly people, to the
+best of my knowledge, little research has focused on the
+feeling of well-being elderly people have in ‘‘micro-
+situations’’, i.e. when performing routine daily activities
+in their homes. Such an analysis is suggested by Altman
+and colleagues’ transactional world view, in which the
+home is conceived as a holistic entity comprising inter-
+related qualities of people, activities, setting, and time
+(Werner, Altman, & Oxley, 1985; Altman & Rogoff,
+1987). This world view is reﬂected in Kahana’s (1975)
+congruence model of aging people/environment transac-
+tions, and Carp’s (1987) research on the ‘‘congruence-
+complementarity’’ model, or factors relating to the well-
+being of the elderly in a given environment. According
+to congruence models, the well-being felt by the elderly
+people results from the dynamic interaction between
+their needs and/or their preferences on the one hand and
+the environmental features on the other hand.
+The present research adopts this perspective and
+considers that the feeling of well-being in the home is a
+complex construct that should be studied by combining
+people, place and action, and to show that different
+combinations have different meanings for the women.
+For example, Rioux (2003) studied elderly women in
+retirement homes and assessed how their well-being
+differed as they performed routine activities in various
+situations. Rioux found differential impact of such
+factors as ‘‘age’’, ‘‘general well-being’’, and ‘‘length of
+residence in the home’’ on women’s general well-being in
+different spaces (individual lodging, common room),
+ARTICLE IN PRESS
+L. Rioux / Journal of Environmental Psychology 25 (2005) 231–243
+232
+
+and depending on whether the activity was social or not
+(performed in company or alone). The present research
+examines how these feelings about home contribute to
+quality of life among an aging female population. I
+propose that our understanding of well-being in the
+home is enhanced by understanding the contributions of
+psycho-social and environmental variables.
+This work has two purposes:
+(a) to assess the well-being of aging women living in
+their own homes by asking how much they enjoy life
+there, taking into account the types of activities, the
+settings, and the social context (alone or with other
+people) in which activities are performed; and
+(b) to deﬁne the variables that will likely have some
+inﬂuence on enjoyment in the home. Three types of
+variables were studied: (1) bio-social variables such
+as age and length of residence in the home; (2)
+‘‘residential variables’’, or aspects of the physical
+environment (such as the interior de´ cor, remodelling
+of the interior and exterior, and the home’s distance
+from the local shops, services and parks), and with
+such social aspects as the frequency of social
+relations, assistance at home (meals on wheels,
+medical care), and frequency of outings; and lastly,
+(3) psycho-social variables including: general well-
+being; perceived social pressure to leave their homes;
+housing-related constraints; satisfaction with the
+neighbourhood and satisfaction with the social
+environment; and the reasons elderly women give
+for staying in their homes.
+In her research on the well-being of elderly women
+living in community homes, Rioux (2003) found that
+older, longer-term residents were most satisﬁed by visits
+from others. I hypothesize that these two variables—age
+and length of residence—will have an impact in the
+present sample as well. In addition, consistent with
+research showing positive links between perceived well-
+being in the home and the quality of the residential
+environment (Carp & Christensen, 1986), residential
+satisfaction (Rousseau & Dube´ , 1993) and general well-
+being (Nagar & Paulus, 1997), I postulate that enjoying
+everyday activities in the home will correlate positively
+with residential variables, subjective general well-being
+and satisfaction with the home in terms of the physical
+and social environments. Furthermore, consistent with
+Maltais’ (1999b) research showing that control over
+decision making is associated with psychological well-
+being, I suggest that enjoying life in the home will
+correlate negatively with two factors: perceived social
+pressure to leave the home, and reports of housing-
+related constraints. Finally and related to the Paulus,
+Nagar, and Camacho (1991) study about the impact of
+choosing one’s home on well-being, I postulate that the
+level of well-being in the home will be higher if women
+use control-oriented justiﬁcations for staying in their
+homes.
+2. Method
+2.1. Participants
+One hundred fourteen women residents of the Re´ gion
+Centre, France,1 ranging in age from 72 to 86 years old
+and living at home with their spouses, constituted our
+study sample. Participants were contacted through local
+agencies that provide services to facilitate aging in place
+(deliver meals, help with light housework), or groups
+that organize activities for elders. They agreed to
+identify elderly persons who met the sampling criteria
+(no serious physical, cognitive, or psychological pro-
+blems, although minor problems were acceptable), and
+to contact them to propose an appointment. Individuals
+were free to refuse to participate.
+A female population was purposely chosen to under-
+stand women’s points of view, and also because women
+carry out most everyday activities within the home, such
+as cooking, sewing or cleaning (Lemel, 1993; Lewin,
+2001). Home-based experiences should be particularly
+important among women of this age group because
+most of them have been housewives all their lives and
+their personal investment in their homes has probably
+been strong.
+The houses or ﬂats of the sample were at least 3-room
+accommodations, to assure a variety of settings and uses
+of the rooms. The rooms served a variety of purposes,
+such as sitting-room, dining-room, kitchen, one or more
+bedrooms, or a bedroom converted into a study or
+storage area. The women and their spouses all had
+enough physical autonomy to move around the different
+rooms of their homes.
+2.2. Materials
+The data were collected with two complementary
+tools:
+ a purpose-built questionnaire. This 27-item ques-
+tionnaire was developed in two steps, beginning with
+semi-structured
+interviews
+of
+10
+elderly
+women
+residents of the Re´ gion Centre (France), who ranged
+in age from 65 to 80 years old. Five of them were
+living in ﬂats and ﬁve were in individual houses; ﬁve
+were lodgers and ﬁve were owners. Each of them was
+personally interviewed in her home by the author.
+They were asked: ‘‘Could you tell me about your
+everyday life in your home?’’ A thematic categories
+ARTICLE IN PRESS
+1A ‘‘re´ gion’’ is an administrative area. There are 22 ‘‘re´ gions’’ in
+France.
+L. Rioux / Journal of Environmental Psychology 25 (2005) 231–243
+233
+
+analysis of their responses identiﬁed typical situations
+that were experienced by elderly women in their
+homes with regard to the different places, activities
+and people involved. A 31-item questionnaire was
+developed from this information, with the stipulation
+that the people/setting/activity combinations needed
+to be realistic. For example, it included typical
+activities done with spouses, but did not include
+those activities if they were not typically done with
+guests. Items were arranged so as to separate
+questions with similar activities, settings or people.
+In step 2, the 31-item version was tested on 12 elderly
+women who had been sampled using the same criteria as
+the ﬁrst group. Their responses were analysed, and four
+items were eliminated from the questionnaire. The ﬁnal
+questionnaire, composed of 27 items, can be found in
+the appendix. Each item began ‘‘I enjoy’’,2 and response
+options ranged from (1) ‘‘Total disagreement’’ to (5)
+‘‘Total agreement’’ on a Likert-type scale.
+ the ESV for aging people (Blais, Vallerand, Pelletier,
+& Brie` re, 1989), is a French adaptation of the
+Satisfaction With Life Scale (SWLS), designed by
+Diener, Emmons, Larsen, and Grifﬁn (1985). This
+tool can be used with different age groups but has
+proved particularly useful with elderly people as it
+takes very little time to answer. This ﬁve-item, one-
+dimension scale measures a variety of aspects related
+to quality of life (‘‘In most ways my life is close to my
+ideal’’; ‘‘The conditions of my life are excellent’’; ‘‘I
+am satisﬁed with my life’’; ‘‘So far I have gotten the
+important things in want in life’’; ‘‘If I could live my
+life over I could change almost nothing’’). It offers
+good psychometric characteristics very similar to the
+original SWLS. In terms of reliability, the ESV
+internal coherence is excellent (Cronbach’s a ¼ .80),
+and its test–retest reliability is satisfactory (reliability
+coefﬁcient ¼ .64). Response options ranged from (1)
+‘‘Total disagreement’’ to (7) ‘‘Total agreement’’ on a
+Likert-type scale.
+Lastly, an open-ended question and four simple
+housing and neighbourhood items were developed.
+The open-ended question asked the women to deﬁne
+their reasons for choosing to stay in their present homes
+(‘‘What are your reasons for living in this house or ﬂat?’’).
+The four simple housing and neighbourhood items
+assessed: perceptions that others wanted them to leave
+their homes (‘‘I am often told it would be better if I left
+this house or ﬂat’’); housing-related constraints (‘‘I often
+ﬁnd it difﬁcult and constraining to live in this house or
+ﬂat’’); satisfaction with the neighbourhood (‘‘My home
+is located in a pleasant neighbourhood’’) and satisfaction
+with the social environment (‘I am satisﬁed with the
+relations I have with my neighbours’). Respondents
+answered using 5-point Likert-type scales, with response
+options ranging from (1) ‘‘Total disagreement’’ to (5)
+‘‘Total agreement’’, and high scores indicating, respec-
+tively, high perceived pressure to move, high constraints
+in the home, satisfaction with the neighbourhood, and
+satisfaction with social relations.
+2.3. Procedure
+Each participant received a visit from the author at
+home, at a prearranged time. After a brief introduction
+to the project, the author read the following instruc-
+tions: ‘‘I am going to ask you questions about your
+everyday life in your house or ﬂat and I will ask you to
+respond by choosing one of the possible answers.’’ Each
+item
+was
+presented
+orally.
+In
+front
+of
+her,
+the
+participant had a sheet of paper presenting the response
+scales, and her choice was then recorded by the
+interviewer. The same procedure was then applied to
+the ESV general well-being scale. Next, the interviewer
+asked the open-ended question and the four simple
+housing and neighbourhood items. Then, to conclude
+the interview, she collected the data concerning (a) the
+house or ﬂat (interior and exterior design, and any
+remodelling), and (b) the respondent’s bio-social quali-
+ties (age, length of residence in the home) as well as
+social factors (social relationships, number of outings,
+and so on).
+3. Results
+3.1. Description of the sample
+The sample comprised 114 women living with their
+spouse or companion in their own homes. Eighty-nine
+percent were married and 11% were cohabiting. Forty-
+eight percent owned their lodgings, 52% rented them.
+Forty-six percent lived in ﬂats and 54% lived in
+individual houses. Nineteen percent of these women
+had been living in their lodgings for less than 20 years,
+37% for between 20 and 40 years, and 44% had lived
+there for over 40 years; the average length of residence
+was 37 years. Fully 75% of the women reported
+receiving some assistance to enable them to stay in their
+homes (Table 1). All but one woman reported typical
+problems of aging that might affect every day function-
+ing. Seventy-two percent reported mobility problems;
+82% had difﬁculty sleeping; 94% said they moved more
+slowly, and routine activities took longer than pre-
+viously; and 96% reported memory problems.
+ARTICLE IN PRESS
+2The original French is ‘‘Je me sens bien quand’’ which can be
+translated as ‘‘I feel good when’’ as well as ‘‘I enjoy’’. The latter is more
+common in English, so I chose that phrase for this article.
+L. Rioux / Journal of Environmental Psychology 25 (2005) 231–243
+234
+
+With respect to assessing physical environmental
+variables, only 21% reported they had had their homes
+modiﬁed to accommodate their advancing age (Table 1).
+Those who had converted their homes had altered both
+the inside and outside, rðdf ¼ 112Þ ¼ :38, po:05. These
+conversions were made to face general difﬁculties of
+aging and occasionally to cope with a particular
+disability (auditory, visual, cognitive or other impair-
+ment).
+This was a low rate of remodelling, compared to
+preventive actions recommended by local and national
+French authorities, and occurred in spite of the fact that
+conversions could have improved their lives and reduced
+their risks of accident (e.g. moving dishes to a lower
+cupboard; installing a ramp so they could safely leave
+their homes). Although our sample was composed of
+people who had not presented any signs of psychological
+or psychiatric disorder or any serious physical disabil-
+ities, conversions are recommended before they are
+needed in order to prevent problems. The researcher
+identiﬁed an additional 32 women who would have
+beneﬁted from some kind of home conversion.
+Approximately 80% of the women lived less than
+2 km away from essential services (shops, town-council
+services, doctors), and nearly 90% lived 2 km or less
+from a park, a garden, a forest or some other green area.
+There was no signiﬁcant correlation between length of
+residence in the home and distance from services,
+rð1 1 2Þ ¼ :06, and green areas, rð1 1 2Þ ¼ :09. Most of
+the women (81%) had lived there for over 20 years,
+suggesting, as they do, that these elderly women were
+not preoccupied by any physical problems of aging
+when they chose their neighbourhood environment, yet
+the convenience of their neighbourhood seems to have
+come to constitute a fundamental reason for them to
+stay in their homes.
+Table 2 presents the distributions for residential items
+(information about the physical environment), fre-
+quency of social relations (with neighbours, friends,
+relatives), frequency of assistance at home (meals, house
+cleaning, shopping), and the number of outings (neces-
+sary outings, leisure outings). The results show that, on
+the whole, social relations were frequent and varied, and
+relations with neighbours were more common than
+those with family/relatives. Not shown in the table is an
+important ﬁnding: 8% of these elderly women indulged
+in no interaction outside the relations they maintain
+with their spouses or partners.
+3.2. Well-being of elderly women in their homes
+Table 3 presents the means, standard deviations and
+number of people who responded for each item on the
+‘‘well-being in the home’’ questionnaire. The means vary
+from a high of 4.79 for ‘‘I enjoy watching television with
+my spouse, in the sitting-room’’ to a low of 1.63 for ‘‘I
+enjoy having a meal alone in my kitchen.’’ Standard
+deviations range from 1.59 for ‘‘I enjoy reading alone in
+my sitting-room’’ to 0.30 for ‘‘I enjoy doing some odd jobs
+with my spouse in the sitting room.’’
+On the whole, results showed that our sample of
+women particularly enjoyed performing an activity in
+the company of guests. The means of the items referring
+to such activities range from 4.17 ‘‘I enjoy doing the
+cooking and guests are present’’ to 4.70 ‘‘I enjoy watching
+television with guests in the sitting-room’’. Equally high
+were the means of the items referring to an activity
+performed in the presence of the spouse, whatever the
+type of activity (cooking, doing odd jobs, talking,
+having lunch, playing games). The means of the latter
+items ranged from 3.70 for ‘‘I enjoy talking with my
+spouse in my bedroom’’ to 4.79 for ‘‘I enjoy watching
+television with my spouse, in the sitting-room’’. The item
+‘‘I enjoy having a meal with my spouse in the kitchen’’ had
+the lowest mean (3.40), which is still above the mid-
+point on the scale.
+Lower means were associated with activities per-
+formed alone in the house or ﬂat. The lowest means
+were 1.63 for ‘‘I enjoy having a meal alone in my kitchen’’
+and 2.72 for ‘‘I enjoy doing housework alone in my
+bedroom’’. One exception was the very positive score of
+4.38 for ‘‘reading alone in my bedroom’’.
+An exploratory factor analysis was then conducted on
+these 27 items, using a principal components extraction
+followed by Varimax rotation on factors with an
+ARTICLE IN PRESS
+Table 1
+Descriptions of the physical environment
+Conversions inside the home
+21%
+Toilet and bathroom conversions
+18%
+Floor covering
+16%
+Ramps
+12%
+Banisters
+10%
+Remote-warning system
+8%
+Others
+6%
+Conversions of surroundings (this applies to women living
+in houses)
+23%
+Handrails
+21%
+Ground surfacing
+18%
+Outdoor lighting
+16%
+Step replacing ramps
+16%
+Others
+8%
+Distance from services
+Less than 500 m (a quarter of a mile)
+28%
+Between 500 m and 2 km (1/4 and 1.5 mile)
+51%
+Between 2 km and 5 km (1.5 and 3 miles)
+11%
+More than 5 km (over 3 miles)
+10%
+Distance from green areas
+Less than 500m (a quarter of a mile)
+57%
+Between 500m and 2 km (1/4 and 1.5 mile)
+32%
+Between 2 km and 5 km (1.5 and 3 miles)
+10%
+More than 5 km (over 3 miles)
+1%
+L. Rioux / Journal of Environmental Psychology 25 (2005) 231–243
+235
+
+eigenvalue greater than 1. This yielded 4 factors. As
+shown in Table 3, ten items loaded on the ﬁrst factor
+and explained 13% of total variance. This factor
+referred to well-being when performing everyday activ-
+ities With Other People (the spouse or guests) and will
+be called (WOP). The second factor contained 6 items
+and
+referred
+to
+well-being
+when
+an
+activity
+was
+performed in the Presence of the Spouse only (PS); it
+explained 13% of the variance. The third factor
+contained 6 items about well-being when performing
+an activity Alone (A), and explained 11% of the
+variance. The fourth and ﬁnal factor contained 5 items
+and corresponded to well-being when Guests were
+Present in the lodgings (PG); it explained 10% of the
+variance. Together these four factors explained 47% of
+total variance. Thus, for the most part, the factors
+reﬂected the women’s different social environments
+(alone, with spouse, with guests, or with spouse and
+guests) rather than particular activities or settings.
+Mean factor scores were computed by taking the
+mean across the items in each factor. An ANOVA
+performed on these scores for ‘‘activities with guests’’ vs.
+‘‘activities
+with
+the
+spouse’’
+vs.
+‘‘activities
+alone’’
+revealed a signiﬁcant effect of the social context,
+Fð2; 112Þ ¼ 55:24,
+MSE ¼ 7:43,
+po:00001.
+Scheffe
+comparisons showed that the women felt better when
+they performed an activity with or in the presence of
+guests (mean score ¼ 3.90) than they did with or in
+presence of their spouse (mean score ¼ 3.60) or alone
+(mean score ¼ 3.39).
+3.3. General well-being of aging women (ESV)
+We adapted the SWLS questionnaire to our sample,
+so a conﬁrmatory factor analysis was used to verify that
+our data replicated the uni-dimensional model obtained
+by Diener et al. (1985). The analysis showed that the
+overall Goodness of Fit Index was reasonably high. The
+value of the GFI was 0.92 and that of the adjusted GFI
+(AGFI) was 0.86. The w2ð10Þ ¼ 257:13; all path coefﬁ-
+cients were signiﬁcant (po:05).
+Overall, the general well-being scores were fairly high
+for this sample of elderly women. The mean obtained on
+the
+7-point
+scale
+was
+4.71
+with
+low
+variability
+(s.d. ¼ :17). By comparison, in samples of elderly men
+and women, Pavot, Diener, and Suh (1998) obtained a
+mean of 5.18 and Rioux (2003) obtained a mean of 4.51
+on this scale. Consistent with the idea that relationships
+are very important to well being among the elderly,
+socializing with neighbours (rðdf ¼ 112Þ ¼ :33), with
+friends (rðdf ¼ 112Þ ¼ :31, po:05) and with family
+(rðdf ¼ 112Þ ¼ :20, po:05) correlated signiﬁcantly with
+general well-being. These correlations did not differ
+signiﬁcantly.
+3.4. Level of perceived housing-related constraint
+Perceived housing-related constraint was close to the
+midpoint on the 5-point scale, where 5 was the highest
+level of constraint (M ¼ 2:3; s.d. ¼ :68). There was a
+clear split between aging women who feel no constraints
+ARTICLE IN PRESS
+Table 2
+Descriptions of social activities and professional assistance
+Frequency of social relations
+Never (%)
+Less than once a
+month (%)
+Once a month (%)
+Once a week (%)
+Two or three times
+a week (%)
+Every day (%)
+With neighbours
+10
+8
+4
+16
+24
+38
+With friends
+10
+12
+18
+26
+24
+10
+With relatives
+15
+35
+24
+4
+2
+10
+Assistance at home
+None (%)
+Once a week (%)
+Two or three times
+a week (%)
+Every day (%)
+Meals, house
+cleaning, shopping
+25
+42
+15
+18
+Nursing
+55
+12
+14
+19
+Number of outings
+Less than once a
+month (%)
+About once a
+month (%)
+Once or twice a
+week (%)
+Almost everyday
+(%)
+Leisure outings
+6
+4
+22
+68
+Necessary outings
+8
+12
+19
+61
+L. Rioux / Journal of Environmental Psychology 25 (2005) 231–243
+236
+
+in their homes (46%, or 52 women) and those who
+complained about the way their homes were ﬁtted out
+(42%, or 48 women). Many women had no complaints
+because their homes had been converted inside and/or
+outside (25%). A woman who had remodelled said ‘‘It’s
+been easier to move about the house since we had the
+place converted. We are glad we listened to the town
+council advisers.’’
+Of those reporting no constraints in their homes,
+some had problems but simply wanted to ignore them
+(11, or 21% of these aging women). For example, one
+elderly woman had no handrails on stairs inside or
+outside her home and needed a cane to walk up and
+down the stairs. She reported ‘‘We have no problem at
+all with the way it is ﬁtted out, it is convenient enough as
+it is. There is nothing to complain about.’’ The
+remaining informants did complain about their homes.
+As one respondent said ‘‘It is not convenient at all. It is
+hard to climb those stairs, you know, andythere are no
+toilets on the ground-ﬂoor so we have to climb’’ (the
+landlord had actually suggested having some remodeling
+done). Thus, more than half of the sample actually had
+mobility problems that affected their quality of life.
+3.5. Reasons for choosing to stay in the home
+Each of the women interviewed was asked the
+following open-ended question: ‘‘Why are you currently
+living in this house or ﬂat?’’ A content analysis allowed us
+to divide the 114 answers into two sets, referring to (a)
+the feeling of being rooted in an environment through
+memories and objects (N ¼ 96), and (b) their concerns
+about the future (N ¼ 48).
+The ﬁrst group of women told essentially of their
+attachment to their souvenirs and memories (86% of the
+96; e.g. ‘‘My children were born hereyall our memories
+ARTICLE IN PRESS
+Table 3
+Sample size, mean, and standard deviation for each item of the 27-item questionnaire on lodgings-related well-being
+Item number
+Ma
+S.D.
+Exploratory Factor Analysis.
+WOP
+PS
+A
+PG
+22. Doing the cooking in the company of my spouse.
+4.21
+0.37
+0.63
+0.08
+0.21
+0.02
+21. Doing some odd jobs with my spouse.
+4.43
+0.30
+0.62
+0.06
+0.03
+0.32
+8. Playing cards with guests in the dining-room.
+3.60
+0.98
+0.60
+0.02
+0.07
+0.35
+4. Having a meal with guests in the dining-room.
+3.33
+0.90
+0.59
+0.05
+0.05
+0.06
+19. Having lunch with my spouse, in the kitchen.
+3.04
+1.39
+0.59
+0.12
+0.06
+0.07
+9. Taking part in a TV game with my spouse, in the sitting-room.
+4.79
+0.36
+0.58
+0.03
+0.09
+0.05
+12. Playing some parlor game (cards, Scrabbley) with my spouse.
+3.84
+1.27
+0.57
+0.25
+0.05
+0.05
+5. Talking with guests in my sitting-room.
+3.24
+1.35
+0.50
+0.14
+0.10
+0.15
+15. Talking with my spouse in the sitting-room.
+3.80
+1.31
+0.47
+0.19
+0.03
+0.01
+25. I am conversing with my spouse in my bedroom.
+3.70
+1.02
+0.43
+0.04
+0.02
+0.29
+3. Reading in the sitting room in the presence of my spouse.
+3.03
+1.53
+0.12
+0.83
+0.16
+0.02
+6. Doing some needlework in the sitting-room in the presence of my spouse.
+2.91
+1.39
+0.08
+0.82
+0.04
+0.03
+1. Watching television in the sitting-room in the presence of my spouse.
+2.89
+1.52
+0.05
+0.78
+0.06
+0.06
+26. Getting the meal ready and my spouse is present.
+3.09
+1.47
+0.22
+0.75
+0.03
+0.10
+13. Reading in my bedroom in the presence of my spouse.
+3.39
+1.35
+0.05
+0.61
+0.003
+0.19
+17. Dressing up in my bedroom in the presence of my spouse.
+2.93
+1.39
+0.03
+0.57
+0.21
+0.15
+14. Making a cake alone in my kitchen.
+3.70
+1.02
+0.13
+0.02
+0.80
+0.01
+18. Reading alone in my sitting-room.
+3.78
+1.59
+0.15
+0.12
+0.73
+0.04
+27. Watching television alone in the sitting-room.
+2.98
+0.97
+0.18
+0.20
+0.63
+0.31
+10. Reading alone in my bedroom.
+4.38
+0.93
+0.02
+0.13
+0.61
+0.13
+2. Doing housework alone in my bedroom.
+2.72
+1.57
+0.14
+0.08
+0.57
+0.31
+7. Having a meal alone in my kitchen.
+1.63
+0.68
+0.19
+0.27
+0.53
+0.16
+24. Dressing up to go out in my sitting-room and guests are present.
+4.12
+1.08
+0.14
+0.02
+0.14
+0.77
+16. Getting the meal ready in the presence of guests.
+4.11
+0.99
+0.01
+0.02
+0.16
+0.73
+11. Watching television in the sitting-room in the presence of guests.
+4.70
+0.77
+0.08
+0.01
+0.01
+0.65
+23. Doing some needlework in the sitting-room in the presence of my spouse.
+4.17
+0.91
+0.24
+0.07
+0.42
+0.52
+20. Doing some tidying up in the presence of guests.
+4.61
+0.60
+0.09
+0.07
+0.20
+0.47
+13%
+13%
+11%
+10%
+0.74
+0.53
+0.74
+0.73
+Results of the exploratory factor analysis. The stem for each item is ‘‘I enjoy.’’
+WOP: feeling of well-being when an activity is performed with other people (either spouse or guests).
+PS: feeling of well-being when an activity is performed in the presence of the spouse.
+A: feeling of well-being when an activity is performed alone.
+PG: feeling of well-being when an activity is performed in the presence of guests.
+aN’s varied between 111 and 114.
+L. Rioux / Journal of Environmental Psychology 25 (2005) 231–243
+237
+
+lie here, in this housey all my life has been here3),
+attachment to their house or ﬂat (73%; e.g. ‘‘We ﬁtted
+up the house little by little to suit our taste, make it
+homeythis home must be the same as now, until I am
+no longer here—when I die’’), attachment to their
+neighbourhood (56%; e.g. ‘‘This part of the town has
+greatly changed, still yit’s our neighbourhood’’), their
+neighbours (37%; e.g. ‘‘We have known the neighbours
+for 30 years, it is like we were bound, we trust each
+otheryour life is here,’’), and/or attachment to their
+town or village (24%; e.g. ‘‘We know our whereabouts
+here. The town-hall square is a bit like our home’’).
+Although all the women reported some physical
+difﬁculties, they said that staying in their houses or ﬂats
+was the best way for them to feel ‘‘at home’’. These
+women endured some negative everyday events and
+took comfort in their memory-ﬁlled homes, perceived as
+havens.
+The second group of women most often told about
+their fear of change (62% of the 48; ‘‘The thing is, you
+don’t know what it’ll be like; sure we do feel much better
+at home.’’), of being unable to have control over the
+course of their lives (61%; e.g. ‘‘If we have to go, then
+we’ll go but it’ll never be the same. When you’re old,
+you can’t change just like that.’’), of losing their freedom
+of action (58%; e.g. ‘‘There’ll be rules; I’ll have to
+comply like the rest of them, and I won’t like it.’’), their
+preferences (42%; e.g. ‘‘We have dinner at 7 p.m. then
+we will have a game and then we go to bedyIt will all
+be different for sure’’), their habits (34%; e.g. ‘‘We have
+our ways, it’ll be all a shambles if we have to leave.’’),
+and mostly of being separated from their spouses (82%;
+e.g. ‘‘What frightens me most is they can decide to part
+us, I do fear that’’). They said that staying in their
+homes was the best way for them to remain autono-
+mous, to have control of everyday events and to make
+plans to do what they like.
+3.6. Level of perceived social pressure
+Perceived social pressure was measured on a 5-point
+Likert-type scale, with a 5 indicating high perceived
+pressure. The mean of 1.75 (s.d. ¼ 1:32) was below the
+midpoint of the scale, suggesting overall, the women felt
+low
+pressure
+to
+move.
+However,
+examination
+of
+individual comments indicated that some women felt
+pressure to move, but their reaction to the pressure
+depended on the source. Third parties tended to have
+more inﬂuence if they were disinterested (17% of these
+elderly women; e.g. ‘‘Our househelp keeps telling us we
+ought to agree to moveywe end up thinking she may be
+right.’’), or if the elderly woman felt she was a burden
+(24%; e.g. ‘‘The neighbours are nice but we depend on
+them to do the shopping or go to the doctor’s, this can’t
+last for everyWell, it is not that they say anything but
+we know we are bothering them.’’). On the other hand
+whenever the third party was seen as likely to derive
+some advantage from the woman’s leaving, the per-
+ceived social pressure was often discounted or ignored
+(44%; e.g. ‘‘The nurse says that, at our age, we’d be
+better off in an old-people home. Of course then she
+wouldn’t have to come up to here. We may be in the
+middle of nowhere but that’s where we live, it’s our
+home’’). This feeling was heightened when the person
+perceived to be exerting pressure was related to the
+woman (e.g. ‘‘They don’t say anything but we know very
+well they take holidays at a separate time. That makes us
+consider leaving.’’ ‘‘I am aware that my daughter-in-law
+wants the kitchen garden all to herself. She tells us we
+ought to move but we won’t listen to her.’’). Despite
+these comments, no speciﬁc example of real pressure in
+acts or words was given by any of these elderly women.
+Apparently, the level of perceived social pressure had
+little to do with the level of pressure that could be
+objectively described.
+3.7. Level of satisfaction with the home’s location
+Satisfaction with the home’s location was slightly
+above the midpoint (with a 5 indicating high satisfac-
+tion), whether satisfaction referred to the physical
+environment
+in
+the
+neighbourhood
+(M ¼ 3:78;
+s.d. ¼ :87) or to the social environment of neighbours
+(M ¼ 3:54; s.d. ¼ 1:02). The two satisfaction scores
+were
+modestly
+but
+signiﬁcantly
+correlated
+(rðdf ¼ 112Þ ¼ :27, po:05), suggesting that our sample
+was split into two groups: (a) women with a high degree
+of residential satisfaction in terms of physical and social
+environment and (b) women with a low degree of
+satisfaction in the same domains.
+3.8. Predictors of well-being in the home
+The
+purpose
+of
+our
+research
+was
+to
+examine
+predictors of positive experiences in the home. Table 4
+shows correlations between the bio-social variables, the
+four simple housing and neighbourhood items, the
+residential variables and level of general well-being on
+the one side, with the four factor scores on the other, i.e.
+enjoyment when an activity was performed With Other
+People
+(WOP),
+enjoyment
+when
+an
+activity
+was
+performed in the Presence of the Spouse (PS), enjoyment
+when
+an activity was performed Alone (A), and
+enjoyment when an activity was performed in the
+Presence of Guests (PG).
+ARTICLE IN PRESS
+3These quotations are difﬁcult to translate accurately from the
+original French. We translated ‘‘ma vie est ici’’ as ‘‘my life is here’’ but
+the connotation is that ‘‘my life is now ﬁnished, I don’t expect anything
+more in my life.’’ Although the women never use this term, they mean
+‘‘I wait here to die.’’
+L. Rioux / Journal of Environmental Psychology 25 (2005) 231–243
+238
+
+As shown in Table 4, many variables were not related
+to any of the factor scores. Whether the home had been
+modiﬁed, proximity to services and parks, frequency of
+interactions with neighbours, friends, and relatives,
+frequency of leisure and necessary outings, and satisfac-
+tion with the neighbourhood and neighbours were all
+unrelated to how women felt when engaged in activities
+inside their homes.
+On the other hand, several variables were signiﬁcantly
+related to the enjoyment scores. To identify which
+variables were unique predictors of enjoyment while doing
+activities at home, three separate regression analyses were
+conducted, one for each of the well-being factor scores
+(Presence of the Spouse, PS; Alone, A; and Presence of
+Guests, PG). In each regression, the set of predictors was
+limited to the bio-social and psychosocial variables that
+had correlated signiﬁcantly with the factor scores. Note
+that no bio-social variables proved to be a predictor of
+either the PG or A factor. Results are presented in Table 5.
+Presence of spouse. Two variables predicted the well-
+being of elderly women when they were performing
+activities in the presence of their spouses (PS), and
+accounted for 64% of the variance, i.e. the perception of
+high housing-related constraints (R ¼ 0:73), and posi-
+tive general well-being (R ¼ 0:32).
+Alone. The level of perceived pressure to leave her
+home (R ¼ 0:57) and the level of general well-being
+(R ¼ 0:17) were predictors of the person’s well-being
+when she was alone (A) in her home, and accounted for
+36% of the variance.
+Guests. Two predictors, accounting for 27% of the
+variance, were signiﬁcant with regard to the well-being
+of the elderly woman when she welcomed guests at
+home (PG), i.e. reasons for choosing to stay in her home
+(0 ¼ emphasis on the past; 1 ¼ emphasis on controlling
+the future) (R ¼ 0:45) and age (R ¼ 0:26). The older the
+woman, and the more she felt she had control of her
+everyday life, the better she felt when she welcomed
+guests at home.
+Spouse
+and
+guests.
+No
+regression
+analysis
+was
+conducted with activities in the company of spouse
+and guests (WOP) as a criterion, since only general well-
+being yielded a signiﬁcant zero-order correlation with
+this factor. This correlation was moderate (r ¼ 0:19),
+suggesting that other variables, not measured in the
+present study, would predict affect in these situations.
+4. Discussion
+The present research had a double aim: (a) to assess
+the well-being of aging women in their homes and (b) to
+determine likely predictors of this well-being.
+ARTICLE IN PRESS
+Table 4
+Correlations of factor scores with bio-social variables, four simple housing and neighbourhood items, and scores on the general well-being scale
+Factors derived from the well-being questionnaire
+PS
+A
+WOP
+PG
+Bio-social variables
+Age
+.08
+.08
+.02
+.19*
+Length of stay in the home
+.05
+.05
+.01
+.06
+Residential variables (physical environment)
+Conversions inside the home
+.02
+.08
+.06
+.06
+Conversions of the immediate surroundings
+.01
+.01
+.06
+.04
+Distance from services
+.08
+.07
+.04
+.04
+Distance from parks
+.09
+.11
+.02
+.03
+Residential variables (social environment) Frequency ofy
+Relations with neighbours
+.08
+.06
+.11
+.02
+Relations with friends
+.02
+.03
+.05
+.04
+Relations with relatives
+.01
+.03
+.08
+.05
+Necessary outing
+.02
+.03
+.03
+.04
+Leisure outing
+.06
+.05
+.08
+.06
+Assistance at home
+.04
+.12
+.05
+.02
+Open-ended question, housing & neighbourhood
+Reasons for choice of housing
+.14
+.06
+.13
+.20*
+Perceived social pressure
+.21*
+.47**
+.02
+.15
+Perceived housing constraints
+.72**
+.13
+.15
+.04
+Satisfaction with physical environment (neighbourhood)
+.12
+.15
+.10
+.08
+Satisfaction with social environment (neighbours)
+.0
+.11
+.17
+.18
+Diener Scale
+General well-being
+.53**
+.28**
+.19*
+.14
+*po:05; **po:01.
+L. Rioux / Journal of Environmental Psychology 25 (2005) 231–243
+239
+
+First, with respect to general well being, the results
+suggested that the well-being of this sample of aging
+women is good. The results were consistent with
+Pinquart’s
+(1998)
+research
+and
+Cameron’s
+(1995)
+extensive comparative study, both showing that the
+level of general well-being does not decrease with age, as
+aging induced deﬁciencies are not necessarily felt by
+elderly women as impairments for their daily lives (Park
+& Gutchess, 2000).
+Descriptive information indicated that women re-
+ported high rates of contact with others. Only 8%
+reported no contacts outside their homes. In general, by
+living in their own homes, the women maintained
+control of the relationships they initiate. Seeking out
+contact with others may be a strategy for optimizing
+their level of well-being. This ‘‘active coping’’ strategy
+(Seiffge-Krenke, 1995) found its expression in the
+development of regular and rather frequent contacts
+with their neighbours, relatives or/and friends.
+Descriptive information also indicated that only 21%
+of the women had remodelled their homes in order to
+support declining physical abilities. The large majority
+had not made needed changes, although many had been
+encouraged to remodel by landlords or agency person-
+nel. Failing to take such preventive actions could be due
+to a lack of information, fear of the future, and/or a
+belief that they were too old to cope with the disruption
+of a conversion.
+Consistent with the transactional world view and
+congruence theories, it was presumed from the start that
+the in-home well-being of this sample would depend on
+a combination of the type of activity being performed,
+its social context (whether performed alone or with
+other people), and the place where it was performed.
+Only one ﬁnding was consistent with this view. Reading
+while alone received a very high score, but the other
+solitary activities received low scores. This pattern
+underscores the congruence model idea that affect is
+related to combinations of activity, setting, and social
+context: Being alone is not always negative.
+Instead of unique combinations of activity, social
+context,
+and
+physical
+setting,
+the
+factor
+analysis
+indicated that items clustered together simply according
+to the social context of the activities (A—alone, PS—
+presence of the spouse or companion, WOP—with the
+spouse or guests, and PG—presence of guests). When
+the
+questionnaire
+items
+were
+simply
+broken
+into
+activities done alone, with the spouse, and with guests,
+an ANOVA indicated that activities performed with or
+in the presence of another person were more enjoyable
+than were activities performed alone. Both the factor
+analysis and the ANOVA are consistent with the great
+importance elderly people ascribe to social relationships
+(Pinquart & So¨ rensen, 2000). A meta-analysis of 286
+surveys (Pinquart & So¨ rensen, 2000) underscored the
+strong relationship between quality of social relations
+and general well-being, not just for elders, but for all age
+groups.
+The second major purpose was to identify predictors
+of enjoyment in the home. The particular predictors of
+well-being differed, depending on the social character of
+the activity performed. For activities undertaken alone,
+the more an elderly woman noticed social pressure to
+leave her home, the better she felt when she was alone at
+home and the higher degree of general well-being she
+had. These women may have avoided conﬂicts and
+found shelter in the solitude of their home since they had
+chosen to stay there despite the pressure they said was
+exerted on them.
+When considering activities undertaken with or in the
+presence of the spouse, the two signiﬁcant predictors
+were perceived housing related constraints and general
+well-being. The higher these were, the stronger the
+feeling of well-being when an activity was performed in
+ARTICLE IN PRESS
+Table 5
+Predictors of housing related well-being
+Criteria
+Predictors
+Beta
+R
+R2
+F
+p
+Final equation
+Well-being in presence of spouse (PS)
+Housing-related constraint
+0.61
+0.73
+0.53
+124.77
+0.0000001
+R ¼ 0:77
+R2 ¼ 0:64
+General well-being
+0.29
+0.32
+0.63
+20.63
+0.000014
+Fð2; 111Þ ¼ 83; 63
+po:00001
+Well-being when alone (A)
+Social pressure
+0.54
+0.57
+0.33
+54.13
+0.0000001
+R ¼ 0:60
+R2 ¼ 0:36
+General well-being
+0.19
+0.17
+0.36
+6.36
+0.013
+Fð3; 111Þ ¼ 31:52
+po:000001
+Well-being in presence of guests (PG)
+Reasons for choice of housing
+0.20
+0.45
+0.20
+4.82
+0.03
+R ¼ 0:32
+R2 ¼ 0:27
+Age
+0.18
+0.26
+0.27
+4.12
+0.04
+Fð2; 111Þ ¼ 4:53
+po0; 01
+L. Rioux / Journal of Environmental Psychology 25 (2005) 231–243
+240
+
+the presence of the spouse. It may be that any housing
+related hindrance made life at home all the more
+precious which led to increased general well-being. That
+is, it may be these material difﬁculties were experienced
+positively because the elderly woman overcame them
+every day, thus proving her ability to live in her home.
+The ﬁnal activities were those done with friends, and
+results indicated that the older the woman, and the more
+future oriented her reasons for staying in her home, the
+more she enjoyed having guests in her home. Welcoming
+guests enabled elderly women to feel as if they were not
+only taking part in the events of their daily lives but
+controlling them; receiving guests is a free choice, a
+decision that can be a source of well-being, particularly
+for the oldest of them who appreciate that they were still
+able to act as hostesses. These results are in keeping with
+the studies carried out by Moos and Lemke (1994) and
+Maltais (1999b) showing a strong relationship between
+general well-being in elder care homes and perceived
+control over one’s environment. The results are also
+similar to those obtained by Rioux (2003) from a female
+population living in elder care homes. In that study,
+women expressing the highest degree of satisfaction
+when guests were present in their private lodgings were
+the
+oldest
+residents.
+Rioux
+suggested
+that
+social
+comparison
+played
+an
+important
+role,
+since
+their
+reference group was a group of people their age, hence
+most likely to experience serious health troubles; there-
+fore they would be particularly pleased to be able to
+welcome guests in their lodgings.
+No residential or ‘‘physical environmental’’ variable
+predicted enjoyment in the home. This contrasts with
+the results from surveys of aging women residing in
+elder care homes, whose well-being varied according to
+the quality of the services they received in terms of
+safety, cleanliness, calm, and distance (Fernandez-
+Ballesteros, 2001), and according to the social support
+that existed in terms of adaptation to the abilities, needs,
+and expectations of the residents (Maltais, 1999b;
+Dzuka & Dalbert, 2000). It is possible that aging
+women living in their own homes could attach less
+importance to their physical environment because they
+control their homes, but also because they focus on their
+social environment, which they manage and control
+themselves. Thus the feeling that one is losing control of
+one’s environment, particularly noticeable in elder care
+homes (Caouette, 1995), should be much weaker, even
+non-existent in this sample. It must be said, though, that
+perceived loss of control
+greatly
+depends on the
+institutional structure in the facility. In elder care homes
+that control day to day activities, elderly people tend to
+be less autonomous, they participate less in collective or/
+and personal decision making, and they report or
+exhibit lower levels of well-being (Moos & Lemke,
+1994). Conversely institutions that let their residents
+have a say in decision making—including what rules
+they comply with and the choice and organisation of
+their activities—generate higher levels of well-being in
+their residents (Feinhold & Werby, 1990). Maltais’
+(1999b) study showed that elder’s perceived control
+over decision making was more important than actual
+decision making for generating a feeling of well-being—
+however fragile the people may have been. This line of
+work suggests that aging women living in their own
+homes enjoy a comparatively high level of well-being
+because they believe they make their decisions indepen-
+dently, and thus perceive control of their lives.
+Our general ﬁnding is that aging women who live in
+their own homes feel good in their day to day activities
+and report generally positive well being. This suggests
+they are coping successfully with the multitude of age
+related difﬁculties typical of their age group. These
+troubles are known (a) to affect aging people much more
+seriously than any traumas or major events that may
+occur in their lives (Lazarus & De Longis, 1983), and (b)
+to have the potential to undermine their level of general
+well-being (Burk & Martins, 1985). Day to day positive
+affect could be an important component of resilience in
+aging—that is, the ability to age ‘‘successfully’’ despite
+age related difﬁculties (Vaillant & Mukamal, 2001).
+Thus, the well-being that is felt in their home may be an
+important contributor to the successful aging of women.
+Our research underscored the importance of three out of
+the six factors proposed by Ryff in her integrative model
+of successful aging (Ryff, 1989), namely preservation of
+autonomy, good relationships with other people and
+control of the environment. Furthermore, it highlighted
+the
+importance
+of
+housing-related
+constraints
+and
+reminds us of the vital role played by the social
+environment.
+In the ﬁeld of the environmental psychology of aging,
+this research can be continued in two directions. First, is
+to further examine the ﬁnding of relatively high level of
+well-being among this sample of elderly women living in
+their own home. It may be that elders reported generally
+positive well being because they were doing well or
+because they have developed lower expectations about
+their quality of life. Future research might evaluate
+respondents’ Future Time Perspective (FTP), which
+measures elders’ aspirations, goals or personal projects,
+and this might provide more information about their
+expectations.
+Second, this research showed mixed support for the
+hypothesis that elders’ everyday enjoyment at home
+would be related to combinations of people/place/
+activity. Except for ‘‘reading alone’’ which did represent
+a unique combination, the factor analysis indicated that
+enjoyment was highly inﬂuenced by the social context.
+How they felt about activities depended on whom they
+were with more than particular activities or where they
+were performed in the home. To some extent, this could
+be an artefact, because I deliberately excluded people/
+ARTICLE IN PRESS
+L. Rioux / Journal of Environmental Psychology 25 (2005) 231–243
+241
+
+place/activities combinations that did not make sense in
+order to achieve ecological validity (e.g. I did not ask
+how they felt about cooking in the sitting room). In
+addition, the response scale had a restricted range (1–5);
+perhaps a broader, more sensitive scale would have
+detected differences among particular combinations.
+Future research could address some of these issues.
+Moreover, future research could examine how enjoy-
+ment at home varies with participant sex (Rioux, 2004)
+and type of housing—home (Rioux, 2004) versus
+community
+home
+(Rioux,
+2003).
+The
+importance
+respondents appeared to place on being able to age in
+place may have obscured more subtle differences in
+enjoyment from one people/place/activity combination
+to another. Many elders have to go to an elder care
+home, so using a transactional framework to study what
+combinations of people/place/activity increase elders’
+well-being in those settings may be very important.
+Acknowledgements
+My thanks to Professor Carol M. Werner who
+provided
+signiﬁcant
+constructive
+comments
+and
+a
+thoughtful and helpful translation re-reading.
+References
+Adkins, G., Martin, P., & Poon, L. W. (1996). Personality traits and
+states as predictors of subjective well-being in centenarians,
+octogenarians, and sexagenarians. Psychology and Aging, 11(3),
+408–416.
+Altman, I., & Rogoff, B. (1987). World views in psychology: trait,
+interactional, organismic, and transactional perspectives. In D.
+Stokols, & I. Altman (Eds.), Handbook of Environmental Psychol-
+ogy, vol. 1 (pp. 1–40). New York: Wiley.
+Ardelt, M. (1997). Wisdom and life satisfaction in old age. Journal of
+Gerontology: Psychological Sciences, 52B, 15–27.
+Blais, M. R., Vallerand, R. J., Pelletier, L. G., & Brie` re, N. M. (1989).
+L’Echelle de satisfaction de vie: Validation Canadienne-Franc-aise
+du Satisfaction with life scale. Canadian Journal of Behavioral
+Science, 21, 210–223.
+Burk, N., & Martins, M. (1985). Everyday problems and life change
+events: Ongoing versus acute sources of stress. Journal of Human
+Stress, 1, 27–35.
+Cameron, P. (1995). Mood as an indicant as happiness: Age, sex, social
+class and situational differencies. Journal of Gerontology, 30,
+216–224.
+Caouette, E. (1995). La relation au chez-soi des personnes aˆge´es en
+re´sidences spe´cialise´es et leur perception de l’image des centres
+d’accueil. me´ moire de maıˆtrise, Ecole d’architecture, Universite´ de
+Laval 217pp.
+Carp, F. M., & Christensen, D. L. (1986). Technical environmental
+assessment predictors of residential satisfaction. Research and
+Aging, 8(2), 269–287.
+Carp, F. M. (1987). The impact of planned housing. A longitudinal
+study. In V. Re´ gnier, & J. Pynoos (Eds.), Housing the aged, design
+directives and policy considerations (pp. 43–81). New York:
+Elsevier.
+Casey, E. (1993). Getting back into place. Bloomington: Indiana Press.
+Diener, E., & Diener, M. (1995). Cross-cultural correlates of life
+satisfaction and self-esteem. Journal of Personality and Social
+Psychology, 68, 653–663.
+Diener, E., Emmons, R. J., Larsen, R. J., & Grifﬁn, S. (1985). The
+satisfaction with life scale. Journal of Personality Assessment, 49,
+71–75.
+Dzuka, J., & Dalbert, C. (2000). Well-being as a psychological
+indicator of health in old age: A research agenda. Studia
+Psychologica, 42(1–2), 61–70.
+Essex, M. J., & Nam, S. (1987). Marital status and loneliness among
+older women: The differential importance of close family and
+friends. Journal of Marriage and the Family, 49, 93–106.
+Feinhold, E., & Werby, E. (1990). Supporting the independence of
+elderly residents through control over their environment. Journal of
+Housing for the Elderly, 6(1–2), 25–32.
+Fernandez-Ballesteros, R. (2001). Environmental conditions, health
+and satisfaction among the elderly: Some empirical results.
+Psicothema, 13(1), 40–49.
+Fischer, G.-N. (1997). Psychologie de l’environnement social. Paris:
+Dunod.
+Gibson, D. M. (1986). Interaction and well-being in old age: Is it
+quantity or quality that counts ? International Journal of Aging and
+Human Development, 24(1), 29–40.
+Hollander, J. (1993). It all depends. In A. Mack (Ed.), Home: A place
+in the world. New York: New York University Press.
+Kahana, E. (1975). A congruence model of person–environment
+interaction. In M. P. Lawton, P. G. Windley, & T. O. Byerts (Eds.),
+Aging the environment theoretical approaches (pp. 380–418). New
+York: Sage Publications.
+Kendig, H., Helme, R., Teshuva, K., Osborne, D., Flicker, L., &
+Browning, C. (1996). Health status of older people project: Data
+from a survey of the health and lifestyles of older Australians.
+Melbourne: Victorian Health Promotion Foundation.
+Klein,
+M.
+A.
+(1993).
+Home
+satisfaction:
+Related
+health
+and
+psychological variables. Journal of
+Applied
+Gerontology,
+12,
+439–451.
+Lapierre, S., Bouffard, L., & Bastin, E. (1997). Personal goals and
+subjective well-being in later life. International Journal of Aging and
+Human Development, 45, 287–303.
+Law, C. M., & Warnes, A. M. (1982). The destination decision in
+retirement migration. In A. M. Warnes (Ed.), Geographical
+perspectives on the elderly. London: Wiley.
+Lawton, M. P. (1996). Quality of life and affect in later life. In C.
+Magai et, & S. H. McFadden (Eds.), Handbook of emotion, adult
+development and aging (pp. 327–348). San Diego, CA: Academic
+Press.
+Lazarus, R. S., & De Longis, A. (1983). Psychological stress and
+coping in aging. American Psychologist, 38, 245–254.
+Lemel, Y. (1993). Les activite´ s domestiques: qui en fait le plus? Lanne´e
+Psychologique, 235–251.
+Levin, J. S., & Chatters, L. M. (1998). Religion, health and
+psychological
+well-being
+in
+older
+adults-ﬁndings
+from
+three
+national surveys. Journal of Aging and Health, 10, 504–531.
+Lewin, F. A. (2001). The meaning of home among elderly immigrants:
+Directions
+for
+future
+research
+and
+theoretical
+development.
+Housing Studies, 16(3), 353–370.
+Mack, R., Salmoni, A., Vivarais-Dressler, G., Porter, E., & Garg, R.
+(1997). Perceived risks to independent living: The views of older,
+community-dwelling adults. Gerontologist, 37(6), 729–736.
+Maltais, D. (1999a). Milieu de vie et inte´ gration sociale: caracte´ ris-
+tiques organisationnelles des re´ sidences pour aıˆne´ (e)s et vie sociale
+des personnes aˆ ge´ es. Canadian Journal of Aging, 18(4), 493–512.
+Maltais, D. (1999b). Vivre en re´ sidence pour aıˆne´ s: le format est-il la
+formule? Sante´ mentale au Que´bec, 24, 173–198.
+ARTICLE IN PRESS
+L. Rioux / Journal of Environmental Psychology 25 (2005) 231–243
+242
+
+McAuley, E., Blissmer, B., Marquez, D. X., Jerome, G. J., Kramer, A.
+F., & Katula, J. (2000). Social relations, physical activity, and well-
+being in older adults. Preventive Medicine, 31(5), 608–617.
+Moos, R. H., & Lemke, S. (1994). Group residences for older adults:
+Physical features, policies and social climate. New York: Oxford
+University Press 280pp.
+Morin, R., Dansereau, F., & Nadeau, D. (1990). L’habitation sociale,
+synthe`se de la litte´rature. Montre´ al, Que´ : INRS-Urbanisation
+120pp.
+Nagar, D., & Paulus, P. B. (1997). Residential crowding experience
+scale—assessment and validation. Journal of Community and
+Applied Social Psychology, 7, 303–319.
+Oswald, F., Wahl, H.-W., Mollenkolf, H., & Schilling, O. (2000).
+Ageing in place in rural areas: Similarities and differences of two
+settings in East and West Germany. Conference ‘‘Housing in the 21st
+Century: Fragmentation and reorientation. Ga¨ vle: Sweden.
+Park, D. C., & Gutchess, A. H. (2000). Cognitive aging and every day
+life. In D. Park, & N. Schwarz (Eds.), Cognitive aging: A primer
+(pp. 217–232). Philadelphia: Psychology Press.
+Paulus, P. B., Nagar, D., & Camacho, L. M. (1991). Environmental
+and psychological factors in reactions to apartments and mobile-
+homes. Journal of Environmental Psychology, 11, 143–161.
+Pavot, W., Diener, E., & Suh, E. (1998). The temporal satisfaction with
+the life scale. Journal of Personality Assessment, 70(2), 340–354.
+Pinquart, M. (1998). Das selbskoncept im seniorenalter (self-concept in
+old age). Weinheim, Germany: Belz.
+Pinquart, M., & So¨ rensen, S. (2000). Inﬂuences of socioeconomic
+status, social network, and competence on subjective well-being in
+later life: A meta-analysis. Psychology and Aging, 15(2), 187–224.
+Proshansky, H. (1978). The city and self-identity. Environment and
+Behaviour, 10, 147–183.
+Pynoos, J., & Regnier, V. (1991). Improving residential environments
+for frail elderly: Bridging the gap between theory and application.
+In J. E. Birren, J. E. Lubben, J. C. Rowe, & D. E. Deutchman
+(Eds.), The concept and measurement of quality of life in the frail
+elderly. San Diego: Academic Press.
+Rioux, L. (2003). Le bien-eˆ tre des re´ sidentes en foyer-logement [The
+well-being among ageing women living in community home].
+Bulletin de Psychologie, 56(5), 677–684.
+Rioux, L. (2004). Les strate´gies adaptatives mises en œuvre par les
+personnes aˆge´es vivant dans leur logement [Adjustment strategies of
+elderly people living in their own homes]. Paper presented at the1ers
+entretiens de la psychologie (April). Paris, France: Fe´ de´ ration
+Franc-aise des Psychologues et de Psychologie.
+Rousseau, J., & Dube´ , M. (1993). De´ terminants personnels, relation-
+nels et environnementaux du bien-eˆ tre psychologique des personnes
+aˆ ge´ es. Revue que´be´coise de psychologie, 14(3), 3–29.
+Ryff, C. D. (1989). In the eye of the beholder: Views of psychological
+well-being among middle-aged and older adults. Psychology and
+Aging, 11, 362–372.
+Seiffge-Krenke, I. (1995). Stress, coping and relationships in adoles-
+cence. New Jersey: LEA Publishers.
+Smits, C. H. M., Deeg, D. J. H., & Bosscher, R. J. (1995). Well-being
+and control in older persons: The prediction of well-being from
+control measures. International Journal of Adult and Human
+Development, 40, 237–251.
+Vaillant, G. E., & Mukamal, K. (2001). Successful aging. American
+Journal of Psychiatry, 158(6), 839–847.
+Vikko,
+A.
+(1996).
+The
+home
+as
+a
+meaning-making
+factor
+in
+autobiographies written by elderly men and women (Hemmet som
+meningsgivande faktor i sja¨lvbiograﬁer skrivna av a¨ldre ma¨n och
+kvinnor). The 13th Scandinavian gerontology conference. Helsning-
+fors.
+Webster, J. D. (1997). Attachment style and well-being in elderly
+adults: A preliminary investigation. Canadian Journal of Aging, 16,
+101–111.
+Werner, C. M., Altman, I., & Oxley, D. (1985). Temporal aspects of
+homes: A transactional perspective. In I. Altman, & C. M. Werner
+(Eds.), Home environments: Human behavior and the environment,
+vol. 8 (pp. 1–32). New York: Plenum.
+ARTICLE IN PRESS
+L. Rioux / Journal of Environmental Psychology 25 (2005) 231–243
+243

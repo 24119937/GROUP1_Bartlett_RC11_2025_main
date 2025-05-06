@@ -1,0 +1,1167 @@
+The Authoritarian Personality, 50 Years Later:
+What Lessons Are There for Political Psychology?
+John Levi Martin
+Department of Sociology
+Rutgers—The State University of New Jersey
+Adorno, Frenkel-Brunswik, Levinson, and  Sanford’s The  Authoritarian Personality is
+probably the most deeply flawed work of prominence in political psychology. The
+methodological, procedural, and substantive errors of this study are well known, but they
+are frequently simply attributed to poor methodological judgments, issues of scaling (such
+as response set), or Freudian theories that legitimated circular interpretations. But a more
+fundamental bias arose from the attempt to empirically verify the existence of a “type” of
+person whom the researchers thought dangerous and with whom they did not empathize.
+This attempt involved two dangerous procedures: (1) the fusion of nominalist research
+procedures (in which empirical results were used to type respondents) with a realist
+interpretation of types (in which some people “just were” authoritarians and others not),
+and (2) a theoretically rich critique of the authoritarians and a lack of interest in the
+psychodynamics of liberals. This combination led to an intrinsically biased interpretive
+project that could not help but accumulate damning evidence about authoritarians. These
+subtler problems have haunted contemporary work in political psychology that avoids the
+methodological problems of Adorno et al.; Altemeyer’s work on authoritarianism, which
+not only is free from  the defects of the Adorno et al.  study but also involves some
+methodologically exemplary experiments, is similarly distorted by asymmetries. The same
+fundamental problems seem to be at the heart of the weaknesses of the theory of symbolic
+racism to which critics have pointed. Political psychologists should regard The
+Authoritarian Personality as a cautionary example of bias arising from the choice of
+methodological assumptions.
+KEY WORDS: authoritarianism, authoritarian personality, Adorno et al., symbolic racism.
+The Authoritarian Personality, by Theodor Adorno, Else Frenkel-Brunswik,
+Daniel J. Levinson, and R. Nevitt Sanford (1950), was perhaps the first major work
+in political psychology to combine theoretical claims with methods similar to those
+Political Psychology, Vol. 22, No. 1, 2001
+1
+0162-895X © 2001 International Society of Political Psychology
+Published by Blackwell Publishers, 350 Main Street, Malden, MA 02148, USA, and 108 Cowley Road, Oxford, OX4 1JF, UK.
+
+now used in the social sciences. In the 50 years since it was published, its influence
+in political psychology has waned greatly. But for this very reason the work is worth
+renewed attention, for the exaggerated nature of its interpretive flaws makes it an
+ideal site to identify standard forms of distortion that enter into political psychol-
+ogy, distortions that can be found in greatly attenuated form in contemporary
+researches. I assert that the fundamental weaknesses of The Authoritarian Person-
+ality (hence TAP) came from its attempt to empirically validate a typology that
+made categorical distinctions between types of persons, and that similar problems
+may affect much more empirically grounded studies; consequently, the strictures
+recently proposed by Tetlock (1994) may not prove sufficient to prevent the
+degeneration of political psychology into politicized psychology. Some of the same
+interpretive problems can be seen in Bob Altemeyer’s recent work on authoritari-
+anism, despite the methodological sophistication of his approach and his efforts to
+the contrary. Finally, these same basic problems seem to be at the heart of the
+weaknesses in the theory of symbolic racism, to which critics have drawn attention.
+The Study
+Throughout this paper, I will refer to the authors of TAP (Adorno, Frenkel-
+Brunswik, Levinson, and Sanford) as AFLS, although different portions were
+written by different persons. While the main argument of AFLS is well known to
+political psychologists, it may be useful to briefly state their theoretical claims and
+their substantive vision, as summarized in the book’s conclusion:
+A basically hierarchical, authoritarian, exploitative parent-child relation-
+ship is apt to carry over into a power-oriented, exploitively dependent
+attitude towards one’s sex partner and one’s God and may well culminate
+in a political philosophy and social outlook which has no room for
+anything but a desperate clinging to what appears to be strong and a
+disdainful rejection of whatever is relegated to the bottom . . . [and] the
+formation of stereotypes and of ingroup-outgroup cleavages. Convention-
+ality, rigidity, repressive denial, and the ensuing break-through of one’s
+weakness, fear and dependence are but other aspects of the same funda-
+mental personality pattern, and they can be observed in personal life as
+well as in attitudes toward religion and social issues. (p. 971)
+The central project of TAP was to administer scales designed to tap ethnocentric,
+authoritarian, or pre-fascist attitudes; to examine those high or low on these scales;
+and to show that those high-scoring persons (henceforth referred to as Highs) did
+in fact have the other components of the alleged authoritarian syndrome, whereas
+low scorers (henceforth Lows) had the other components of the alleged anti-
+authoritarian syndrome, and that the histories of Highs and Lows were compatible
+with the genetic account given above. Most important was a demonstration that
+those high on the authoritarian scale were also ethnocentric, for the authoritarianism
+2
+Martin
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+scale was originally intended as an indirect measure of ethnocentrism, given that
+anti-Semites and racists might not reveal their true feelings.
+These theses had a remarkable impact on social psychology and what we
+would now refer to as political psychology (see Titus & Hollander, 1957), and they
+still resurface both in specific studies (e.g., Lewis & Maltby, 1995) and in more
+general discussions of the relation between power and personality (e.g., Chancer,
+1992, p. 15). Some recent reviews of the theoretical underpinnings have been
+positive (e.g., Baars & Scheepers, 1993; Hopf, 1987; D. Smith, 1996, pp. 213–217;
+M. Smith, 1997; Stone, Lederer, & Christie, 1993), and it has been used in studies
+of political psychology in South Africa (Duckitt, 1983a, 1983b; Heaven, 1983,
+1984), Turkey (Neel, Tzeng, & Baysal, 1983), and the former Soviet Union
+(McFarland, Ageyev, & Abalakina-Paap, 1992). And, of course, the main theoreti-
+cal claims live on, although criticized and refracted, in the work of Young-Bruehl
+(1996).
+The claims of TAP were never accepted without controversy and critique. But
+aside from the initial debates in the social sciences, most critiques have dealt with
+largely peripheral issues. As Billig (1977) and Smith (1997) have noted, TAP is
+often treated simply as a 900-page test manual for the F-scale. Accordingly,
+critiques of AFLS’ theory have often focused on this scale and largely ignored the
+clinical data from which the theoretical claims were derived. (For some methodo-
+logical critiques, see Ray, 1984, 1985, 1988a.) As these methodological critiques
+are well known, they will not be reviewed here; the best treatment is that of Hyman
+and Sheatsley (1954, e.g., pp. 72–73).1
+Methods of Analysis: Typologizing the Typologizers
+What the critics did not focus on was AFLS’ attempt to construct a psychody-
+namic theory that would apply to types of persons in the general population—in-
+deed, a recent review in these pages (Smith, 1997, p. 160) proposed that this attempt
+constitutes the main contribution of TAP. In contrast, I will argue that this was its
+undoing; in particular, AFLS attempted to construct a typology that would “get at”
+phenomena they believed they knew to take place, leading to an asymmetric
+interpretive strategy that was invisible to the authors. Much critical attention has
+been given to the F-scale, and less to the fact that AFLS used it to categorize
+respondents as Highs and Lows, eliminating those in the  middle from most
+analyses. In so doing, AFLS, like all such researchers, were using a nominalist
+1 Critics also pointed to the problem of AFLS making statements about the form of belief (e.g., rigidity)
+and supporting these with data on belief content (Durrheim, 1997, especially p. 633; Shils, 1954; cf.
+Dorn & Long, 1972; Lichter & Rothman, 1982; Rothman & Lichter, 1978, p. 545). Yet this line of
+critique—reasonable as it is—necessarily leads to the paradoxical position of judging those who
+strongly believe that all should be open-minded to be more ideologically rigid than those who weakly
+believe that there is only one true answer to every problem.
+The Authoritarian Personality
+3
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+definition of Highs—a High is a subject in the top quarter of the F- or E-scale
+distribution. These Highs were then treated as a type; they were not merely higher
+on these scales, they were Highs, and they were psychodynamically different from
+Lows. To demonstrate this, AFLS used various other data, such as thematic
+apperception tests (TATs), projective questions, and clinical interviews covering
+the respondents’ life histories. These methods were consciously combined so as to
+best present a typology of authoritarians and non-authoritarians, using two exem-
+plars, a High (“Mack”) and a Low (“Larry”).
+Many wits have begun talks by saying, “There are two classes of people in the
+world, those who divide people into two classes and those who do not. Among the
+former . . .” Like other good jokes, this one stays with us because it cuts a bit too
+close to home. More particularly, in political psychology and social psychology,
+there has been a tradition of claims that agree (to some extent) that there are two
+classes of people in the world, those who divide people into two classes and those
+who do not. The former are said to be intolerant of ambiguity and prone to various
+intellectual and personality shortcomings. But as the researcher has begun by
+dividing up the world into two classes,the researcher seemsplaced in the “problem”
+class.
+AFLS noted that stepping into this paradoxical position increased the dangers
+of their theoretical reliance on typology, which they understood would be greeted
+with suspicion by most social scientists in the first place. Their response was to rest
+their case on the realism of the basic typology, appealing to
+the increasing rigidity according to which our society falls into two more
+or less crude opposing camps. . . . The critique of typology should not
+neglect the fact that large numbers of people are no longer, or rather never
+were, “individuals” in the sense of traditional nineteenth-century philoso-
+phy. . . . There is reason to look for psychological types because the world
+in which we live is typed and “produces” different “types” of persons.
+(pp. 746–747; emphasis added)
+Of course, the “fact” that types existed in the world did not imply that the types as
+empirically constructed and theoretically interpreted by AFLS—that is, the types
+resulting from their nominalist definition given the F-scale—were the same as the
+actually existing types. In response to this, AFLS merely indicated that they felt
+that their typology had “hit upon something.”
+But this assumption justified AFLS then fusing their nominalist typology to
+the hypothesized realist typology. This fusion then led them to an asymmetric
+research process, which was necessarily an agonistic attempt to “trap” the Highs
+in two senses. In the first sense, AFLS hoped to trick Highs into revealing their
+morally objectionable characteristics, which they would not directly state (the
+whole reason for the reliance on the supposedly indirect F-test instead of a direct
+test of racism and ethnocentrism); in the second sense, they hoped to successfully
+place some of the respondents in the “authoritarian” category, despite their best
+4
+Martin
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+attempts to wriggle out.Here, psychoanalytic theoryserved AFLSwell injustifying
+their dismissal of all countertheoretical evidence as some form of “denial.” How-
+ever, psychoanalytic theory was not necessary for such dismissal.
+This is because in their typological efforts, AFLS concentrated on one of the
+two types and left the other largely (though not wholly) residual, an asymmetry
+they attempted to justify by insisting that “high scorers are generally more ‘typed’
+than the lower scorers” (p. 751). Because their theoretical focus was on authori-
+tarians, their procedures were designed to pick up evidence of those psychody-
+namic deficits of authoritarians. Unless “liberals” had the same pattern of
+psychodynamic deficits (should there be any) as authoritarians, they would tend to
+be given a clean bill of health. These two facets of AFLS’ approach—a fusion of
+nominalist procedures and realist interpretations, and an asymmetric definition of
+one type as “marked”—led them to “set up the board” in a way necessarily leading
+to confirmation bias. Specifically, it led to differential interpretive strategies by
+which they imputed inconsistency to the Highs as opposed to listening to them, and
+were unable to see the disconfirmation present in their data. I first demonstrate that
+AFLS never considered it part of their research to actually take seriously the views
+expressed by Highs, then that they in fact dismissed statements made by Highs
+when it furthered their theoretical agenda, and finally that the statements of Lows
+were never subjected to critique, even when it was warranted.
+The Imputation of Contradiction and Inconsistency
+AFLS seemed to have no reservations when it came to attributing inconsis-
+tency to all those who simply held different opinions than did they themselves, and
+hence had no hesitation in correcting their subjects as to the implications of their
+beliefs. Thus, a rather consistently Stalinist subject who hated Hoover, tolerated
+Roosevelt, admired Soviet Russia, and criticized the United States for not stopping
+the fascists sooner was introduced as an example of the “amazing irregularity” one
+would find in the political ideology of Highs.2 As a result, instead of actually
+understanding the political ideology of those they categorized as Highs, AFLS
+worked to dismiss it as phony. Most famously, AFLS denied that authoritarians
+might actually simply be conservatives, and hence motivated by age-old political
+values as opposed to the new pathologies of mass society. They introduced the idea
+of “pseudoconservatism” to explain the Highs’ combination of conservative moral
+2 This subject was also somewhat anti-Semitic—which presumably AFLS assumed could not coexist
+with admiration of the Soviets. Similarly, AFLS (p. 679), analyzing a woman who claimed that she
+was a Democrat because “The Democrats have tried to give the working class a break,” opined, “The
+phoniness of this subject’s proposed progressiveness comes out in the section on minorities where she
+proves to be a rabid anti-Semite.” Again, a tolerant religious Low who disapproved of Gandhi’s
+radicalism must be inconsistent, given that AFLS were tolerant and also approved of Gandhi: “Her
+church affiliations make it impossible for her to draw the political consequences from her tolerance
+idea” (p. 742).
+The Authoritarian Personality
+5
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+values and a desire for change (p. 50), with, of course, the elaboration that “the
+psychological structure that corresponds to pseudoconservatism is conventionality
+and authoritarian submissiveness on the ego level, with violence, anarchic im-
+pulses, and chaotic destructiveness in the unconscious plane” (pp. 675–676). Real
+conservatism, in contrast, was held to be a respect for the old orders without such
+desire for change.3
+But it was not simply in political views that the Highs were determined to be
+bogus—it was in every characteristic that might imaginably be seen as having
+morally positive or neutral valence. Thus, the Highs were said to possess a
+“pseudo-masculinity” because they had “less admission of passivity” (p. 428).
+High women also had pseudo-femininity, in contrast to the outright discomfort with
+the feminine role experienced by many Lows. In turn, we also see the introduction
+of “pseudodemocratism,” “pseudopatriotism,” “pseudointellectuality,” and “semi-
+erudition,” and AFLS commented that the term “pseudoconservatism” can “often
+be replaced by pseudoliberal and even pseudoprogressive” (p. 682), demonstrating
+that the essence was in the “pseudo.” Now there are many problematic aspects to
+the theoretical proliferation of ersatz ideologies, but the most striking is the simple
+refusal of AFLS to listen to the Highs. This turns out to have been a crucial part of
+AFLS’ interpretive strategy.
+How to Prove Theories and Falsify Respondents
+In TAP, interpretation generally came down to the coding of open-ended
+responses to, for example, depth interviews: Did a response indicate the personality
+theoretically attributed to Highs, or did it indicate that of a Low? The many coding
+problems of TAP are well known, and consequently will not be recounted here.
+What is important to bear in mind is that for almost all of the analyses, the coders
+either knew who was High and who was Low, or had coded an entire interview
+(see AFLS, p. 530; Hyman & Sheatsley, 1954, pp. 77, 81, cf. p. 89, note 25). Thus,
+even when a coder did not “see” that a subject was a “High,” he or she seems to
+have made a heuristic decision for the purposes of coding an interview, leading to
+a striking non-independence of codings across items (Christie, 1954, p. 187).
+As a result, the same statements received dramatically different interpretations
+depending on who had made them. For example, AFLS argued that Highs have to
+lean on external authorities to tell them what is right and wrong, as opposed to
+possessing “genuine, intrinsic values and standards” like Lows. Here is a typical
+example: “If you don’tharm anybody else, it’s all right. .. . If you break a man-made
+law, it’s OK if you don’t harm anybody else—the law is made to protect people.”
+3 However, a respondent who blatantly affirmedthat he hadn’t forgiven Russia, Mexico,not even France
+“for her revolution” and that “I still believe in the Old Order” (meaning the ancien regime) was also
+judged only pseudo-conservative (p. 679); it is hard to imagine what would be taken as genuine
+conservatism!
+6
+Martin
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+But this was not an example from a Low, it was an example from a High, and was
+considered evidence supporting AFLS’ claims, despite the clear sense that the
+subject had the ability to make internal decisions that override rules.
+Of course, sometimes the data were not ambiguous enough to be stretched to
+fit a point. In these cases, AFLS simply ignored what falsifies their scheme. Most
+instructive is the treatment of the exemplary cases, Mack (High) and Larry (Low).
+These cases, chosen to illustrate the power of the F-scale scoring system, instead
+defeated it, leaving AFLS with one of two possible logical conclusions: Either the
+scales did not measure authoritarianism, or Mack was not more authoritarian than
+Larry. AFLS, however, avoided either of these concessions.
+Instead, they concluded that the real problem was with Mack—he was simply
+not responding correctly. In particular, Mack did not agree with the following:
+“What this country needs is fewer laws and agencies, and more courageous,tireless,
+devoted leaders whom the people can put their faith in.” Commented AFLS, “It
+seems likely that for some of the truly submissive subjects, like Mack, the item is
+too open, comes too close home [sic], so that in responding they go contrary to their
+strongest feeling” (p. 275).
+This pattern of dismissal was used in the interpretation of the “clinical data”
+as well. In brief, AFLS refused to believe anything Mack said that did not fit their
+scheme—they simply erased these data and replaced them with those that they
+would have liked to see. Mack, asked what he admired about his father, replied
+“Mostly, his attention to us kids was very admirable” (p. 788) (because “Father
+spent all of his time with us after mother died”); AFLS instead claimed that Mack’s
+father was silent and distant—putting “distant” in quotation marks (p. 795) as if it
+were Mack’s word, although it was not—and concluded:
+In summary, it seems that the nearest we can come to an estimate of what
+the father was like in reality is to say that he was a defeated man who, in
+an authoritarian manner, held up conventional moral standards for his son
+without being able to show by example that adherence to these standards
+actually led to worthwhile ends; after the death of his wife he seems to
+have tried to take over some of the maternal functions in his relations with
+his children but because of his own personality problems he was unable
+to be understanding or affectionate toward his son. (p. 792)
+None of this is found in Mack’s interview, except that the father “tried” to take
+over “some” maternal functions (although Mack implied he succeeded). AFLS
+knew this, so they dismissed Mack’s words: “Mack’s references to his father’s
+devotion and attention can be better understood as expressions of a wish rather than
+as statements of what the father was like in actuality” (p. 795).
+Except for the intolerance of ambiguity, AFLS’ analysis of Larry was quite
+different. His basic materialism (supposedly a High attribute) was recast as his
+openness—“his readiness to accept the material help which he expects will be
+offered to him.” He identified with his mother, “in crucial contrast to Mack . . . who
+The Authoritarian Personality
+7
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+cannot possibly come close to or be identified with the mother . . . because she is
+conceived as too weak or inconsequential” (pp. 812–813). (Of course, as we recall,
+the problem for Mack was that she was too dead.)
+Despite several portions of Larry’s interview that must have served as red flags
+to such Freudian theorists,4 his comments were never subjected to the critical and
+dismissive scrutiny that Mack’s were. It seems that Lows were in effect handed a
+“Get Out of Neurosis Free” card, as can be seen in AFLS’ interpretation of Larry’s
+view of gender relations, which were plainly stereotyped, superficial, morally rigid,
+unashamedly egotistical, and put adherence to conventional morality above inner
+feeling: all High traits.
+Here is Larry: “I feel a girl should remain a virgin until 21 or 22 anyway . . .
+if she is a career girl or doesn’t want to get married, then an affair with an unmarried
+man is O.K. if they keep it quiet and secluded so the moral standards of others are
+not lowered.” “I lost respect for the women I slept with. I know that’s selfish, but
+I guess that’s the way most fellows are.” His ideal wife “should have a good
+reputation, be attractive, not taller than I, nor too short, say 2 or 3 inches shorter….”
+(pp. 810–811). Similarly, Larry’s description of a good husband and father fits
+AFLS’ materialist-succorance pattern far better than does any of Mack’s state-
+ments: “[The ideal husband] should give her happiness, through security, home,
+car, enjoyment and entertainment; money to travel, and so on. He should be a good
+father to the children, shouldn’t give the wife any worries; he shouldn’t get drunk,
+and he should be faithful to his wife. He should be devoted to his children, give
+them the proper clothing, food, education,” etc. (p. 811).
+Projecting Projection
+These biases in interpretation were, not surprisingly, greatest where there was
+most room for free play, namely in the codings of the life histories and the TATs.
+But because of the very flexibility with which AFLS reversed the actual differences
+between Mack and Larry, even to the point of attributing to Mack those pathologi-
+cal characteristics found only in Larry’s TATs (see, e.g., pp. 531–540), it is difficult
+to retrieve any principles of AFLS’ interpretive strategy. More instructive is their
+treatment of structured projective questions.Such projective questionsare designed
+to be analyzed according to the assumption that what the respondent says is not an
+answer to the literal question posed by the experimenter, but an answer to the
+question, “Who are you in your heart of hearts?” The idea behind projective
+questions is reasonable, and one can easily imagine answers that would have to be
+interpreted projectively, because of their specificity and detail (e.g., when asked
+“What is the worst crime someone can commit?,” answering “Gut and clean every
+4 “[My mother’s] main threat was not ‘I’ll spank you,’ but ‘I’ll tell your father.’ Her own spankings
+were so mild that we almost enjoyed them. . . . I still have unpleasant dreams. . . . One was that my leg
+was getting amputated” (p. 810).
+8
+Martin
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+last stockbroker in the NYSE like a fish before burning the whole place down”).
+But not all answers seem to be projective, and AFLS in fact did not treat all as
+projective.
+Although AFLS—like other researchers of the time—had no clear standard to
+determine when an answer was projective and when it was not, they were not
+without a rule of thumb, for they simply seem to have refrained from interpreting
+Lows’ responses as projective. And far from being an occasional deviation from a
+procedure reasonable in principle, such biases were an essential part of their use of
+the projective questions. Rather than deductively testing whether projective tests
+did in fact reveal the psychologies imputed to Highs and Lows, AFLS simply
+examined the data from a subsample of each group and came up with post hoc
+categories  that could best be used to pigeonhole persons (p. 567). And the
+interpretations that went along with these categories were such as to build into the
+very coding scheme the principle that High answers were projective and Low
+responses were not. When a High like Mack answered that the worst crimes one
+could commit were murder and rape, he would be (and was) assumed to be
+projecting his own desires into the response; hence, Highs wanted to rape and kill,
+possessing personality elements that are “relatively primitive, destructive, unso-
+cialized” (pp. 568, 593–594). But when a Low answered that the worst crime would
+be “racial persecution and the enforced militarism of a country during peacetime,”
+AFLS did not conclude that he had barely suppressed racist and fascistic urges, nor
+when another answered “cruelty to helpless things” was he suspected of repressing
+his own sadism. The coding manual said otherwise.
+Now it is indeed true that the psychoanalytic theory held by AFLS supported
+such differential interpretations. Yet it is not the case that their analytic approach
+was a foregone conclusion upon embracing psychoanalytic theory. First, although
+the particular version of psychoanalytic theory embraced by AFLS justified treat-
+ing the claims of authoritarians with skepticism, if AFLS indeed knew a priori that
+(nominally defined) Highs were authoritarians, the entire research project would
+be a waste of time. Their methods, then, assumed what they had set out to prove.
+Further, nothing in the fundamentals of psychoanalytic theory could be used to
+break this vicious circle, nor lend support to the general contention that Highs (but
+not Lows) use psychological defenses of repression and projection.5
+5 The particular schools of psychoanalytic theory embraced (to different degrees) by AFLS seem to have
+been, on the one hand, the Frankfurt interpretation of working-class authoritarianism of Fromm (see
+Samelson, 1986) and on the other hand, Henry Murray’s attempt to make a scientifically acceptable
+version of psychoanalysis, a project that, Sanford (1986, p. 210) recalled, he swallowed “hook, line,
+and sinker.” Regarding the Frankfurt half, one may reasonably say that rather than the adoption of the
+The Authoritarian Personality
+9
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Bad Traits or Good Confessions?
+In sum, AFLS treated the answers of Lows differently, and this is because—to
+speak  somewhat  crudely—they were  only hunting  Highs, and so only those
+responses were subject to a disbelieving critique. No parallel effort was made for
+the responses of Lows, so the least believable responses (in hindsight) were treated
+as the most credible. The Lows were allowed to choose their presentation of self,
+and AFLS gave them “face.” This reached its acme in a differential interpretation
+strategy by which anything “good” said by a High (but not by a Low) was evidence
+of the suppression of its opposite, and anything “bad” said by a Low (but not by a
+High) was taken as evidence of a healthy acceptance of one’s shortcomings.
+Negative evidence, as a consequence, could not appear (cf. Hyman & Sheatsley,
+1954, p. 99). Thus, Larry stressed self-interest in his politics and getting ahead,
+whereas Mack “stresses the conventional ideal of unselfishness in order, we may
+suppose, to disavow his underlying interest in power” (p. 49). After claiming that
+Highs are interested in status when choosing their friends (as opposed to their
+“intrinsic worth”), AFLS pointed out that
+low-scoring subjects, on the other hand, not only tend to emphasize the
+intrinsic worth in their friends but tend explicitly to deny the importance
+of status. There may be, in some of these cases, an underlying concern
+with status, but the fact that they disclaim it shows that they have at least
+some inclination to resist conventionalism. (pp. 418–419)
+Lows, apparently, do not “deny,” they only “disclaim.”
+AFLS, of course, believed that Highs are actually more likely to use denial as
+a psychological defense (p. 595). But they had no independent way to ascertain
+whether this is in fact the case, because their methodological approach was to
+discount statements of denial when they were made by Highs but take them as
+legitimate information when they were made by Lows. AFLS did not simply count
+explicit denial as denial (a defensible if dangerous tactic for the psychoanalytically
+inclined); they counted the absence of corroboration of their hypotheses (by Highs)
+as itself denial, contrasted to the healthy “admission” of these same (supposedly
+High) traits by Lows. Indeed, all sexual inadequacies, pathological relations with
+parents, and “homosexual tendencies” confessed to by Lows (but not Highs) were
+Frommian perspective explaining AFLS’ interpretations (let alone excusing them), this adoption itself
+calls for explanation. It was certainly just as plausible from an orthodox Freudian perspective to expect
+greater repression and neuroses among (as it turned out) middle-class persons with weak identification
+with the same-sex parent, more sexual difficulties, and more leanings toward homosexuality than
+among working-class persons with strong same-sex parent identification and greater sexual satisfac-
+tion. Regarding the American half, it is worth emphasizing that Murray’s (1938, p. 388) chief concern
+was that, even though some analysts might indeed possess great insight, “this, however, does not make
+science.”Any appeal to analytic expertise in determining when a statement had tobe read as its opposite
+violated the core principles of Murray’s approach.
+10
+Martin
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+taken—despite the Freudian orientation of the researchers—not as evidence of
+neuroses but of  the healthy  democratic spirit  of the Lows,  because  of  their
+“frankness” (pp. 394, 595, 796). It was simply assumed that Highs had all of these
+in spades, but kept their hand to themselves. Instead of “admitting” their sexual
+passivity as did Lows, Highs seemed inordinately proud of their prowess or
+popularity. AFLS did not appreciate this frankness—instead, they condemned
+these “crude and unsocialized sex impulses” (pp. 396, 426, cf. p. 952).
+About Face
+We have seen the critique to which AFLS subjected the responses of Highs.
+Now let us briefly examine, as a comparison, the kid gloves with which they treated
+the answers of Lows. The contemporary reader is amazed at the frequency with
+which Low respondents gave answers that seem bizarrely inappropriate, as they
+took a wide variety of questions as opportunities to demonstrate their good, liberal,
+and tolerant perspective to the analysts, producing responses regarding the elimi-
+nation of racial prejudice or the fight against fascism no matter what the question.
+For example, in response to the question on hard-to-control desires, Mack gave the
+simple response  “anger,” while Larry gave the  response  “When  someone is
+persecuted unjustly, or to see a Negro serviceman endure unjust discrimination and
+prejudice” (note that there is nothing here having to do with desires or self-control).
+Low answers such as “To lash out at those people who voice an attitude of racial
+discrimination or an attitude of a dishonest intellect” and “Telling people about
+fallacies in our economic system” were taken neither as projection nor as self-
+promotion, but as indicative of (and coded as) “a principled opposition to fascism,
+militarism, discrimination, suppression, exploitation,  autocracy, and  the like”
+(pp. 551, 593).
+Not only were AFLS uninterested in criticizing the motivation of the Lows,
+they positively went out of their way to give face even to those Lows who had not
+attempted such a self-presentation. For example, discussing mentally disturbed
+Lows, some of whom during the war “suffered acute conflict about the problem of
+participation,” AFLS emphasized that “this was not primarily because of fear of
+physical injury or death but because of ideological reasons and a horror of being
+forced to kill.” But their “illustrative case” sought psychological help because of
+anxiety and “several fears—of the dark, of physical injury, and of graveyards and
+mental institutions.” His political ideas, in contrast, were “quite uncertain” (p. 953).
+The differential interpretation therefore functioned, as Goffman (1959) might say,
+as a protective strategy extended to those taken to be part of AFLS’ “team.”
+Indeed, one of the characteristics AFLS repeatedly mentioned in their analysis
+of the Lows was their self-insight—that is, their capacity and willingness to enter
+as co-researchers, not subjects. Nor were AFLS misled to see the Lows as potential
+co-researchers (cf. Rothman & Lichter, 1978), since later research found the
+F-scale’s predictive power to be highest when it came to an item AFLS never
+The Authoritarian Personality
+11
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+considered—namely, actual willingness to participate in social research: Lows are
+much more likely to volunteer for psychology experiments than are Highs (Rosen,
+1951). AFLS might have saved a great deal of expense in creating an indirect test
+of the “bad” personality by simply asking, “Who will come with me into the next
+room?”6
+I began with the somewhat tired joke about the two classes of persons, one of
+which divides persons into two classes. But there is perhaps a more apposite
+division: Kingsley Amis, in his wicked satire on academic life Lucky Jim, has a
+character speak of the “two great classes” of persons in the world, “those I like”
+and “those I do not like.” For AFLS, it is clear that these translated into Lows and
+Highs, and that this affected their strategy of interpretation.Little thought was given
+to a critique of those answers that seemed likable, and no credence was given to
+those from the unlikable.7
+That Was Then, This Is Now
+The serious flaws in AFLS’ research strike us as so obvious that we would
+assume that there is no danger of their repetition. But even though times have
+changed, and methodological rigor has improved, social scientists still need to deal
+with problems that objectively involve high stakes, deep divides, and wide injus-
+tice. We are also likely to feel that we are in the possession of decent templates for
+at least the beginnings of an approach to these problems, and are hence likely to be
+more skeptical of the associative patterns put forward by those whom we deem
+wrong (if not morally implicated) than we are of those with whom we tend to agree.
+AFLS embraced psychoanalytic theory, but such theory is not necessary to dismiss
+the words of some (but not all) of our respondents, because we (quite reasonably)
+believe that not all responses can be taken at face value. But if our approach shares
+AFLS’ attempt to “catch” one type in a morally loaded typology, then no meth-
+odological sophistication will necessarily protect us from asymmetric—and hence
+flawed—analyses.
+To demonstrate this, I now turn to a contemporary analysis of authoritarianism,
+certainly the most credible accumulation of findings to date, namely the careful
+(and always wonderfully written) work of Bob Altemeyer. Although Altemeyer
+has made none of the methodological errors of AFLS and has produced many solid
+empirical findings, his overall interpretations still necessarily suffer from the
+6 The close link between the interpretation of responses and “team feeling” is humorously demonstrated
+in the treatment of responses to the projective question “What great people do you admire most?”:
+Answers falling into the category “Social scientists, liberal-radical political figures” were considered
+a Low response. Although this is no less sensible than any of the other codings, it would be no worse
+to include a Likert “feeling thermometer” on Theodor Adorno, or to simply ask “How much do you
+like me?”
+7 Compare Christie’s (1993, p. 88) fascinating admission of his ability to categorize subjects as Highs
+versus Lows on the basis of which ones he liked.
+12
+Martin
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+problems that arise when one fuses a nominalist definition of types to a realist
+interpretation, given that one has a theoretical interest in only one of the two types.
+Once again, the board is set in such a way that the winners and losers are clear from
+the start.
+Altemeyer’s Starting Points
+Altemeyer’s criticism of AFLS’ procedures—and their Freudian justifications
+for differential interpretation—is among the best in the literature (see Altemeyer,
+1981, pp. 10, 25, 36–39, 48, 52–55, 141, 259; 1988, pp. 136–137). Yet Altemeyer
+(1988, p. 329; 1996, p. 45) himself starts from a duly modified version of AFLS’
+“ ‘pre-Fascist’ personality,” restricted to the combination of authoritarian aggres-
+sion, authoritarian submission, and conventionalism [“I have spent over twenty-
+five years trying to understand what Nevitt Sanford and his associates first uncovered
+because, like them, I suspect ‘It can happen here’ ” (1996, pp. 282–283)].
+To this end, Altemeyer has produced a balanced scale—the right-wing authori-
+tarianism (RWA) scale—that performs far better than the fatally flawed F-scale,
+and he uses this to categorize respondents into High and Low types, as well as to
+look at the correlation of RWA score and various other responses. As a result of
+his careful work, Altemeyer has produced some extremely interesting and convinc-
+ing findings that seem beyond reasonable criticism. For one, High undergraduates
+have more trouble remembering material they have heard (at least when the topic
+is one that they may not like very much), even though their grades tend not to be
+lower than those of Lows. Highs tend tobe influenced intheirjudgment ofsomeone
+else’s morality by how similar that person is to them in terms of responses to the
+RWA scale, although Lows are not. Further, RWA scores correlate with sentences
+given to prisoners in hypothetical vignettes, and with the voltage given in shock
+experiments. Finally, there is some intriguing evidence that students who think
+their parents tried to teach them that the world was a dangerous place have higher
+RWA scores (Altemeyer, 1981, pp. 201–202; 1988, pp. 108, 146, 159; 1996,
+pp. 94–95, 140).
+Despite these solid findings—and there are others—Altemeyer’s work still
+suffers from some fundamental interpretive weaknesses; yes, Highs give longer
+sentences to suspects in hypothetical vignettes—but what exactly are they “High”
+in, and why do they give these longer sentences? The data do not give us all the
+answers, and many of the most important claims Altemeyer makes follow from his
+theoretical assumptions. Let us examine their results.
+First of all, Altemeyer begins with a continuous scale; like AFLS, he arbitrarily
+considers those on one end to be right-wing authoritarians as opposed to those on
+the other end or in the middle, a nominalist definition of types. Of course, the actual
+data come in the form of a continuum, and Altemeyer (1981, p. 152; 1988, p. 4;
+1996, p. 9) admits that Highs are notabsolute in,say,their “submission” to authorities.
+But instead of stressing the continuum linking Lows to Highs, Altemeyer tries to
+The Authoritarian Personality
+13
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+produce a continuum linking Highs to Nazis and Fascists. He comments that Highs
+“would be quite susceptible to the flattering proposition that they are members of
+a master race. Once you believe that, you cock the pistol for ‘final solutions’ to the
+‘problem of the inferiors’ ” (1988, p. 185). Similarly, the high RWA scores among
+some Canadian and American legislators lead him to argue that “Some (success-
+ful!) politicians in both these democracies appear strongly committed to an authori-
+tarian ideology akin to fascism” (1988, p. 257). Finally, he even goes so far as to
+argue that “it would outrage many conservatives who condemned the Oklahoma
+City bombing to be told they are more different in degree than in kind from the
+neo-Nazis out to overthrow the American government. But the evidence in this
+book will show the similarities” (1996, p. 5).
+If Altemeyer’s RWA scale asked persons whether they supported policies or
+ideologies associated with Fascism or Nazism, this would be one thing. But only
+a few of the 34 items in the 1996 scale seem related to anything remotely like
+fascism (e.g., “What our country really needs is a strong, determined leader who
+will crush evil, and take us back to our true path”); others have to do with embracing
+free thinkers and radicals, with gender ideology and sexual morality, with respect
+for authorities,and with valuing diversityas opposed to fixednessof truth. Sowhere
+does Altemeyer get these dramatic ideas regarding the prevalence of Fascist and
+Nazi ideology? It is because his most fundamental model is, despite his data and
+despite his better common sense, not a continuous one (more to less authoritarian),
+but a discrete typology: Some people just are authoritarians. Thus, he makes
+blanket statements such as “High RWAs . . . are indifferent to human rights issues,”
+or that Highs have a latent “attitude, a state of mind, a willingness to see democratic
+institutions destroyed, which in some people may even be a desire.” Although he
+rejects AFLS’ psychodynamic theory, he still thinks that Highs have a qualitatively
+different personality structure (“We are digging deeper into the authoritarian’s
+personality”) (Altemeyer, 1981, p. 251; 1988, p. 6; 1996, pp. 8, 22; cf. 1988, pp.
+127, 165 for other examples).
+Accordingly, differences in degree are often turned into differences in kind.
+For example, when students are told about the results of Milgram’s experiments
+on authority, and are asked who would be to blame for the shocks, only 62% of the
+Highs blame the authority figure, as opposed to 71% of the Lows (Altemeyer, 1996,
+p. 22). Yet it seems noteworthy that the majority of “authoritarians” blame the
+authority figure, and that not all Lows (anti-authoritarians) blame him. It is hard to
+see how such differences can support the stark interpretations Altemeyer often
+makes. Of course, it is always easier to discuss social scientific results in terms of
+types than it is to constantly qualify one’s remarks with “tendency,” “proportion,”
+and “probability.” Yet in this case, the presence or absence of such qualification
+seems of central theoretical importance.
+This is because Altemeyer is attempting to use his differences in degree to
+support a typological model. He even, like AFLS, illustrates his theory via a
+contrast between an archetypal Low and an archetypal High, cutely named Lou
+14
+Martin
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+and Hugh.8 But these are wholly imaginary constructs—unlike TAP’s Mack, Hugh
+is not really there to present evidence that confounds Altemeyer’s (1996, p. 81)
+scenarios. In sum, to move from differences in degree (even if statistically signifi-
+cant) to differences in kind, Altemeyer seems to rely on the sort of blanket
+assertions that undermined AFLS’ program, although any resulting distortions will
+be less obvious.
+Like AFLS, Altemeyer proceeds in this way because he believes that his test
+has “caught” real right-wing authoritarians. Is this necessarily the case? First, by
+intentionally writing items that tap more than one of the key factors (submission,
+aggression, conventionalism), Altemeyer (1996, p. 320) makes it impossible to test
+whether or not they do congeal as a “type” or whether they are more independent
+of one another. Altemeyer (1981, p. 188; 1996, p. 15) seems to think that the
+psychometric properties of the scale disprove such a scenario, because he argues
+that these statistics demonstrate that the scale is measuring “one thing.” But if, say,
+the presence of all three traits was needed to answer any item positively, there
+would be high intercorrelation between items even though there is no trait at all,
+simply a bundle of three traits.9
+More important, inspection of the items suggests that whatever the covariation
+matrix, it is far from clear as to what traits the items tap. For example, Altemeyer
+considers “conventionalism” a key factor, and part of his discussion of this trait
+focuses on sex norms (which occupy a fair portion of the scale). He considers a
+stance against premarital sex “conventional” (although, of course, all indications
+are the opposite, and this is today an unconventional stance for college students),
+as opposed to the  more  obvious “morally  conservative.” Other indicators of
+“conventionalism” have to do with atheists, nudist camps, the Bible, and rules
+regarding modesty (Altemeyer, 1988, p. 64; 1996, p. 11). It is not clear why
+Altemeyer is convinced that the attitudes he evokes are “conventional” as opposed to
+8 Interestingly, the gendering here seems to follow AFLS’ assumptions. As Young-Bruehl (1996,
+pp. 112–113) pointed out, AFLS clearly saw the authoritarian as a “he,” even though most of their
+research population was female. Although their exemplary Low case, Larry, was a male, the only
+example provided by AFLS of a “genuine liberal” was a 21-year-old “girl” who, while “politically
+naïve like the majority of our college women,” “is a handsome brunette with dark flashing eyes, who
+exudes temperament and vitality. She has none of the pretty-pretty femininity so frequently seen in
+high subjects, and would probably scorn the little feminine wiles and schemes practiced by such
+women. On the contrary, she is extremely frank and outspoken in manner, and in build she is athletic.
+One senses in her a very passionate nature and so strong a desire to give intensely of herself in all her
+relations, that she must experience difficulty in restraining herself within the bounds of convention-
+ality” (pp. 782–783). She actually strikes me as quite similar to Altemeyer’s Lou (with “her
+explorations, her experiments [that] have proved largely benign and fulfilling,” according to Alte-
+meyer) in her winning personality, although AFLS’ “genuine liberal’s” actual words demonstrate that
+she was a superficial, materialistic racist who judged people by their skin color.
+9 Further, no factor analysis can be counted on to separate these traits, because they are deliberately
+blended in each and every item.
+The Authoritarian Personality
+15
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+part of Ray’s (1988b) “old-fashioned” morality; it is also unclear why convention-
+alism is really a part of authoritarianism in the first place.
+Further, Altemeyer’s labeling of one trait as “aggression” confuses his theo-
+retical claim as to the causes of certain responses and the content of those responses
+themselves. It is one thing to argue that rejecting the idea that freedom of speech
+extends to revolutionaries is motivated by the desire to aggress against those made
+vulnerable by authorities; it is another thing to define it as such. Similarly, he speaks
+of investigating the reasons for the “authoritarian’s aggression toward homosexu-
+als,” although all he really has is general anti-homosexual attitudes (1988, p. 175)
+(only three of the 12 items involve anything like aggression or punitiveness).
+This tendency to mix nominalist procedures and realist interpretations culmi-
+nates in a process whereby Altemeyer puts words in the mouths of his respondents,
+and then uses these words to interpret the “psychology” of the respondents. Thus,
+in some experiments, Altemeyer (1981, pp. 233–234) asks students to sentence
+various offenders, and then asks them “How bad (repulsive, disgusting) do you
+consider the criminal in this case to be?” He finds that RWA score correlates with
+this measure of how “bad” the criminal was (r = .48), which is a solid finding. But
+he goes on to argue, “What is striking here is the tendency to see ‘common
+lawbreakers’ almost as a lower form of life (‘repulsive, disgusting’),” as if the
+quoted words were those of Highs. But the words were his, and he left no option
+for those who thought the criminals were bad but understood badness in a different
+way. Similarly, Altemeyer wonders “What is behind this absorption with, and of,
+the conventional?” (among authoritarians, that is); but of course, it is Altemeyer
+who is so absorbed with the conventional that he has made it an intrinsic part of
+his concept of right-wing authoritarianism: Highs have simply indicated a greater
+disapproval of nudist camps and premarital sex.
+We have seen that Altemeyer, despite his careful construction of a decently
+performing scale, has tied the resulting categories to a theoretically loaded typo-
+logy. Moreover, like AFLS, his typology is asymmetric—his theory tells him a lot
+about the Highs and little about the Lows, as Altemeyer (1988, pp. 262–263)
+admirably admits: “I had no preconception about  what the other end of the
+dimension would be, and I have simply characterized low scorers as ‘unauthori-
+tarians’ or ‘Lows.’ ” As a result, most of his experiments are ones that do well at
+“pushing the buttons” of those who fall into the High end of the scale. Because he
+has a less well-developed understanding of the Lows (seeing them simply as
+“fair-minded, evenhanded, tolerant, nonaggressive persons” and “good democratic
+citizens”), even his noteworthy attempts to compare Low and High responses fall
+short. As a result, many of his analyses are asymmetric and biased, despite his
+efforts to the contrary. I first give some stark examples of Altemeyer’s assumptions
+determining his interpretations, and then subtler examples.
+16
+Martin
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Imputations of Inconsistency
+Altemeyer’s confusion between his mental prototype and his respondents
+leads him to impute wild inconsistency to the Highs, since he finds that Highs are
+more likely than Lows to say that they would help the government eliminate
+right-wing authoritarians—that is, assumes Altemeyer, themselves. But for his
+subjects, Altemeyer (1996, p. 30) defined right-wing authoritarians as “people who
+are so submissive to authority, so authoritarian aggressive, and so conventional that
+they may pose a threat to democratic rule.” If he had more reasonably defined
+right-wing authoritarians as “those psychology undergraduates in the highest 25th
+percentile of the score resulting from those tests you always fill out,” it strikes me
+as extremely unlikely that Highs would help in their elimination. Altemeyer’s
+assumption that Highs may pose a threat to democratic rule—an assumption
+undemonstrated by his research—gets turned into a definition for the Highs.
+And just like AFLS, Altemeyer (1996, p. 142) uses these definitions of his to
+impute inconsistency to Highs, although there is no reason to believe that they share
+these (non-obvious) definitions: “Authoritarian minds challenge our theories of
+cognitive consistency. For [people with high RWA scores], with all their inconsis-
+tencies, double standards, and blind spots make a mockery of the notion that people
+will feel ‘dissonance’ or ‘imbalance’ if their ideas do not fit together properly.”
+But such claims require a benchmark as to what constitutes consistency, and this
+benchmark is supplied by Altemeyer (1996, pp. 115, 282), who simply declares
+that freedom and equality should not be separated, and that a double standard in
+gender ideology is wrong. Those who disagree with either of these (which would
+seem to include Tocqueville in the first instance and cultural feminists in the
+second) must have some “special kind of mind.”
+Comparisons
+Were these the only problems, Altemeyer’s rhetorical excesses could be
+removed from the work without too much alteration to the basic structure. Yet the
+problems go deeper, in that they affect many of his strong findings. That is because
+Altemeyer (unlike AFLS) has tried to come up with experiments that will fairly
+compare Lows to Highs in a number of respects. Yet the asymmetric nature of his
+typological construction leads to an asymmetry in the accumulation of findings,
+and hence a biased conclusion. Because the basic research design is set up to
+“catch” Highs, Altemeyer is not inspired to create reasonable counterexamples that
+would “catch” Lows. As a result, the psychodynamics that Altemeyer does dem-
+onstrate to exist among Highs are largely assumed not to be present among Lows.
+For example, Altemeyer (1996, pp. 116–117) begins with a solid finding, that
+there is an asymmetry in Highs’ feelings as to the legitimacy of entanglement of
+state with religion—almosttwice as many see itas legitimate when Canadians teach
+Christianity as when an Arab nation teaches Islam. Lows, as might be expected,
+The Authoritarian Personality
+17
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+have no asymmetry here, because they have no substantive interest in evangelism.
+But it stretches credulity to imagine that there are no issues on which the Lows
+could be equally tormented. For example, cultural liberals may have a similar
+struggle over whether it is acceptable to criticize—and perhaps sanction—nations
+with different cultural traditions for their violation of Western norms (for example,
+pertaining to the treatment of women), and if not, why it was acceptable for
+Northern whites or Canadians or Africans to criticize Southern whites’ racist
+“culture.”
+In fact, Altemeyer (1996, p. 104) himself provides evidence that the
+“irrationality” of Highs is not a general psychological trait, but only comes into
+play when their buttons are pushed. In his test as to the ability of respondents
+to critically evaluate evidence, he finds vanishingly small relations between
+RWA score and gullibility for items not involving Christianity (e.g., ESP,
+ancient astronauts, reincarnation, ghosts), but “when it came to ‘evidence’
+connected to Highs’ religious beliefs, their critical thinking took a hike. They
+might have been as skeptical as others about ghosts, the Bermuda Triangle and
+ESP, but to their minds common legends about a big flood proved the story of
+Noah.” If Lows cared as much about the Bermuda Triangle as Highs do about
+the Bible, this might uncover a similar susceptibility among Lows, but this
+equivalence is doubtful. More promising items, such as “the fact that separately
+raised identical twins frequently have very different IQ scores PROVES that
+intelligence is not hereditary,” where the temptation to make an illogical jump
+would be greater, were not asked.
+In sum, the asymmetric nature of the basic enterprise leads to the sorts of
+illogical imputations of illogicality that marred AFLS’ work, despite Altemeyer’s
+best intentions and his reasonable research designs. Further, Altemeyer (1988,
+pp. 111–113) has explicitly raised this consideration, namely that perhaps Highs
+aren’t so, say, aggressive to those they don’t like, “but only appear so because
+investigators such as I keep trooping Highs’ favorite targets before samples tested
+in paper-and-pencil shooting galleries. Perhaps Lows would be just as hostile if we
+paraded a pantheon of their own devils before them.” At this point, he provides an
+exemplary attempt to produce a truly symmetric case, in which both Highs and
+Lows judge their “own” side and the “other” side in the same vignette (gay rights
+protestor at anti-perversion rally, or vice versa). In this case, he still finds the
+tendency to favor the friendly side greater among Highs than Lows, a result similar
+to that which I cited above as one of Altemeyer’sstrong findings, namely that Highs
+are more influenced in their evaluations by homophily than Lows, who are—as far
+as we can tell—fairer. But similarly successful reversals were not used to confirm
+the other key findings.
+As Altemeyer himself wrote, “To ‘catch’ Lows being more hypocritical than
+Highs, you have to turn the tables and put them in conflict over something they
+believe in. I have been searching for a situation that would do this” (1996, p. 120).
+18
+Martin
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+That this search was unsuccessful, however, may be due more to the strength of
+Altemeyer’s convictions than to the immunity of Lows to such human foibles.10
+Were he able to question his assumptions, some of his most theoretically
+important findings would disappear, especially those having to do with self-knowl-
+edge. For example, Altemeyer (1988, pp. 186–187) asked subjects, suppose under
+a truth drug you said, “I know I have a tendency to hurt people. I am often looking
+for permission, or good reasons, or excuses, to attack someone, with words or
+actions. And when I do it, it feels good.” Who would accept that this information
+is true, and who would disown the admission? Altemeyer found no correlation
+between RWA score and response, and concluded “either Highs do not believe they
+are particularly aggressive, or else they know but will not admit it.” That is, because
+he has operationalized “aggressiveness” in terms of prison sentences and shock
+values—and now ignores information about aggressive fantasies, which points in
+another direction (1988, pp. 139–144)—he assumes that Highs really are “particu-
+larly” aggressive, and then reinterprets the data as if he had asked persons whether
+they were “particularly” aggressive, or “above the mean.” The actual question,
+however, was framed so that all respondents should assume that the truth is that
+they are aggressive, whatever their usual behavior (and, because all persons have
+some aggression, such a drug-induced revelation could not  be  dismissed  by
+anyone). But to Altemeyer, the question was a different one, formally parallel to
+the old courtroom gag, “Have you stopped beating your wife yet?,” and it is clear
+that it was designed only to “catch” Highs.
+For another, even starker, example, Altemeyer (1988) asked, “How preju-
+diced, how bigoted do you think you are against the minority groups mentioned
+above, compared with the other students serving in this experiment?” (p. 187).
+Altemeyer thus gave the Highs no option to “tell it their way”—they are damned
+if they do and damned if they don’t. But he never thought to ask Lows the kind of
+question a maliciously disposed High researcher might, such as “How neurotically
+insecure, how knee-jerk do you think your basic attitudes toward minority groups
+are?” As Altemeyer himself wrote, “The lesson was clear: if you describe right-
+wing authoritarianism to a group of people, most of the Highs in the group will
+think you are talking about somebody else” (1988, p. 316). But this should be taken
+as a critique of the typologizers, not the typologized.
+In sum, like AFLS, Altemeyer has set up the board in such a way that the game
+is a fait accompli. Because his definitions are the ones that count, those who
+disagree must have something wrong with them. Those who oppose Canada’s 1981
+10Indeed, even when Altemeyer (1996, p. 99) turns self-critical, the resulting criticisms are not those
+that could be used to gain insight into this asymmetric approach. Although he asks himself, quite
+seriously, “how come I do not realize my own compartmentalized thinking?”, the only example that
+comes to mind is his sexist thinking—that is, thinking that is associated with high RWA scores—and
+not any of the assumptions that guide his interpretive scheme, and which might be the basis for turning
+the tables on Lows.
+The Authoritarian Personality
+19
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Charter of Rights and Freedoms cannot be democratic, because to oppose increased
+civil liberties is always anti-democratic (Altemeyer, 1988, p. 271). But, of course,
+a High researcher could probably define democracy in a populist sense to demon-
+strate that (due to his strong commitment to the civil liberties of dissenters who
+flaunt their rejection of conventional moral standards) it was Altemeyer who had a
+“shallow commitment to democracy.” Surely we can learn nothing on the basis of
+such definitions. Yet these flow from the asymmetric typology with which Alte-
+meyer began.
+What Do We Know?
+In sum, Altemeyer has found out a great deal about how people with high RWA
+scores act, but he has not made a reasonable comparison to people with low RWA
+scores. This should not be taken to imply that a good comparison, by definition, is
+one that would find no differences between Highs and Lows. People are different
+in many ways—some of them really are gentler than others, some more honest,
+etc.—and it would be unscientific to demand that no such differences appear on
+average in this case. But before we can make a real comparison, we need to find
+whatever scale it is that “Lows” are high on; only then would we know what buttons
+to push, and whether there were a few such buttons for all Lows or whether they
+are a more diverse category.
+Further, although we know that Highs and Lows differ, it is not clear what
+being High as opposed to Low is all about. Altemeyer argues that he is measuring
+right-wing  authoritarianism. But  the  most obvious alternatives are  that he is
+measuring either political conservatism or social/moral conservatism, or both. And
+here Altemeyer must walk a tightrope, demonstrating that his RWA measure is
+closely correlated with both of these, but not reducible to either. Altemeyer has,
+consequently, gone back and forth as to the overlap between right-wing authori-
+tarianism and conservatism, at times arguing that they are totally different and at
+other times basically the same (see Altemeyer, 1981, pp. 202f; 1988, p. 8; 1996, p.
+48). But his evidence is less ambiguous. In particular, upon administering his scale
+to professional politicians, he finds large differences between persons in different
+parties, and extremely high consistencies (interitem correlations) within the scale.
+This strongly suggests that rather than drawing deep-seated personality responses
+from legislators, these items are evoking the party line. Indeed, as Altemeyer
+himself pointed out regarding the Manitoba legislators from the (left) NDP, “these
+lawmakers who strongly agreed that citizens should not trust their governments,
+should not submit blindly, should be ready to protest against injustice, and so on
+were the government in Manitoba and had been for 10 of the past 14 years.”
+Consequently, Altemeyer (1988, pp. 243–245, 256) here stressed that the dimen-
+sion he was tapping “appears to be a more precise, and certainly more operational,
+definition of what the basic ‘left/right’ dimension really is.” But this is to imply
+20
+Martin
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+that he is really examining a bipolar political continuum and not “the psychology
+of right-wing authoritarians.”
+Finally, the asymmetry of Altemeyer’s orientation may not simply have
+affected his interpretations, it may have also affected the responses, if students were
+aware of what constituted the “locally” desirable answers. In particular, this might
+account for some (but not necessarily all) of the findings Altemeyer (1996, p. 141)
+sees as indicating selective High inattention to “bad news” about themselves.
+Altemeyer asked half his students to imagine an experiment showing that they were
+more prejudiced than others in the class, while the other half were asked to imagine
+that they learned they were less prejudiced. He then asked whether the students
+would want to see the results. Among Lows, 76% wanted to see the results when
+they were more prejudiced (i.e., bad news) and 71% wanted to hear the good news
+that they were less prejudiced. In contrast, among Highs, while 74% wanted the
+good news, only 56% wanted the bad news. But given that it is Altemeyer who
+decides what constitutes “prejudice,” and that the Highs may have learned that his
+definitions [according to which conservatives are not conservatives because they
+do not wish to “conserve” civil liberties (Altemeyer, 1988, p. 273)] do not have
+much to do with theirs, I find it surprising that a majority were at all interested in
+more scientific findings regarding their shortcomings.
+Moreover, it is worth considering that we know rather little about how the
+climate of moral judgment may affect tasks intended to measure cognitive proc-
+essing. Brown (1953) presented strong evidence suggesting that at least some of
+the supposed cognitive correlates of authoritarianism were contextual [in brief,
+when the pressure was off, they relaxed (cf. Christie, 1993)]; recent experimental
+work by Lovaglia, Lucas, Houser, Thye, and Markovsky (1998) confirms that
+responses can be significantly altered by the tension aroused when one fears that
+test results may be used against one.
+In sum, Altemeyer’s work, although methodologically rigorous in substance,
+still suffers from the same interpretive flaws that marked TAP. Despite Altemeyer’s
+(1996, p. 303) conviction that any such bias will be uncovered by later researchers,
+it seems reasonable that if the same basic flaws are present 50 years after TAP, they
+will not disappear of their own accord. I will be the first to admit that this is a
+selective presentation of Altemeyer’s work (although I believe it is a fair one), work
+that I consider to be a valuable contribution to political psychology. Despite my
+emphasis on where he goes from differences in degree to differences in kind,
+Altemeyer (e.g., 1996, p. 112) himself frequently gives reminders to the readers
+that Highs and Lows are only “somewhat different” and not “completely different.”
+It is because Altemeyer displays such methodological care and common sense that
+his work can demonstrate the fundamental nature of the interpretive asymmetries
+that arise from the use of a morally loaded typology, and the strength of the
+temptations that come with these asymmetries.
+Further, even if we were to see the balanced replication of all these tests
+constructed by a maliciously disposed High researcher, I believe that many (though
+The Authoritarian Personality
+21
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+not all) of his findings would prove robust. But the force of Altemeyer’s work
+comes not from the findings themselves, which may be interpreted in a number of
+ways, but in the interpretive model he hangs on them. And it is this model, based
+on an asymmetric typology, that must be treated as suspect.
+Conclusions
+Are two beliefs inconsistent? Does a political position espoused by a set of
+respondents follow from a value they hold, or do they claim to hold some value
+merely to legitimate their position? These and many other questions are continually
+at the heart of political psychology, and any answer, whether or not it can be seen
+as related to explicit political values or to psychological theories held by the analyst,
+will involve an assessment of the “integrity” of the subjects. But as Kurzman (1991)
+has shown, when analysts like and identify with respondents, they accept their
+self-explanations, and when they do not, they explain them away.
+In many cases, we are positively called to make such judgments. One obvious
+example is the racial attitudes of white Americans. Experimental evidence leaves
+us no doubt that strong social desirability effects lead a significant portion of whites
+to understate their dislike of blacks in general and affirmative action in particular
+(Sniderman & Carmines, 1997). Hence, any direct attempt to measure racism will
+not “catch” all the racists; accordingly, there have been various proposals for tests
+of “new” or “symbolic” racism (e.g., Kinder & Sears, 1981; McConahay & Hough,
+1976). Experimental evidence suggests that these measures can indeed pick up
+durable orientations to blacks that an explicit measure of “old-fashioned” racism
+would miss (see McConahay, 1986, for a review). And, while space forbids a real
+examination, it strikes me that the internal validity is rather good for the interpre-
+tation of some such scales (but not all) as tapping generalized antipathy toward
+blacks, at least in the public sphere (for a recent example, see Sears, van Laar,
+Carrillo, & Kosterman, 1997). But if—as we are often tempted—we try to use these
+to “catch” racists, we end up dismissing what the respondents themselves say about
+their beliefs, ignoring them when they claim to be individualists, laissez-faire
+liberals, or what have you.
+It is worth noting that early uses of the concept of symbolic racism were quite
+explicit in distinguishing it from generic hostility to blacks; indeed, McConahay
+and Hough (1976) defined it as a reaction to the extension of the civil rights
+movement, an extension that seemed illegitimate to those holding the “American
+civil Protestant” ethic—more or less the same argument that Sniderman and
+Carmines (1997) have made. Indeed, there is broad agreement that opposition to
+many legislative efforts to help blacks is motivated by both political values and
+generalized antipathy—the question revolves on how we interpret this, whether
+political values and antipathy to blacks are necessarily interconnected, and whether
+we should take seriously other considerations that respondents may raise having to
+do with their perception of self-interest (Bobo, 1983; 1988, p. 105). Theories of
+22
+Martin
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+symbolic racism, while differing in their particulars, answer that there is a funda-
+mental fusion of this racist antipathy and traditional values.
+As a result, the theory has come in for some rather strong criticism. Although
+it has occasionally led to the attribution of such antipathy to blacks on the basis of
+little more than opposition to certain policies, the theory has not (as opponents
+sometimes suggest) simply claimed that symbolic racists are bigots disguising their
+racism under a cloak of values (see Sears, 1988, pp. 66, 70), but has instead
+postulated a coherent, and in principle testable, fusion between the two.11 Why,
+then, is there a problem?
+The problem arises, as might now come as no surprise, from the asymmetric
+definition of a morally suspect type, a combination of nominalist procedures and
+realist interpretations, and the agonistic attempt to trap “Highs.” Like Altemeyer
+and AFLS, Kinder and Sears (1981) began by assuming that deviation from their
+own prescriptions must be explained, and explained away as a psychological
+property, not a serious argument [“The signs of white resistance to change in the
+racial status quo are unmistakable, but how might such resistance be understood
+in psychological terms?” (p. 414, emphasis added)].
+Like Altemeyer, Kinder and Sears claimed the existence of such a psychologi-
+cal property, but this leads to the difficulty of demonstrating that symbolic racism
+is neither the same thing as old-fashioned racism nor unrelated to it. Like Alte-
+meyer, they tended to combine rigorous studies with sweeping theoretical claims
+that were too deeply burrowed into their definitions to be testable. Like Altemeyer,
+they established the existence of their theoretically central trait largely by defining
+the phenomenon in advance, by writing “questions that deliberately mix racist
+sentiments and traditional American values, particularly individualism” (Kinder,
+1986, p. 156; cf. Sniderman & Tetlock, 1986b, p. 181). Even though this makes
+sense given a deductive theory-testing framework, it is a practice that makes it a
+priori impossible to find some people whose motivations are based solelyon values,
+and others whose opinions are based solely on racism (cf. Sniderman & Tetlock,
+1986a, p. 132). Indeed, the presence of either type in the population will tend to be
+taken as evidence in favor of the claim that there is currently an inseparable
+combination of the two.
+Finally, in a few cases, analysts have put the cart before the horse and assumed
+that opposition to certain programs itself measures symbolic racism. Although it is
+reasonable to believe that anti-black sentiment is sufficient to lead to opposition
+to, say, enforced busing, it is less reasonable to propose [as Sears (1988, p. 57)
+seems to] that it is necessary. In so doing, the researcher substitutes definition for
+11Kinder and Sears clearly intended to be laying out a supportable theory of the development of
+specifically symbolic (andnot masked,subtle,orindirect)racism,inwhichthe response ofa non-black
+to some policy designed to aid blacks would be mediated by an abstract symbol of blacks in the public
+sphere, and the dispositions held to that symbol. However, because no work specifically focused on
+the creation of this symbol or demonstrated its existence, attention shifted from the “symbolic” half
+to the “racism” half (cf. Kinder, 1986, p. 155).
+The Authoritarian Personality
+23
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+analyses by taking the definition of symbolic racism as, for example, opposition to
+affirmative action and enforced desegregation in education, to dismiss the justifi-
+cation of these positions by their adherents as “rationalizations of the negative
+feeling about blacks lying behind such policy preferences.” Such dismissal is
+fundamentally based in the researcher privileging his own judgment of the situ-
+ation, according to which the respondents are simply exhibiting “indifference . . .
+to many of the facts” (Sears, 1988, p. 74).12 But as we have seen, ignoring what
+respondents say is a dangerous game, precisely because it is one the researcher
+always wins.
+Fifty years later, the unsound nature of TAP is so blatant that this essay almost
+seems unsporting, yet it originally was taken quite seriously. Although methodo-
+logical critiques were made from the earliest days, I have seen no categorical
+dismissals. Presumably, there was sufficient broad agreement that there were “bad
+guys” out there who deserved no quarter, and the dismissal that seems minimally
+appropriate by today’s standards appeared excessive then. Might we, then, also be
+in the middle of constructing research that, 50 years hence, will only shame us?
+ACKNOWLEDGMENTS
+I thank Charles Kurzman, four anonymous reviewers, and the editors for
+their comments and critique that have led to the improvement of this paper. It
+also seems fitting to acknowledge here the influence of my teacher Herbert
+Hyman, who insisted that true tolerance is a matter of common sense and human
+decency, not philosophy. Correspondence concerning this article should be sent
+to John Levi Martin, Department of Sociology, Rutgers—The State University of
+New Jersey, 54 Joyce Kilmer Avenue, Piscataway, NJ 08854-8045. E-mail:
+jlmartin@rci.rutgers.edu
+REFERENCES
+Adorno, T. W., Frenkel-Brunswik, E., Levinson, D. J., & Sanford, R. N. (1950). The authoritarian
+personality. New York: Harper and Row.
+Altemeyer, B. (1981). Right-wing authoritarianism. Winnipeg: University of Manitoba Press.
+Altemeyer, B. (1988). Enemies of freedom: Understanding right-wing authoritarianism. San Francisco:
+Jossey-Bass.
+Altemeyer, B. (1996). The authoritarian specter. Cambridge, MA: Harvard University Press.
+Baars, J., & Scheepers, P. (1993). Theoretical and methodological foundations of the authoritarian
+personality. Journal of the History of the Behavioral Sciences, 29, 345–353.
+12Furthermore, as critics pointed out, the same variables that could be used to tap symbolic racism were
+at other times seen as effects of symbolic racism. This suggests that the term “symbolic racism” could
+be dropped from the analysis without loss of explanatory power, and that it is simply tapping an
+extremely proximate ideology as opposed to a deep aspect of personality.
+24
+Martin
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Billig, M. (1977). The new social psychology and fascism. European Journal of Social Psychology, 7,
+393–432.
+Bobo, L. (1983). Whites’ opposition to busing: Symbolic racism or realistic group conflict? Journal of
+Personality and Social Psychology, 45, 1196–1210.
+Bobo, L. (1988). Group conflict, prejudice, and the paradox of contemporary racial attitudes. In P. A.
+Katz & D. A. Taylor (Eds.), Eliminating racism: Profiles in controversy (pp. 85–114). New York:
+Plenum.
+Brown, R. W. (1953). A determinant of the relationship between rigidity and authoritarianism. Journal
+of Abnormal and Social Psychology, 48, 469–476.
+Chancer, L. S. (1992). Sadomasochism in everyday life. New Brunswick, NJ: Rutgers University Press.
+Christie, R. (1954). Authoritarianism re-examined. In R. Christie & M. Jahoda (Eds.), Studies in the
+scope and method of “The authoritarian personality” (pp. 123–196). Glencoe, IL: Free Press.
+Christie, R. (1993). Some experimental approaches to authoritarianism: I. A retrospective perspective
+on the Einstellung (rigidity?) paradigm. In W. Stone, G. Lederer, & R. Christie (Eds.), Strength
+and weakness (pp. 70–98). New York: Springer-Verlag.
+Dorn, D. S., & Long, G. L. (1972, May). Sociology and the radical right: A critical analysis. American
+Sociologist, 8–9.
+Duckitt, J. (1983a). Authoritarianism and adjustment in an authoritarian culture. Journal of Social
+Psychology, 121, 211–212.
+Duckitt, J. (1983b). Culture, class, personality, and authoritarianism among white South Africans.
+Journal of Social Psychology, 121, 191–199.
+Durrheim, K. (1997). Theoretical conundrum: The politics and science of theorizing authoritarian
+cognition. Political Psychology, 18, 625–647.
+Goffman, E. (1959). The presentation of self in everyday life. New York: Anchor.
+Heaven, P. C. (1983). Individual vs. intergroup explanations of prejudice among Afrikaners. Journal
+of Social Psychology, 121, 201–210.
+Heaven, P. C. (1984). Afrikaner patriotism today: The role of attitudes and personality. Canadian
+Review of Studies in Nationalism, 11, 133–139.
+Hopf, C. (1987). Zur Aktualität der Untersuchungen zur “autoritären Persönlichkeit.” Zeitschrift für
+Sozialisationsforschung und Erziehungssoziologie, 7, 162–177.
+Hyman, H. H., & Sheatsley, P. B. (1954). “The authoritarian personality”—A methodological critique.
+In R. Christie & M. Jahoda (Eds.), Studies in the scope and method of “The authoritarian
+personality” (pp. 51–123). Glencoe, IL: Free Press.
+Kinder, D. R. (1986). The continuing American dilemma: White resistance to racial change 40 years
+after Myrdal. Journal of Social Issues, 42, 151–171.
+Kinder, D. R., & Sears, D. O. (1981). Symbolic racism vs. threats to “the good life.” Journal of
+Personality and Social Psychology, 40, 414–431.
+Kurzman, C. (1991). Convincing sociologists: Values and interests in the sociology of knowledge. In
+M. Burawoy (Ed.), Ethnography unbound: Power and resistance in the modern metropolis
+(pp. 250–268). Berkeley, CA: University of California Press.
+Lewis, C. A., & Maltby, J. (1995). Authoritarianism and projection. Psychological Reports, 77, 362.
+Lichter, S. R., & Rothman, S. (1982). The radical personality: Social psychological correlates of new
+left ideology. Political Behavior, 4, 207–235.
+Lovaglia, M. J., Lucas, J. W., Houser, J. A., Thye, S. R., & Markovsky, B. (1998). Status processes and
+mental ability test scores. American Journal of Sociology, 103, 195–228.
+McConahay, J. B. (1986). Modern racism, ambivalence, and the modern racism scale. In J. F. Dovidio
+&S.L.Gaertner(Eds.),Prejudice,discrimination, andracism (pp. 91–125). New York: Academic
+Press.
+McConahay, J. B., & Hough, J. C., Jr. (1976). Symbolic racism. Journal of Social Issues, 32, 23–45.
+The Authoritarian Personality
+25
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+McFarland, S. G., Ageyev, V. S., & Abalakina-Paap, M. A. (1992). Authoritarianism in the former
+Soviet Union. Journal of Personality and Social Psychology, 63, 1004–1010.
+Murray, H. A. (1938). Explorations in personality. New York: Wiley.
+Neel, R. G., Tzeng, O. C., & Baysal, C. (1983). Comparative studies of authoritarian-personality
+characteristics across culture, language, and methods. International Journal of Intercultural
+Relations, 7, 393–400.
+Ray, J. J. (1984). Alternatives to the F scale in the measurement of authoritarianism: A catalog. Journal
+of Social Psychology, 122, 105–119.
+Ray, J. J. (1985). The punitive personality. Journal of Social Psychology, 125, 329–333.
+Ray, J. J. (1988a). Why the F scale predicts racism: A critical review. Political Psychology, 9, 671–679.
+Ray, J. J.(1988b). Sexual liberation,old-fashionedoutlook,andauthoritarianism:A comment onKelley.
+Journal of Sex Research, 24, 385–387.
+Rosen, E. (1951). Differences between volunteersand non-volunteers for psychological studies. Journal
+of Applied Psychology, 35, 185–193.
+Rothman, S., & Lichter, S. R. (1978). The case of the student left. Social Research, 35, 535–609.
+Samelson, F. (1986). Authoritarianism from Berlin to Berkeley: On social psychology and history.
+Journal of Social Issues, 42, 191–208.
+Sanford, N. (1986).A personal accountof the study ofauthoritarianism: CommentonSamelson.Journal
+of Social Issues, 42, 209–214.
+Sears, D. O. (1988). Symbolic racism. In P. A. Katz & D. A. Taylor (Eds.), Eliminating racism: Profiles
+in controversy (pp. 53–84). New York: Plenum.
+Sears, D. O., van Laar, C., Carrillo, M., & Kosterman, R. (1997). Is it really racism? Public Opinion
+Quarterly, 61, 16–53.
+Shils, E. A. (1954). Authoritarianism: “Right” and “left.” In R. Christie & M. Jahoda (Eds.), Studies in
+the scope and method of “The authoritarian personality” (pp. 24–49). Glencoe, IL: Free Press.
+Smith, D. N. (1996). The  social construction of enemies: Jews  and the representation  of evil.
+Sociological Theory, 14, 203–240.
+Smith, M. B. (1997). The authoritarian personality: A re-review 46 years later. Political Psychology,
+18, 159–163.
+Sniderman, P. M., & Carmines, E. G. (1997). Reaching beyond race. Cambridge, MA: Harvard
+University Press.
+Sniderman, P. M., & Tetlock, P. E. (1986a). Symbolic racism: Problems of motive attribution in political
+analysis. Journal of Social Issues, 42, 129-150.
+Sniderman, P. M., & Tetlock, P. E. (1986b). Reflections on American racism. Journal of Social Issues,
+42, 173–187.
+Stone, W., Lederer, G., & Christie, R. (Eds.) (1993). Strength and weakness. New York:
+Springer-Verlag.
+Tetlock, P. E. (1994). Political psychology or politicized psychology: Is the road to scientific hell paved
+with good moral intentions? Political Psychology, 15, 509–529.
+Titus, H. E., & Hollander, E. P. (1957). The California F scale in psychological research: 1950–1955.
+Psychological Bulletin, 54, 47–64.
+Young-Bruehl, E. (1996). The anatomy of prejudices. Cambridge, MA: Harvard University Press.
+26
+Martin
+ 14679221, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/0162-895X.00223 by <Shibboleth>-member@ucl.ac.uk, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

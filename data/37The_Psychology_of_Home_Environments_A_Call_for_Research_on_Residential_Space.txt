@@ -1,0 +1,1128 @@
+Perspectives on Psychological Science
+2015, Vol. 10(3) 346­–356
+© The Author(s) 2015
+Reprints and permissions: 
+sagepub.com/journalsPermissions.nav
+DOI: 10.1177/1745691615576761
+pps.sagepub.com
+In 2012, the home decor market was estimated to be gross-
+ing as much as $65.2 billion per year in the United States 
+alone (Bosari, 2012). In the same year, Better Homes and 
+Gardens had a circulation in the United States of over 7.5 
+million. TV programs on homes are enormously popular, 
+too. HGTV (Home and Garden Television), an entire TV 
+channel (and Web site) devoted to buying, selling, and fix-
+ing up homes, attracted over 70 million monthly viewers in 
+the first quarter of 2013, with shows like Renovation Raiders 
+regularly drawing audiences above 6 million (HGTV, 2013). 
+These and many other examples suggest that people care a 
+great deal about their home spaces. In light of all the atten-
+tion, energy, and resources that people put into their homes, 
+one might expect the home to be a prime domain of psy-
+chological research. However, little empirical attention has 
+been directed to residential spaces.
+Despite this neglect by empirical researchers, theorists 
+and practitioners have long emphasized the psychological 
+significance of homes (Hayward, 1975). Theorists ranging 
+from Carl Jung (e.g., 1963) to Clare Cooper-Marcus (e.g., 
+1995) have proposed that of all places, the home has a par-
+ticularly powerful symbolic and psychological significance. 
+That is, the home is more than a place in which an indi-
+vidual resides but rather a unique place where a person’s 
+past, present, and future selves are reflected and come to 
+life. On the basis of a series of interviews with home own-
+ers, Cooper-Marcus (1995) argued that the home is a place 
+that reflects the character and identity of those who dwell 
+within it.
+Empirical research in environmental psychology has 
+provided support for the special role of home in peoples’ 
+minds, identifying the characteristics that distinguish the 
+idea of “home” from merely a place of residence (Smith, 
+1994a). Qualities such as community, privacy, self-expres-
+sion, personal identity, and warmth are used to describe 
+576761 PPSXXX10.1177/1745691615576761Graham et al.Psychology of Home Environments
+research-article2015
+Corresponding Author:
+Lindsay T. Graham, Department of Psychology, University of Texas at 
+Austin, 1 University Station A8000, Austin, TX 78712 
+E-mail: lindsaytgraham@gmail.com
+The Psychology of Home Environments:  
+A Call for Research on Residential Space
+Lindsay T. Graham1, Samuel D. Gosling1,2, and  
+Christopher K. Travis3
+1University of Texas at Austin; 2University of Melbourne, Victoria, Australia; and  
+3Sentient Architecture, Round Top, TX
+Abstract
+Homes are important: People devote much of their thought, time, and resources to selecting, modifying, and decorating 
+their living spaces, and they may be devastated when their homes must be sold or are destroyed. Yet the empirical 
+psychological literature says virtually nothing about the roles that homes might play in people’s lives. We argue that 
+homes provide an informative context for a wide variety of studies examining how social, developmental, cognitive, 
+and other psychological processes play out in a consequential real-world setting. The topic of homes is also well 
+suited to collaborations with a diverse array of disciplines ranging from architecture and engineering to sociology 
+and law. We illustrate the potential insights to be gained from studying homes with an exploratory study that maps 
+the psychological ambiances (e.g., romance, comfort, togetherness) that people desire in their homes; we identify 
+six broad ambiance dimensions (restoration, kinship, storage, stimulation, intimacy, productivity) that show mean 
+differences across rooms. We connect these findings to existing work on situation selection in emotion regulation. 
+These ideas provide only an initial foray into the domain of residential space, but they hint at the productive roles that 
+homes and other spaces could play in psychological theorizing and research.
+Keywords
+home, personal living spaces, environment, impressions, architecture, ambiance, emotion regulation
+
+Psychology of Home Environments	
+347
+homes but not mere residences (Altman, 1981; Dovey, 
+1985; Smith, 1994a). What might be driving these feel-
+ings, and how might the desired feelings affect the physi-
+cal qualities of a space?
+Some architectural practitioners have speculated about 
+the motives that may drive how a home’s appearance is 
+shaped. Israel (2003) argued that individuals’ home envi-
+ronments are reconstructions of past spaces in which 
+those people felt safe and secure. According to this view, 
+a person may, for example, unconsciously incorporate 
+features into a space that evoke qualities from a well-
+loved grandmother’s home. The motives behind these 
+decisions may be propelled not by conscious tastes and 
+preferences but rather by the emotional connections pro-
+moted by these elements.
+Gosling has proposed that manipulating one’s space can 
+serve three broad functions (Gosling, Gifford, & McCunn, 
+2013; Gosling, Ko, Mannarelli, & Morris, 2002). First, fea-
+tures of a space can influence the activities likely to be 
+performed in that space—thanks to the physical features of 
+kitchens, bedrooms, living rooms, and garages, these 
+spaces are particularly well suited to cooking, sleeping, 
+entertaining guests, and parking, respectively. The layout 
+and other physical features of the space can influence the 
+activities (e.g., reading a book) or social interactions (e.g., 
+chatting with friends) that take place in the space, which in 
+turn may affect cognitive and emotional states of the occu-
+pants (e.g., a sense of creativity or relaxation). In addition, 
+ambient features (e.g., lighting levels, temperature, humid-
+ity, noise, music, color, layout, shape of the space) can 
+influence an occupant’s mood, concentration, and produc-
+tivity (Gao et al., 2007; Gifford, 2007; Jasnoski, 1992; Küller, 
+Ballal, Laike, Mikellides, & Tonello, 2006). Too much sun-
+light penetration, for example, can reduce office workers’ 
+levels of relaxation (Boubekri, Hull, & Boyer, 1991).
+Second, the items in a space and their arrangement 
+can be used to convey impressions to others; thus, for 
+example, occupants can convey the importance that they 
+place on family by displaying photos of their relatives or 
+can communicate their political orientation via symbols 
+and icons. In one study comparing the living spaces of 
+politically liberal and conservative occupants in the 
+United States, liberals occupied spaces with indicators of 
+diverse interests in art, literature, travel, and other cul-
+tures (e.g., art supplies, books, world maps, and cultural 
+memorabilia brought back from vacation), whereas the 
+conservative occupants tended to have decor that was 
+relatively conventional (e.g., sports paraphernalia, flags 
+of various types, and American flags in particular; Carney, 
+Jost, Gosling, & Potter, 2008).
+Third, features of the space can affect what people 
+think about and how they feel when in that space; for 
+example, mementos may evoke fond memories of other 
+times, places, and people. The presence of personal and 
+cultural artifacts (e.g., art, photos, furniture) can influence 
+levels of well-being and feelings of social support (Gifford, 
+2007). For instance, people may use photos of loved ones 
+and other “social snacks” (tangible reminders of connec-
+tions to others) to fend off feelings of loneliness and social 
+isolation (Gardner, Pickett, & Knowles, 2005).
+Such findings hint at the potential gains to be made 
+from studying home environments. In the present article, 
+we aim to draw attention to the topic of home as a poten-
+tially important domain of psychological inquiry. We do 
+so by sketching out some potential areas of inquiry and 
+focus on one of these areas to illustrate the kinds of 
+insights that can result from such work.
+A Home for Empirical Research
+Homes have long held great significance for individuals 
+and in cultural life more broadly (Bryson, 2010; Worsley, 
+2011). As a result, the topic of home has attracted atten-
+tion from many disciplines across the arts and sciences, 
+such as sociology, anthropology, geography, history, 
+architecture, and philosophy (Mallett, 2004). In her exten-
+sive review of research on the meaning and experience 
+of home, Mallet noted that the concept of home has been 
+variously associated with the concepts of house, family, 
+haven, self, gender, and journeying (i.e., serving as a des-
+tination from which or to which one travels). What is 
+striking about these conceptual connections to home is 
+that they are all, to varying degrees, rooted in psycho-
+logical processes. For example, scholars equating home 
+with the physical structure of the house have noted how 
+the designs of houses can constrain and facilitate the 
+social interactions and the power dynamics that are 
+played out in a home. Scholars focusing on the role of 
+the home as a haven draw heavily on the psychological 
+states of relaxation, comfort, and a sense of security. And 
+researchers who emphasize the idea of family focus on 
+the role of home in providing the setting for early social 
+and cognitive development.
+Such links underscore the potential value of homes in 
+providing the context for a wide variety of empirical 
+studies within the field of psychology. In addition, the 
+links point to opportunities for psychology to contribute 
+to and learn from other fields. In fact, many psychology 
+subdisciplines already touch on topics that are relevant to 
+homes, even if they do not currently examine the topics 
+directly in homes or examine their relevance to homes. 
+We argue that homes are worth studying because they 
+are consequential real-world settings in which basic psy-
+chological processes are regularly played out. Thus, 
+homes represent a context both for research within psy-
+chology and for collaboration with other disciplines.
+
+348	
+Graham et al.
+Potential research within psychology
+Here we consider how a number of topics already stud-
+ied in psychology might be enriched by contextualizing 
+them within the home.
+Romantic relationships.  Consider romantic relation-
+ships, which are often played out in the context of homes 
+but are typically studied via context-free questionnaires 
+or in lab studies. To examine these relationships in con-
+text, researchers could investigate the spaces in which 
+couples cohabit. Research might reveal how home spaces 
+reflect relationship dynamics or how home design influ-
+ences interpersonal processes that, in turn, influence the 
+development and longevity of romantic relationships. For 
+example, how does the layout of a space interfere with 
+or promote couples’ individual needs for intimacy and 
+independence? And does their choice of decor reflect sta-
+tus and role dynamics in the relationship? The point at 
+which couples first move in together might be a particu-
+larly illuminating period because newly cohabiting cou-
+ples must psychologically negotiate the transition from 
+living alone to sharing a space with someone else. At that 
+point, does it matter to a relationship whether Person A 
+moves into Person B’s home or whether they start afresh 
+with a new one?
+Emotion and emotion regulation.  Researchers inter-
+ested in emotion and emotion regulation also often 
+examine these states via decontextualized surveys or in 
+lab studies. But such work needs to be augmented by 
+studies of how these processes play out in the real world. 
+The home serves as a useful context in which to examine 
+these processes because it is a domain that is stable, yet 
+malleable and in which individuals spend a great deal of 
+time. Questions can be asked about topics such as how 
+people use their everyday domestic social interactions 
+with others to create and maintain desired emotional 
+states. Do people shape their domestic spaces to facilitate 
+avenues of emotional expression (e.g., by sharing gossip 
+on the porch) or as a means of escape (e.g., by disap-
+pearing into a “man cave” or playing in the living room 
+with the kids)? How does the home facilitate the con-
+sumption of other forms of emotion-regulating entertain-
+ment, such as music, television, art, and literature?
+Identity.  Homes also provide a consequential real-
+world context in which to study processes of identity 
+expression and identity development. How are home 
+spaces used in the service of identity negotiation? It 
+seems likely that the physical characteristics of a person’s 
+space might provide a barometer of his or her ongoing 
+process of identity development, especially perhaps in 
+age groups occupied with the task of molding their 
+identity (Erikson, 1968; McAdams, 2001). Furthermore, 
+the home might provide clues to critical turning points in 
+the occupants’ lives with respect to identity and develop-
+ment. Thus, longitudinal and cross-sectional studies 
+could reveal markers of the psychological transitions 
+associated with major life changes (e.g., puberty, living 
+alone for the first time, getting married, getting divorced, 
+having children), such as new parents’ creation of a “toy 
+room” as a space for imaginative play (Stevenson & Prout, 
+2013).
+Development.  Presumably children, young adults, mid-
+dle-aged adults, and older individuals use, perceive, and 
+relate to their home environments in different ways. 
+Therefore, developmental psychologists can use homes 
+as a context for examining the real-world factors that pro-
+mote social and cognitive development throughout the 
+life span. In the cognitive developmental domain, homes 
+may provide developmental psychologists with a new 
+context for observing the onset of dementia and other 
+late adult cognitive disorders. Such data may be helpful 
+in determining the environmental features that aid cogni-
+tive development in children and promote efficient cog-
+nitive function in older adults. This information could be 
+useful beyond the home context, in designing schools 
+and elder care facilities.
+Cross-cultural psychology.  Anthropologists, histori-
+ans, and sociologists have long recognized that homes 
+provide an informative window through which to exam-
+ine cultural differences in daily living. Cross-cultural psy-
+chologists can also use the layout of and behavioral 
+traces in home spaces as indicators of key cultural prac-
+tices, values, and behaviors. For example, how does the 
+design and decoration of spaces reflect conceptions of 
+privacy and the practice of gender segregation in Qatari 
+homes (Sobh & Belk, 2011)?
+Previous psychological research  
+on homes
+Some psychologists have already recognized the unique 
+insights that home environments offer, particularly in the 
+context of understanding family processes, gender roles 
+(Blair & Lichter, 1991; Devlin, 1994; Smith, 1994b; Starrels, 
+1994), and child development (Evans, 2006). For exam-
+ple, the home environment has been used to view how 
+the physical layout of a space can affect daily mood and 
+cortisol levels (Saxbe & Repetti, 2010) and how occu-
+pants psychologically experience their homes (Molony, 
+McDonald, & Palmisano-Mills, 2007). Research has also 
+examined how life stressors that occur outside of the 
+home (e.g., job stress) can affect behaviors within the
+
+Psychology of Home Environments	
+349
+home (Ilies et al., 2007; Judge & Ilies, 2004; Repetti, 
+Wang, & Saxbe, 2009; Saxbe & Repetti, 2008; Wang & 
+Repetti, 2013; Wang, Repetti, & Campos, 2011) and how 
+behaviors in the home (e.g., division of household labor, 
+leisure time) can affect social relationships (Arnold & 
+Lang, 2007; Bianchi, Milkie, Sayer, & Robinson, 2000; 
+Coltrane, 2000; Klumb, Hoppmann, & Staats, 2006; Lee & 
+Waite, 2005) and mental states (Judge, Ilies, & Scott, 
+2006; Saxbe, Repetti, & Graesch, 2011).
+Past psychological research on homes has tended to 
+focus on two broad classes of environmental features. 
+The first class consists of conditions inside the living 
+spaces themselves. For instance, the degree to which 
+homes are chaotic and crowded has been a major topic 
+in research on how home environments affect the devel-
+opment of children’s temperament and behaviors. 
+Research suggests that, compared with children in less 
+chaotic and less crowded homes, children living in cha-
+otic, crowded homes tend to perform less effectively cog-
+nitively and academically (Evans, Gonnella, Marcynyszyn, 
+Gentile, & Salpekar, 2005; Goux & Maurin, 2005; 
+Hanscombe, Haworth, Davis, Jaffee, & Plomin, 2011) and 
+tend to experience more health risks and exposure to 
+environmental toxins and disease (Baker, Taylor, 
+Henderson, & The ALSPAC Study Team, 1998; Leventhal 
+& Newman, 2010; Mann, Wadsworth, & Colley, 1992). 
+Chaos and crowding in the home have also been associ-
+ated with negative emotion in infants (Bridgett, Burt, 
+Laake, & Oddi, 2013) and the expression of disruptive 
+behaviors in children (Evans et al., 2005; Hanscombe  
+et al., 2011; Jaffee, Hanscombe, Haworth, Davis, & 
+Plomin, 2012).
+A second class of home features refer to broader fac-
+tors such as the home’s geographic location and the fre-
+quency with which people move to a new home. This 
+latter characteristic—known as residential mobility—has 
+been tied to a broad range of outcomes, including aca-
+demic performance, emotional and social issues 
+(Leventhal & Newman, 2010), psychological values 
+(Flouri, 2009), and early mortality (Oishi, 2010; Oishi & 
+Schimmack, 2010).
+Much of the past work on home environments has 
+used direct-observation methods (by researchers or via 
+video recordings), daily telephone interviewing, daily 
+surveying, or daily diary methods (Saxbe & Repetti, 2010) 
+to examine, among other things, the importance of place 
+in predicting and shaping behaviors and emotions. The 
+advent of new technologies (e.g., automatic sensing from 
+smartphones and other devices; Miller, 2012) holds great 
+promise for reduced intrusiveness and greater fidelity 
+than past methods. In fact, some researchers have already 
+used forms of automated assessment to explore behav-
+iors that often occur in home spaces. For example, the 
+electronically activated recorder has been used to 
+naturalistically observe conflict that occurs within the 
+home environment to complement self-report and corti-
+sol data collection from children and parents (Slatcher & 
+Robles, 2012).
+Potential connections to other 
+disciplines
+Homes also provide opportunities for psychologists to 
+build connections to other disciplines.
+Architecture, design, and engineering.  Architecture 
+is the field tasked with building the spaces in which 
+humans live, so it should have a particularly strong inter-
+est in learning from psychologists, the experts in human 
+behavior. For example, analyses of the ways people per-
+ceive and use their home environments can help archi-
+tects design spaces that are suited to individuals’ real 
+patterns of daily living, not just the clients’ or architects’ 
+idealized versions of how home life will be played out. 
+Perceptual psychologists can help architects understand 
+the effects on humans of ambient features, such as sound, 
+light, and odor, as they have done in institutional con-
+texts, such as hospitals and office spaces (Gifford, 2007; 
+Gosling et al., 2013).
+Psychological knowledge of home environments can be 
+used by designers, architects, and health-care professionals 
+to design spaces that facilitate healthy and well-adjusted liv-
+ing. Cross-disciplinary collaborations could generate archi-
+tectural interventions that promote healthy lifestyle 
+behaviors (e.g., eating well, exercising, engaging in good 
+mental health practices). For example, health psychologists 
+could examine the effects of creating easily accessible work-
+out spaces in people’s homes or designing spaces to pro-
+mote psychological reflection and relaxation.
+More directly, engineers can incorporate psychologists’ 
+knowledge of daily behaviors, attitudes, values, and per-
+ceptual abilities into building designs. One team of inves-
+tigators undertook a review of the changing sensory 
+abilities associated with dementia and presented a series 
+of modifications to the home—many of them quite 
+straightforward—designed to improve the lives of people 
+with this condition (van Hoof, Kort, Duijnstee, Rutten, & 
+Hensen, 2010). For example, they recommend that ventila-
+tion systems be developed that counter the negative effects 
+of odors but that also take into account dementia patients’ 
+particular susceptibility to noise-related distress.
+Sociology.  Sociologists are concerned primarily with the 
+effects of broad social factors such as gender, race, and 
+social class on human welfare. The mechanisms through 
+which these factors exert their influence are likely to be 
+partly psychological and often play out in domestic con-
+texts. For example, traditional gender roles are intimately
+
+350	
+Graham et al.
+associated with domestic tasks undertaken in the home 
+(e.g., cooking, cleaning, caring for children, fixing broken 
+items, mowing the lawn).
+Law.  American law gives special status and protection to 
+homes. Privacy rights are extended to homes; the tax 
+code gives breaks for home ownership; and when those 
+protections seem to be violated, citizens can become 
+upset. For example, there was a huge outcry when the 
+Supreme Court approved of a city taking and razing a 
+home for the purpose of economic development of a 
+neighborhood (Kelo v. City of New London, 2005; Nadler 
+& Diamond, 2008). A leading legal theory suggests that to 
+fully enjoy the status of “personhood,” people must have 
+control over some property (Barros, 2009; Blumenthal, 
+2009; Radin, 1982; Stern, 2009). The purported justifica-
+tions for these various protections include psychological 
+ones.
+Mapping Desired Psychological 
+Ambiances in the Home:  
+An Illustrative Study
+To illustrate the potential value of research in this domain, 
+we next focus on one area—exploring the landscape of 
+spatial ambiances in the home. Specifically, we con-
+ducted an exploratory investigation of whether there is 
+any systematicity to the ambiances that individuals want 
+to evoke in the physical spaces of the home and, if there 
+is, what those ambiances are. This topic is instructive 
+because it reveals clear connections between the psy-
+chology of home and existing work in psychology (in 
+this case, emotion regulation).
+Some of the most basic questions regarding the psy-
+chology of home focus on understanding the psychologi-
+cal functions (e.g., relaxing, focusing on work, socializing) 
+served by homes and the different spaces within them. 
+The most relevant literature to this topic is the work on 
+restorative environments, which shows that certain envi-
+ronments, such as natural rather than built environment, 
+can improve mood, improve focus, and relieve stress 
+(Sternberg, 2009; van den Berg & Custers, 2011; van den 
+Berg, Koole, & van der Wulp, 2003). But even this 
+research does not focus on home spaces and devotes 
+little attention to identifying the ambiances that individu-
+als want to elicit. For instance, little is known about such 
+basic questions as what ambiances are most commonly 
+sought or whether the ambiances people want to elicit 
+vary systematically across different areas of a home.
+Therefore, we undertook a preliminary study to map 
+out the desired psychological ambiances of a home. 
+Specifically, we administered a specially designed new sur-
+vey (the Inventory of Desired Ambiances in the Ideal Home 
+[IDAIH]) to 200 participants via Amazon’s Mechanical 
+Turk Web site (see Supplemental Material available online 
+for details on the methods and instrument development). 
+The IDAIH consisted of a list of 18 rooms or spaces one 
+might find in a home (e.g., entryway, kitchen, living room, 
+garage, backyard). We focused on “ideal homes” rather 
+than individuals’ current homes for two reasons. First, the 
+concept of ideal home allowed us to avoid differences 
+among people in the practical and financial obstacles to 
+building or choosing a space that fully realizes one’s psy-
+chological goals. Second, we could ask everyone about 
+the same set of rooms, rather than being constrained by 
+the idiosyncratic configurations of rooms that would result 
+from focusing on a large number of real spaces. Thus, our 
+design was based on the supposition that people could 
+meaningfully report on the ambiances they would like to 
+evoke in their ideal spaces even though we understood 
+that most or all of the individuals responding would not 
+have had all 18 spaces in their own homes.
+The instructions of the IDAIH were as follows: “As you 
+enter each of the following spaces, what are the most 
+important emotions or perceptions you would like to 
+evoke within yourself and others?” For each of the 18 
+rooms or spaces, individuals were instructed to select 
+two ambiances from a list of 29 options (e.g., organiza-
+tion, privacy, productivity, rejuvenation, romance, safety, 
+tranquility, wealth). There was also a write-in option for 
+cases where the listed states were not sufficient. For a list 
+of the 29 options, see Table S1 in the Supplemental 
+Material.
+The most frequently selected ambiances across all 
+rooms were inviting (95% of participants listed it as their 
+first choice for at least one space), organization (85%), 
+and relaxation (70%). The distributions of ambiances 
+varied substantially across the rooms. For example, invit-
+ing was listed so often because about half of all partici-
+pants listed it as one of the top desired ambiances for the 
+entryway (54.0%), front porch (48.5%), or guest room 
+(47.0%), but it appeared much less frequently in the other 
+rooms. Therefore, we next examined the frequency with 
+which the ambiances were selected for each of the 18 
+rooms separately.
+There was generally strong consensus regarding the 
+ambiances appropriate for each room. The top five ambi-
+ances chosen for each room accounted for an average of 
+65.8% (SD = 11.0%) of the nominations for that room; 
+these findings suggest both that people do have a sense 
+about which ambiances they desire in each room and that 
+these ambiance and room preferences are shared by oth-
+ers in the sample. As shown in Figure 1 (which organizes 
+the findings in terms of a generalized blueprint plan of a 
+home), the five most frequently selected ambiances varied 
+across rooms, and some rooms elicited greater consensus 
+among participants than did other rooms. For example, 
+as noted earlier, there was strong consensus among
+
+Psychology of Home Environments	
+351
+participants regarding which ambiances were most desired 
+in the ideal entryway, with half the participants (54.0%) 
+choosing inviting as their first choice. After inviting, there 
+was a sharp drop-off for the next most popular ambiances 
+of sophistication (5.0%), family (5.0%), quiet (4.5%), and 
+cozy (3.5%). This strong preference for one ambiance 
+matches the predominant practical function of entryways 
+(i.e., entering the home). Conversely, the kitchen was 
+characterized by less consensus, with the top five ambi-
+ances distributed more evenly, with organization (17.5%) 
+being the most popular, followed by family (12.5%), pro-
+ductivity (11.0%), abundance (11.0%), and togetherness 
+(8.5%). This variety of desired ambiances reflects the var-
+ied practical and social functions that kitchens tend to 
+serve. This pattern also hints at individual differences that 
+may be responsible for this variation. For example, extro-
+verts may desire spaces conducive to interacting with oth-
+ers (e.g., spaces evoking a sense of family), whereas those 
+high on conscientiousness may desire spaces that promote 
+a sense of organization.
+To determine whether the 29 ambiances of the IDAIH 
+reflected a broader underlying structure of residential-
+environmental preferences, we subjected participants’ 
+ratings to a principal components analysis (PCA), exam-
+ining the preferences across rooms (see Supplemental 
+Material for details of procedures used to determine the 
+dimensions and the full content of the dimensions). A 
+six-factor solution was retained, accounting for 72.3% of 
+the variance. We labeled the factors Restoration, Kinship, 
+Storage, Stimulation, Intimacy, and Productivity (see Fig. 
+1 and Supplemental Material; the factors are listed in the 
+order in which they emerged in the PCA).
+As a whole, the results demonstrate that individuals 
+desire a broad range of specific ambiances in their ideal 
+living spaces. On average, each participant selected 16.0 
+(SD = 3.2) of the 29 different ambiances for their ideal 
+homes. The ambiances also differed systematically across 
+spaces. For example, many participants wanted a roman-
+tic bedroom, but none of them wanted a romantic garage. 
+These links between ambiances and environments point 
+to the idea that, in addition to having various physical 
+qualities that help or hinder pragmatic tasks, spaces also 
+have psychological qualities that almost certainly affect 
+how the spaces are used, how the occupants feel, and 
+what they think about.
+Of course, this preliminary study provides only a first 
+glimpse into the psychological ambiances people would 
+like to create in their ideal homes. Naturally, such survey-
+based findings about ideal spaces need to be followed up 
+with studies of what people really do to their own spaces 
+or whether their responses instead reflect naive theories 
+about themselves and others. Questions are also raised 
+about the extent to which the ambiances are directed to 
+the occupants themselves versus visitors; for example, 
+one might expect other-directed ambiances in the more 
+public spaces and self-directed ambiances in the more 
+private spaces (Gosling et al., 2002). And how are ambi-
+ances affected by such factors as income, gender, culture, 
+age, and class, whether the space is owned or rented, or 
+whether the occupants are living alone or with others?
+Despite these unanswered questions, the findings do 
+make two important contributions. First, they serve as a 
+springboard for beginning to understand how psycho-
+logical processes may be played out in the home. Second, 
+and more broadly, with little existing empirical work in 
+this domain, the present work illustrates the richness of 
+home environments as a venue for psychological 
+research, with implications that extend to other spatial 
+units. In the remaining sections of this article, we expand 
+on these two contributions.
+Connecting home psychology to the 
+broader field
+Broadly speaking, there are two main ways to change 
+one’s environment. First, changes can be brought about by 
+manipulating features of the space itself, sometimes tem-
+porarily (e.g., playing some soothing music) and some-
+times more permanently (e.g., changing the flooring in 
+one’s living room). Second, changes can be brought about 
+by moving to a new environment with preexisting features 
+likely to facilitate a desired state; again, sometimes these 
+actions are temporary (e.g., going to the beach to relax), 
+and sometimes they are more permanent (e.g., moving to 
+a neighborhood with similarly minded occupants; Bishop, 
+2009; Florida, 2008; McPherson, Smith-Lovin, & Cook, 
+2001; Motyl, Iyer, Oishi, Trawalter, & Nosek, 2014). It is 
+important to recognize that psychological processes 
+underlie these forms of manipulation and selection (Buss, 
+1987; Rentfrow, Gosling, & Potter, 2008). Specifically, per-
+sonality (e.g., traits, values) and other individual differ-
+ences (e.g., age, gender, health) dictate psychological and 
+physical parameters that are better suited to some spaces 
+than to others; thus, extroverts are better suited than intro-
+verts are to places that facilitate lively socializing. In spaces 
+like the kitchen, where a varied (but limited) set of ambi-
+ances were desired, different people may use the same 
+space to meet different needs.
+The current data do not permit analyses of which vari-
+ables determine whether a person would prefer to evoke 
+a sense of, say, abundance rather than togetherness in 
+their kitchen. However, existing theories provide some 
+guidance regarding which variables are likely to be rele-
+vant to the choices individuals make as they manipulate 
+and select their physical spaces. Interactionist approaches 
+in environmental and personality research emphasize the 
+role of individuals in selecting, manipulating, and evok-
+ing situations and environments to match their personali-
+ties, goals, attitudes, and values (Buss, 1987). The 
+emotion-regulation literature posits similar kinds of
+
+352	
+Family 
+Privacy 
+Master
+Bedroom
+Master Bath
+Study
+Game Room
+Entryway
+Guest Bath
+Guest Room
+Kitchen
+Living Room
+Dining Room
+Pantry 
+Inviting 
+Sophistication 
+Quiet 
+Cozy 
+Organization 
+Abundance 
+Togetherness 
+Productivity 
+Quiet 
+Organization 
+Family 
+Abundance 
+Productivity 
+Togetherness 
+Togetherness 
+Cozy 
+Comfort 
+Relaxation 
+Family 
+Togetherness 
+Family 
+Relaxation 
+Entertaining 
+Sophistication 
+Privacy 
+Rejuvenation 
+Quiet 
+Inviting 
+Joyousness 
+Excitement  
+Fun 
+Entertaining 
+Family 
+Romance 
+Relaxation 
+Love 
+Privacy 
+Privacy 
+Rejuvenation 
+Relaxation 
+Quiet OR Romance OR Tranquilityc
+Organization 
+Creativity OR Self-expressivee
+Quiet 
+Inviting 
+Comfort 
+Friendship 
+Cozy 
+Relaxation 
+Front
+Porch
+Media Room
+Garage
+Backyard
+Master Closet
+Sitting Room
+Organization 
+Abundance 
+Sophistication 
+Privacy 
+Self- expressive 
+Abundance 
+Relaxation 
+Family 
+Fun 
+Community 
+Inviting 
+Quiet 
+Relaxation 
+Tranquility 
+Rejuvenation OR
+Uniquenessa
+Quiet 
+Relaxation 
+Cozy 
+Entertaining 
+Comfort 
+Organization 
+Productivity 
+Safety 
+Quiet 
+Creativity OR Togetherness
+OR  Uniquenessf
+Entertaining 
+Family 
+Fun 
+Togetherness 
+Relaxation OR
+Sophisticationd
+Organization 
+Productivity 
+Abundance 
+Safety 
+Self-expressive OR Wealth OR Excitementb
+Productivity 
+Relaxation 
+Comfort 
+Utility
+Room
+Legend
+Productivity
+Quiet
+Self-expressive
+PRODUCTIVITY 
+Comfort
+Love
+Romance
+INTIMACY 
+Entertaining
+Excitement
+Fun
+STIMULATION 
+Abundance
+Friendship(R)
+Organization
+Inviting(R)
+Cozy(R)
+Safety
+STORAGE 
+Community
+Family
+Sophistication
+Togetherness
+KINSHIP 
+Privacy
+Rejuvenation
+Tranquility
+Relaxation
+RESTORATION 
+(R) = Items loading negatively on the factor 
+More than 1 ambiance
+Not included in PCA
+Others (beyond the Top 5)
+Fig. 1.  Example blueprint plan depicting top five ambiances desired in each room or space of the home. Each pie chart depicts the five most frequently selected ambiances in each 
+room. In six cases (i.e., front porch, garage, master bath, media room, study, and utility room), more than one ambiance tied for fourth or fifth most frequently selected ambiance; 
+these cases are shaded light gray. Note that each gray slice represents not the composite of those tied ambiances but rather the percentage of one of each of the ambiances. aRejuvena-
+tion and uniqueness were tied as the fifth most frequently selected ambiance. bExcitement, self-expressive, and wealth were tied as the fifth most frequently selected ambiance. cQuiet, 
+romance, and tranquility were tied as the fourth most frequently selected ambiance. dRelaxation and sophistication were tied as the fifth most frequently selected ambiance. eCreativity 
+and self-expressive were tied as the fifth most frequently selected ambiance. fCreativity, togetherness, and uniqueness were tied as the fifth most frequently selected ambiance. Table 
+S2 in the Supplemental Material presents the data on which this figure is based. Factors are listed in the order in which they emerged from the principal components analysis (PCA), 
+but the items are listed alphabetically within each factor.
+
+Psychology of Home Environments	
+353
+processes in which individuals are thought to select and 
+modify their situations to initiate, avoid, maintain, reduce, 
+or enhance core emotional states (e.g., Gross, 1998; 
+Gross & Thompson, 2007; Koole, 2009).
+Despite these clear parallels between interactionist 
+perspectives in environmental psychology and theories 
+of emotion regulation, the topic of physical space has 
+been largely ignored in contemporary research on emo-
+tion and emotion regulation. The Handbook of Emotion 
+Regulation (Gross, 2007) has no chapter on the topic, 
+and the terms space, environment, and ambiance are not 
+even listed in the index. A keyword search in PsycINFO 
+of the journals Emotion, Cognition and Emotion, Journal 
+of Personality and Social Psychology, Personality and 
+Social Psychology Bulletin, and Personality and Social 
+Psychology Review for articles that combined “emotion 
+regulation” (or “emotional regulation”) with either “ambi-
+ance,” “space,” “environment,” “design,” “decorate,” or 
+“decoration” yielded zero articles. Even combining these 
+environmental terms with the much broader keyword of 
+“emotion” yielded only four articles, none of which 
+focused on how physical spaces affect emotions.
+Yet the present work supports the idea that physical 
+spaces may be a particularly pervasive and powerful 
+mechanism for regulating emotions because spaces are 
+flexible and stable. Spaces are flexible in the sense that 
+one can do a lot of different things to one’s space in terms 
+of the way it is organized, decorated, and furnished with 
+objects. As a result, emotional regulation in spaces may 
+operate through visual (e.g., via items of decor), auditory 
+(e.g., via music played on the stereo), tactile (e.g., via the 
+materials used in furniture), olfactory (e.g., via fragrances 
+emitted by candles), ambient (e.g., via the temperature 
+and humidity), and social (e.g., by arranging a space to 
+induce social interactions) channels. With so many chan-
+nels and so many options in each channel, the items 
+designed to regulate emotions can be finely tuned to 
+evoke a varied palette of ambiances, such as those illus-
+trated in our study. At the same time, elements of physical 
+space are also relatively stable. As a result, spaces can 
+exert a persistent and predictable effect on emotions, 
+again making spaces a potentially powerful and precise 
+form of emotion regulation. Therefore, homes provide an 
+excellent domain in which to examine emotion-regulation 
+processes because only a limited number of individuals 
+occupy the spaces, the environments are quite stable, and 
+occupants spend a great deal of time in them.
+Stepping outside the home: A broader 
+psychology of physical spaces
+The present work examined just one level of spatial scale 
+(i.e., the rooms of a home). It is likely that the mecha-
+nisms discussed here also operate at both smaller and 
+larger scales. Even within a single room, different parts of 
+the space will be experienced differently. Standing by the 
+edge of the room looking through the window is likely 
+to have different effects on thoughts and emotions than 
+sitting on the sofa in full view of the art on the walls and 
+mementos above the fireplace. At a broader scale, physi-
+cal situation selection can be expressed in terms of the 
+type of venue one visits (e.g., a bar versus a café or a café 
+chain versus an independent café) and the type of neigh-
+borhood, city, or region in which one resides (Bishop, 
+2009; Florida, 2008; Motyl et al., 2014; Rentfrow et al., 
+2008). Recent theoretical and empirical work taking a 
+socioecological perspective emphasizes precisely this 
+mutual dynamic interplay between individuals and the 
+social, cultural, and physical contexts they inhabit 
+(Gebauer et al., 2014; Oishi & Graham, 2010).
+In addition to the theoretical questions raised by 
+examining the relationships individuals have with their 
+environments, the findings potentially offer insights into 
+how these ideas could be applied in “real-world” settings. 
+Essentially, when architects and designers design a build-
+ing, they are aiming to facilitate a particular function, 
+which usually has a psychological component to it. For 
+example, the purpose of a hospital room is to facilitate 
+healing, so it may help for that space to promote feelings 
+of restoration, regeneration, rejuvenation, and health; at 
+the same time, the space must be designed to allow the 
+people who work there to do their jobs efficiently. 
+Therefore, a fuller understanding of how physical fea-
+tures influence the psychological states experienced in a 
+space and the activities that occur within the space can 
+inform how spaces are designed to help achieve a desired 
+outcome. This knowledge could be applied to all kinds 
+of spaces ranging from broad institutions, such as hospi-
+tals and universities, to more personal spaces like homes 
+and offices.
+The current study provides just one illustration of the 
+psychological richness of home environments. It shows 
+how empirical research on homes can inform existing 
+theories in psychology and other fields concerned with 
+human behavior and the built environment. In doing so, 
+we hope that the present article will serve as an impetus 
+for researchers to explore the processes underlying the 
+psychology of home and the other spaces that provide 
+the physical contexts for human activity.
+Acknowledgments
+We thank Mario Alvarado, Erica Baranski, Nikki Brown, Parker 
+Crouch, Lanie Crow, Justine Curry, Catherine Faig, Mareike 
+Janiak, Karl Jun, Kelly Lee, Mary Mason, Michael Mathieu, 
+Constance Seré, and Ashley Vivlamore for their help with col-
+lection of these data. We also thank Oliver John, Jennifer Beer, 
+Jason Farrell, and Jamie Fratkin for their helpful comments dur-
+ing the writing of this article.
+
+354	
+Graham et al.
+Declaration of Conflicting Interests
+The authors declared that they had no conflicts of interest with 
+respect to their authorship or the publication of this article.
+Supplemental Material
+Additional supporting information may be found at http://pps 
+.sagepub.com/content/by/supplemental-data
+References
+Altman, I. (1981). The environment and social behavior. 
+Monterey, CA: Brooks/Cole.
+Arnold, J. E., & Lang, U. (2007). The changing landscape of 
+home: Trends in home-based leisure and storage among 
+working American families. Journal of Family and 
+Economic Issues, 28, 23–48.
+Baker, D., Taylor, H., Henderson, J., & The ALSPAC Study Team. 
+(1998). Inequality in infant morbidity: Causes and conse-
+quences in England in the 1990s. Journal of Epidemiology 
+& Community Health, 52, 451–458.
+Barros, D. B. (2009). Legal questions for the psychology of 
+home. Tulane Law Review, 83, 645–660.
+Bianchi, S. M., Milkie, M. A., Sayer, L. C., & Robinson, J. P. 
+(2000). Is anyone doing the housework? Trends in the gen-
+der division of household labor. Social Forces, 79, 191–228.
+Bishop, B. (2009). The big sort: Why the clustering of like-minded 
+America is tearing us apart. Boston, MA: Mariner Books.
+Blair, S. L., & Lichter, D. T. (1991). Measuring the division of 
+household labor: Gender segregation of housework among 
+American couples. Journal of Family Issues, 12, 91–113.
+Blumenthal, J. A. (2009). “To be human”: A psychological per-
+spective on property law. Tulane Law Review, 83, 609–644.
+Bosari, J. (2012, October 24). Growth of the home décor 
+market shows no signs of slowing down. Forbes. 
+Retrieved from http://www.forbes.com/sites/moneywise-
+women/2012/10/24/growth-of-the-home-decor-market-
+shows-no-signs-of-slowing-down/
+Boubekri, M., Hull, R. B., & Boyer, L. L. (1991). Impact of 
+window size and sunlight penetration on office workers’ 
+mood and satisfaction: A novel way of assessing sunlight. 
+Environment & Behavior, 23, 474–493.
+Bridgett, D. J., Burt, N. M., Laake, L. M., & Oddi, K. B. (2013). 
+Maternal self-regulation, relationship adjustment, and 
+chaos: Contributions to infant negative emotionality. Infant 
+Behavior & Development, 36, 534–547.
+Bryson, B. (2010). At home: A short history of private life. New 
+York, NY: Anchor Books.
+Buss, D. M. (1987). Selection, evocation, and manipulation. 
+Journal of Personality and Social Psychology, 53, 1214–
+1221.
+Carney, D. R., Jost, J. T., Gosling, S. D., & Potter, J. (2008). The 
+secret lives of liberals and conservatives: Personality pro-
+files, interaction styles, and the things they leave behind. 
+Political Psychology, 29, 807–840.
+Coltrane, S. (2000). Research on household labor: Modeling 
+and measuring the social embeddedness of routine family 
+work. Journal of Marriage and Family, 62, 1208–1233.
+Cooper-Marcus, C. (1995). House as a mirror of self: Exploring 
+the deeper meaning of home. Berkeley, CA: Conari Press.
+Devlin, A. S. (1994). Gender roles and housing preferences. 
+Journal of Environmental Psychology, 14, 225–235.
+Dovey, K. (1985). Home and homelessness. In I. Altman &  
+C. Werner (Eds.), Home environments (pp. 33–64). New 
+York, NY: Plenum Press.
+Erikson, E. H. (1968). Identity: Youth and crisis. New York, NY: 
+W. W. Norton.
+Evans, G. W. (2006). Child development and the physical envi-
+ronment. Annual Review of Psychology, 57, 423–451.
+Evans, G. W., Gonnella, C., Marcynyszyn, L. A., Gentile, L., & 
+Salpekar, N. (2005). The role of chaos in poverty socioemo-
+tional adjustment. Psychological Science, 16, 560–565.
+Florida, R. (2008). Who’s your city? New York, NY: Basic Books.
+Flouri, E. (2009). Strong families, tidy homes, and children’s val-
+ues in adult life: Are “chaotic,” “crowded,” and “unstable” 
+homes really so bad? Journal of Behavioral Development, 
+33, 496–503.
+Gao, X., Xin, J. H., Sato, T., Hansuebsai, A., Scalzo, M., Kajiwara, 
+K., . . . Billger, M. (2007). Analysis of cross-cultural color 
+emotion. Color Research and Application, 32, 223–229.
+Gardner, W. L., Pickett, C. L., & Knowles, M. (2005). Social 
+snacking and shielding: Using social symbols, selves, and 
+surrogates in the service of belonging needs. In K. D. 
+Williams, J. P. Forgas, & W. von Hippel (Eds.), The social 
+outcast: Ostracism, social exclusion, rejection, and bullying 
+(pp. 227–241). New York, NY: Psychology Press.
+Gebauer, J. E., Bleidorn, W., Gosling, S. D., Rentfrow, P. J., 
+Lamb, M. E., & Potter, J. (2014). Cross-cultural variations in 
+Big Five relations with religiosity: A socio-cultural motives 
+perspective. Journal of Personality and Social Psychology, 
+107, 1064–1091.
+Gifford, R. (2007). Environmental psychology: Principles and 
+practice (4th ed.). Colville, WA: Optimal Books.
+Gosling, S. D., Gifford, R., & McCunn, L. (2013). The selection, 
+creation, and perception of interior spaces: An environ-
+mental psychology approach. In G. Brooker & L. Weinthal 
+(Eds.), The handbook of interior design (pp. 278–290). 
+Oxford, England: Berg.
+Gosling, S. D., Ko, S. J., Mannarelli, T., & Morris, M. E. (2002). 
+A room with a cue: Judgments of personality based on 
+offices and bedrooms. Journal of Personality and Social 
+Psychology, 82, 379–398.
+Goux, D., & Maurin, E. (2005). The effect of overcrowded hous-
+ing on children’s performance at school. Journal of Public 
+Economics, 89, 797–819.
+Gross, J. J. (1998). The emerging field of emotion regulation: 
+An integrative review. Review of General Psychology, 2, 
+271–299.
+Gross, J. J. (2007). Handbook of emotion regulation. New York, 
+NY: Guilford Press.
+Gross, J. J., & Thompson, R. A. (2007). Emotion regulation: 
+Conceptual foundations. In J. J. Gross (Ed.), Handbook of 
+emotion regulation (pp. 3–24). New York, NY: Guilford 
+Press.
+Hanscombe, K. B., Haworth, C. M. A., Davis, O. S. P., Jaffee,  
+S. R., & Plomin, R. (2011). Chaotic homes and school
+
+Psychology of Home Environments	
+355
+achievement: A twin study. Journal of Child Psychology 
+and Psychiatry, 52, 1212–1220.
+Hayward, D. G. (1975). Home as an environmental and psycho-
+logical concept. Landscape, 20, 2–9.
+HGTV. (2013, December 6). Viewership statistics. Retrieved 
+from http://www.hgtvadsales.com/AboutUs/research.pdf
+Ilies, R., Schwind, K. M., Wagner, D. T., Johnson, M. D., DeRue, 
+D. S., & Ilgen, D. R. (2007). When can employees have a 
+family life?: The effects of daily workload and affect on 
+work-family conflict and social behaviors at home. Journal 
+of Applied Psychology, 92, 1368–1379.
+Israel, T. (2003). Some place like home: Using design psychology 
+to create ideal places. New York, NY: Wiley-Academy.
+Jaffee, S. R., Hanscombe, K. B., Haworth, C. M. A., Davis,  
+O. S. P., & Plomin, R. (2012). Chaotic homes and children’s 
+disruptive behavior: A longitudinal cross-lagged twin study. 
+Psychological Science, 23, 643–650.
+Jasnoski, M. B. (1992). The physical environment affects qual-
+ity of life based upon environmental sensitivity. Journal of 
+Applied Developmental Psychology, 13, 139–142.
+Judge, T. A., & Ilies, R. (2004). Affect and job satisfaction: A 
+study of their relationship at work and at home. Journal of 
+Applied Psychology, 89, 661–673.
+Judge, T. A., Ilies, R., & Scott, B. (2006). Work-family conflict 
+and emotions: Effects at work and at home. Personnel 
+Psychology, 59, 779–814.
+Jung, C. G. (1963). Memories, dreams, reflections. New York, 
+NY: Vintage Books.
+Kelo v. City of New London, 545 U.S. 469 (2005).
+Klumb, P., Hoppmann, C., & Staats, M. (2006). Division of labor 
+in German dual-earner families: Testing equity theoretical 
+hypotheses. Journal of Marriage and Family, 68, 870–882.
+Koole, S. L. (2009). The psychology of emotion regulation: An 
+integrative review. Cognition & Emotion, 23, 4–41.
+Küller, R., Ballal, S., Laike, T., Mikellides, B., & Tonello, G. 
+(2006). The impact of light and colour on psychological 
+mood: A cross-cultural study of indoor work environments. 
+Ergonomics, 49, 1496–1507.
+Lee, Y.-S., & Waite, L. J. (2005). Husbands’ and wives’ time 
+spent on housework: A comparison of measures. Journal 
+of Marriage and Family, 67, 328–336.
+Leventhal, T., & Newman, S. (2010). Housing and child develop-
+ment. Children and Youth Services Review, 32, 1165–1174.
+Mallett, S. (2004). Understanding home: A critical review of the 
+literature. Sociological Review, 52, 62–89.
+Mann, S. L., Wadsworth, M. E., & Colley, J. R. (1992). 
+Accumulation of factors influencing respiratory illness in 
+members of a national birth cohort and their offspring. 
+Journal of Epidemiology & Community Health, 46, 286–292.
+McAdams, D. P. (2001). The psychology of life stories. Review 
+of General Psychology, 5, 100–122.
+McPherson, M., Smith-Lovin, L., & Cook, J. M. (2001). Birds of 
+a feather: Homophily in social networks. Annual Review of 
+Sociology, 27, 415–444.
+Miller, G. (2012). The smartphone psychology manifesto. 
+Perspectives on Psychological Science, 7, 221–237.
+Molony, S. L., McDonald, D. D., & Palmisano-Mills, C. (2007). 
+Psychometric testing of an instrument to measure the expe-
+rience of home. Research in Nursing & Health, 30, 518–530.
+Motyl, M., Iyer, R., Oishi, S., Trawalter, S., & Nosek, B. A. (2014). 
+How moral migration geographically segregates and polarizes 
+groups. Journal of Experimental Social Psychology, 51, 1–14.
+Nadler, J., & Diamond, S. S. (2008). Eminent domain and the 
+psychology of property rights: Proposed use, subjective 
+attachment, and taker identity. Journal of Empirical Legal 
+Studies, 5, 713–749.
+Oishi, S. (2010). The psychology of residential mobility: 
+Implications for the self, social relationships, and well-
+being. Perspectives on Psychological Science, 5, 5–21.
+Oishi, S., & Graham, J. (2010). Social ecology: The lost and found 
+in psychological sciences. Perspectives on Psychological 
+Science, 5, 365–377.
+Oishi, S., & Schimmack, U. (2010). Residential mobility, well-
+being, and mortality. Journal of Personality and Social 
+Psychology, 98, 980–994.
+Radin, M. J. (1982). Property and personhood. Stanford Law 
+Review, 34, 957–1016.
+Rentfrow, P. J., Gosling, S. D., & Potter, J. (2008). The geogra-
+phy of personality: A theory of emergence, persistence, and 
+exploration of regional variation in basic traits. Perspectives 
+on Psychological Science, 3, 339–369.
+Repetti, R. L., Wang, S., & Saxbe, D. (2009). Bringing it all 
+back home: How outside stressors shape families’ every-
+day lives. Current Directions in Psychological Science, 18, 
+106–111.
+Saxbe, D. E., & Repetti, R. L. (2008). Taking the temperature 
+of family life: Preliminary results from an observational 
+study. In A. Newhall-Marcus, D. Halpern, & S. Tan (Eds.), 
+Changing realities of work and family (pp. 175–193). New 
+York, NY: Wiley-Blackwell.
+Saxbe, D. E., & Repetti, R. L. (2010). No place like home: Home 
+tours correlate with daily patterns of mood and cortisol. 
+Personality and Social Psychology Bulletin, 36, 71–81.
+Saxbe, D. E., Repetti, R. L., & Graesch, A. P. (2011). Time spent 
+in housework and leisure: Links with parent’s physiologi-
+cal recovery from work. Journal of Family Psychology, 25, 
+271–281.
+Slatcher, R. B., & Robles, T. F. (2012). Preschoolers’ conflict at 
+home and diurnal cortisol patterns. Health Psychology, 31, 
+834–838.
+Smith, S. G. (1994a). The essential qualities of a home. Journal 
+of Environmental Psychology, 14, 21–30.
+Smith, S. G. (1994b). The psychological construction of home 
+life. Journal of Environmental Psychology, 14, 125–136.
+Sobh, R., & Belk, R. W. (2011). Privacy and gendered spaces in 
+Arab Gulf homes. Home Cultures, 8, 317–340.
+Starrels, M. E. (1994). Husbands’ involvement in female gender-
+typed household chores. Sex Roles, 31, 473–491.
+Stern, S. M. (2009). Residential protectionism and the legal 
+mythology of home. Michigan Law Review, 107, 1093–
+1144.
+Sternberg, E. M. (2009). Healing spaces: The science of place 
+and well-being. Boston, MA: Belknap Press.
+Stevenson, O., & Prout, A. (2013). Space for play? Families’ 
+strategies for organizing domestic space in homes with 
+young children. Home Cultures, 10, 135–157.
+van den Berg, A. E., & Custers, M. G. (2011). Gardening pro-
+motes neuroendocrine and affective restoration from
+
+356	
+Graham et al.
+stress. Journal of Health Psychology, 16, 3–11. doi:10.1177/ 
+1359105310365577
+van den Berg, A. E., Koole, S. L., & van der Wulp, N. Y. (2003). 
+Environment preference and restoration: (How) are they 
+related? Journal of Environmental Psychology, 23, 135–146. 
+doi:10.1016/S0272-4944(02)00111-1
+van Hoof, J., Kort, H. S. M., Duijnstee, M. S. H., Rutten, P. G. S., 
+& Hensen, J. L. M. (2010). The indoor environment and the 
+integrated design of homes for older people with dementia. 
+Building and Environment, 45, 1244–1261.
+Wang, S., & Repetti, R. L. (2013). After the workday ends: How 
+jobs impact family relationships. In A. L. Vangelisti (Ed.), 
+Handbook of family communication (2nd ed., pp. 409–
+423). New York, NY: Routledge.
+Wang, S., Repetti, R. L., & Campos, B. (2011). Job stress and 
+family social behavior: The moderating role of neuroti-
+cism. Journal of Occupational Health Psychology, 16, 
+441–456.
+Worsley, L. (2011). If walls could talk: An intimate history of the 
+home. New York, NY: Walker and Company.

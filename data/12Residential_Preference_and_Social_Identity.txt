@@ -1,0 +1,2626 @@
+How Does Global–Local Identity Affect
+Consumer Preference for Access-Based
+Consumption? Investigating the Mediating
+Role of Consumption Openness
+Xiaodong Nie, Zhiyong Yang, Yinlong Zhang, and Narayan Janakiraman
+Abstract
+Given the increasing importance of the global sharing economy, consumers face the decision of whether to choose an access-
+based option versus an owned option. However, understanding of how consumers’ global–local identity may inﬂuence their pref-
+erence for access-based consumption is rather limited. The authors ﬁll this knowledge gap by proposing that consumers high in
+global identity (“globals”) have a greater preference for access-based consumption than those high in local identity (“locals”). Such
+effects are mediated by consumers’ consumption openness. Consistent with the “consumption openness” account, the authors
+ﬁnd that when the desire for openness is enhanced by a contextual cue, locals’ preference for access-based consumption is
+elevated, whereas globals’ preference for access-based consumption is unaffected. However, when the desire for openness is sup-
+pressed by a contextual cue, globals’ preference for access-based consumption is reduced, whereas locals’ preference for access-
+based consumption is unaffected. Similarly, consumers’ traveler–settler orientation sets a boundary for the relationship between
+global–local identity and preference for access-based consumption, given its close association with consumption openness.
+Theoretical and managerial implications are discussed.
+Keywords
+sharing economy, preference for access-based consumption, global–local identity, consumption openness, traveler–settler
+orientation
+Online supplement: https://doi.org/10.1177/00222437211055130
+The global sharing economy is expected to grow from $14
+billion in 2014 to $335 billion by 2025 (Osztovits et al.
+2015). Consumer preference for access-based consumption
+plays a signiﬁcant role in this new trend. In this research,
+access-based consumption is deﬁned as the consumption
+mode that is market mediated and does not involve the transfer
+of ownership of the product (Bardhi and Eckhardt 2012).
+Access-based consumption varies in the degree of sharing attri-
+butes and commodity exchange attributes. For example,
+BlaBlaCar and Uber entail more sharing attributes because
+their supply is crowdsourced from many individual consumers
+and relies on the relationships between resource providers and
+consumers (Belk 2010; Eckhardt et al. 2019). Consumers in
+such access-based systems expect to have some degree of
+social interaction with others (Habibi, Kim, and Laroche
+2016). In contrast, Zipcar and other short-term car rental ser-
+vices involve more commodity exchange attributes that focus
+on ﬁnancial transactions without much social interaction
+(Belk 2010; Eckhardt et al. 2019). Despite this difference, a
+common property associated with these access-based systems
+is that they provide individuals with ﬂexibility and access to a
+product’s beneﬁts for a limited period of time without requiring
+consumers to own the product (Lamberton and Rose 2012).
+Consumers increasingly must choose between an access-
+based option for a limited period (e.g., renting the product) or
+a
+permanent
+ownership–based
+option
+(e.g.,
+buying
+the
+product). For example, a person searching for a bicycle could
+use an access-based program to rent one for about $2.50 per
+Xiaodong Nie is Assistant Professor of Marketing, School of Business, University
+of Washington Bothell, USA (email: xnie@uw.edu). Zhiyong Yang is Professor of
+Marketing and Head, Bryan School of Business and Economics, University of
+North Carolina at Greensboro, USA (email: z_yang4@uncg.edu). Yinlong
+Zhang is Tom C. Frost Endowed Professor in International Business and
+Professor of Marketing, Carlos Alvarez College of Business, University of
+Texas
+at
+San
+Antonio,
+USA
+(email:
+yinlong.zhang@utsa.edu).
+Narayan
+Janakiraman is Associate Professor of Marketing, College of Business,
+University of Texas at Arlington, USA (email: janakira@uta.edu).
+Article
+Journal of Marketing Research
+2022, Vol. 59(3) 555-577
+© American Marketing Association 2022
+Article reuse guidelines:
+sagepub.com/journals-permissions
+DOI: 10.1177/00222437211055130
+journals.sagepub.com/home/mrj
+
+trip (e.g., BLUEbikes), or they could purchase one for about
+$400. Such options for the same product appear not only
+among transportation products but also in a wide array of
+other product categories, including clothing (e.g., Rent the
+Runway) and entertainment equipment (e.g., REI).
+Given the importance of the global sharing economy, prior
+researchers have identiﬁed factors that may impact consumers’
+preference for access-based consumption (e.g., Bardhi and
+Eckhardt 2012; Eckhardt et al. 2019; for a summary, see
+Appendix A). For example, drawing on a beneﬁt–cost frame-
+work, some researchers found that ﬁnancial beneﬁts (Bardhi
+and Eckhardt 2012), convenience beneﬁts (Moeller and
+Wittkowski 2010), utility beneﬁts (Habibi, Kim, and Laroche
+2016), and social beneﬁts (Edbring, Lehner, and Mont 2016)
+enhance, but search costs and technical costs (Habibi, Kim,
+and Laroche 2016; Lamberton and Rose 2012) inhibit, consum-
+ers’ preference for access-based consumption. Going beyond
+beneﬁt–cost factors, other scholars examined how consumers’
+experiences and perceptions may affect their preference for
+access-based consumption, showing that consumers are more
+willing to use access-based products or programs when they
+perceive fewer barriers (e.g., contamination; Hazée, Delcourt,
+and Van Vaerenbergh 2017), when the risk of product scarcity
+is low (Lamberton and Rose 2012), and when they have greater
+knowledge of access-based consumption (Lamberton and Rose
+2012). Still others examined how personal characteristics may
+affect preference for access-based consumption, such as intelli-
+gence scores (Aspara and Wittkowski 2019), degree of materi-
+alism (Davidson, Habibi, and Laroche 2018), and sense of
+power (Liu and Mattila 2017). Closely related to this research,
+scholars have found that consumers tend to prefer access-based
+options when a product is less “me” and more substitutable
+(Weiss 2017). In a broader sense, this echoes Eckhardt et al.’s
+(2019) suggestion that a consumer’s identity plays an important
+role
+in
+inﬂuencing
+their
+preference
+for
+access-based
+consumption.
+These studies provide intriguing ﬁndings. However, extant
+literature has largely ignored the close connection between
+globalization and access-based consumption as well as the
+important role of global–local identity in inﬂuencing consum-
+ers’ preference to use access-based products and programs.
+Globalization
+has
+exacerbated
+the
+birth
+of
+the
+sharing
+economy on a global scale, and it has made global–local iden-
+tity
+essential
+in
+understanding consumer
+decisions.
+For
+example, an emerging stream of literature has uncovered the
+effects of global–local identity on various consumer responses,
+including price sensitivity (Gao, Mittal, and Zhang 2020; Gao,
+Zhang, and Mittal 2017), preference for local/global products
+and brands (Ng, Faraji-Rad, and Batra 2021; Zhang and
+Khare 2009), preference for ecofriendly products (Ng and
+Basu 2019), and a tendency to use price as a signal of
+product quality (Yang et al. 2019). Extending the literature,
+we examine the role of global–local identity in consumers’ pref-
+erence for access-based consumption and the mechanism
+underlying these effects. We demonstrate that consumers high
+in global identity have a greater preference for access-based
+consumption than those high in local identity, because globals
+are high in consumption openness. In this research, we deﬁne
+“consumption openness” as the extent to which individuals
+desire a wide range of different and diverse products or
+choice options. Consistent with the “consumption openness”
+account, we further ﬁnd that contextual factors affecting con-
+sumption openness (e.g., desire for openness, traveler–settler
+orientation) moderate the effect of global–local identity on con-
+sumers’ preference for access-based consumption.
+Our research makes signiﬁcant contributions to the sharing
+economy and consumer identity literature streams. First, we
+advance the sharing economy literature by showing the impor-
+tant but largely ignored role of consumer identity: our research
+represents a ﬁrst attempt to uncover consumers’ global–local
+identity as a new antecedent of access-based consumption.
+Such an examination brings a fresh perspective to the sharing
+economy literature and extends our understanding of how glob-
+alization may affect consumer attitudes toward access-based
+consumption. Second, we uncover the critical role of consumption
+openness in explaining consumers’ preference for access-based
+consumption while ruling out several alternative explanations.
+Third, consistent with the consumption openness logic, we identify
+contextual factors that set boundary conditions for the impact of
+global–local identity on consumers’ preference for access-based
+consumption. Managerially, our ﬁndings suggest that marketers
+of access-based systems can use contextual cues (e.g., ads that
+embed multicultural features) to activate consumers’ global iden-
+tity to enhance their acceptance of access-based options.
+Furthermore, in line with the consumption openness account, mar-
+keters of access-based systems can use communication appeals to
+activate consumers’ desire for openness to facilitate their prefer-
+ence for these offerings. Our ﬁndings also suggest that when mar-
+keters expand to global markets, they do not need to allocate much
+budget to educate consumers about the beneﬁt of access-based
+consumption in countries that are high in global identity.
+However, when marketers enter countries that are high in local
+identity, they may need to make additional efforts to activate con-
+sumers’ consumption openness to enhance their acceptance for
+access-based options.
+Global–Local Identity and Preference
+for Access-Based Consumption
+Researchers have developed the construct of global–local iden-
+tity to study consumers’ responses to the marketing conse-
+quences of globalization. Globals have a salient global
+identity, favor globalization, view the world as a global
+village, and identify with people around the world. In contrast,
+locals have a salient local identity, favor local traditions, have
+strong interests in local events, and identify with people in
+their local community (Arnett 2002). In addition, globals
+prefer global products and brands, whereas locals prefer local
+products and brands (Ng, Faraji-Rad, and Batra 2021; Tu,
+Khare, and Zhang 2012; Zhang and Khare 2009). When con-
+sumers’ local identity is salient, they tend to be less price
+556
+Journal of Marketing Research 59(3)
+
+sensitive (Gao, Mittal, and Zhang 2020; Gao, Zhang, and Mittal
+2017) and more likely to use a product’s price to judge its
+quality (Yang et al. 2019).
+Global identity and local identity have been shown to be dis-
+tinct constructs (Tu, Khare, and Zhang 2012). Consumers can
+simultaneously possess both global and local identities (Arnett
+2002; Ng and Batra 2017); however, one identity may be more
+salient and therefore more inﬂuential in guiding behavior, depend-
+ing on idiosyncratic or situational factors (Ng, Faraji-Rad, and
+Batra 2021; Yang et al. 2019). This is in line with the research
+on social identities, which shows that although individuals may
+possess multiple identities simultaneously, the relative strength
+of each identity compared with the others at any given moment
+impacts an individual’s behavior (Brewer 1991).
+Three operationalizations of global–local identity have been
+practiced. First, the KOF Index of Globalization—a country-
+level measure—has been used to explain consumption behav-
+iors across different countries. Treating this country-level
+index as a proxy of individuals’ global–local identity is consis-
+tent with recent literature showing that individuals from more
+globalized countries, such as Vietnamese living in the United
+States, are more likely to have a stronger global identity due
+to greater exposure to different cultures and global business;
+however, Vietnamese living in more localized countries (e.g.,
+Vietnam) tend to have a stronger local identity due to their
+restricted access to other cultures (Gao, Mittal, and Zhang
+2020; Gao, Zhang, and Mittal 2017; Ng and Basu 2019; Ng,
+Faraji-Rad, and Batra 2021; Yang et al. 2019). The use of the
+internet as a new information source does not seem to change
+much of consumers’ global–local identity. For example, 61%
+of Indians (who are high in local identity) versus only 25% of
+Dutch (who are high in global identity) follow local news and
+stories very closely; however, 82% of Dutch versus only 53%
+of Indians follow global news and stories closely (Mitchell
+et al. 2018), indicating that local news and local stories still
+account for the majority of locals’ internet viewing even
+when using the internet as an information source (in addition
+to traditional media such as TV, movies, and newspapers).
+Second, previous studies have often assessed chronic
+global–local identity using measurements. Researchers have
+used both the bidimensional approach (i.e., measuring global–
+identity and local–identity and then using them separately to
+explain downstream variables; Gao, Zhang, and Mittal 2017)
+and the unidimensional approach (i.e., subtracting global–iden-
+tity scores from local–identity scores to obtain a relative identity
+index; Ng, Faraji-Rad, and Batra 2021), yielding consistent
+conclusions. According to Ng, Faraji-Rad, and Batra (2021),
+focusing on individual identity separately may omit important
+information about the strength of the other identity (e.g., a
+person may be high in one identity but even higher in the
+other), and thus the unidimensional approach is needed to
+better interpret the observed ﬁndings.
+Finally, global–local identity can be situationally activated
+through priming tasks. Because it is conceptually difﬁcult to
+prime participants to be high in both local and global identities,
+or low in both local and global identities, a common practice in
+this domain is to prime local identity and global identity sepa-
+rately, then compare outcome variables across these two identi-
+ties (Gao, Zhang, and Mittal 2017; Ng and Batra 2017; Ng,
+Faraji-Rad, and Batra 2021; Tu, Khare, and Zhang 2012;
+Yang et al. 2019; Zhang and Khare 2009). Following previous
+research, we aim to compare preference for access-based con-
+sumption across consumers high in global identity and those
+high in local identity. Our expectation is that consumers high
+in global (vs. local) identity have higher consumption openness,
+which in turn leads to a greater preference for access-based con-
+sumption. In the following subsections, we provide theoretical
+justiﬁcations for our hypothesized effects.
+Global–Local Identity and Consumption Openness
+Drawing on the distinct characteristics associated with global–
+local identity, we propose that a fundamental difference
+between globals and locals rests in the strength of their desire
+for openness. Globals are anticipated to exhibit a greater
+desire for openness, which motivates them to associate more
+values with diversiﬁed experiences, ideas, and values. In con-
+trast, because locals discern greater differences between local
+and nonlocal communities, they tend to have weaker desire
+for openness and to be less open to diversiﬁed experiences,
+ideas, and values. In line with this logic, previous research
+has shown that globals are more accommodating to different
+values (e.g., ethnicity, gender, religion, sexual orientation)
+than locals (Rieﬂer, Diamantopoulos, and Siguaw 2012).
+Globals view the world as a “global village.” They access
+and receive information and ideas about other countries and cul-
+tures, blur the lines between countries and cultures, and travel
+outside their own country to meet different people with
+greater ease (Ng and Basu 2019; Steenkamp and De Jong
+2010). This is partly because globals tend to view the insights
+obtained from foreign cultures as intellectual resources that
+complement their heritage culture (Chiu et al. 2011); thus,
+they are motivated to integrate diversiﬁed experiences and
+values. In contrast, locals associate more values with local tra-
+ditions and events, exhibit greater attachment to their local com-
+munity, and prefer not to move out of their local community
+(Arnett 2002). In line with our reasoning, prior studies show
+that individuals with a salient global identity are more likely
+to work for global organizations, work in multicultural teams,
+speak multiple languages, and live in more than one country
+than those with a salient local identity (Erez et al. 2013).
+Other evidence also supports the conceptual link between
+global
+identity
+and
+desire
+for
+openness.
+For
+example,
+Singaporeans (who are relatively high in global identity) are
+more willing to draw on experiences and ideas from other cul-
+tures and to use these ideas to generate new solutions to a
+problem. Conversely, mainland Chinese (who are relatively
+high in local identity) tend to quarantine and isolate the
+erosive effects of other cultures to prevent these effects from
+spreading to their lives (Chiu et al. 2011). One study also
+showed that students who took cultural psychology classes
+and got exposed to different cultures and values (and thus had
+Nie et al.
+557
+
+a salient global identity) were more open-minded than those
+who did not (Buchtel 2014). Similarly, priming individuals
+with diversiﬁed cultural elements (and thus a salient global
+identity) enhances their receptiveness to ideas and values differ-
+ent from their own, compared with individuals who are primed
+with only their own cultural elements (and thus a salient local
+identity; Leung and Chiu 2010). In addition, priming people
+to think of engaging with a global community (and thus a
+salient global identity) prompts them to meet new people and
+makes them more motivated to expand their social networks.
+Meanwhile, priming people to think of engaging with their
+local community (and thus a salient local identity) binds them
+more closely to their surrounding environment, and they
+become less motivated to expand their social networks to
+make new friends (Oishi et al. 2013).
+In the context of consumption-related decisions, we propose
+that globals’ desire for openness will lead them to have higher
+consumption openness and seek out a wide range of products
+and choice options. The heightened consumption openness, in
+turn, affects their product adoption decisions. For example, con-
+sumers who receive more international exposure (and thus are
+higher in global identity) tend to react more positively and have
+a greater willingness to try different products and ideas without
+prejudice (Nijssen and Douglas 2011). Furthermore, Americans
+(who are high in global identity) are more amenable to use differ-
+ent rules to select products and tend to change the rules quickly in
+different environments, whereas Koreans (who are high in local
+identity) tend to stay with a consistent rule for product selection;
+thus, they are less open to make a change (Kim and Drolet 2003).
+When evaluating various brands of the same product in the mar-
+ketplace, globals (vs. locals) exhibit more accommodation by
+focusing on the common attributes among these brands (Yang
+et al. 2019). Next, we discuss how the differences in consumption
+openness between globals and locals may inﬂuence their prefer-
+ence for access-based consumption.
+Global–Local Identity, Consumption Openness,
+and Preference for Access-Based Consumption
+As shown in Figure 1, our focal hypothesis that consumption
+openness mediates the effect of global–local identity on prefer-
+ence for access-based consumption relies on the proposed link
+between consumption openness and preference for access-
+based consumption. Several lines of literature support this link.
+First, engaging in access-based consumption ﬁts well with
+consumers’ consumption openness, as it allows them to have
+different
+consumption
+experiences.
+Access-based
+options
+provide a different consumption experience for people to
+obtain products and services (Bardhi and Eckhardt 2012). It sat-
+isﬁes consumers’ willingness to embrace ideas, change present
+lifestyles, and take risks—the qualities closely related to
+whether, and to what degree, they are open to the changes intro-
+duced by market offerings. In fact, the access-based services
+have expanded consumers’ roles on both the “demand side”
+and the “supply side” (Ritzer and Jurgenson 2010), enabling
+consumers to take on institutional roles that are typically con-
+ducted by ﬁrms in the traditional economy. For example,
+Zipcar requires members not only to return the car on time
+but also to clean and prepare it for the next user. As such, con-
+sumers take on a variety of different responsibilities, including
+communication (e.g., coordinating with the service provider or
+the user), promotion (e.g., providing ratings and reviews), and
+quality control (e.g., taking care of the product for the next
+user), as compared with the traditional means of consumption
+(Eckhardt et al. 2019). This suggests that consumers who can
+easily adapt to the roles and are open to taking on additional
+responsibilities should have a greater preference for access-
+based items, as they are more comfortable engaging in such dif-
+ferent roles from their traditional ones. Indeed, individuals who
+enjoy different experiences, and are thus open to change, tend to
+prefer access-based options rather than forming an enduring
+attachment over time and space (Bardhi and Eckhardt 2012).
+Second, consumers with greater consumption openness are
+more likely to value the ﬂexibility embedded in access-based
+systems, because access-based systems enable them to obtain
+products and services based on their self-interests in what types
+of products to obtain and when and where to obtain them.
+According to Habibi, Kim, and Laroche (2016), a major driver
+of using access-based systems is to access various options to
+satisfy consumers’ ever-changing needs and purposes at any
+time and place. In fact, the ﬂexibility associated with these access-
+based systems emerges as a lifestyle facilitator, allowing consum-
+ers to engage in a lifestyle they could not otherwise obtain through
+traditional ownership, such as trying a wide range of models of
+Figure 1. The impact of global–local identity on preference for access-based consumption.
+558
+Journal of Marketing Research 59(3)
+
+products according to their lifestyle needs (Bardhi and Eckhardt
+2012). In addition, consumers who enjoy traveling (and thus
+have greater consumption openness) prefer to form open and tran-
+sient relationships with their surrounding objects and are more
+likely to engage in a ﬂexible lifestyle (Oishi 2010).
+Finally, engaging in access-based consumption also suits
+consumers’ consumption openness in that it satisﬁes their need
+for a temporary use of the product. Temporality is an important
+catalyst for access-based consumption, as it enables consumers
+to obtain context-speciﬁc values of a product (Bardhi and
+Eckhardt 2017; Chen 2009). In fact, previous research shows
+that consumers who enjoy traveling (and thus have a stronger
+desire for openness) tend to appraise situational value to form
+temporary relationships with products because products can
+have a symbolic value in one place but lose their value in
+another place (Bardhi, Eckhardt, and Arnould 2012). Taken
+together, we hypothesize:
+H1: Consumers with a global identity have a greater pref-
+erence for access-based consumption than those with a
+local identity.
+H2: The effect of global–local identity on preference for
+access-based consumption is mediated by consumption
+openness.
+Boundary Conditions
+To further test the mediating role of consumption openness, we
+next investigate theoretically relevant boundary conditions. We
+have argued that globals (vs. locals) are high in consumption
+openness, which enhances their preference for access-based
+consumption. Thus, when desire for openness is enhanced
+through a contextual cue (compared with a control condition
+wherein it is unchanged), locals—whose baseline consumption
+openness is low and has a greater potential for increase—should
+increase their consumption openness and exhibit a greater pref-
+erence for access-based consumption. However, such a contex-
+tual cue is less likely to increase globals’ preference for
+access-based consumption, because their baseline consumption
+openness is already high and has less potential for increase
+(“ceiling effect”). In a similar vein, when a desire for openness
+is contextually reduced (compared with a control condition
+wherein it is unchanged), globals—who by nature are high in
+consumption openness and have a greater potential for
+decrease—should be less likely to be open to various product
+adoption options and thus reduce their preference for access-
+based consumption. However, such a contextual cue is less
+likely to suppress the preference for access-based consumption
+among locals, whose consumption openness is already low and
+is difﬁcult to decrease further (“ﬂoor effect”). This is consistent
+with the moderation-of-process logic (Spencer, Zanna, and
+Fong 2005). We hypothesize:
+H3a: When the desire for openness is enhanced (com-
+pared with a control condition in which it is unchanged),
+locals’ preference for access-based consumption is ele-
+vated, whereas globals’ preference for access-based con-
+sumption is unaffected.
+H3b: When the desire for openness is suppressed (com-
+pared with a control condition in which it is unchanged),
+globals’ preference for access-based consumption is
+reduced, whereas locals’ preference for access-based con-
+sumption is unaffected.
+Closely related to the consumption openness logic, consumers’
+traveler versus settler orientation is another theoretically relevant
+moderator. Individuals with a traveler orientation tend to value
+mobility, view the world from a “routes perspective,” and
+engage in transient, open, and mobile social networks and
+new environments. In contrast, those with a settler orientation
+value stability, view the world from a “roots perspective,” and
+prefer closed, stable, and traditional social networks that facili-
+tate long-lasting relationships with their surrounding environ-
+ment (Oishi 2010). Because traveling can open consumers up
+to different places, experiences, and ideas (Wang, Kirmani,
+and Li 2021), it is natural to expect that consumers with a trav-
+eler orientation will seek options that facilitate temporality and
+mobility and therefore assign less value to permanent owner-
+ship. For them, long-term stability and permanence can be bur-
+densome because they believe their lifestyles and surrounding
+environments are constantly changing. This theorizing echoes
+Bardhi, Eckhardt, and Arnould’s (2012) ﬁndings that individu-
+als who have a greater need for mobility (and thus an accessible
+traveler orientation) are more detached from possessions, and
+they tend to relate to objects in a temporary way. In contrast,
+individuals who have a settler orientation may be more oriented
+toward satisfying their fundamental need for long-term stability.
+For example, Oishi et al. (2007) showed that individuals consid-
+ering a stable lifestyle (and thus an accessible settler orientation)
+are more likely to engage in procommunity behavior to maintain
+a stable relationship with their surrounding environment.
+The previous discussion suggests that traveler–settler orien-
+tation can indirectly inﬂuence consumers’ consumption open-
+ness. When a traveler orientation is made salient, the need for
+temporality and mobility opens consumers up and enhances
+consumption openness, whereas when a settler orientation is
+made salient, the need for long-term stability and permanence
+suppresses consumption openness.
+Overview of the Present Research
+We tested our hypotheses in seven studies using a variety of
+operationalizations of both global–local identity and preference
+for access-based consumption. Studies 1a and 1b provide evi-
+dence that globals (vs. locals) have a greater preference for
+access-based consumption, using the country-level KOF
+Index of Globalization (Globalization Index) as a proxy for con-
+sumers’ global–local identity. Study 2a primes global–local
+identity and examines preference for access-based consumption
+Nie et al.
+559
+
+(i.e., relative preference between an accessed option and a pur-
+chase option of a camping tent). Moreover, Study 2a demon-
+strates that consumption openness is a key underlying
+mechanism. Study 2b examines the effect of global–local iden-
+tity on preference for access-based consumption in a between-
+subjects design and obtained consistent ﬁndings. Study 3 reveal
+that experimentally enhancing a desire for openness increases
+locals’ preference for access-based consumption, whereas sup-
+pressing a desire for openness reduces globals’ preference for
+access-based consumption. However, when a desire for open-
+ness was unchanged, globals (vs. locals) show a greater prefer-
+ence for access-based consumption, as in previous studies.
+Study 4 examines another boundary condition, namely, traveler
+(vs. settler) orientation, that enhances (vs. suppresses) con-
+sumption openness. Finally, Study 5 tests the link between
+global–local identity and preference for access-based consump-
+tion in a ﬁeld study with real consumers and provides additional
+evidence on consumption openness as the key mechanism
+underlying these effects.
+Study 1a: Secondary Data at the Country
+Level
+Method
+Study 1a aims to examine the relationship between global–local
+identity and preference for access-based consumption in the real
+world across different countries. We examined the average
+revenue per user (ARPU) for three car-sharing systems, includ-
+ing peer-to-peer car-sharing (e.g., Uber), short-term car access
+(e.g., Zipcar), and car rental across countries. The three car-
+sharing markets represent automobile sharing systems that are
+popular alternatives to car ownership, and they vary in the
+degree of sharing and commodity exchange attributes, thus
+offering a perfect context for examining the preference for
+access-based consumption among countries that differ in
+local–global identity.
+Through the Statista database, we obtained the 2019 ARPU
+data (from January through December) for peer-to-peer car
+sharing (144 countries), short-term car access (64 countries),
+and car rental (144 countries; for details see Web Appendix
+A). ARPU captures the revenue per user generated from
+each of the three car-sharing systems at the country level,
+with a higher number representing more revenue generated
+by each user and thus a greater preference for access-based
+consumption in that particular country. Given that these data
+were collected from various countries, we used country-level
+global–local identity as an explanatory factor for the obtained
+car-sharing data. Following Gao, Zhang, and Mittal (2017),
+we used the KOF Index of Globalization to capture the
+country-level global–local identity, with a higher score reﬂect-
+ing a greater degree of global identity. To provide a more rig-
+orous test, we included each country’s gross domestic product
+(GDP) and Hofstede’s six cultural dimensions (power dis-
+tance, individualism, masculinity, uncertainty avoidance,
+long-term orientation, and indulgence) as covariates in our
+analysis. The GDP data came from the World Bank 2019.
+Missing values on these cultural dimensions decreased our
+sample size from 144 to 89 for peer-to-peer car sharing
+and car rental, and from 64 to 57 for short-term car access
+(for correlation matrix of variables, see Table WA1 in Web
+Appendix A).
+Results and Discussion
+H1 states that globals have a greater preference for access-based
+consumption than locals. To test H1, we performed three sepa-
+rate regression analyses, using the ARPU of each of the three
+automobile sharing systems as the dependent variable, the
+Globalization Index as the independent variable, and the coun-
+try’s GDP and Hofstede’s six cultural dimensions as covariates
+(all variance inﬂation factors < 2.5). As shown in Table 1,
+results consistently showed that the Globalization Index was
+signiﬁcantly and positively related to the ARPU of peer-to-peer
+car sharing (β = .43, t(80) = 4.73, p < .001), short-term car
+access (β = .48, t(48) = 3.34, p = .002), and car rental (β = .56,
+t(80) = 6.69, p < .001), after controlling for the effects of other
+country-level factors. These results provide converging evi-
+dence in support of H1.
+Study 1a provides initial evidence on our proposed link
+between global–local identity and preference for access-based
+consumption, using the country-level car-sharing data and the
+Globalization Index. In line with our theorizing, the results
+show that globals had a greater preference for access-based con-
+sumption for all three sharing systems, regardless their degree
+of sharing and commodity exchange attributes. These results
+are robust after controlling for the effects of GDP and other cul-
+tural dimensions.
+Table 1. Regressiona Results of Globalization Index on Preference for
+Access-Based Consumption (Study 1a).
+Peer-to-Peer
+Car Sharing
+Short-Term
+Car Access
+Car
+Rental
+Globalization
+Index
+.43***
+.48**
+.56***
+Country’s GDP
+.13*
+.07n.s.
+.17**
+Power distance
+−.16n.s.
+−.08n.s.
+−.12n.s.
+Individualism
+.19n.s.
+.32*
+.19*
+Masculinity
+−.08n.s.
+.04n.s.
+−.02n.s.
+Uncertainty
+avoidance
+−.24**
+−.25*
+−.02n.s.
+Long-term
+orientation
+.08n.s.
+−.33*
+.03n.s.
+Indulgence
+.16n.s.
+.06n.s.
+.16*
+R-square
+.70
+.55
+.75
+n.s.p > .05.
+*p < .05.
+**p < .01.
+***p < .001.
+aWe used “missing cases pairwise” in the analyses.
+560
+Journal of Marketing Research 59(3)
+
+Study 1b: Country-Level Data on Home
+Purchase
+Method
+In Study 1b, we obtained consumers’ home purchase index
+for 50 countries (for additional information, see Web
+Appendix B) in 2018 from the Home Ownership Rate Data
+Set (Trading Economy 2018). Purchase index is measured
+as the ratio of owner-occupied units to total residential
+units in the countries, ranging from 26.00% to 98.85%. As
+in Study 1a, we used the Globalization Index to capture the
+country-level global–local identity. We included each coun-
+try’s GDP, property price index, and Hofstede’s six cultural
+dimensions as covariates in our analysis (all variance inﬂa-
+tion factors < 2.2). Missing values on these cultural dimen-
+sions decreased our sample size from 50 to 44 countries
+(for correlation matrix of variables, see Table WA2 in Web
+Appendix B).
+Results and Discussion
+Because our sample size was small, we estimated several
+models, as reported in Table 2. Models 1 and 2 examined the
+effect of Globalization Index on purchase index without consid-
+ering Hofstede’s six cultural dimensions. Speciﬁcally, Model 1
+contained only the control variables of countries’ GDP and
+property price index. Results showed that GDP is negatively
+related to purchase index (β = −.36, t(47) = −2.61, p = .01),
+such that GDP reduces consumers’ tendency to purchase a
+home (and thus increased consumers’ tendency to rent). The
+effect of property price index was not signiﬁcant (β = .04,
+t(47) = −.29, p = .78). In Model 2, we added the country-level
+Globalization Index into the analysis and found that the associ-
+ation between the Globalization Index and purchase index is
+negative and signiﬁcant (β = −.40, t(46) = −2.35, p = .02), sug-
+gesting that the greater a country’s globalization, the lower its
+preference for purchase (and thus the greater its preference
+for access-based consumption).
+Models 3 and 4 contain the six cultural dimensions. We fol-
+lowed Gao, Zhang, and Mittal (2017) and ran a two-step anal-
+ysis. In the ﬁrst step, Model 3 was used to identify the
+statistically signiﬁcant cultural dimensions that should be spec-
+iﬁed as control variables in Model 4. In the second step, Model
+4 contained only statistically signiﬁcant cultural dimensions,
+along with the Globalization Index, GDP, and property price
+index. Out of the six cultural dimensions, only indulgence
+was signiﬁcantly associated with purchase index. We therefore
+included indulgence, GDP, and property price index as covari-
+ates along with the key predictor, Globalization Index, in Model
+4. As Table 2 shows, only indulgence (β = −.38, t(39) = −2.35,
+p = .02) is negatively associated with purchase index. More
+importantly, Globalization Index is signiﬁcantly and negatively
+related to purchase index (β = −.48, t(39) = −2.67, p = .01),
+after we controlled for the effects of indulgence and other
+country-level factors. These results are consistent with H1.
+Extending the results of Studies 1a and 1b, we also con-
+ducted an additional study at the individual level (Study 6 in
+Web Appendix C) with 172 U.S. consumers using self-reported
+car-sharing behavior that occurred in the past three years.
+Results showed that consumers with a salient global (vs.
+local) identity had a greater preference for access-based con-
+sumption, as reﬂected by the frequency of using car-sharing ser-
+vices, percentage of time spent on car sharing, and monetary
+spending on car sharing.
+A limitation of Studies 1a and 1b is that the analyses were
+correlational and could not provide evidence on the causal
+direction. To address this issue, we conducted a study (Study
+7 in Web Appendix D) in which we manipulated consumers’
+global–local identity and examined their decision on their like-
+lihood to choose between an accessed option and a purchase
+option for a beach volleyball. Results showed that participants
+with a global identity had a greater likelihood of choosing the
+accessed (vs. purchase) option than those with a local identity.
+Although previous studies provide convergent evidence,
+none of them tested the mediating role of consumption open-
+ness (H2). We aimed to test it in the next study, while investi-
+gating responsibility toward the environment as an alternative
+explanation. Previous research suggests that globals (vs.
+locals) feel more responsibility toward the environment (Ng
+and Basu 2019). The link between global–local identity and
+preference for access-based consumption may be driven by
+globals’ perceived responsibility toward the environment. We
+examine this possibility in Study 2a.
+Study 2a: Mediation Test in a Within-Subject
+Design
+Method
+Two hundred workers from Amazon Mechanical Turk (MTurk;
+115 men; Mage = 36.75 years, SD = 11.15 years) were randomly
+Table 2. Regression Results of Globalization Index on Home
+Purchase Index (Study 1b).
+Model
+1
+Model
+2
+Model
+3a
+Model
+4a
+Globalization Index
+−.40*
+−.48*
+Country’s GDP
+−.36*
+−.19n.s.
+−.04n.s.
+Property purchase
+index
+.04n.s.
+−.16n.s.
+−.35n.s.
+Uncertainty avoidance
+.18n.s.
+Masculinity
+−.19n.s.
+Power distance
+−.11n.s.
+Individualism
+−.07n.s.
+Long-term orientation
+−.35n.s.
+Indulgence
+−.50*
+−.38*
+R-square
+.13
+.22
+.33
+.32
+n.s.p > .05.
+*p < .05.
+aWe used “missing cases pairwise” in the analyses.
+Nie et al.
+561
+
+assigned to either a global or a local identity condition.
+Following Ng and Batra (2017), in the global identity condition,
+participants read a paragraph discussing globalization and
+wrote down three things that embody their identity as a
+member of the world, whereas in the local identity condition,
+participants read an analogous paragraph about being a
+citizen of their city and wrote down three things that embody
+their identity as a citizen of the city (for details, see Web
+Appendix E). The manipulation check comprised three items
+from Zhang and Khare (2009; e.g., “For the time being, I
+mainly identify myself as a …”; 1 = “Global citizen,” and 7 =
+“Local citizen”; for all the measures used in the article, see
+Appendix B). We averaged these three items to form an identity
+index (α = .90), with a higher number indicating a greater level
+of local identity.
+Afterward, in an ostensibly unrelated task, participants were
+asked to imagine that they were shopping for a camping tent
+and were deciding between an accessed option and a purchase
+option. Participants viewed the information for the accessed
+option (Option A) and the purchase option (Option B). We
+obtained product information from major online retailers to
+help create stimuli (see Appendix C). Participants were asked
+to indicate their relative preference for the accessed option
+(1 = “deﬁnitely Option A,” and 7 = “deﬁnitely Option B”),
+which was reverse coded, with a higher value indicating a
+greater preference for Option A (the accessed option).
+Thereafter, participants rated their consumption openness (1 =
+“strongly
+disagree,”
+and
+7 = “strongly
+agree”),
+using
+a
+three-item measure (e.g., “At present, I am open to diversiﬁed
+products and services”; α = .72; for the scale development,
+see Web Appendix F). Perceived responsibility toward the envi-
+ronment was assessed using a two-item scale (e.g., “I think pro-
+tecting the environment is my responsibility”; r = .48) adopted
+from Ng and Basu (2019).
+Results and Discussion
+Manipulation check. As we expected, participants in the local
+identity condition (M = 5.15) perceived themselves more as
+local citizens than those in the global identity condition (M =
+4.68; F(1, 198) = 4.68, p = .03, η2
+p = .02), suggesting that the
+global–local identity prime was effective.
+Effect on preference for access-based consumption. Consistent
+with H1, the one-way analysis of variance (ANOVA) on the rel-
+ative preference score showed that those in the global identity
+condition (M = 4.11) were more likely to choose the accessed
+option than those in the local identity condition (M = 3.43;
+F(1, 198) = 4.94, p = .03, η2
+p = .02).
+Mediation analysis. H2 speciﬁes that consumption openness
+mediates the relationship between global–local identity and pref-
+erence for access-based consumption. To assess this proposed
+mechanism, we performed a mediation analysis using Model 4
+of Hayes’s (2017) PROCESS. As we predicted in H2, the analy-
+sis in which global–local identity was the independent variable,
+consumption openness was the mediator, and the relative prefer-
+ence for the accessed option was the dependent variable showed
+a signiﬁcant indirect effect (.1264, 95% conﬁdence interval [CI]:
+[.0050, .2823]; Figure 2). We conducted a mediation analysis and
+found that perceived responsibility toward the environment
+cannot be a mediator (see Web Appendix G).
+Study 2a demonstrates that the relationship between global–
+local identity and preference for access-based consumption is
+mediated by consumption openness. Speciﬁcally, consumers
+with a global (vs. local) identity have higher consumption open-
+ness, which in turn leads to a greater preference for the accessed
+option. Perceived responsibility toward the environment is
+unlikely to be an alternative explanation for our ﬁndings.
+The next study diverges from Study 2a in two important
+aspects: First, whereas Study 2a examined preference for
+access-based consumption when both accessed and purchase
+options were presented together, Study 2b examines preference
+for access-based consumption when the accessed option and the
+purchase option are presented separately. This is an important
+methodological distinction because prior research has shown
+that consumers exhibit preference reversals for the same
+options when they are presented separately instead of jointly
+(Hsee 1996). Second, in addition to the measure of preference
+for the accessed option, we include a measure of willingness
+to use access-based programs in Study 2b. Besides, we aim to
+test prevention focus as another alternative explanation. Ng
+and Batra (2017) found that locals (vs. globals) tend to adopt
+prevention goals, which may impede locals’ preference for
+access-based
+consumption
+(Hazée,
+Delcourt,
+and
+Van
+Vaerenbergh 2017). We test this possibility in Study 2b.
+Figure 2. The mediating role of consumption openness (Study 2a).
+562
+Journal of Marketing Research 59(3)
+
+Study 2b: Mediation Test in a
+Between-Subjects Design
+Method
+Two hundred seventy MTurk workers (177 men; Mage = 38.73
+years, SD = 12.22 years) participated in Study 2b in exchange
+for a small monetary reward. We randomly assigned partici-
+pants to a 2 (identity: global vs. local) × 2 (decision option:
+access vs. purchase) between-subjects design.
+Following Gao, Zhang, and Mittal (2017), we primed
+global–local
+identity
+through
+either
+a
+“Think
+Global
+Movement” or a “Think Local Movement” campaign (see
+Web Appendix H). The “Think Global Movement” focuses
+on global news and highlights cultures from other parts of the
+world. Conversely, the “Think Local Movement” focuses on
+local news and preserves the local traditions. Participants
+were asked to write their initials under the campaign to show
+their support for the speciﬁc movement. Afterward, they
+responded to the same global–local identity manipulation
+check questions (α = .91) as in Study 2a.
+Then, participants were directed to an ostensibly unrelated
+product evaluation task, in which they were assigned to either
+a bike for access or a bike for purchase condition. Following
+Lamberton and Rose (2012), participants were asked to
+imagine that they are considering obtaining a bike. In a reputable
+bike store, they see an ad showing that they could purchase [join
+a bike-sharing program to rent] a bike (for the stimuli, see Web
+Appendix I). Afterward, participants rated their intention to pur-
+chase [rent] the bike using a three-item scale (e.g., “How likely
+are you to purchase [rent] the bike from the store?”; 1 = “very
+unlikely,” and 7 = “very likely”; αaccess = .89 and αpurchase =
+.91; Ma, Yang, and Mourali 2014). We then asked participants
+to respond to a measure of willingness to use access-based pro-
+grams using a two-item scale (e.g., “How likely are you willing
+to participate in the bike sharing program?”; 1 = “very unlikely,”
+and 7 = “very likely”; r = .72). Participants then responded to the
+consumption openness questions (α = .85) as in Study 2a.
+Participants’ prevention focus was measured with a nine-
+item scale adopted from Lockwood, Jordan, and Kunda
+(2002; e.g., “In general, I am focused on preventing negative
+events in my life”; 1 = “strongly disagree,” and 7 = “strongly
+agree”; α = .88).
+Results and Discussion
+Manipulation check. We conducted a full-factorial ANOVA on
+the identity index with the global–local identity prime, decision
+option, and their interaction term as the independent variables.
+Reassuringly, only the main effect of the global–local identity
+prime was statistically signiﬁcant (F(1, 266) = 38.40, p < .001,
+η2
+p = .13). Participants in the local identity condition (M= 5.55)
+perceived themselves more as local citizens than those in the
+global identity condition (M= 4.37). Neither the main effect of
+decision option nor the interaction term was signiﬁcant (ps >
+.50). Thus, the global–local identity prime was successful.
+Effect on preference for access-based consumption. We performed
+two separate full-factorial ANOVA analyses, one with the
+measure of adoption intention and the other with the measure
+of willingness to use access-based programs, as the dependent
+variable. In the ﬁrst analysis, a 2 (identity) × 2 (decision
+option) ANOVA on adoption intention revealed no effect of
+identity (F(1, 266) = .34, p = .56, η2
+p = .001) or decision option
+(F(1, 266) = .35, p = .56, η2
+p = .001), but more importantly, it
+did show a signiﬁcant identity × decision option interaction
+(F(1, 266) = 13.57, p < .001, η2
+p = .05). In the access condition,
+globals (M = 5.55) had a greater intention to rent the bike
+than locals (M = 5.08; F(1, 266) = 4.77, p = .03, η2
+p = .02).
+Yet, in the purchase condition, locals (M = 5.73) had a greater
+intention to purchase the bike than globals (M = 5.08; F(1,
+266) = 9.17, p = .003, η2
+p = .03; Figure 3, Panel A).
+Drawing on our theory, we expect globals to show a greater
+preference for access-based consumption than locals in both
+access and purchase conditions. As we expected, in the
+second analysis, a 2 (identity) × 2 (decision option) ANOVA
+on willingness to use access-based programs showed signiﬁcant
+main effects of identity (F(1, 266) = 8.30, p = .004, η2
+p = .03)
+and decision option (F(1, 266) = 7.59, p = .006, η2
+p = .03) but
+no signiﬁcant identity × decision option two-way interaction
+(F(1, 266) = .01, p = .93, η2
+p < .001). In the access condition,
+globals showed a greater willingness to use access-based pro-
+grams (M = 5.53) than locals (M = 5.04; F(1, 266) = 3.87, p =
+.05, η2
+p = .01). Moreover, in the purchase condition, globals
+(M = 5.07) showed a greater willingness score than locals
+(M = 4.55; F(1, 266) = 4.45, p = .04, η2
+p = .02; Figure 3, Panel B).
+Mediation analysis. To reassess the proposed mediating role of
+consumption openness, we performed two mediation analyses
+using Model 15 of Hayes’s (2017) PROCESS. In the ﬁrst medi-
+ation analysis, global–local identity was the independent vari-
+able,
+adoption
+intention
+was
+the
+dependent
+variable,
+consumption openness was the mediator, and decision option
+was the moderator. Results show that consumption openness
+mediated the effect of global–local identity on adoption inten-
+tion (.2938, 95% CI: [.0626, .5934]; Figure WA1, Panel A, in
+Web Appendix J). In the second mediation analysis, willingness
+to use access-based programs was the dependent variable.
+Consistently, results show that consumption openness mediated
+the effect of global–local identity on willingness to use access-
+based programs (.1356, 95% CI: [.0039, .3309]; Figure WA1,
+Panel B, in Web Appendix J). These results support H2 and rep-
+licate the ﬁndings of Study 2a in a between-subjects design. We
+also tested the role of prevention focus and found that it cannot
+serve as a mediator (Web Appendix K).
+In a between-subjects design, Study 2b replicated previous
+ﬁndings that the effect of global–local identity on preference
+for access-based consumption is mediated by consumption
+openness. Notably, preference for access-based consumption
+was reﬂected by both a measure of adoption intention and a
+measure of willingness to use access-based programs. As we
+show in Study 8 (Web Appendix L), consideration of
+Nie et al.
+563
+
+opportunity costs and perceived newness of the accessed option
+cannot be alternative explanations of our ﬁndings. In Study 3,
+we aim to provide additional evidence of the underlying
+process by manipulating desire for openness.
+Study 3: Desire for Openness
+Method
+Study 3 featured a 2 (identity: global vs. local) × 3 (desire for
+openness: enhanced, suppressed, unchanged) between-subjects
+design. Four hundred thirty-seven MTurk workers (190 men;
+Mage = 38.93 years, SD = 12.26 years) participated in exchange
+for a small monetary reward.
+Following Zhang and Khare (2009), we manipulated global–
+local identity using a sentence-unscrambling task. Those in the
+global identity condition were instructed to construct 15 grammat-
+ically correct sentences using such scrambled sentences as “events
+know I global.” Those in the local identity condition were asked to
+ﬁnish the same task using different sentences, such as “events
+know I local” (see Web Appendix M). Thereafter, participants
+were randomly assigned to one of the three desire-for-openness
+conditions using a writing task. In the desire-for-openness-
+enhanced [suppressed] condition, participants read the statement,
+“When we are making decisions, being open-minded can some-
+times be beneﬁcial [detrimental],” and then they were asked to
+provide three reasons to support the statement. Those in the
+desire-for-openness-unchanged (control) condition were asked to
+review their daily routine and write down their thoughts and feel-
+ings at that moment. As detailed in Web Appendix N, a pretest
+among a separate group of 113 participants demonstrated the
+validity of our desire-for-openness prime.
+After completing the writing task for the desire-for-openness
+manipulation, participants were exposed to the same shopping
+task as in Study 2a and asked to indicate their preference
+between the accessed and purchase options of a camping tent.
+They were then asked to complete the same questions regarding
+willingness to use access-based programs for the tent (r = .80),
+consumption openness (α = .85), and global–local identity
+manipulation check (α = .93) as in Study 2b.
+Results and Discussion
+Manipulation check. To test the effectiveness of our global–local
+identity manipulation. we conducted a 2 (identity) × 3 (desire
+for openness) ANOVA on the global–local identity index
+with the global–local identity prime, desire-for-openness
+prime, and their interaction term as the independent variables.
+Results revealed only a signiﬁcant main effect of global–local
+identity (Mlocal = 5.15 vs. Mglobal = 4.39; F(1, 431) = 21.57, p
+< .001, η2
+p = .05); no other effects were signiﬁcant (desire for
+openness: F(2, 431) = 2.65, p = .07, η2
+p = .01; interaction: F(2,
+431) = 1.08, p = .34, η2
+p < .01). These results indicate that our
+global–local identity prime is effective.
+Effect on preference for access-based consumption. We performed
+two separate full-factorial ANOVA analyses, one with the relative
+preference measure and the other with the measure of willingness
+to use access-based programs as the dependent variable. In the ﬁrst
+analysis, a 2 (identity)× 3 (desire for openness) ANOVA on the
+relative preference score revealed signiﬁcant main effects of
+desire for openness (F(2, 431) =9.25, p<.001, η2
+p = .04) and
+global–local identity (F(1, 431)= 5.95, p= .02, η2
+p =.01) but—
+more importantly, and pertinent to our hypothesis—a signiﬁcant
+global–local identity ×desire for openness two-way interaction
+(F(2, 431)= 3.08, p= .047, η2
+p =.01). Similarly, the second 2
+(identity)×3 (desire for openness) ANOVA on the willingness
+score showed signiﬁcant main effects of desire for openness
+Figure 3. The effect of global–local identity on preference for
+access-based-consumption (Study 2b).
+Notes: Error bars represent ±1 SEs.
+564
+Journal of Marketing Research 59(3)
+
+(F(2, 431)= 11.75, p< .001, η2
+p =.05) and identity (F(1, 431)=
+7.76, p= .006, η2
+p =.02) as well as a signiﬁcant desire for openness
+× identity interaction (F(2, 431)=3.66, p =.03, η2
+p =.02). As
+detailed in Web Appendix N, results in the control condition rep-
+licated previous ﬁndings that globals tend to have a greater prefer-
+ence for access-based consumption than locals.
+Testing H3a. H3a states that when desire for openness is
+enhanced, locals’ (but not globals’) preference for access-based
+consumption would be elevated. To test H3a, we compared pref-
+erence
+for
+access-based
+consumption
+in
+the
+desire-for-
+openness-enhanced and control conditions for locals and
+globals separately. For locals in these two conditions, a
+one-way ANOVA on the relative preference score showed a
+signiﬁcant effect of desire for openness (F(1, 166) = 9.03, p =
+.003, η2
+p = .05). Locals’ relative preference for the accessed
+option was greater in the desire-for-openness-enhanced condi-
+tion (M = 4.09) than in the control condition (M = 2.99;
+Figure 4, Panel A). Similarly, a one-way ANOVA on the will-
+ingness score showed a signiﬁcant effect of desire for openness
+(F(1, 166) = 12.79, p < .001, η2
+p = .07). Locals’ willingness to
+use
+access-based
+programs
+was
+greater
+in
+the
+desire-
+for-openness-enhanced
+condition
+(M = 5.06)
+than
+in
+the
+control condition (M = 3.96; Figure 4, Panel B).
+For
+globals
+in
+the
+desire-for-openness-enhanced
+and
+control conditions, a one-way ANOVA on the relative prefer-
+ence score revealed no effect of desire for openness (F(1,
+147) < .01, p = .96, η2
+p < .001). Globals had similar levels of
+preference for the accessed option across desire-for-openness-
+enhanced
+(M = 4.32)
+and
+control
+(M = 4.30;
+Figure
+4,
+Panel A) conditions. Similarly, a one-way ANOVA on the
+willingness score showed no effect of desire for openness
+(F(1, 147) = .04, p = .84, η2
+p < .001). Globals had similar levels
+of
+willingness
+to
+use
+access-based
+programs
+across
+desire-for-openness-enhanced (M = 5.21) and control (M =
+5.16; Figure 4, Panel B) conditions. Taken together, these
+results support H3a.
+Testing H3b. H3b speciﬁes that when desire for openness is sup-
+pressed, globals’ (but not locals’) preference for access-based
+consumption would be reduced. To test H3b, we compared pref-
+erence
+for
+access-based
+consumption
+in
+the
+desire-for-
+openness-suppressed and control conditions for globals and
+locals separately. For globals in these two conditions, a
+one-way ANOVA on the relative preference score revealed a
+signiﬁcant effect of desire for openness (F(1, 136) = 11.38, p
+= .001, η2
+p = .08). Globals had a lower preference for the
+accessed option in the desire-for-openness-suppressed condi-
+tion (M = 3.05) than in the control condition (M = 4.30;
+Figure 4, Panel A). Similarly, a one-way ANOVA on the will-
+ingness score revealed a signiﬁcant effect of desire for openness
+(F(1, 136) = 10.70, p = .001, η2
+p = .07). Globals had a lower
+willingness to use access-based programs in the desire-
+for-openness-suppressed condition (M = 4.12) than in the
+control condition (M = 5.16; Figure 4, Panel B).
+For locals in the desire-for-openness-suppressed and control
+conditions, a one-way ANOVA on the relative preference score
+revealed no effect of desire for openness (F(1, 139) =.01, p=
+.92, η2
+p <.001). Locals’ preference for the accessed option did
+not differ across the desire-for-openness-suppressed (M= 2.95)
+and control (M=2.99; Figure 4, Panel A) conditions. Similarly,
+a one-way ANOVA on the willingness score revealed no effect
+of desire for openness (F(1, 139)=.01, p=.91, η2
+p <.001).
+Locals’ willingness to use access-based programs did not differ
+across desire-for-openness-suppressed (M= 3.92) and control (M
+= 3.96; Figure 4, Panel B) conditions, in support of H3b.
+Figure 4. The effect of global–local identity on preference for
+access-based consumption (Study 3).
+Notes: Error bars represent ±1 SEs.
+Nie et al.
+565
+
+Effect on consumption openness. Our theorization rests on the
+assumption that enhancing the desire for openness increases
+locals’ (but not globals’) consumption openness, whereas sup-
+pressing desire for openness reduces globals’ (but not locals’)
+consumption openness. A 2 (identity) × 3 (desire for openness)
+ANOVA on the consumption openness index showed a signiﬁ-
+cant main effect of desire for openness (F(2, 431) = 7.74, p =
+.001, η2
+p = .04), no main effect of global–local identity (F(1,
+431) = 1.77, p = .18, η2
+p < .01), and, more importantly, a signiﬁ-
+cant interaction between desire for openness and global–local
+identity (F(2, 431) = 3.22, p = .04, η2
+p = .02).
+To test our assumption, we ﬁrst compared consumption
+openness in the desire-for-openness-enhanced and control con-
+ditions for locals and globals separately. For locals in these two
+conditions, a one-way ANOVA on consumption openness
+revealed a signiﬁcant effect of desire for openness (F(1, 166)
+= 10.01, p = .002, η2
+p = .06). Locals had a stronger consumption
+openness in the desire-for-openness-enhanced condition (M =
+5.85) than in the control condition (M = 5.32). In contrast, for
+globals in these two conditions, a one-way ANOVA on con-
+sumption openness showed no effect of desire for openness
+(F(1, 147) = .01, p = .92, η2
+p < .001). Globals’ consumption
+openness did not differ across desire-for-openness-enhanced
+(M = 5.77) and control (M = 5.78) conditions.
+We then compared consumption openness across the
+desire-for-openness-suppressed and control conditions for
+locals and globals separately. For globals in these two condi-
+tions, a one-way ANOVA on consumption openness showed
+a signiﬁcant effect of desire for openness (F(1, 136) = 8.16,
+p = .005, η2
+p = .06). Globals had a lower consumption openness
+in the desire-for-openness-suppressed condition (M = 5.33)
+than in the control condition (M = 5.78). In contrast, for
+locals in these two conditions, a one-way ANOVA on con-
+sumption openness revealed no effect of desire for openness
+(F(1, 139) = .001, p = .98, η2
+p < .001). Locals’ consumption
+openness did not differ in the desire-for-openness-suppressed
+(M = 5.32) and control (M = 5.32) conditions. These results
+together validate our assumptions.
+Moderated-mediation
+analysis. We
+performed
+two
+separate
+moderated-mediation analyses using Model 7 in PROCESS
+(Hayes 2017). In the ﬁrst analysis, global–local identity was
+the independent variable, the relative preference score was the
+dependent variable, consumption openness was the mediator,
+and desire for openness (−1= control, 0= suppressed, and
+1= enhanced) was the moderator. The moderated mediation
+model was signiﬁcant (−.1474, 95% CI: [−.3676, −.0066]).
+Speciﬁcally, consumption openness mediated the effect of
+global–local identity on the relative preference score in the
+control condition (.1249, 95% CI: [.0075, .3262]), but not in the
+desire-for-openness-enhanced
+(−.0225;
+95%
+CI:
+[−.1113,
+.0658]) or suppressed (.0030, 95% CI: [−.1278, .1039];
+Figure WA2, Panel A, in Web Appendix J) conditions. In the
+second analysis, in which the willingness score was the dependent
+variable, the moderated mediation model was also signiﬁcant
+(−.3865, 95% CI: [−.7318, −.0752]). Speciﬁcally, consumption
+openness mediated the effect of global–local identity on the will-
+ingness score in the control condition (.3274, 95% CI: [.0897,
+.6024]) but not in the desire-for-openness-enhanced (−.0591;
+95% CI: [−.2647, .1454]) or suppressed (.0079; 95% CI:
+[−.2559, .2690]; Figure WA2, Panel B, in Web Appendix J)
+conditions.
+Study 3 demonstrated that increasing the desire for openness
+enhanced locals’ (but not globals’) preference for access-based
+consumption, whereas suppressing the desire for openness
+reduced globals’ (but not locals’) preference for access-based
+consumption. These ﬁndings provide further support for our
+proposed consumption openness account. It is worth noting
+that in the control condition, globals have a greater preference
+for access-based consumption than locals, replicating previous
+ﬁndings. The next study examines traveler–settler orientation as
+a boundary condition. If our proposed mechanism holds, acti-
+vating traveler orientation should enhance individuals’ con-
+sumption openness. We should replicate the ﬁndings in the
+desire-for-openness-enhanced condition; however, activating
+settler orientation should reduce consumption openness. We
+should replicate the ﬁndings in the desire-for-openness-sup-
+pressed condition.
+Study 4: Traveler Versus Settler Orientation
+Method
+Study 4 featured a 2 (identity: global vs. local) × 3 (orientation:
+traveler, settler, control) between-subjects design. Six hundred
+twelve MTurk workers (376 men; Mage = 37.41 years, SD =
+13.60 years) participated in exchange for a small monetary
+reward.
+We manipulated global and local identity using a “Think
+Global/Local Movement” as in Study 2b. Thereafter, partici-
+pants were randomly assigned to one of the three orientation
+conditions using a writing task. In the traveler orientation
+[settler orientation] condition, participants were described the
+deﬁnition of a traveler (i.e., a person who is traveling or who
+often travels; Merriam-Webster 2018b) [settler (i.e., a person
+who settles in an area; Merriam-Webster 2018a)] and then
+were asked to write down three beneﬁts of being a traveler
+[settler]. Participants in the control condition were asked to
+review their daily routine and write down their thoughts and
+feelings at that moment. As reported in Web Appendix O, we
+validated the traveler–settler orientation prime through a
+pretest using a separate group of 292 participants.
+Afterward, as in Study 2a, participants viewed information
+about the accessed and purchase option of a camping tent and
+indicated their relative preference for the accessed (vs. pur-
+chase) option. This study also included the measure of willing-
+ness to use access-based programs (r = .74), as in Study
+3. Participants were then asked to answer ﬁve questions on trav-
+eler orientation (e.g., “At present, I feel that I belong to the trav-
+eler community”; α = .95), and another ﬁve questions on settler
+orientation (e.g., “At this time, I feel that I belong to the settler
+566
+Journal of Marketing Research 59(3)
+
+community”; α = .95). They also responded to the same con-
+sumption openness questions (α = .89) and global–local iden-
+tity manipulation checks (α = .96) as in Study 3.
+Results and Discussion
+Manipulation check. To test the effectiveness of our identity
+manipulation, we conducted a 2 (identity) × 3 (orientation)
+ANOVA on the identity index with global–local identity, trav-
+eler–settler orientation, and their interaction as the independent
+variables. Results revealed only a signiﬁcant main effect of
+global–local identity (Mlocal = 4.73 vs. Mglobal = 3.54; F(1,
+606) = 76.98, p < .001, η2
+p = .11); no other effects were signiﬁ-
+cant (orientation: F(1, 606) = 1.32, p = .27, η2
+p = .004; interac-
+tion: F(1, 606) = 2.72, p = .07, η2
+p = .009). Thus, the global–
+local identity manipulation was successful, and it was not con-
+founded by the traveler–settler orientation prime.
+Effect on preference for access-based consumption. We performed
+two separate ANOVA analyses, one with the relative preference
+measure and the other with the willingness to use access-based
+programs as the dependent variable. In the ﬁrst analysis, a 2
+(identity) × 3 (orientation) ANOVA on the relative preference
+score revealed signiﬁcant main effects of identity (F(1, 606) =
+13.60, p < .001, η2
+p = .02) and orientation (F(2, 606) = 20.92,
+p < .001, η2
+p = .07) and, more importantly, a signiﬁcant iden-
+tity × orientation interaction (F(2, 606) = 6.26, p = .002, η2
+p =
+.02).
+Similarly,
+a
+second
+2
+(identity) × 3
+(orientation)
+ANOVA on the willingness score showed signiﬁcant main
+effects of identity (F(1, 606) = 9.03, p = .003, η2
+p = .02) and ori-
+entation (F(2, 606) = 14.57, p < .001, η2
+p = .05), and a signiﬁcant
+identity × orientation interaction (F(2, 606) = 3.98, p = .02, η2
+p =
+.01). Results in the control condition replicated previous ﬁnd-
+ings that globals have a greater preference for access-based con-
+sumption than locals (see Web Appendix O).
+Testing H3a. We compared preference for access-based con-
+sumption in the traveler orientation and control conditions for
+locals and globals separately. For locals in these two conditions,
+a one-way ANOVA on the relative preference score revealed a
+signiﬁcant effect of traveler orientation (F(1, 179) = 21.36, p <
+.001, η2
+p = .11). Locals’ preference for the accessed option was
+greater in the traveler orientation condition (M= 4.96) than in
+the control condition (M= 3.43; Figure 5, Panel A). Similarly,
+a one-way ANOVA on the willingness score showed a signiﬁ-
+cant effect of traveler orientation (F(1, 179)= 14.59, p < .001,
+η2
+p = .08). Locals’ willingness to use access-based programs
+was greater in the traveler orientation condition (M= 4.45)
+than in the control condition (M= 3.42; Figure 5, Panel B).
+For globals in the traveler orientation and control conditions, a
+one-way ANOVA on the relative preference score revealed no
+effect of traveler orientation (F(1, 170)= .08, p = .77, η2
+p < .001).
+Globals did not differ in their preference for the accessed option
+across the traveler orientation (M = 5.14) and control (M = 5.04;
+Figure 5, Panel A) conditions. Consistently, a one-way ANOVA
+on the willingness score revealed no effect of traveler orientation
+(F(1, 170) = .04, p = .85, η2
+p < .001). Globals showed no signiﬁcant
+difference inwillingness to use access-based programs across trav-
+eler orientation (M= 4.53) and control (M= 4.47; Figure 5, Panel
+B) conditions. Together, these results support H3a.
+Testing H3b. We then compared preference for access-based con-
+sumption in the settler orientation and control conditions for
+locals and globals separately. For globals in these two conditions,
+a one-way ANOVA on the relative preference score revealed a
+signiﬁcant effect of settler orientation (F(1, 230) = 19.82, p <
+.001, η2
+p = .08). Globals had a lower preference for the accessed
+option in the settler orientation condition (M= 3.71) than in the
+Figure 5. The effect of global–local identity on preference for
+access-based consumption (Study 4).
+Notes: Error bars represent ±1 SEs.
+Nie et al.
+567
+
+control condition (M= 5.04; Figure 5, Panel A). Similarly, a
+one-way ANOVA on the willingness score revealed a signiﬁcant
+effect of settler orientation (F(1, 230)= 12.19, p = .001, η2
+p =
+.05). Globals had a lower willingness to use access-based pro-
+grams in the settler orientation condition (M= 3.60) than in the
+control condition (M= 4.47; Figure 5, Panel B).
+For locals in the settler orientation and control conditions, a
+one-way ANOVA on the relative preference score revealed no
+effect of settler orientation (F(1, 226) < .001, p = .99, η2
+p < .001).
+Locals’ preference for the accessed option did not differ across
+settler orientation (M = 3.43) and control (M = 3.43; see
+Figure 5, Panel A) conditions. Similarly, a one-way ANOVA
+on the willingness score showed no effect of settler orientation
+(F(1, 226) = .04, p = .84, η2
+p < .001). Locals’ willingness to use
+access-based programs did not differ across settler orientation
+(M = 3.37) and control (M = 3.42; Figure 5, Panel B) condi-
+tions, in support of H3b.
+Effect on consumption openness. We theorize that activating
+traveler orientation increases locals’ (but not globals’) consump-
+tion openness, whereas activating settler orientation reduces
+globals’ (but not locals’) consumption openness. A 2 (identity)
+× 3 (orientation) ANOVA on consumption openness revealed
+no effect of identity (F(1, 606) = 3.09, p = .08, η2
+p = .005), a sig-
+niﬁcant effect of orientation (F(2, 606) = 3.16, p = .04, η2
+p = .01),
+and, more importantly, a signiﬁcant interaction between orienta-
+tion and identity (F(2, 606) = 6.56, p = .002, η2
+p = .02). To test
+our assumption, we ﬁrst compared consumption openness in
+the traveler orientation and control conditions for locals and
+globals separately. For locals in these two conditions, a
+one-way ANOVA on consumption openness revealed a signiﬁ-
+cant effect of traveler orientation (F(1, 179) = 5.90, p = .02, η2
+p
+= .03). Locals’ consumption openness was higher in the traveler
+orientation condition (M = 5.59) than in the control condition (M
+= 5.12). In contrast, for globals in these two conditions, a
+one-way ANOVA on consumption openness revealed no effect
+of traveler orientation (F(1, 170)= 1.65, p = .20, η2
+p = .01).
+Globals’ consumption openness did not differ across traveler ori-
+entation (M= 5.55) and control (M= 5.78) conditions.
+We then compared consumption openness in the settler orien-
+tation and control conditions for locals and globals separately. For
+globals in these two conditions, a one-way ANOVA on consump-
+tion openness revealed a signiﬁcant effect of settler orientation
+(F(1, 230)=12.94, p<.001, η2
+p =.05). Globals’ consumption
+openness
+was
+lower
+in
+the
+settler
+orientation
+condition
+(M=5.23) than in the control condition (M=5.78). In contrast,
+for locals in these two conditions, a one-way ANOVA on con-
+sumption openness revealed no effect of settler orientation (F(1,
+226)= 1.48, p =.23, η2
+p < .01). Locals’ consumption openness
+did not differ across settler orientation (M=5.33) and control
+(M=5.12) conditions. As reported in Web Appendix O, a serial
+mediation analysis showed that global (local) identity activates
+traveler (settler) orientation, which further enhances (suppresses)
+consumption openness. The enhanced (suppressed) consumption
+openness, in turn, increases (reduces) preference for access-based
+consumption. These results are in support of our theorizing.
+Study 4 provides additional evidence on the mediating role
+of consumption openness by showing that (1) activating trav-
+eler orientation enhances locals’ (but not globals’) consumption
+openness, which in turn increases locals’ (but not globals’) pref-
+erence for access-based consumption, and (2) activating settler
+orientation reduces globals’ (but not locals’) consumption
+openness, which in turn reduces globals’ (but not locals’) pref-
+erence for access-based consumption. We conducted another
+study (Study 9 in Web Appendix P) to test the generalizability
+of our ﬁndings using a different product category that is natu-
+rally associated with travel (i.e., car). Results of this study rep-
+licated the ﬁndings of Study 4 and demonstrate that the effect
+holds even when the product is naturally associated with travel-
+ing. In the next study, we ascertain the relationship between
+global–local identity and preference for access-based consump-
+tion via a ﬁeld study.
+Study 5: Field Study with Actual Choice
+Study 5 aims to investigate a behavioral consequence of global–
+local identity in a shop, which involves an actual choice
+between an accessed option and a purchase option from real
+consumers. One hundred sixty-two U.S. consumers (98 men;
+Mage = 24.19 years, SD = 5.10 years) shopping at a bookstore
+were recruited with an offer of $20 in total compensation,
+either a $20 voucher to purchase a book (Tiny Habits) or a
+$12.50 voucher to access the same book for six weeks, with
+the remaining $7.50 in the form of a gift card (see Web
+Appendix Q).
+As in Study 2b, participants were ﬁrst given a brochure that
+described either a “Think Global Movement” or a “Think Local
+Movement,” which was used to manipulate global identity and
+local identity, respectively. Next, participants were instructed
+that the study would involve a brief survey on their book
+reading history. Upon completing their book reading history,
+they rated the three-item global–local identity manipulation
+check questions (α = .98) and the three-item consumption open-
+ness questions (α = .98) as in Study 4. Finally, participants were
+asked to choose either the accessed option (with a $7.50 gift
+card) or the purchase option of the book as compensation for
+their participation.
+Results
+As we expected, participants assigned to the local identity con-
+dition (M = 3.53) perceived themselves more as local citizens
+than those in the global identity condition (M = 2.84; F(1,
+160) = 4.32, p = .04, η2
+p = .03), indicating the effectiveness of
+our global–local identity manipulation. More importantly and
+pertinent to our hypothesized effects, results on the choice of
+the accessed option showed that more participants in the
+global identity condition selected the accessed option (57.3%)
+than those in the local identity condition (37.5%; χ2(1) = 6.38,
+p = .01). The mediation analysis showed that consumption
+openness mediated the effect of global–local identity on the
+choice of the accessed option (.2309, 95% CI: [.0201, .5392];
+568
+Journal of Marketing Research 59(3)
+
+Figure WA3 in Web Appendix J), suggesting that individuals
+with an accessible global (vs. local) identity had a greater pref-
+erence for the access-based consumption because of their con-
+sumption openness.
+We conducted another study (Study 10 in Web Appendix
+R) by including a control condition in the identity manipula-
+tion to determine whether the action comes from global iden-
+tity, local identity, or both. Consistent with our expectations,
+results of this study showed that consumers high in global
+identity had a greater preference for access-based consump-
+tion than those in the control condition, who then had a
+greater preference for access-based consumption than those
+high in local identity. These results suggest that actions orig-
+inate from both identities.
+General Discussion
+Seven studies provide converging and robust evidence for the
+role of global–local identity in consumer preference for access-
+based consumption, using various operationalizations of the
+key variables. Studies 1a and 1b provide initial evidence on
+the association between global–local identity and preference
+for access-based consumption at the country level, using car-
+sharing data and home ownership data, respectively. Study 2a
+(using a within-subjects design) and Study 2b (using a between-
+subjects design) replicate Study 1’s ﬁndings using a subtle
+global–local identity manipulation and shed light on the medi-
+ating role of consumption openness, while ruling out perceived
+responsibility toward the environment and prevention focus as
+alternative explanations for our ﬁndings. Study 3 shows that
+enhancing (suppressing) a desire for openness increased
+(decreased) locals’ (globals’) preference for access-based con-
+sumption. That is, when the desire for openness was enhanced
+(suppressed), both (neither) globals and (nor) locals showed a
+greater preference for access-based consumption. However,
+when the desire for openness was unchanged, globals showed
+a greater preference for access-based consumption than locals,
+as in our previous studies. Study 4 examines the moderating
+role of traveler (vs. settler) orientation. Finally, in a bookstore
+with real consumers involving actual choices, Study 5 shows
+that globals (vs. locals) are more likely to choose the accessed
+option and provides further evidence on the mediating role of
+consumption openness, enhancing the external validity and
+offering readily applicable implications to marketers and
+policy makers.
+Theoretical Contributions
+Our ﬁndings offer contributions to both the sharing economy
+and consumer identity literature streams. Prior studies on con-
+sumer preference for access-based consumption have mainly
+focused on beneﬁt/cost considerations, consumer experi-
+ences/perceptions about access, and individual differences
+(e.g., Aspara and Wittkowski 2019; Habibi, Kim, and
+Laroche 2016). However, little research has been conducted
+to examine how consumer identity may affect preference for
+access-based consumption. Among the rare exceptions,
+Weiss (2017) showed that centrality of identity (e.g., skier)
+decreases consumers’ tendency to access ski gear because
+owning their own ski equipment is essential for their skier
+identity. Extending Weiss’s work, our research suggests that
+global–local
+identity
+may
+be
+a
+boundary
+condition.
+Speciﬁcally, when consumers have a salient global identity,
+they tend to be high in consumption openness, which in turn
+increases their preference for the accessed option even when
+the product is closely related to their self-identity (e.g., car
+in Studies 1a, 6, and 9). In the context of car access
+(Zipcar), Bardhi and Eckhardt (2012) showed that Zipcar
+use is primarily driven by cost–beneﬁt considerations (e.g.,
+reducing expenses, convenience) and that the users do not
+foster a sense of identiﬁcation with the car. However, car
+access may still connect to one’s identity. For example, one
+of the Zipcar users viewed car access as a symbolic resource
+to establish his identity as a smart consumer (Bardhi and
+Eckhardt 2012). Extending their research, we causally
+examine how cultural identity affects car access. To this
+end, our ﬁndings represent a ﬁrst attempt in the access–iden-
+tity literature to study the issues of how consumer identities
+affect their access-based consumption, attesting the complex
+relationship between identity and access as suggested by
+Bardhi, Eckhardt, and Arnould (2012). Such a discovery
+also provides novel insights into how globalization may inﬂu-
+ence the sharing economy.
+Second, our research contributes to the global–local identity
+literature by revealing that consumption openness is a new qual-
+itative difference between these two identities. Previous
+research on global–local identity has theorized the distinction
+between globals and locals, such as regulatory focus (Ng and
+Batra 2017), sacriﬁce mindset (Gao, Zhang, and Mittal 2017),
+perceived quality variance (Yang et al. 2019), and perceived
+responsibility toward the environment (Ng and Basu 2019).
+Extending their research, we show that consumption openness
+is another theoretical distinction between local identity and
+global identity. This important discovery can advance our
+understanding of why locals are faithful to local traditions:
+identiﬁcation with their local community drives them to be
+less receptive to various options and ideas and thus be less
+open. In contrast, globals are not bounded to a particular com-
+munity and thus are more receptive and open to different expe-
+riences and values. This discovery has implications not only for
+preference for access-based consumption but also for other
+research domains, such as variety seeking and new product
+adoption.
+Finally, this research contributes to the sharing economy
+literature by uncovering the critical role of consumption open-
+ness in explaining consumers’ preference for access-based
+consumption. By showing the mediating role of consumption
+openness, we also uncover important boundary conditions for
+our effects. As such, our research represents the ﬁrst attempt to
+offer theoretical explanations for the ﬁndings documented in
+the cross-country literature on consumer preference for
+access-based consumption. In so doing, our research also
+Nie et al.
+569
+
+adds to the emergent research by introducing cultural identity
+to the sharing economy literature. Notably, our research shows
+that the effect of global–local identity on preference for
+access-based consumption cannot be explained by other
+factors (e.g., perceived responsibility toward the environment,
+prevention focus, opportunity costs) that are closely related to
+global–local identity. These ﬁndings are consistent with the
+theoretical position that identity’s effects on consumer
+responses are task speciﬁc (Gao, Zhang, and Mittal 2017;
+Ng and Batra 2017; Yang et al. 2019).
+Managerial Implications
+Many retailers are expanding their business on a global
+scale. Managers are aware of the important role that global
+or local communities play in decision making, but they do
+not have a clear idea about how global–local identity can
+impact their strategies (Yang et al. 2019). This research
+helps managers understand how to capitalize on the effect
+of global–local identity to enhance consumers’ acceptance
+of access-based programs. Our research indicates that
+global (vs. local) identity increases preference for access-
+based consumption. Thus, when marketers promote access-
+based options, they can increase consumer preference by
+activating their global identity. Communication appeals or
+contextual cues, such as the “Think Global Movement”
+(Studies 2b, 4, and 5), can be used to achieve this goal. In
+addition, advertisements that embed global and multicultural
+features (Study 2a) can also enhance consumer accessibility
+of global identity.
+Another approach to change consumer preference for access-
+based consumption is to alter their consumption openness.
+Marketers can use communication appeals or contextual cues
+to accomplish this goal, such as those that feature the beneﬁts
+of being open-minded (Study 3). TV channels that feature the
+beneﬁts of traveling (Study 4) can be effective as well. From
+a broader sense, our research echoes previous ﬁndings that
+knowing which speciﬁc appeal resonates with respective con-
+sumer segments can help marketers understand what messages
+will be most effective for their target consumers (Keech,
+Morrin, and Podoshen 2020).
+Our ﬁndings also suggest that it is important to segment con-
+sumers based on their global–local identity and apply different
+strategies to different segments. Based on our research, market-
+ers of access-based services should identify individuals who
+have an accessible global identity as target consumers. There
+are mainly three ways to measure global–local identity: (1)
+scales can be used to assess consumers’ global–local identity,
+such as the ones we used in Studies 2a–5, and the chronic
+global–local identity measure in Study 6 (Web Appendix C);
+(2) geographic locations can also be used to assess global–
+local identity, with residents of metropolitan areas being more
+likely high in global identity and those in rural areas being
+more likely high in local identity (Wang, Kirmani, and Li
+2021; Yang et al. 2019); and (3) Globalization Index scores
+(Studies 1a and 1b) can be used as a proxy measure of
+global–local identity among consumers across different coun-
+tries, as suggested by previous research (Gao, Zhang, and
+Mittal 2017).
+Our ﬁndings also provide useful guidelines for global mar-
+keting strategies. For example, when marketers expand to
+global markets, they can provide more access-based options
+in countries that have higher levels of global identity. In
+these countries, consumers have high consumption openness
+that leads them to naturally prefer access-based consumption.
+It is not necessary for marketers to allocate signiﬁcant funds to
+educate these consumers about the beneﬁts of access-based
+programs. However, when marketers enter countries that are
+high in local identity, they need to be aware that consumers
+in these countries may not have an established acceptance of
+access-based consumption. Therefore, it may be necessary
+for marketers to exert additional effort and budget to activate
+consumers’ consumption openness to enhance their accep-
+tance of access-based programs.
+Limitations and Future Research Directions
+There are some potential limitations of this research. First, we
+primarily focus on access-based consumption (Bardhi and
+Eckhardt 2012; Lamberton and Rose 2012) in the current
+research. Given that access-based consumption is a broad
+construct that also involves other domains not examined in
+this research, such as peer-to-peer sharing (Eckhardt et al.
+2019), future scholars could test our theory in other access-
+based domains. Second, Bardhi and Eckhardt (2017) intro-
+duced a new dimension of the sharing economy: liquid con-
+sumption,
+which
+is
+characterized
+as
+ephemeral,
+access-based, and dematerialized. This research focuses
+mainly on the ﬁrst two characteristics (i.e., ephemerality
+and access-based). It may be fruitful for future scholars to
+examine how our theory applies to the dematerialized
+aspect of liquid consumption. Third, we focus on the link
+from global–local identity to preference for access-based con-
+sumption, with consumption openness as a bridge between
+consumer identity and product preferences. However, the
+second item in our consumption openness scale (i.e., “Right
+now, having access to different products and services is valu-
+able to me”) might be too close to preference for access-based
+consumption. Although we found that the mediation still
+works when only the ﬁrst item (which is not closely related
+to access-based consumption) is used (see Web Appendix
+S), future researchers could develop better measures for the
+consumption openness construct. Finally, we examined
+several moderators in this research. Future scholars might
+explore other moderators related to consumption openness,
+such as connectedness between the future and current self,
+to enrich our framework.
+570
+Journal of Marketing Research 59(3)
+
+Appendix A. Review of Relevant Literature on Preference for Access-Based Consumption.
+Research
+Independent Variable
+Mediator
+Moderator
+Dependent
+Variable
+Findings
+A: Beneﬁt/Cost Factors
+Claudy, Garcia,
+and O’Driscoll
+(2014)a
+Financial beneﬁts, convenience, ﬂexibility,
+safety, availability, values
+Attitude toward car
+sharing
+N.A.
+Adoption intention
+for car sharing
+services
+The study identiﬁed reasons for and against
+car sharing service.
+Edbring, Lehner,
+and Mont (2016)
+Motivations (ﬂexibility, economic reasons,
+temporality, sustainability),
+obstacles (desire to own, concern for
+hygiene, unfamiliarity, sustainability)
+N.A.
+N.A.
+Engagement in sharing
+consumption
+Identify consumer motivations and barriers
+relating to the access-based consumption.
+Habibi, Kim, and
+Laroche (2016)
+Technical costs, search costs, sustainability,
+materialism, transaction utility
+N.A.
+N.A.
+Likelihood to choose
+the sharing service
+Technical costs, search costs, sustainability,
+and materialism →increases the
+likelihood of choosing the car rental
+program. Transaction utility →decreases
+the likelihood of choosing the car rental
+service.
+Hamari, Sjöklint,
+and Ukkonen
+(2016)
+Sustainability, enjoyment, economic
+beneﬁts
+Attitude
+N.A.
+Behavioral intention
+on sharing
+Sustainability →attitude →behavioral
+intention for sharing; consumer
+enjoyments →behavioral intention for
+sharing. Economic beneﬁts →behavioral
+intention for sharing.
+Mattia, Mugion,
+and Principato
+(2019)a
+Sustainability, social aspects, economic
+beneﬁts, subjective norms, perceived
+behavioral control
+Attitude toward car
+sharing
+N.A.
+Intention to use a
+car-sharing service
+Consumer economic, environmental, and
+social beneﬁts →attitude toward car
+sharing; attitude, perceived behavioral
+control, subjective norm →future
+intention for reuse.
+Moeller and
+Wittkowski
+(2010)
+Trend orientation, convenience
+orientation, possession importance
+N.A.
+N.A.
+Preference for renting
+Trend orientation, convenient orientation
+→renting; possession importance →
+ownership.
+Oyedele and
+Simpson (2018)a
+Emerging adulthood, transaction utility,
+ﬂexibility utility, shareaids, social utility,
+familiarity, and trust
+Flexibility utility,
+shareaids, social
+utility
+N.A.
+Intention to use a
+sharing service
+Flexibility utility →intention to use sharing
+consumption. The emerging adulthood
+life-stage transaction utility/shareaids →
+intention to use sharing consumption.
+B: Consumer Experience/Perception
+Atasoy and
+Morewedge
+(2018)a
+Product type (digital vs. physical),
+acquisition mode (rental vs. purchase)
+Psychological
+ownership
+N.A.
+Willingness to pay
+Consumers are willing to pay more to
+purchase a physical product than a digital
+product, but they are not willing to pay
+more to rent a physical product than a
+digital product.
+Bagga, Bendle, and
+Cotte (2019)a
+Previous rental/purchase experiences
+Psychological
+ownership
+N.A.
+Willingness to pay
+Consumers have a higher valuation for
+purchased product than for rental
+product.
+Bolton and Alba
+(2012)a
+Past purchase type (purchase, rental, trial)
+Perception on unused
+utility of products
+Present purchase type
+(purchase, rental, trial)
+Likelihood to rent
+versus purchase
+When purchasing on a later occasion
+followed by past purchase of a good,
+consumers are more willing to rerent
+than repurchase the product.
+(continued)
+571
+
+Appendix A. (continued)
+Research
+Independent Variable
+Mediator
+Moderator
+Dependent
+Variable
+Findings
+Hazée, Delcourt,
+and Van
+Vaerenbergh
+(2017)
+Barriers (complexity, reliability,
+contamination, responsibility,
+compatibility, image barriers)
+N.A.
+Attenuate barriers
+(distance, manage,
+elaborate, control,
+relate)
+Rejection of
+access-based
+services
+Complexity, reliability, contamination,
+responsibility, compatibility, and image
+barriers →decrease adoption and usage
+of access-based service. Customers can
+engage in different practices to attenuate
+perceived barriers and create values (to
+distance, manage, elaborate, control, and
+relate).
+Knox and
+Eliashberg
+(2009)a
+Expected future viewings
+N.A.
+Consumer segmentation
+Rental versus
+purchase
+transactions
+Expected future viewing reduces rental.
+Lamberton and
+Rose (2012)
+Consumer’s usage (personal usage
+predictability, and personal absolute
+usage)
+Perceived risk of
+product scarcity
+Partners’ demand on
+shared product (over
+others’ usage,
+anticipated usage
+similarity)
+Likelihood to choose
+sharing program
+Beyond cost-related beneﬁts of sharing, the
+perceived risk of scarcity related to
+sharing is a central determinant of its
+attractiveness.
+Lee and Chow
+(2020)a
+Relative advantage; compatibility,
+psychological ownership ecological
+importance, social norms of sharing
+Attitude toward
+online fashion
+renting
+N.A.
+Behavior intention
+toward online
+fashion renting
+Consumer intention to rent fashion items
+is inﬂuenced by their attitudes toward the
+practice as well as by subjective norms.
+Nguyen, Alaoui,
+and Llosa
+(2020)a
+Interchangeability between the roles of
+consumer and producer
+Perceived social
+proximity →trust
+N.A.
+Participation intention
+Interchangeability →perceived social
+proximity →trust →intention in
+peer-to-peer rental
+Pocheptsova,
+Kivetz, and Dhar
+(2008)a
+Duration of choice consumption
+Evaluation criteria,
+duration of
+consumption
+Spending concept
+Rental versus
+purchase intentions
+When facing a rental versus purchase
+decision, consumers pay more attention
+to the duration of consumption, thus
+reducing rental intention.
+C: Individual Difference Factors
+Aspara and
+Wittkowski
+(2019)
+Intelligence scores
+Psychological
+predispositions
+related to social
+exchanges
+N.A.
+Choice of access
+modes
+Consumers’ intelligence scores →social
+trust →positive effect on choice of
+access modes. Financial standing and
+tendency to seek savings.
+Davidson, Habibi,
+and Laroche
+(2018)
+Materialism
+Transformation
+expectations,
+perceived utility
+N.A.
+Willingness to
+participate in
+sharing-based
+program
+Consumer materialism →transformation
+expectations (Americans)/perceived
+utility (Indians) →participation in sharing.
+Gupta et al.
+(2019)a
+Cultural values, product category
+N.A.
+N.A.
+Intention to rent out
+and rent products in
+peer-to-peer
+exchanges
+Collectivism/masculinism →positive effect
+on intention to rent out/rent; uncertainty
+avoidance →negative effect on intention
+to rent out/rent. Product category
+signiﬁcantly affects renting out and
+renting intentions of individuals using
+peer-to-peer exchanges.
+(continued)
+572
+
+Appendix A. (continued)
+Research
+Independent Variable
+Mediator
+Moderator
+Dependent
+Variable
+Findings
+Hellwig et al.
+(2015)a
+Clusters of consumers (sharing idealists,
+sharing opponents, sharing pragmatist,
+and sharing norms)
+N.A.
+N.A.
+Willingness to share
+This research identiﬁed a set of
+trait-related, motivational, perceived
+socioeconomic, and behavioral variables
+that can be used to differentiate between
+clusters of sharing types and willingness
+to share speciﬁc categories of objects.
+Lang and
+Armstrong
+(2018)a
+Fashion leadership; need for uniqueness,
+materialism
+Subjective norms,
+past sustainable
+behavior
+N.A.
+Clothing renting
+Three personality traits (fashion leadership,
+need for uniqueness, and materialism)
+signiﬁcantly inﬂuence consumer intention
+to rent clothing.
+Lawson et al.
+(2016)a
+Clusters of consumers (Fickle Floaters,
+Premium Keepers, Conscious
+Materialists, and Change Seekers)
+N.A.
+N.A.
+Attitude toward
+access-based
+consumption and
+purchase intention
+This research identiﬁes factors that impact
+consumers’ willingness to access product
+through socially networked short-term
+rentals by segmenting consumers with
+varying dispositions toward access-based
+consumption.
+Liu and Mattila
+(2017)
+Advertising appeal (belongingness vs.
+uniqueness), sense of power (low vs.
+high)
+Self–brand
+connection
+N.A.
+Click-through
+intention and
+purchase intention
+Powerless individuals respond more
+favorably to the belongingness appeal,
+whereas powerful people react more
+positively to the uniqueness appeal.
+Ozanne and
+Ballantine
+(2010)a
+Clusters of consumers (Socialites, Market
+Avoiders, Quiet Anti-Consumers, and
+Passive Members)
+N.A.
+N.A.
+Participate in sharing
+(toy library)
+Socialites enjoy the social beneﬁts of
+participation in sharing. Market Avoiders
+→perceived social and community
+beneﬁts →sharing; Quiet
+Anti-Consumers feel a sense of belonging
+to sharing and hold strong
+anticonsumption frugality and sharing
+values. Passive Members are not socially
+involved, nor do they hold strong
+anticonsumption values.
+Pantano and Stylos
+(2020)a
+Need to wear new clothes for a special
+event, inspirations created by the
+products, new way of consuming luxury
+goods, need to make more sustainable
+choices, increase the life cycle of luxury
+product
+N.A.
+N.A.
+Preference between
+rental versus
+purchase of luxury
+apparel
+Consumers’ increased willingness to show
+their social status through renting rather
+than owning luxurious apparel based on
+ﬁve main motivators: need to wear new
+clothes for special events; inspirations
+created by the products/brands;
+possibility to explore a new way of
+consuming luxury goods; make more
+sustainable choices; increase the life cycle
+of luxury product).
+(continued)
+573
+
+Appendix A. (continued)
+Research
+Independent Variable
+Mediator
+Moderator
+Dependent
+Variable
+Findings
+D: Consumer Identity
+Bardhi and
+Eckhardt (2012)
+The nature of access-based consumption
+N.A.
+N.A.
+Car-sharing
+perceptions
+Consumers do not feel identiﬁcation with
+access/shared car. Instrumental utility is
+more important than social utility.
+Negative reciprocity is the norm among
+users. No feelings of communal links
+present among the users.
+Bardhi, Eckhardt,
+and Arnould
+(2012)
+Contemporary global nomads
+N.A.
+N.A.
+Liquid relationship to
+possessions
+Global nomadism consumers tend to form
+situational attachments to objects,
+appreciate objects primarily for their
+instrumental use-value, and value
+immaterial or light possessions as well as
+consumption practices.
+Weiss (2017)
+Identity centrality
+Low possession
+substitutability
+Whether identity is
+product-centric
+Choice between
+rental and purchase
+Centrality of identity decreases rental by
+rendering a possession more “me.”
+The current
+research
+Global identity versus local identity
+Consumption
+openness
+Desire for openness,
+traveler/settler
+orientation
+Preference for
+access-based
+consumption
+People high in global (vs. local) identity are
+high in consumption openness, which in
+turn enhances their preference for
+access-based consumption. Consumers’
+desire for openness and traveler–settler
+orientation are boundaries for the
+relationship between global–local identity
+and preference for access-based
+consumption.
+aThe bibliographic information for these citations is listed in Web Appendix T.
+Notes: N.A. = not applicable.
+574
+
+Appendix B. Measures Used in This Article.
+Constructs
+Study
+Measures
+Identity manipulation check (Zhang and
+Khare 2009)
+2a, 2b, 3, 4, 5, 7,
+8, 9, 10
+1. For the time being, I mainly identify myself as a ____.
+2. At this moment, I feel I am a ____.
+3. On top of my mind right now are thoughts of being a ____.
+(1 = “global citizen,” and 7 = “local citizen”)
+Chronic local–global identity measure
+(Tu, Khare and Zhang 2012)a
+6
+1. I identify that I am a local citizen.
+2. I care about knowing local events.
+3. My heart mostly belongs to my local community.
+4. I respect my local traditions.
+1. I identify that I am a global citizen.
+2. I care about knowing global events.
+3. I believe people should be made more aware of how connected we are to the
+rest of the world.
+4. My heart mostly belongs to the whole world.
+Willingness to use access-based
+programsb
+2b, 3, 4, 8, 9, 10
+1. How likely are you willing to participate in a ____ sharing program?
+2. How likely are you willing to share your ____ with others?
+(“bike” in Studies 2B and 8; “camping tent” in Studies 3, 4 and 10; “car” in Study 9;
+1 = “very unlikely,” and 7 = “very likely”)
+Adoption intention (Ma, Yang, and
+Mourali 2014)
+2b
+1. How likely are you to rent [purchase] the bike from the store? (1 = “very
+unlikely,” and 7 = “very likely”)
+2. How seriously would you consider renting [purchasing] the bike from the store?
+(1 = “not at all serious,” and 7 = “very serious”)
+3. How interested are you in renting [purchasing] the bike from the store? (1 = “not
+at all interested,” and 7 = “very interested”)
+Consumption opennessab
+2a, 2b, 3, 4,
+5, 8, 9
+1. At present, I am open to diversiﬁed products and services.
+2. Right now, having access to different products and services is valuable to me.
+3. At present, I enjoy being offered a wide range of products and services.
+Perceived responsibility to environment
+(Ng and Basu 2019)a
+2a
+1. I think protecting the environment is my responsibility.
+2. I think environmental deterioration is a personally relevant issue for me.
+Prevention focus (Lockwood, Jordan,
+and Kunda 2002)a
+2b
+1. In general, I am focused on preventing negative events in my life.
+2. I am anxious that I will fall short of my responsibilities and obligations.
+3. I often think about the person I am afraid I might become in the future.
+4. I often worry that I will fail to accomplish my academic goals.
+5. I often imagine myself experiencing bad things that I fear might happen to me.
+6. I frequently think about how I can prevent failures in my life.
+7. I am more oriented toward preventing losses than I am toward achieving gains.
+8. My major goal in school right now is to avoid becoming an academic failure.
+9. I see myself as someone who is primarily striving to become the self I “ought” to
+be—to fulﬁll my duties, responsibilities, and obligations.
+Consideration of opportunity costs
+(Spiller 2011)a
+8
+1. I often think about the fact that spending money on one purchase now means not
+spending money on some other purchase.
+2. When I’m faced with an opportunity to make a purchase, I try to imagine things in
+other categories I might spend that money on.
+3. I often consider other speciﬁc items that I would not be able to buy if I made a
+particular purchase.
+Traveler orientationab
+4
+1. At this moment, I feel that I belong to a traveler community.
+2. At the time being, I identify myself as a traveler.
+3. I try to think as a traveler as of now.
+4. At this moment, I hold a traveler’s viewpoint.
+5. On top of my mind right now, I try to understand a traveler’s perspective.
+Settler orientationab
+4
+1. At the time being, I feel that I belong to the settler community.
+2. I feel that I identify myself as a settler at the moment.
+3. I try to think as a settler as of now.
+4. On the top of my head now, I hold a settler’s viewpoint.
+5. At this moment, I try to understand a settler’s perspective.
+Notes: aThese scales are anchored at 1 = “strongly disagree,” and 7 = “strongly agree.”
+bThese scales were developed by the authors.
+Nie et al.
+575
+
+Associate Editor
+Rui (Juliet) Zhu
+Declaration of Conﬂicting Interests
+The author(s) declared no potential conﬂicts of interest with respect to
+the research, authorship, and/or publication of this article.
+Funding
+The author(s) received no ﬁnancial support for the research, authorship
+and/or publication of this article.
+References
+Arnett, Jeffrey Jensen (2002), “The Psychology of Globalization,”
+American Psychologist, 57 (10), 774–83.
+Aspara, Jaakko and Kristina Wittkowski (2019), “Sharing-Dominant
+Logic?
+Quantifying
+the
+Association
+Between
+Consumer
+Intelligence and Choice of Social Access Modes,” Journal of
+Consumer Research, 46 (2), 201–22.
+Bardhi, Fleura and Giana M. Eckhardt (2012), “Access-Based
+Consumption: The Case of Car Sharing,” Journal of Consumer
+Research, 39 (4), 881–98.
+Bardhi, Fleura and Giana M. Eckhardt (2017), “Liquid Consumption,”
+Journal of Consumer Research, 44 (3), 582–97.
+Bardhi, Fleura, Giana M. Eckhardt, and Eric J. Arnould (2012),
+“Liquid Relationship to Possessions,” Journal of Consumer
+Research, 39 (3), 510–29.
+Belk, Russell (2010), “Sharing,” Journal of Consumer Research, 36
+(5), 715–34.
+Brewer, Marilynn B. (1991), “The Social Self: On Being the Same and
+Different at the Same Time,” Personality and Social Psychology
+Bulletin, 17 (5), 475–82.
+Buchtel,
+Emma
+E.
+(2014),
+“Cultural
+Sensitivity
+or
+Cultural
+Stereotyping? Positive
+and Negative
+Effects
+of a
+Cultural
+Psychology
+Class,”
+International
+Journal
+of
+Intercultural
+Relations, 39 (2014), 40–52.
+Chen, Yu (2009), “Possession and Access: Consumer Desires and
+Value Perceptions Regarding Contemporary Art Collection and
+Exhibit Visits,” Journal of Consumer Research, 35 (6), 925–40.
+Chiu, Chi-Yue, Peter Gries, Carlos J. Torelli, and Shirley Y.Y. Cheng
+(2011), “Toward a Social Psychology of Globalization,” Journal of
+Social Issues, 67 (4), 666–76.
+Davidson, Alexander, Mohammed Reza Habibi, and Michel Laroche
+(2018), “Materialism and the Sharing Economy: A Cross-Cultural
+Study of American and Indian Consumers,” Journal of Business
+Research, 82 (January), 364–72.
+Eckhardt, Giana M., Mark B. Houston, Baojun Jiang, Cait Lamberton,
+Aric Rindﬂeisch, and Georgios Zervas (2019), “Marketing in the
+Sharing Economy,” Journal of Marketing, 83 (5), 5–27.
+Edbring, Emma Gullstrand, Matthias Lehner, and Oksana Mont
+(2016), “Exploring Consumer Attitudes to Alternative Models of
+Consumption: Motivations and Barriers,” Journal of Cleaner
+Production, 123 (2016), 5–15.
+Erez, Miriam, Alon Lisak, Raveh Harush, Ella Glikson, Rikki Nouri,
+and
+Efrat
+Shokef
+(2013),
+“Going
+Global:
+Developing
+Management Students’ Cultural Intelligence and Global Identity
+in Culturally Diverse Virtual Teams,” Academy of Management
+Learning & Education, 12 (3), 330–55.
+Gao, Huachao, Vikas Mittal, and Yinlong Zhang (2020), “The Differential
+Effect of Local-Global Identity Among Males and Females: The Case
+of Price Sensitivity,” Journal of Marketing Research, 57 (1), 173–91.
+Gao, Huachao, Yinlong Zhang, and Vikas Mittal (2017), “How Does
+Local-Global Identity Affect Price Sensitivity?” Journal of
+Marketing, 81 (3), 62–79.
+Habibi, Mohammad Reza, Andrea Kim, and Michel Laroche (2016),
+“From Sharing to Exchange: An Extended Framework of Dual
+Modes of Collaborative Nonownership Consumption,” Journal of
+the Association for Consumer Research, 1 (2), 277–94.
+Hamari, Juho, Mimmi Sjöklint, and Antti Ukkonen (2016), “The
+Sharing Economy: Why People Participate in Collaborative
+Appendix C: Product Stimuli used in Studies 2a, 3, 4, and 10
+Option A: Accessed Option
+Option B: Purchase Option
+576
+Journal of Marketing Research 59(3)
+
+Consumption,” Journal of the Association for Information Science
+and Technology, 67 (9), 2047–59.
+Hayes, Andrew F. (2017), An Introduction to Mediation, Moderation,
+and Conditional Process Analysis: A Regression-Based Approach.
+New York: Guilford Publications.
+Hazée, Simon, Cecile Delcourt, and Yves Van Vaerenbergh (2017),
+“Burdens of Access, Understanding Customer Barriers and
+Barrier-Attenuating Practices in Access-Based Services,” Journal
+of Service Research, 20 (4), 441–56.
+Hsee, Christopher K. (1996), “The Evaluability Hypothesis: An
+Explanation for Preference Reversals Between Joint and Separate
+Evaluations
+of
+Alternatives,”
+Organizational
+Behavior
+and
+Human Decision Processes, 67 (3), 247–57.
+Keech, Jessica, Maureen Morrin, and Jeffrey Steven Podoshen (2020),
+“The
+Effects
+of
+Materialism
+on
+Consumer
+Evaluation
+of
+Sustainable
+Synthetic
+(Lab-Grown)
+Products,”
+Journal
+of
+Consumer Marketing, 37 (5), 579–90.
+Kim,
+Heejung
+S.
+and
+Aimee
+Drolet
+(2003),
+“Choice
+and
+Self-Expression:
+A
+Cultural
+Analysis
+of
+Variety-Seeking,”
+Journal of Personality and Social Psychology, 85 (2), 373.
+Lamberton, Cait and Randall L. Rose (2012), “When Is Ours Better Than
+Mine? A Framework for Understanding and Altering Participation in
+Commercial Sharing Systems,” Journal of Marketing, 76 (4), 109–25.
+Leung, Angela Ka-yee and Chi-yue Chiu (2010), “Multicultural
+Experience, Idea Receptiveness, and Creativity,” Journal of
+Cross-Cultural Psychology, 41 (5–6), 723–41.
+Liu, Stephanie Q. and Anna S. Mattila (2017), “Airbnb: Online Targeted
+Advertising,
+Sense
+of
+Power,
+and
+Consumer
+Decisions,”
+International Journal of Hospitality Management, 60 (2017), 33–41.
+Lockwood, Penelope, Christian H. Jordan, and Ziva Kunda (2002),
+“Motivation by Positive or Negative Role Models: Regulatory
+Focus Determines Who Will Best Inspire Us,” Journal of
+Personality and Social Psychology, 83 (4), 854–64.
+Ma, Zhenfeng, Zhiyong Yang, and Mehdi Mourali (2014), “Consumer
+Adoption of New Products: Independent Versus Interdependent
+Self-Perspectives,” Journal of Marketing, 78 (2), 101–17.
+Merriam-Webster (2018a), “Settler,” (February 1), https://www.
+merriam-webster.com/dictionary/settler.
+Merriam-Webster (2018b), “Traveler,” (February 1), https://www.
+merriam-webster.com/dictionary/traveler.
+Mitchell, Amy, Katie Simmons, Katerina Eva Matsa, and Laura Silver
+(2018), “Publics Around the World Follow National and Local
+News More Closely Than International,” Pew Research Center
+(January 11), https://www.pewresearch.org/global/2018/01/11/publics-
+around-the-world-follow-national-and-local-news-more-closely-than-
+international/.
+Moeller, Sabine and Kiristina Wittkowski (2010), “The Burdens of
+Ownership: Reasons for Preferring Renting,” Managing Service
+Quality, 20 (2), 176–91.
+Ng, Sharon and Shankha Basu (2019), “Global Identity and Preference
+for Environmentally Friendly Products: The Role of Personal
+Responsibility,” Journal of Cross-Cultural Psychology, 50 (8), 919–36.
+Ng, Sharon and Rajeev Batra (2017), “Regulatory Goals in a Globalized
+World,” Journal of Consumer Psychology, 27 (2), 270–77.
+Ng, Sharon, Ali Faraji-Rad, and Rajeev Batra (2021), “Uncertainty
+Evokes Consumers’ Preference for Brands Incongruent with
+Their Global-Local Citizenship Identity,” Journal of Marketing
+Research, 58 (2), 400–415.
+Nijssen,
+Edwin
+J.
+and
+Susan
+P.
+Douglas
+(2011),
+“Consumer
+World-Mindedness and Attitudes Toward Product Positioning in
+Advertising: An Examination of Global Versus Foreign Versus Local
+Positioning,” Journal of International Marketing, 19 (3), 113–33.
+Oishi, Shigehiro (2010), “The Psychology of Residential Mobility:
+Implications for the Self, Social Relationships, and Well-Being,”
+Perspectives on Psychological Science, 5 (1), 5–21.
+Oishi, Shigehiro, Selin Kesebir, Felicity F. Miao, Thomas Talhelm,
+Yumi Endo, Yukiko Uchida, et al. (2013), “Residential Mobility
+Increases Motivation to Expand Social Network: But Why?”
+Journal of Experimental Social Psychology, 49 (2), 217–23.
+Oishi, Shigehiro, Alexander J. Rothman, Mark Snyder, Jenny Su, Keri Zehm,
+Andrew E. Hertel, et al. (2007), “The Socioecological Model of
+Procommunity Action: The Beneﬁts of Residential Stability,” Journal
+of Personality and Social Psychology, 93 (5), 831–44.
+Osztovits,
+Ádám,
+Árpád
+Kő szegi,
+Bence
+Nagy,
+and
+Bence Damjanovics (2015), “Sharing or Paring? Growth of the
+Sharing Economy,” PwC (October 9), https://www.pwc.com/hu/
+en/kiadvanyok/assets/pdf/sharing-economy-en.pdf.
+Rieﬂer, Petra, Adamantios Diamantopoulos, and Judy A. Siguaw (2012),
+“Cosmopolitan Consumer as a Target Group for Segmentation,”
+Journal of International Business Studies, 43 (3), 285–305.
+Ritzer, George and Nathan Jurgenson (2010), “Production, Consumption,
+Prosumption: The Nature of Capitalism in the Age of the Digital
+‘Prosumer’,” Journal of Consumer Culture, 10 (1), 13–36.
+Spencer, Steven J., Mark P. Zanna, and Geoffrey T. Fong (2005),
+“Establishing a Causal Chain: Why Experiments Are Often More
+Effective Than Mediational Analyses in Examining Psychological
+Processes,” Journal of Personality and Social Psychology, 89 (6), 845–51.
+Spiller, Stephen A. (2011), “Opportunity Cost Consideration,” Journal
+of Consumer Research, 38 (4), 595–610.
+Steenkamp, Jan-Benedict E.M., and Martijn G. De Jong (2010), “A Global
+Investigation into the Constellation of Consumer Attitudes Toward
+Global and Local Products,” Journal of Marketing, 74 (6), 18–40.
+Trading Economics (2018), “Home Ownership Rate,” (February 1),
+https://tradingeconomics.com/country-list/home-ownership-rate
+Tu, Lingjiang, Adwait Khare, and Yinlong Zhang (2012), “A Short
+8-Item Scale for Measuring Consumers’ Local-Global Identity,”
+International Journal of Research in Marketing, 29 (1), 35–42.
+Wang, Yajin, Amna Kirmani, and Xiaolin Li (2021), “Not Too Far to
+Help: Residential Mobility, Global Identity, and Donations to
+Distant Beneﬁciaries,” Journal of Consumer Research, 47 (6), 878–89.
+Weiss, Liad (2017), “Possession Substitutability: Identity and Usage
+of Rented (Versus Owned) Products,” in Advances in Consumer
+Research, Vol. 45, Ayelet Gneezy, Vladas Griskevicius, and
+Patti Williams, eds. Duluth, MN: Association for Consumer
+Research, 957–58.
+Yang, Zhiyong, Sijie Sun, Ashok K. Lalwani, and Narayan Janakiraman
+(2019), “How Does Consumers’ Local or Global Identity Inﬂuence
+Price–Perceived Quality Associations? The Role of Perceived
+Quality Variance,” Journal of Marketing, 83 (3), 145–62.
+Zhang, Yinlong and Adwait Khare (2009), “The Impact of Accessible
+Identities on the Evaluation of Global Versus Local Products,”
+Journal of Consumer Research, 36 (3), 524–37.
+Nie et al.
+577

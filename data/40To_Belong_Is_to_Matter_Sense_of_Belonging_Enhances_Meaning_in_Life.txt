@@ -1,0 +1,1061 @@
+Personality and Social
+Psychology Bulletin
+39(11) 1418­–1427
+© 2013 by the Society for Personality
+and Social Psychology, Inc
+Reprints and permissions: 
+sagepub.com/journalsPermissions.nav
+DOI: 10.1177/0146167213499186
+pspb.sagepub.com
+Article
+Prominent thinkers have sometimes characterized human life 
+as absurd and meaningless. Yet most people are not paralyzed 
+by an existential void or solipsistic nihilism, and many people 
+even find life enjoyable and meaningful. Efforts to identify 
+what gives meaning to people’s lives have been fruitful, as 
+multiple lines of research have provided evidence that social 
+relationships are crucial to finding meaning in life (e.g., 
+Lambert et al., 2010; Stillman et al., 2009; Williams, 1997, 
+2002). In the present investigation, we sought to build on these 
+lines of research. Our intent was to identify what it is about 
+social relationships that contributes most to making life mean-
+ingful. Specifically, we predicted that relationships that pro-
+vide a sense of belonging would make life most meaningful.
+Belonging
+Many theorists have suggested that the human drive for social 
+relationships such that forming and maintaining social bonds 
+reflects an innate tendency that is adaptive and crucial for sur-
+vival (Ainsworth, 1989; Axelrod & Hamilton, 1981; Barash, 
+1977; Baumeister & Leary, 1995; Bowlby, 1969; Buss, 1990; 
+Moreland, 1987). In fact, there are physical and mental health 
+repercussions of failing to form interpersonal attachments 
+(for a review, see Baumeister & Leary, 1995). They chose the 
+phrase need to belong to describe the pervasive human drive 
+to form positive, close attachments. This article has been 
+widely cited, and the term need to belong has therefore been 
+used as a general term for the desire to form relationships. Of 
+course, it is possible to have positive relationships, thereby 
+satisfying the need to belong in a general sense, yet still not 
+feel that one is fully accepted. In other words, satisfying a 
+general need for positive social relationships—for instance, 
+by participating in a fraternity or sorority—does not guaran-
+tee the subjective experience of belonging. In the present 
+investigation, our interest in belonging went beyond whether 
+one has positive relationships and extends to the subjective 
+experience of having relationships that bring about a secure 
+sense of fitting in. We refer to this as having a sense of 
+belonging.
+Meaning
+Viktor Frankl (1946/1963, 1969) proposed that humans are 
+driven to find meaning in life, and he termed this motivation 
+499186 PSPXXX10.1177/0146167213499186Personality and Social Psychology BulletinLambert et al.
+research-article2013
+1Brigham Young University, Provo, UT, USA
+2Southern Utah University, Cedar City, USA
+3Texas A&M University, College Station, USA
+4Karnatak University, Dharwad, Karnataka, India
+5Florida State University, Tallahassee, USA
+Corresponding Author:
+Nathaniel M. Lambert, School of Family Life, Brigham Young University, 
+2065 JFSB, Provo, Utah 84602, USA. 
+Email: natemlambert@gmail.com
+To Belong Is to Matter: Sense of 
+Belonging Enhances Meaning in Life
+Nathaniel M. Lambert1, Tyler F. Stillman2, Joshua A. Hicks3, 
+Shanmukh Kamble4, Roy F. Baumeister5, and Frank D. Fincham5
+Abstract
+In four methodologically diverse studies (N = 644), we found correlational (Study 1), longitudinal (Study 2), and experimental 
+(Studies 3 and 4) evidence that a sense of belonging predicts how meaningful life is perceived to be. In Study 1 (n = 126), we 
+found a strong positive correlation between sense of belonging and meaningfulness. In Study 2 (n = 248), we found that initial 
+levels of sense of belonging predicted perceived meaningfulness of life, obtained 3 weeks later. Furthermore, initial sense of 
+belonging predicted independent evaluations of participants essays on meaning in life. In Studies 3 (n = 105) and 4 (n = 165), 
+we primed participants with belongingness, social support, or social value and found that those primed with belongingness 
+(Study 3) or who increased in belongingness (Study 4) reported the highest levels of perceived meaning. In Study 4, belonging 
+mediated the relationship between experimental condition and meaning.
+Keywords
+religion, emotion in relationships, forgiveness, attribution, group processes, self-categorization
+Received May 19, 2012; revision accepted May 27, 2013
+
+Lambert et al.	
+1419
+will to meaning. Klinger (1998) argues that “the human brain 
+cannot sustain purposeless living,” because all the systems of 
+the brain were designed by nature to facilitate meaningful 
+thought and action. In the analyses of Frankl and Klinger 
+(and those of others, that is, Baumeister, 1991; Johnson, 
+1987; Joske, 1974/1981), the drive to find meaning in life is 
+a fundamental aspect of human nature.
+Some people’s search to find meaning is more fruitful 
+than it is for others, as people vary in the extent to which they 
+believe their life is meaningful. The belief that one’s life 
+lacks meaning is associated with a number of negative men-
+tal and physical outcomes, whereas the belief that one’s life 
+is full of meaning is associated with a number of positive 
+variables (see Steger, 2012, for a comprehensive review). 
+The negative consequences of low meaning include psycho-
+pathology (Crumbaugh & Maholick, 1964), stress (Mascaro 
+& Rosen, 2006), need for therapy (Battista & Almond, 1973), 
+suicidal ideation (Harlow, Newcomb, & Bentler, 1986), and 
+depression (Debats, van der Lubbe, & Wezeman, 1993; 
+Mascaro & Rosen, 2005). In contrast, high levels of meaning 
+are associated with good physical health and general well-
+being (Reker, Peacock, & Wong, 1987; Wong & Fry, 1998; 
+Zika & Chamberlain, 1987, 1992).
+How does one measure the extent to which a person has 
+found meaning in life? Most often, researchers measure 
+meaning by asking participants for a subjective evaluation of 
+how meaningful their life is. For instance, some researchers 
+have asked participants to indicate their agreement with a 
+statement like “My life has a clear sense of purpose” (Steger, 
+Frazier, Oishi, & Kaler, 2006). There are merits to this self-
+rating approach (Hicks & King, 2009). Most notably, the 
+researcher gains insight into participants’ reactions to very 
+specific statements. The drawback is that the reliability of 
+self-ratings is less than ideal. For instance, a person might 
+blithely assert that her life is extremely meaningful, without 
+thinking about what constitutes a meaningful life and what 
+gives her life meaning.
+Articulated Meaning
+Presumably, people who have found meaning in life would 
+have some insight into why their life is meaningful and what 
+gives it meaning. In contrast, people who have found little or 
+no meaning in life would presumably struggle to articulate 
+why life is meaningful and what gives life meaning. Therefore, 
+one way to go beyond the limitations of self-reported mean-
+ing is to ask participants open-ended questions about what 
+makes their lives meaningful. The responses could then be 
+submitted to impartial analysis to quantify one’s capacity to 
+articulate meaning. This approach was taken in Study 2.
+Sociality and Meaning
+Several lines of research have demonstrated that impaired 
+social relationships result in a decreased sense of meaning in 
+life. Researchers have found that people who are socially 
+rejected enter a state of cognitive deconstruction, marked by 
+a decrease in meaningful thought (Twenge, Catanese, & 
+Baumeister, 2003). Williams (1997, 2002) proposed that 
+ostracism thwarts multiple psychological needs, including 
+the need for a meaningful existence. Williams and colleagues 
+have provided consistent evidence that ostracism challenges 
+the ordinary sense that one’s life has meaning (e.g., Sommer, 
+Williams, Ciarocco, & Baumeister, 2001; Van Beest & 
+Williams, 2006; Williams, Cheung, & Choi, 2000). Recent 
+research has demonstrated that discrete exclusion events and 
+ongoing feelings of loneliness result in a global reduction of 
+meaning in life (Stillman et al., 2009). In sum, impaired 
+social relationships result in finding less meaning in life.
+Conversely, people commonly associate the presence of 
+social relationships with a sense of meaningfulness. When 
+asked what constitutes a central meaning in life, the most fre-
+quent response refers to personal relationships (Ebersole, 
+1998; Klinger, 1977; Little, 1998), which suggests overlap 
+between sociality and meaning. Research on elderly persons 
+has found that higher levels of social support predict greater 
+meaning in life (Krause, 2007). Experimental studies also 
+suggest that personal relationships are an important source of 
+meaning, as bringing to mind how one acts around “close oth-
+ers” promotes a sense of meaning in life, relative to thinking 
+about how one acts around “most others” (Schlegel, Hicks, 
+King, & Arndt, 2011). Likewise, thinking specifically about 
+family relationships prompts higher levels of meaning, rela-
+tive to controls (Lambert, Baumeister, Stillman, & Fincham, 
+in press; Lambert et al., 2010). In short, close relationships 
+are strongly associated with finding meaning in life.
+Need to Belong and Meaning
+Humans seem to have a biological need for social relation-
+ships (e.g., Baumeister & Leary, 1995). Baumeister (2005) 
+contends that the human thirst for belonging and the capacity 
+to understand large systems of meaning are inextricably 
+linked in the human psyche. Therefore, one would expect the 
+sense of having a meaningful life to depend, at least in part, 
+on a sense of belonging. Some suggest that close relation-
+ships offer a symbolic promise of lastingness and continuity 
+that provide individuals with a sense of symbolic immortal-
+ity (e.g., Lifton, 1979). The symbolic promise of immortality 
+may arise insofar as specific close relationships offer the 
+framework for biological procreation, allowing individuals 
+to live on through their progeny (Mikulincer, Florian, & 
+Hirschberger, 2004). Similarly, others propose that close 
+relationships allow people to feel a part of a larger symbolic 
+entity (e.g., couple or group) that transcends the limitations 
+of their own body and expands the capacities and boundaries 
+of their own self (Aron, Aron, & Norman, 2001). With regard 
+to groups specifically, Hogg suggests that group membership 
+helps reduce feeling of subjective uncertainty by “providing 
+order and a potential for meaning in otherwise bewildering
+
+1420	
+Personality and Social Psychology Bulletin 39(11)
+circumstances.” (Hogg, 2005; see Hogg, 2009). In fact, feel-
+ings of belonging in social groups can imbue life with mean-
+ing in various ways such as providing stability, helping 
+individuals create a shared social identity, and allowing them 
+to pursue higher order collective goals (Haslam, Jetten, 
+Postmes, & Haslam, 2009; Tajfel, 1978). In any case, satiat-
+ing one’s need to belong appears to be important for feeling 
+that life is worthwhile and meaningful. Examining this 
+hypothesized link between belonging and meaning is the 
+objective of this article, with particular attention paid to the 
+subjective experience of belonging.
+Overview of Studies
+Although past research has indicated a relationship between 
+social relationships and meaning in life, it is yet unclear 
+what about relationships provides meaning. We hypothe-
+sized that the sense of belonging is a critical element of 
+social relationships that promotes meaning in life. We con-
+ducted four methodologically diverse studies to test the 
+hypothesis that a subjective sense of belonging promotes 
+meaning in life. In Study 1, we used a cross-sectional 
+design to conduct an initial test of our hypothesis. The pre-
+diction was simply that having relationships that conferred 
+a sense of belonging would be positively correlated with 
+rating one’s life as meaningful. In Study 2, participants 
+were asked to rate their sense of belonging and, 3 weeks 
+later, were asked to write an essay about meaning in their 
+lives. The essays were independently evaluated, with the 
+expectation that a stronger sense of belonging would be 
+predictive of the capacity to articulate what makes life 
+meaningful. Studies 3 and 4 used experimental designs to 
+test whether a sense of belonging caused an increase in 
+meaning. Participants were primed with either a sense of 
+belonging, feelings of social support, or feelings of social 
+value, with the expectation that participants receiving the 
+belongingness prime would experience a stronger sense of 
+meaning than those in the control conditions. Study 4 also 
+tested whether belongingness mediated the relationship 
+between experimental condition and meaning.
+Study 1
+Method
+Participants and procedure.  Participants were 141 undergrad-
+uate students (118 female) from the United States participat-
+ing in the study in exchange for partial course credit. 
+Participants completed the study materials online, at a time 
+of their choosing.
+Measures
+Sense of belonging.  Given the dearth of measures cap-
+turing the subjective experience of belonging, we created 
+a five-item measure that included items such as “There are 
+places I can go where I feel like I belong,” and “I feel like 
+there are many people with whom I belong.” The reliability 
+of the measure was high (α = .81). In a separate sample (n = 
+117), this measure was highly correlated with measures we 
+expected it to relate to, such as loneliness (r = −.54; Russell, 
+1996) and, based on Sociometer Theory (Leary, 2000), self-
+esteem (r = .64; Rosenberg, 1965).
+Meaning.  To assess meaning, we used the five-item 
+Meaning Presence subscale of the Meaning in Life Question-
+naire (MLQ; Steger et al., 2006), which assesses the extent to 
+which one perceives meaning to be present in one’s life (e.g., 
+“I understand my life’s meaning”; α = .94). The other sub-
+scale in this measure addresses search for meaning, which 
+was not relevant to our specific hypotheses. Also, the Search 
+for Meaning subscale has been found to not be strongly 
+related to meaning presence (Steger & Kashdan, 2007; Ste-
+ger, Oishi, & Kashdan, 2009).
+Demographic variables.  We measured age and sex and did 
+not find any influence of either of these variables on any of 
+the analyses and therefore we did not report the results in the 
+analyses below.
+Results and Discussion
+We expected that sense of belonging would be related to 
+higher levels of perceived life meaningfulness. Results con-
+firmed our expectations, as belonging was a robust predictor 
+of meaningfulness, β = .31, p < .001. We sought to build 
+upon this finding using a different way of assessing meaning 
+in life.
+Study 2
+The main purpose of Study 2 was to go beyond self-reports 
+of meaning. In the current study, we asked participants to 
+articulate what made life meaningful and subsequently sub-
+mitted their short essay responses to impartial analysis. Our 
+expectation was that people with a weak sense of belonging 
+would not only self-rate as having relatively low levels of 
+meaning in life but also that independent and impartial 
+observers would rate their short essay responses as evincing 
+low levels of meaning as well.
+Finding an alternative measure of meaning provides more 
+than methodological convergence. Self-reported meaning in 
+life is a popular and important method in the study of mean-
+ingfulness, but there are well-known shortcomings to self-
+report measures. For instance, undergraduate research 
+participants might casually suggest “Oh sure, my life has 
+tons of meaning” without having a clear sense of what that 
+meaning is. Hence, the present study asked participants to 
+write specifically what meaning their lives have. To be sure, 
+an effective response to such a question may require an artic-
+ulate thoughtfulness that exceeds the capacity of some
+
+Lambert et al.	
+1421
+respondents, so it may err in the opposite direction from the 
+simple self-report scales. In our view, convergence across 
+self-report and essay explanations may provide the method-
+ologically strongest means of assessing life’s meaning. A 
+second goal of the present study was to replicate the cross-
+sectional association observed in Study 1, this time using an 
+alternative measure of meaning.
+Method
+Participants and procedure.  Participants were 248 undergrad-
+uates (213 women) from the United States who participated 
+in exchange for partial course credit. Participants completed 
+a belongingness measure at Time 1, and at Time 2 (3 weeks 
+later), they completed measures of meaning.
+Measures
+Belonging.  To assess perceived sense of belonging, we 
+used the five-item measure described in Study 1 that included 
+items such as “I feel like there are many people with whom I 
+belong.” Cronbach’s alpha was .85.
+Articulated meaning.  At Time 2, participants were asked to 
+write an essay addressing the questions “Why is life meaning-
+ful?” and “What makes your life meaningful?” These essays 
+were evaluated by four research assistants (naive to study 
+aims), who independently rated participants’ responses. The 
+research assistants were instructed to estimate the extent to 
+which the essay writer seemed to find his or her life mean-
+ingful. Specifically, they were instructed to “rate from 1 (not 
+at all)” to “11 (extremely)” how meaningful the essay writer 
+thinks his or her life is. Further instructions included ask-
+ing raters to try to infer how meaningful the essay writers 
+found their own life, rather than imposing raters’ own view 
+of a meaningful life on participants. Although few individu-
+als cited belongingness directly as a source of meaning in 
+their life, most described family relationships and/or friend-
+ships with whom they belong, which is consistent with other 
+research (Lambert et al., 2010).
+There was agreement among the four raters on articulated 
+meaning (intraclass correlation coefficient [ICC] = .72), so 
+their responses were totaled to create an articulated meaning 
+score. In addition, research assistants rated how thoughtful 
+the essays were (again from 1 to 11) due to the possibility 
+that ratings of low meaning could be due to some partici-
+pants putting forth minimal thought and effort into writing 
+their essays. We hypothesized that a low sense of belonging 
+would be related to an actual inability to articulate a mean-
+ingful purpose in life, so our expectation was that belonging-
+ness would predict ratings of meaning above and beyond the 
+apparent thought put into the essays. Ratings of thoughtful-
+ness also demonstrated good reliability, ICC = .85. In short, 
+research assistants read each essay and rated it according to 
+the apparent degree of meaning in the essay writer’s life 
+(termed articulated meaning, which was the main dependent 
+variable) and the apparent degree of thought that went into 
+the essay (to be used as a covariate).
+Self-reported meaning.  One would expect articulated mean-
+ing scores to correspond to established self-rating meaning 
+scales. To demonstrate the convergent validity of the articu-
+lated meaning scores, we used two self-reported meaning 
+scales, also obtained at Time 2. Participants completed the 
+5-item Meaning Presence subscale of the MLQ that was used 
+in Study 1(α = .91; Steger et al., 2006). We also administered 
+the 17-item Kunzendorf No Meaning Scale (KNMS; α = .92; 
+Kunzendorf & McGuire, 1994; Kunzendorf, Moran, & Gray, 
+1995-1996). This scale assesses the extent to which life itself 
+is viewed as meaningless (e.g., “Life is a cruel joke” and “It 
+does not matter whether I live or die”).
+Self-esteem.  Self-esteem was assessed with the Rosenberg 
+Self-Esteem Scale (1965). This measure requires individu-
+als to report agreement with 10 items that assess self-esteem 
+(e.g., “I feel that I have a number of good qualities”). We 
+used a 7-point Likert-type response scale from 1 (strongly 
+disagree) to 7 (strongly agree). Internal consistency was high 
+(α = .88).
+Demographic variables.  We measured age and sex and did 
+not find any influence of either of these variables on any of 
+the analyses, and thus we did not report the results in the 
+analyses below.
+Results and Discussion
+Convergent validity.  Articulated meaning scores corresponded 
+to both self-report measures. As one would expect, higher 
+presence of self-reported meaning correlated with higher 
+articulated meaning scores, r = .28, p < .001. Self-reported 
+meaninglessness was associated with lower articulated 
+meaning scores, r = −.24, p < .001. The association between 
+self-reported meaning and articulated meaning lends credi-
+bility to the articulated meaning scores as a measure of 
+meaningfulness. It also supports the use of the Steger and 
+Kunzendorf self-report scales as valid measures of life’s 
+meaning, which should dispel some doubts about relying on 
+them as effective tools for assessing how meaningful peo-
+ple’s lives are. However, the correlations, although highly 
+significant, were not large. The substantial amount of non-
+shared variance attests to the value of using both types of 
+measure when dealing with a complex and elusive phenom-
+enon such as life’s meaningfulness.
+Belonging and meaning.  Self-reported sense of belonging had 
+the predicted effect on articulated meaning. A stronger self-
+reported sense of belonging at Time 1 correlated with higher 
+articulated meaning scores at Time 2, r = .30, p < .001. We 
+also conducted a partial correlation in which ratings of 
+thoughtfulness were partialed out, and sense of belonging
+
+1422	
+Personality and Social Psychology Bulletin 39(11)
+still predicted articulated meaning, r = .17, p = .003. Thus, 
+people with a strong self-reported sense of belonging are bet-
+ter able to articulate meaning in life—to a degree that is 
+apparent to independent observers—relative to those with a 
+low sense of belonging, and most of this effect is not due to 
+any apparent lack of thoughtfulness on the part of those low 
+in belonging. Furthermore, self-reported sense of belonging 
+still predicted articulated meaning when self-reported self-
+esteem was also partialed out, r = .14, p = .02.
+Next, we tested whether self-reported sense of belonging 
+at Time 1 would predict self-reported meaning at Time 2. 
+Consistent with expectations, a strong initial sense of self-
+reported belonging predicted high self-reported presence of 
+meaning scores (MLQ, r = .41, p < .001), and this remained 
+significant even when partialing out self-reported self-esteem 
+r = .20, p = .004. Likewise, a strong initial sense of self-
+reported belonging was related to lower levels of self-
+reported meaninglessness (KNMS, r = −.32, p < .001), which 
+also remained significant after controlling for self-reported 
+self-esteem r = −.20, p = .005.
+Finally, we tested whether the effects of self-reported 
+sense of belonging on articulated meaning were at least 
+partly independent of self-reported meaning. We conducted a 
+hierarchical linear regression on articulated meaning in 
+which we entered self-reported meaning presence and self-
+reported meaninglessness in Step 1, and then entered self-
+reported sense of belonging in Step 2. Results of Step 1 
+demonstrated a significant effect for self-reported meaning-
+lessness (β = −.16, p = .01) and self-reported meaning pres-
+ence (β = .23, p < .001) on articulated meaning. Yet the 
+inclusion of self-reported sense of belonging, entered in Step 
+2, predicted articulated meaning over and above this, β = .20, 
+p = .004. This relationship remained significant when con-
+trolling for self-reported self-esteem β = .19, p = .01. This 
+indicates that there is an overlap between articulated mean-
+ing and self-reported meaning, and also that self-reported 
+sense of belonging predicts articulated meaning in a way that 
+goes beyond self-reported meaning. It also suggests that the 
+essay measure of articulated meaning can add useful infor-
+mation above and beyond the Self-Report scales. Future 
+research should measure all constructs at both time points to 
+test for the temporal stability of the relationships examined 
+in the current study.
+Study 3
+In Study 1, we found a strong correlation between sense of 
+belonging and meaning, with strong sense of belonging cor-
+responding to high levels of meaning. In Study 2, we found 
+that sense of belonging predicted independent evaluations 
+of meaningfulness. Study 2 also found that belonging at 
+Time 1 predicted later levels of meaning at Time 2. Study 3 
+used an experimental design to test the hypothesis that feel-
+ings of belongingness cause people to perceive their lives as 
+meaningful.
+One methodological problem with activating a sense of 
+belonging is that one risks activating a host of other impor-
+tant variables as well. For instance, if a participant primed 
+with a sense of belonging were compared with a participant 
+in a neutral control condition, it would be unclear whether 
+the (expected) difference in meaning was specifically due to 
+a sense of belonging or whether the difference was due to 
+the general feeling of having friends. Alternatively, any 
+(expected) differences between participants primed with a 
+sense of belonging and those in a control condition might be 
+due to the positive feelings that stem from thinking about 
+people with whom one has a good relationship, rather than 
+sense of belonging specifically.
+To rule out such competing explanations, all participants 
+in the current study were primed with social relationships. 
+That is, to provide a rigorous and conservative test of the 
+hypothesis that belonging increases perceived meaning in 
+life, we primed participants with a sense of belonging, feel-
+ings of social support, or a high sense of social value. Hence, 
+all three conditions could plausibly increase meaningfulness 
+beyond baseline. Indeed, social support does predict mean-
+ingfulness (Krause, 2007) as does self-esteem, which is 
+related to social value (Baumeister, 1991; Steger & Frazier, 
+2005). Nevertheless, we expected that participants primed 
+with a sense of belonging would report the highest levels of 
+meaning, which would allow the inference that a sense of 
+belonging causes an increase in meaning above and beyond 
+that which can be explained by general feelings associated 
+with having positive relationships.
+Method
+Participants.  Participants were 105 undergraduate students 
+from the United States (49 female) participating in the study 
+in exchange for partial course credit.
+Procedure.  Materials were completed online. Participants 
+were randomly assigned to one of the following three 
+conditions.
+Sense of belonging condition.  Participants assigned to the 
+belonging condition were given the following instructions, 
+“Close your eyes and think of two people or groups of people 
+with whom you feel that you really belong. Now, write the 
+names of the individuals or groups and the type of relation-
+ship you have with them.” They were then asked to describe 
+each individual (or group), why they felt like they belonged, 
+and how it made them feel. Finally, they were asked to write 
+a paragraph describing a specific instance when they felt a 
+strong sense of belonging with this person/group.
+Social support condition.  Participants assigned to this con-
+dition were instructed to “close your eyes and think of two 
+people that have recently given you help or support. Now, 
+write the names of these people and the type of relationship
+
+Lambert et al.	
+1423
+you have with them.” They then wrote a description of each 
+individual, the support they received, and how it made them 
+feel. Finally, they wrote a paragraph about a specific instance 
+when they received support from this person.
+Social value condition.  We sought to induce feelings of 
+high social value by having the participants recall some com-
+pliments that they had recently received. Instructions were as 
+follows: “Close your eyes and think of two people that have 
+recently given you a compliment and how it made you feel. 
+Now, write the names of and the type of relationship you 
+have with these individuals.” Once they had written down 
+the names, they were asked to describe the compliment and 
+how it made them feel. They were then instructed to write a 
+paragraph describing another instance when they were given 
+a compliment and how it made them feel.
+Following the experimental manipulation, state meaning-
+fulness was assessed using a 2-item measure consisting of 
+the items “How much meaning do you feel in your life at this 
+very moment?” and “At this moment, how much do you 
+think you have a good sense of what makes life meaning-
+ful?” Responses ranged from 1 to 15, with larger numbers 
+indicating greater meaning. The items were highly correlated 
+at .68. We switched to using this more sensitive, state mea-
+sure so that we could pick up on more fleeting feelings of 
+meaning.
+Results
+Results supported the hypothesis that priming thoughts of 
+belongingness would cause an increase in perceptions of 
+meaningfulness. There was a main effect for condition, F(2, 
+102) = 3.05, p = .05. Planned comparisons revealed higher 
+meaning among those in the belonging condition (M = 24.18, 
+SD = 4.77) than among those in the social support condition 
+(M = 21.39, SD = 5.62), F(1, 102) = 5.38, p < .05; d = .56, or 
+the social value condition (M = 21.44, SD = 5.49), F(1, 102) 
+= 4.59, p < .05; d = .55. Thus, sense of belonging caused an 
+increase in meaning, even relative to other aspects of posi-
+tive social interactions.
+One shortcoming of the current study is that it did not 
+provide evidence that sense of belonging was higher in the 
+sense-of-belonging condition. We conducted a validation 
+study to ensure that our sense-of-belonging manipulation 
+increases sense of belonging.
+Validation study.  Participants were 191 undergraduates from 
+the United States who completed the experiment online. We 
+measured the effect of experimental condition (sense of 
+belonging, social support, and social value) on sense of 
+belonging using a two-item questionnaire, for example, “I 
+currently have a sense of belonging on my mind,” α = .74. 
+Agreement was rated from 1 (strongly disagree) to 15 
+(strongly agree). As expected, participants’ sense of belong-
+ing varied according to condition, F(2, 188) = 2.98, p = .05. 
+Those in the belonging condition expressed a stronger sense 
+of belonging (M = 11.80, SD = 2.55) than those in social sup-
+port condition (M = 10.68, SD = 3.22); F(1, 127) = 4.85, p = 
+.03, or those in the social value condition (M = 10.69, SD = 
+3.25); F(1, 127) = 4.67, p = .03. These results indicate that 
+the manipulation used in the current study was effective at 
+increasing a sense of belonging. We also measured positive 
+and negative affect (Watson, Clark, & Tellegen, 1988). How-
+ever, neither positive affect (F < .1) nor negative affect (F < 
+.1) varied by condition. Although we conducted this valida-
+tion study, more data were needed to determine whether 
+manipulating belongingness would simultaneously increase 
+experienced belongingness and meaning.
+Study 4
+The objective of Study 4 was to provide additional experi-
+mental evidence that manipulating belongingness would 
+indeed increase subjective perceptions of belongingness 
+and meaningfulness. This time we measured belonging 
+directly following the manipulation and examined the indi-
+rect effect of condition on meaning through belonging. We 
+also sought to examine the robustness of our effects by 
+examining the effects of belongingness using an Indian 
+sample. We hypothesized that manipulated belonging 
+would enhance meaning and that state belongingness would 
+mediate the relationship between experimental condition 
+and perceived meaningfulness.
+Method
+Participants.  Participants were 166 Indian undergraduate 
+psychology students (65 female) participating in the study in 
+exchange for partial course credit.
+Procedure.  Materials were completed with paper and pencil 
+measures. Participants were randomly assigned to one of the 
+following three conditions. All conditions and procedures 
+were identical to those in Study 3.
+Measures
+Belongingness.  Immediately following the experimental 
+manipulation, participants answered two questions regard-
+ing their sense of belonging: “Right now I have a sense of 
+belonging on my mind” and “I really feel like I belong with 
+others.” The items correlated at .56.
+State meaningfulness.  State meaningfulness was again 
+assessed using a 2-item measure that included the items 
+“How much meaning do you feel in your life at this very 
+moment?” and “At this moment, how much do you think 
+you have a good sense of what makes life meaningful?” 
+Responses ranged from 1 to 15, with larger numbers indi-
+cating greater meaning. The items were highly correlated 
+at .72.
+
+1424	
+Personality and Social Psychology Bulletin 39(11)
+Results and Discussion 
+One-way ANOVA confirmed that belongingness ratings var-
+ied among experimental conditions F(2, 163) = 4.05, p < .05. 
+Contrasts between conditions showed that priming thoughts 
+of belongingness caused an increase in perceptions of 
+belongingness (M = 5.65, SD = 1.87) relative to the social 
+value condition (M = 4.89, SD = 1.98), F(1, 163) = 6.72, p = 
+.01, d = .39. Unexpectedly, priming thoughts of social sup-
+port also caused an increase in perceptions of belongingness 
+(M = 5.68, SD = 1.47) relative to the social value condition 
+(M = 4.89, SD = 1.98), F(1, 163) = 5.49, p < .05, d = .45. 
+There were no significant differences on perception of 
+belongingness between the thoughts of belongingness and 
+thoughts of social support F(1, 163) = .08, p = .78, d = .02.
+Given that among this Indian sample, social support 
+increased belongingness at the same rate that the belonging-
+ness condition increased belongingness, we did not include 
+this condition in the remaining analyses. Compared with a 
+social value condition (M = 23.33, SD = 5.78), the partici-
+pants in the belonging condition reported significantly higher 
+levels of perceived meaning (M = 25.69, SD = 4.35), F(1, 
+108) = 5.87, p < .05, ηp
+2 = .05.
+To ensure that the increase of meaning was caused by the 
+increased belonging, we ran mediational analyses and pre-
+dicted that enhanced sense of belonging would mediate the 
+relationship between experimental condition and perceived 
+meaning. Again, given that the social support condition did 
+not differ from the belonging condition, we ran the media-
+tional analyses with the belonging condition and compli-
+ment conditions only. We used the bootstrapping method 
+developed by Preacher and Hayes (2008). Mediation has 
+typically been tested using the Sobel (1982) test, which 
+assumes that the product of coefficients constituting the 
+indirect effect is normally distributed. However, this distri-
+bution tends to be skewed and leptokurtic (Preacher & 
+Hayes, 2008). As a result, resampling or bootstrapping 
+methods are replacing prior methods for testing mediation 
+(Shrout & Bolger, 2002). A confidence interval for the size 
+of the indirect path is generated and if the values between 
+the upper and lower confidence limit do not include zero, 
+this indicates a statistically significant mediation effect. The 
+indirect path through belongingness was statistically signifi-
+cant, as indicated by finding that the 95% confidence inter-
+val (bias corrected) for the indirect path through this 
+mediator did not include zero [−2.14, −0.10], indicating 
+sense of belonging significantly mediated the proposed rela-
+tionship. Thus, our hypotheses were confirmed that enhanc-
+ing a sense of belonging would increase perceived meaning 
+in life relative to a positive control.
+General Discussion
+Four studies showed that a relatively strong sense of belong-
+ing predicted and even caused people to perceive high levels 
+of meaning in their lives. Study 1 was correlational, and 
+results indicated a robust relationship between sense of 
+belonging and self-reported meaning in life (β = .58). Study 
+2 showed that initial perceived belongingness predicted self-
+reported meaning 3 weeks later, indicating that the relation-
+ship between sense of belonging and meaningfulness is not 
+due to fleeting positive or negative feelings. Rather, the 
+effect of sense of belonging on meaningfulness was shown to 
+endure for at least 3 weeks.
+A second objective of Study 2 was to provide evidence of 
+meaningfulness beyond simple self-ratings. Participants’ ini-
+tial sense of belonging predicted how they articulated the 
+meaning of their lives in an essay format (again, 3 weeks 
+later), as participants reporting a stronger initial sense of 
+belonging wrote essays that independent raters judged as 
+more indicative of having found meaning in life. Thus, 
+belongingness does not simply encourage people to mark 
+higher numbers on scales that ask them whether their lives 
+have meaning. People who feel they belong are able to 
+express in their own words their sense of life’s meaning—
+and they do so better and more effectively than people with 
+less sense of belonging, as judged by independent observers 
+who were unaware of the belongingness scores. In addition, 
+we think the use of impartial evaluators as a means of mea-
+suring meaning in life is a small but important methodologi-
+cal advance. This is supported by the fact that sense of 
+belonging predicted articulated meaning scores in a way that 
+was significantly correlated with self-reported meaning but 
+at a sufficiently low level that there was a substantial amount 
+of nonshared variance.
+Studies 3 and 4 used experimental designs to determine 
+whether activating a sense of belonging caused increased 
+meaning in life. Rather than compare participants primed 
+with a sense of belonging to a neutral control condition, we 
+compared them with participants who were primed with 
+other variables related to social relationships (social support 
+and social value). This allowed the inference that the higher 
+meaningfulness scores reported by those in the belonging-
+ness condition were specifically due to the high sense of 
+belongingness or that, given the mediational results, social 
+value or social support affect meaningfulness through a sense 
+of belonging. Study 3 demonstrated that a sense of belonging 
+caused people to report higher levels of meaningfulness, 
+over and above the meaning that stems from positive social 
+relationships and interactions generally. However, we did not 
+include any self-reports of belonging, so it was unclear 
+whether it was belonging that was driving the effect on 
+meaning.
+Study 4 addressed this issue by measuring belongingness 
+directly after the manipulation. The belonging condition and 
+social support condition bolstered belongingness. However, 
+as predicted, belongingness mediated the relationship 
+between condition and increased meaningfulness. This final 
+study provides further evidence for a robust relationship 
+between belonging and perceived meaning. Thinking of
+
+Lambert et al.	
+1425
+valued relationships causes people to feel that they belong, 
+and this feeling contributes to causing people to find their 
+lives to be highly meaningful.
+Most of the participants in the current work were students 
+at Western universities. However, participants in Study 4 
+were Indian students. The results of Study 4 revealed that the 
+effect of belonging on meaning is not specific to Westerners, 
+as increased belonging was associated with a more meaning 
+in both samples. This is not to suggest that the American and 
+Indian samples responded identically to our manipulations. 
+In particular, Indian participants demonstrated increased 
+belonging in response to the belonging prompt and the social 
+support prompt. This unique pattern of results likely reflects 
+important 
+cross-cultural 
+differences 
+between 
+North 
+Americans and Indians (e.g., Kapoor, Hughes, Baldwin, & 
+Blue, 2003). For instance, it is possible individuals in col-
+lectivist cultures are more likely to receive social support 
+from perceived in-group members compared with individu-
+als from individualistic cultures. As such, thinking about 
+social support might activate thoughts of in-group cohesive-
+ness more for participants in collectivist cultures compared 
+with participants in individualistic cultures.
+In a related vein, research suggests that individuals from 
+collectivist cultures are more likely to use implicit social 
+support strategies characterized by “the emotional comfort 
+that one can obtain from social networks without disclosing 
+or discussing one’s problems” (Kim, Sherman, & Taylor, 
+2008; p. 522). This type of social support allows the indi-
+vidual to be reminded of close others without having to 
+worry about possibly relational implications associated with 
+receiving explicit support (e.g., “losing face”). It is, there-
+fore, possibly that the social support prompts in our studies 
+similarly activated a heightened sense of belonging for the 
+Indian participants compared with the North American par-
+ticipants. Clearly, future research is needed to illuminate how 
+cultural differences moderate the extent to which social sup-
+port bears on perceptions of belonging and meaning in life.
+Several lines of research illustrate that social exclusion 
+decreases meaningfulness in some way (e.g., Stillman et al., 
+2009; Williams, 1997, 2002; Williams et al., 2000), and 
+emerging research has demonstrated that family relation-
+ships promote meaning in life (Lambert et al., 2010). The 
+present work sheds light on these findings by revealing that 
+relationships that provide a sense of belonging are especially 
+likely to promote meaning in life. In other words, past 
+research has shown that having relationships is related to 
+perceiving life as meaningful, whereas the present work 
+found evidence for the kind of relationship that most pro-
+motes meaning in life: those that promote a sense of belong-
+ing. Future research should examine which type of 
+associations (e.g., romantic partners vs. social groups) pro-
+vide the greatest sense of belonging. While all types of social 
+relationships likely contribute to the experience of meaning-
+fulness, it is likely feelings of belongingness in large social 
+groups play a particularly strong role in this experience. 
+Group identification has long been implicated in the mainte-
+nance and enhancement of psychological health and well-
+being, and researchers have posited that it can enhance 
+perceptions of meaningfulness specifically (e.g., Haslam et 
+al., 2009). As such, future research may want to directly test 
+how (and why) feelings of belongingness in large social 
+groups enhance meaningfulness. An interesting test, for 
+example, would be to examine how perceptions of prejudice 
+and discrimination influence reports of meaning. While 
+social exclusion may decrease feelings of meaningfulness 
+(Williams, 1997), perceiving that one is ostracized because 
+of ones’ group membership may paradoxically bolster the 
+experience of meaning by making one’s group identity 
+salient (cf. Branscombe, Schmitt, & Harvey, 1999).
+Having a sense of belonging is to have a relationship with 
+people, or a group of people, that brings about a secure feel-
+ing of fitting in. As such, sense of belonging is not the same 
+as simply having social relationships. Nor is it synonymous 
+with having positive, close relationships. Our use of the term 
+belonging is similar to that suggested by Brewer (2008), who 
+proposed that belonging is appropriate for describing group 
+membership, whereas bonding is preferable when discussing 
+close attachments. The current work suggests that belonging, 
+in the sense of fitting in with others, is closely related to find-
+ing meaning in life.
+Increasing the meaning that one finds in life may be an 
+important way of promoting well-being (Steger & Kashdan, 
+2009). The current findings may be useful to practitioners of 
+group therapy, as efforts to increase a sense of belonging to 
+the therapy group seem plausible. Yalom (1995) proposed 
+that group cohesiveness (a distinct but related concept to 
+sense of belonging) is the precursor to group self-esteem, 
+hope, and psychological well-being in the therapeutic envi-
+ronment, and recent work supports this claim (Marmarosh, 
+Holtz, & Schottenbauer, 2005). Therefore, promoting a 
+sense of belonging could have curative effects. Finally, 
+given Yalom’s finding connecting group cohesiveness to 
+self-esteem, it could be that gaining an increased sense of 
+belonging boosts self-esteem and that this is what enhances 
+meaning. This mechanism should be examined by future 
+research.
+Conclusion
+Although previous research has demonstrated that, in gen-
+eral, social relationships promote the perception that life is 
+meaningful, the present work found that relationships that 
+promote a sense of belonging are especially likely to pro-
+mote a belief that one’s life is meaningful. The current stud-
+ies not only demonstrated a robust correlation between these 
+two variables but also showed that priming belongingness 
+increased meaningfulness, even compared with participants 
+primed with social support and social value. Furthermore, 
+we did not rely solely on self-reported meaningfulness: We 
+found a similar pattern of results when examining whether
+
+1426	
+Personality and Social Psychology Bulletin 39(11)
+earlier belongingness would predict later ability to articulate 
+one’s “why life is meaningful.” Using a diverse set of meth-
+ods, we found converging evidence that feeling a sense of 
+belongingness is a powerful predictor and cause of finding 
+life meaningful.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect 
+to the research, authorship, and/or publication of this article.
+Funding
+The author(s) received no financial support for the research, author-
+ship, and/or publication of this article.
+References
+Ainsworth, M. D. (1989). Attachments beyond infancy. American 
+Psychologist, 44, 709-716.
+Aron, A., Aron, E. N., & Norman, C. (2001). Self-expansion model 
+of motivation and cognition in close relationships and beyond. 
+In G. J. O. Fletcher & M. S. Clark (Eds.), Blackwell handbook 
+of social psychology: Interpersonal processes (pp. 478-501). 
+Malden, MA: Blackwell.
+Axelrod, R., & Hamilton, W. D. (1981). The evolution of coopera-
+tion. Science, 211, 1390-1396.
+Barash, D. P. (1977). Sociobiology and behavior. New York, NY: 
+Elsevier.
+Battista, J., & Almond, R. (1973). The development of meaning in 
+life. Psychiatry, 36, 409-427.
+Baumeister, R. F. (1991). The meanings of life. New York, NY: 
+Guilford.
+Baumeister, R. F. (2005). The cultural animal: Human nature, 
+meaning, and social life. New York, NY: Oxford University 
+Press.
+Baumeister, R. F., & Leary, M. R. (1995). The need to belong: 
+Desire for interpersonal attachments as a fundamental human 
+motivation. Psychological Bulletin, 117, 497-529.
+Bowlby, J. (1969). Attachment and loss: Vol. 1. Attachment. New 
+York, NY: Basic Books.
+Branscombe, N. R., Schmitt, M. T., & Harvey, R. D. (1999). 
+Perceiving 
+pervasive 
+discrimination 
+among 
+African-
+Americans: Implications for group identification and well-
+being. Journal of Personality and Social Psychology, 77, 
+135-149.
+Brewer, M. B. (2008). Social identity and close relationships. In J. 
+P. Forgas & J. Fitness (Eds.), Social relationships: Cognitive, 
+affective, and motivational processes (The Sydney sympo-
+sium of social psychology, pp. 167-184). New York, NY: 
+Psychology Press.
+Buss, D. M. (1990). The evolution of anxiety and social exclusion. 
+Journal of Social & Clinical Psychology, 9, 196-210.
+Crumbaugh, J. C., & Maholick, L. T. (1964). Manual of instruc-
+tions for the purpose-in-life test. Lafayette, IN: Psychometric 
+Affiliates.
+Debats, D. L., van der Lubbe, P. M., & Wezeman, F. R. A. (1993). 
+On the psychometric properties of the Life Regard Index (LRI): 
+A measure of meaningful life. Personality and Individual 
+Differences, 14, 337-345.
+Ebersole, P. (1998). Types and depth of written life meanings. In P. 
+T. P. Wong & P. S. Fry (Eds.), The human quest for meaning: A 
+handbook of psychological research and clinical applications 
+(pp. 179-191). Mahwah, NJ: Lawrence Erlbaum.
+Frankl, V. E. (1963). Man’s search for meaning: An introduction 
+to logotherapy. New York, NY: Washington Square. (Original 
+work published 1946)
+Frankl, V. E. (1969). The will to meaning: Foundations and applica-
+tions of logotherapy. New York, NY: New American Library.
+Harlow, L. L., Newcomb, M. D., & Bentler, P. M. (1986). 
+Depression, self-derogation, substance use, and suicide ide-
+ation: Lack of purpose in life as a mediational factor. Journal 
+of Clinical Psychology, 42, 5-21.
+Haslam, S. A., Jetten, J., Postmes, T., & Haslam, C. (2009). Social 
+identity, health and well-being: An emerging agenda for 
+applied psychology. Applied Psychology: An International 
+Review, 58, 1-23.
+Hicks, J. A., & King, L. A. (2009). Meaning in life as a subjec-
+tive judgment and a lived experience. Social & Personality 
+Psychology Compass, 10, 638-653.
+Hogg, M. A. (2005). Uncertainty, social identity and ideology. In 
+S. R. Thye & E. J. Lawler (Eds.), Advances in group processes 
+(Vol. 22, pp. 203-230). New York, NY: Elsevier.
+Hogg, M. A. (2009). Managing self-uncertainty through group 
+identification. Psychological Inquiry, 20, 221-224.
+Johnson, M. (1987). The body in the mind. Chicago, IL: University 
+of Chicago Press.
+Joske, W. D. (1981). Philosophy and the meaning of life. In E. D. 
+Klemke (Ed.), The meaning of life (pp. 248-261). New York, 
+NY: Oxford University Press. (Original work published 1974)
+Kapoor, S., Hughes, P. C., Baldwin, J. R., & Blue, J. (2003). The 
+relationship of individualism-collectivism and self-constru-
+als to communication styles in India and the United States. 
+International Journal of Intercultural Relations, 27, 683-700.
+Kim, H. S., Sherman, D. K., & Taylor, S. E. (2008). Culture and 
+social support. American Psychologist, 63, 518-526.
+Klinger, E. (1977). Meaning and void: Inner experience and 
+the incentives in people’s lives. Minneapolis: University of 
+Minnesota Press.
+Klinger, E. (1998). The search for meaning in evolutionary perspec-
+tive and its clinical implications. In P. Wong & P. Fry (Eds.), 
+The human quest for meaning: A handbook of psychological 
+research and clinical applications (pp. 27-50). Mahwah, NJ: 
+Lawrence Erlbaum.
+Krause, N. (2007). Longitudinal study of social support and mean-
+ing in life. Psychology and Aging, 22, 456-469.
+Kunzendorf, R. G., & McGuire, D. (1994). Depression: The reality 
+of “no meaning” versus the delusion of “negative meaning” 
+(No Meaning Scale and Negative Meaning Scale published 
+in Kunzendorf, Moran, & Gray’s [1995-1996] appendices). 
+Unpublished manuscript.
+Kunzendorf, R. G., Moran, C., & Gray, R. (1995-1996). Personality 
+traits and reality-testing abilities, controlling for vividness 
+of imagery. Imagination, Cognition, and Personality, 15, 
+113-131.
+Lambert, N. M., Baumeister, R., Stillman, T. F., & Fincham, F. D. 
+(in press). Family and meaning: Examining the four needs for 
+meaning as mediators. The International Journal of Existential 
+Psychology and Psychotherapy.
+
+Lambert et al.	
+1427
+Lambert, N. M., Stillman, T. F., Baumeister, R. F., Fincham, F. D., 
+Hicks, J. A., & Graham, S. (2010). Family as a salient source of 
+meaning in young adulthood. Journal of Positive Psychology, 
+5, 367-376.
+Leary, M. (2000). The nature and function of self-esteem: 
+Sociometer theory. Burlington, VT: Elsevier.
+Lifton, R. J. (1979). The broken connection: On death and continu-
+ity of life. New York, NY: Simon & Schuster.
+Little, B. R. (1998). Personal project pursuit: Dimensions and 
+dynamics of personal meaning. In P. T. P. Wong & P. S. Fry 
+(Eds.), The human quest for meaning: A handbook of psy-
+chological research and clinical applications (pp. 193-212). 
+Mahwah, NJ: Lawrence Erlbaum.
+Marmarosh, C., Holtz, A., & Schottenbauer, M. (2005). Group 
+cohesiveness, group-derived collective self-esteem, group-
+derived hope, and the well-being of group therapy members. 
+Group Dynamics: Theory, Research, and Practice, 9, 32-44.
+Mascaro, N., & Rosen, D. H. (2005). Existential meaning’s role in 
+the enhancement of hope and prevention of depressive symp-
+toms. Journal of Personality, 73, 985-1014.
+Mascaro, N., & Rosen, D. H. (2006). The role of existential meaning 
+as a buffer against stress. Journal of Humanistic Psychology, 
+46, 168-190.
+Mikulincer, M., Florian, V., & Hirschberger, G. (2004). The ter-
+ror of death and the quest for love: An existential perspective 
+on close relationships. In J. Greenberg & T. A. Pyszczynski 
+(Eds.), Handbook of experimental existential psychology (pp. 
+287-304). New York, NY: Guilford.
+Moreland, R. L. (1987). The formation of small groups. In C. 
+Hendrick (Ed.), Group processes: Review of personality and 
+social psychology (Vol. 8, pp. 80-110). Newbury Park, CA: 
+SAGE.
+Preacher, K. J., & Hayes, A. F. (2008). Asymptotic and resam-
+pling strategies for assessing and comparing indirect effects 
+in multiple mediator models. Behavior Research Methods, 40, 
+879-891.
+Reker, G. T., Peacock, E. J., & Wong, P. T. P. (1987). Meaning 
+and purpose in life and well-being: A lifespan perspective. 
+Journals of Gerontology, 42, 44-49.
+Rosenberg, M. (1965). Society and the adolescent self-image. 
+Princeton, NJ: Princeton University Press.
+Russell, D. (1996). The UCLA Loneliness Scale (Version 3): 
+Reliability, validity, and factor structure. Journal of Personality 
+Assessment, 66, 20-40.
+Schlegel, R. J., Hicks, J. A., King, L. A., & Arndt, J. (2011). Feeling 
+like you know who you are: Perceived true self-knowledge and 
+meaning in life. Personality and Social Psychology Bulletin, 
+37, 745-756.
+Shrout, P. E., & Bolger, N. (2002). Mediation in experimental and 
+nonexperimental studies: New procedures and recommenda-
+tions. Psychological Methods, 7, 422-445.
+Sobel, M. E. (1982). Asymptotic confidence intervals for indirect 
+effects in structural models. In S. Leinhardt (Ed.), Sociological 
+methodology (pp. 290-312). San Francisco, CA: Jossey-Bass.
+Sommer, K. L., Williams, K. D., Ciarocco, N. J., & Baumeister, R. 
+F. (2001). When silence speaks louder than words: Explorations 
+into the intrapsychic and interpersonal consequences of social 
+ostracism. Basic and Applied Social Psychology, 23, 225-243.
+Steger, M. F. (2012). Experiencing meaning in life: Optimal func-
+tioning at the nexus of well-being, psychopathoology, and 
+spirituality In P. T. P. Wong & P. S. Fry (Eds.), Handbook of 
+personal meaning: Theory, research, and application (2nd ed., 
+pp. 165-184). Mahwah, NJ: Lawrence Earlbaum.
+Steger, M. F., & Frazier, P. (2005). Meaning in life: One link in the 
+chain from religiousness to well-being. Journal of Counseling 
+Psychology, 52, 574-582.
+Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The 
+Meaning in Life Questionnaire: Assessing the presence of and 
+search for meaning in life. Journal of Counseling Psychology, 
+53, 80-93.
+Steger, M. F., & Kashdan, T. B. (2007). Stability and specificity of 
+meaning in life and life satisfaction over one year. Journal of 
+Happiness Studies, 8, 161-179.
+Steger, M. F., & Kashdan, T. B. (2009). Depression and everyday 
+social activity, intimacy, and well-being. Journal of Counseling 
+Psychology, 56, 289-300.
+Steger, M. F., Oishi, S., & Kashdan, T. B. (2009). Meaning in 
+life across the life span: Levels and correlates of meaning in 
+life from emerging adulthood to older adulthood. Journal of 
+Positive Psychology, 4, 43-52.
+Stillman, T. F., Baumeister, R. F., Lambert, N. M., Crescioni, A. 
+W., DeWall, C. N., & Fincham, F. D. (2009). Alone and with-
+out meaning: Life loses meaning following social exclusion. 
+Journal of Experimental Social Psychology, 45, 686-694.
+Tajfel, H. (Ed.). (1978). Differentiation between social groups. 
+London, England: Academic Press.
+Twenge, J. M., Catanese, K. R., & Baumeister, R. F. (2003). Social 
+exclusion and the deconstructed state: Time perception, mean-
+inglessness, lethargy, lack of emotion, and self-awareness. 
+Journal of Personality and Social Psychology, 85, 409-423.
+Van Beest, I., & Williams, K. D. (2006). When inclusion costs and 
+ostracism pays, ostracism still hurts. Journal of Personality 
+and Social Psychology, 91, 918-928.
+Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and 
+validation of brief measures of positive and negative affect: The 
+PANAS Scales. Journal of Personality and Social Psychology, 
+54, 1063-1070.
+Williams, K. D. (1997). Social ostracism. In R. M. Kowalski (Ed.), 
+Aversive interpersonal behaviors (pp. 133-170). New York, 
+NY: Plenum.
+Williams, K. D. (2002). Ostracism: The power of silence. New 
+York, NY: Guilford.
+Williams, K. D., Cheung, C. K. T., & Choi, W. (2000). 
+CyberOstracism: Effects of being ignored over the internet. 
+Journal of Personality and Social Psychology, 79, 748-762.
+Wong, P. T. P., & Fry, P. S. (Eds.). (1998). The human quest for 
+meaning: A handbook of psychological research and clinical 
+applications. Mahwah, NJ: Lawrence Erlbaum.
+Yalom, I. D. (1995). The theory and practice of group psychother-
+apy (4th ed.). New York, NY: Basic Books.
+Zika, S., & Chamberlain, K. (1987). Relation of hassles and per-
+sonality to subjective well-being. Journal of Personality and 
+Social Psychology, 53, 155-162.
+Zika, S., & Chamberlain, K. (1992). On the relation between mean-
+ing in life and psychological well-being. British Journal of 
+Psychology, 83, 133-145.

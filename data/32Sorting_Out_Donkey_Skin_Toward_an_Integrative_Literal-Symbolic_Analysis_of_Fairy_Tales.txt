@@ -1,0 +1,930 @@
+Disclaimer: This is a machine generated PDF of selected content from our products. This functionality is provided solely for your
+convenience and is in no way intended to replace original scanned PDF. Neither Cengage Learning nor its licensors make any
+representations or warranties with respect to the machine generated PDF. The PDF is automatically generated "AS IS" and "AS
+AVAILABLE" and are not retained in our systems. CENGAGE LEARNING AND ITS LICENSORS SPECIFICALLY DISCLAIM ANY
+AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING WITHOUT LIMITATION, ANY WARRANTIES FOR AVAILABILITY,
+ACCURACY, TIMELINESS, COMPLETENESS, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR
+PURPOSE. Your use of the machine generated PDF is subject to all use restrictions contained in The Cengage Learning Subscription
+and License Agreement and/or the Gale Academic OneFile Terms and Conditions and by using the machine generated PDF
+functionality you agree to forgo any and all claims against Cengage Learning or its licensors for your use of the machine generated
+PDF functionality and any output derived therefrom.
+Sorting out donkey skin (ATU 510B): toward an integrative literal-
+symbolic analysis of fairy tales
+Author: Jeana Jorgensen 
+Date: Annual 2012 
+From: Cultural Analysis(Vol. 11)
+Publisher: Cultural Analysis
+Document Type: Critical essay 
+Length: 14,258 words
+Abstract: 
+This article debates the merits of fairy tale interpretive frameworks that privilege the psychological and symbolic,
+versus those that utilize a literal and feminist orientation. Using ATU 510B as a test case, for its intriguing blend
+of real-world elements and the fantastic, the author suggests that a synthesis of literal and symbolic theories
+allows for the fullest understanding of the polyvalent meanings of tale, which is particularly problematic due to its
+depictions of incest. Drawing examples from canonical as well as contemporary versions of ATU 510B, various
+psychoanalytic and feminist interpretations of the tale type are put to the test, and ultimately combined to reach a
+more productive framework.
+ATU 510B, "Peau d'Asne" (also "Donkey Skin" and previously "The Dress of Gold, of Silver, and of Stars [Cap o' Rushes]"),
+exists within a rich, international oral tradition and has attracted literary rewriters, from Charles Perrault and the Grimm
+brothers, to modern American novelists and short story writers. The tale has been problematic for publishers as well as
+scholars, however, due to its overt references to incest. As Kay Stone observes, ATU 510B rarely appears in collections "since
+the heroine is forced to leave home to avoid her father's threats of an incestuous marriage" (1975, 46). Scholars of this tale
+type must decide how to interpret the tale's elements, ranging from those that appear in real life--family relationships, rings, and
+dresses--to those that are clearly fantastic, like the garments that shine as brightly as celestial bodies. Interpretations of this
+tale tend to focus either on its manifest or latent content; however, exclusive attention to surface details instead of deeper
+symbols, or vice versa, restricts the potential meanings of the tale and its possibilities to address a wide range of experiences.
+The purpose of this inquiry is to illuminate this full range of meaning in ATU 510B and, in doing so, to outline a flexible
+interpretive methodology that can better account for these multiple interpretive levels.
+Classificatory scholarship on ATU 510B tends to focus on its divergences from the related tale type ATU 510A, "Cinderella."
+Hans-Jorg Uther's updated The Types of International Folktales describes ATU 510B's plot generally: a king promises his dying
+wife that he will marry someone as beautiful as her (or who fulfills another condition), who turns out to be their daughter. The
+daughter delays the wedding by asking her father for magical garments, often three beautiful dresses and a coat or covering of
+rough fur or wood. The daughter escapes to another kingdom, works in the castle, and enchants the resident prince in her
+dresses. She taunts him with her secret identity, retaliation for his rude treatment of her servant persona. Finally, she slips him
+a token or he uncovers her, and they marry. The versions that Uther lists span the British Isles, Baltic states, Scandinavian
+countries, Germanic-speaking countries, Romance-language countries, Mediterranean countries, East European states, Slavic
+states, Middle East, some parts of Asia, and European-colonized locations in North and South America. (2)
+Christine Goldberg's monograph on ATU 510B gives an outline of the tale's plot that positions the "Unnatural Father" and the
+"Love Like Salt" episodes as equivalent, for either one can provide the motivation for the daughter to flee and pose as a
+servant. Goldberg asserts that, because "the Unnatural Father (motif T411) is a character in AT 706, The Maiden without
+Hands," the incestuous father's presence cannot be used to distinguish ATU 510B from other types (1997, 31). Instead, she
+argues, "The essence of the Donkey Skin tale--its identifying qualities--are the heroine's disguise and her position as a servant"
+(1997, 31). Yet the same could be said of ATU 510A, or ATU 923 ("Love Like Salt"). (3) Thus the reason for the heroine's flight
+must inform any consideration of this tale type as distinct from related tales.
+As the threat of incest links many variants found under these tale types that chronicle the rise of an innocent persecuted
+heroine in disguise, an analysis of one should be informed by the others. (4) D. L. Ashliman's analysis and collection of Indo-
+
+European incest tales relies on intertextuality to discuss the tales in light of one another. His summary of ATU 510B on his
+webpage "The Father Who Wanted to Marry His Daughter" is useful, as it does not rely solely on motifs to define the tale, but
+instead breaks the tale down into plot elements rather like Holbek's moves. (5) Ashliman's comprehensive analysis includes
+ATU 510B in addition to ATU 706, brother-sister incest tales, and other tales that are not as easily classified, reminding us that
+the boundaries between tale types are fluid.
+In this paper, however, I primarily limit my analysis to examples of ATU 510B. I utilize some of the well-known texts found in
+Ashliman's online tale collection, "The Father Who Wanted to Marry His Daughter": Charles Perrault's (French) "Donkeyskin,"
+the Grimms' (German) "All-Kinds of Fur" ("Allerleirauh" in German), Thomas Crane's (Italian) "Fair Maria Wood," and
+"Broomthrow, Brushthrow, Combthrow" from Austria. Ethnographically-collected texts in my analysis include Laura
+Gonzenbach's Sicilian "Betta Pilusa" (in Zipes 2004, 52-58), E.T. Kristensen's Danish "Pulleru" (in Holbek 1998, 552-53),
+Alessandro Falassi's Italian "Donkey Skin" (1980, 42-45), James Taggart's Spanish "Cinderella" (1990, 106-109), and Ibrahim
+Muhawi and Sharif Kanaana's Palestinian "Sackcloth" (1989, 125-30). Finally, I also draw on recent literary rewrites of the tale:
+Robin McKinley's Deerskin (1993), Jane Yolen's "Allerleirauh" (1995), and Terri Windling's "Donkeyskin" (1995). Though the
+above-mentioned tales are the only texts I will directly reference, I also make use of Marian Rolfe Cox's 1893 collection of
+Cinderella-type tales and Anna Birgitta Rooth's 1951 The Cinderella Cycle. Here, I take the view that it is more useful to view
+literary and ethnographic texts on a spectrum than to separate them completely in analysis. (6)
+Interpretive Frameworks
+How we interpret fairy tales depends a great deal upon how we conceive of their relationship to reality, and the nature of this
+relationship remains contested. Although fairy tales' content may not be precisely mimetic, the scholarly treatments of them
+have often employed the metaphor of a mirror to describe a wide variety of relationships between these texts and reality. For
+instance, Stephen Swann Jones (2002) hypothesizes that fairy tales are cultural and psychological mirrors, while Kate
+Bernheimer's edited book Mirror, Mirror on the Wall: Women Writers Explore Their Favorite Fairy Tales (1998) is based on the
+premise that fairy tales offer people, especially writers, valuable sites of self-reflection. Bengt Holbek, by contrast, observes
+that it does not appear possible to keep the interpreters out of the interpretation, and hence that "texts are in fact mirrors in
+which we see our own faces rather than anything else" (1998, 402). Fairy tales do not always serve as simple mirrors,
+however. As Cristina Bacchilega demonstrates in Postmodern Fairy Tales, the mimetic strategies of fairy tales are ideologically
+motivated, making it crucial to ask not only how the fairy tale is framed, but also who is holding and manipulating that frame.
+Therefore, it is necessary to ask about cultural context, and to determine when fantasy can be interpreted as mirroring reality or
+distorting it.
+That fairy tales have some connection to reality is undeniable. Vladimir Propp, for instance, notes: "Obviously, the tale is born
+out of life; however, the wondertale is a weak transcript of reality" (1984, 84). This remark implies that while tales may not be
+mirror-images of reality, they are still informed by human experience. Similarly, Lutz Rohrich argues that: "Reality underpins
+even fantasy; not even fantasy is independent of the social conditions in the narrator's real life" (1991, 192). Holbek goes
+further in his Interpretation of Fairy Tales to claim that fantasy may even be the primary instrument through which social
+conditions can be discussed, mediated, and escaped (1998). Social context is an important part of folkloristic analysis, but it is
+not always clear whether this context should privilege internal (relating to the psychology or emotions of characters and
+narrators) or external reality (historical or actual events). This conundrum creates the divide between symbolic and literal
+readings of fairy tales.
+Often the issue of performing literal or symbolic reading has broken down along the lines of those who see characters as
+exhibiting human emotions and reactions, and those who see them as flat details or psychological devices in service of a larger
+narrative. The question of whether characters in fairy tales represent real human beings and can be analyzed as such is
+subject to great variation. In the assorted versions of ATU 510B, for instance, we see behavior that ranges from earthy and
+human to abstract and archetypal. (7) This range is necessarily related to the tension between communal tradition and
+individual innovation, which is at the heart of folklore performances. Naturally, diverse narrators and audiences will relate to
+their characters differently, with several levels of projection and empathy. Given this range, it is most productive to view the
+behavior and humanity of fairy-tale characters on a spectrum, extending from conceptual to concrete.
+Since the way in which we see fairytale characters--as symbols or humans--carries consequences for how they are interpreted,
+this dichotomy of views on the nature of fairy tale characters has given rise to two distinct traditions of interpretation:
+psychological approaches, which interpret characters conceptually; and literal approaches, which interpret characters as
+concrete. I shall give an overview of both approaches in the scholarship on ATU 510B before presenting a more subtle
+synthesis of interpretive methods. (8)
+Psychological Approaches to the Tale
+Scholars interested in symbolism claim that literal readings of fairytales are simply not adequate, since the fantastic elements
+of tales must be accounted for. Symbolic readings of folk narrative can take many forms, of which the psychological approach
+is but one. However, given the comparative prevalence of psychological approaches in fairy tale studies, I have chosen to
+
+foreground these theories in my discussion of symbolic approaches. (9) According to Donald Haase, psychological approaches
+work on the assumption that "fairy-tale plots and motifs are not representations of socio-historical reality, but symbols of human
+experience that provide insight into human behavior" (2000, 404). This approach is useful in explicating incredible aspects of
+tales not found in real life. As Holbek notes: "If the meaning ... of the marvelous features in fairy tales cannot be disclosed by a
+study of their historical origins, some kind of synchronic approach to interpretations becomes a necessity" (1998, 259). (10)
+Psychological approaches to ATU 510B, however, do not always focus on the fantastic elements of the tale. More often, the
+interpersonal relationships within the tale are the focus of interpretation, though how they are interpreted often breaks down
+along Freudian or Jungian lines. (11)
+Freudian or psychoanalytic approaches to ATU 510B privilege the Oedipal drama, positing that the fairy tale is told from a
+child's point of view. Any projection within the tale is thus on the part of the child protagonist. A few examples from related tale
+types will illustrate this tendency. Dundes, Holbek, and Bruno Bettelheim all focus on explaining the incestuous father-daughter
+relationship from the daughter's perspective. Dundes begins his study of ATU 706, "The Maiden without Hands," with a
+discussion of the Electra complex, relating a comment by early psychoanalyst Riklin on tales where fathers want to marry their
+daughters: "the initial death of the mother (queen) reflected wishful thinking on the part of adolescent girls who, in terms of the
+Electral complex, wanted to replace their mothers vis-a-vis their fathers" (1989, 138). From this view, the cycle of father-
+daughter incest tales is not actually about real-life incest, but rather the daughter's desire for her father, disguised and
+embedded within the tale's plot. Other Freudians arrive at similar conclusions. Bettelheim states that Cinderella's "degradation--
+often without any stepmother and (step)sisters being part of the story--is the consequence of oedipal entanglement of father
+and daughter" (1975, 245). Ben Rubenstein connects young Cinderella's "phallic strivings and penis envy" to "the sexual
+pursuit of the daughter by the father," whom the daughter desires (1982, 225).
+In contrast, Jungian approaches to fairy tales eschew the infantile sexuality hypothesis, focusing instead on universalized
+masculine and feminine values. Marie Louise von Franz's approach is typical in that she does not address incest or conditions
+of power and abuse in real life in her discussion of ATU 706, "The Maiden without Hands." All of the characters in this tale
+represent inner figures within a psyche, with the father as the destructive animus and the future husband as "a collective
+dominating positive spirit" (1993, 95). Marion Woodman also views the father-daughter tension as part of a soul's journey. In
+Leaving My Father's House: A Journey Toward Conscious Femininity, she uses the Grimms' version of ATU 510B as an
+organizing metaphor for every woman's voyage from patriarchal trauma to contact with the eternal feminine. (12) This analysis
+focuses on collective experiences with individual testimonies woven in. The fairy tale is meaningful only insofar as it expresses
+the Jungian paradigm of feminine development that Woodman follows.
+Holbek surveys Freudian, Jungian, and other psychological approaches to fairy tales, claiming to reject each one owing to his
+inability to "pronounce any one of them more 'right' than the other" (1998, 319). However, in his own analysis, Holbek resorts to
+what Vaz da Silva criticizes as "fairly standard Freudian symbolism" which attempts "to reduce all symbolic expressions to
+emotional impressions" (2000, 7). The tendency for psychological approaches to be reductionistic is one problem with applying
+them to fairy tales, which are by nature polyvalent. Additionally, most of the psychological theories applied to folklore were
+created to be used in therapy and not the interpretation of cultures and texts. So this must also be taken into account. Thus, the
+origins and uses of psychoanalysis in particular should be questioned before their relevance to fairy tales is unconditionally
+accepted.
+For example, the Electra complex is instrumental to the psychoanalytic interpretation of ATU 510B and kindred tales, and is an
+especially contested idea. Kilmartin and Dervin point out that, because Freud did not see the developments of males and
+females as analogous, "the Electra complex and the Oedipus complex should not be represented as parallel" (Kilmartin and
+Dervin 1997, 269). In fact, they continue, "the Electra complex is actually not much more than a footnote in psychoanalytic
+history, rejected by the father of the field (Freud) and later ignored by the very person who coined the term (Jung)" (Kilmartin
+and Dervin 1997, 269). Today, even Freudian scholars such as Alan Dundes have questioned whether the Electra Complex's
+underlying notion of "penis envy," Freud's idea that a girl would reject maternal identification and desire to be with/like the
+father, "isn't simply a form of male projection" (1982, 220). Casting the existence of penis envy into doubt thus threatens the
+legitimacy of the Electra complex, which would invalidate most psychoanalytic interpretations of ATU 510B.
+In addition to problems with the terminology associated with psychoanalysis, there are feminist concerns about the validity of
+psychoanalytic principles. Initially articulating his "seduction hypothesis," which concluded that his female patients actually
+were telling the truth when they said they had been sexually molested, Freud later shifted his views, dismissing these claims as
+fantasies (Warner 1994, 350). This shift has had repercussions for the fields of psychology, therapy, and any discipline that
+employs Freudian ideas. The authors of "The Emergence of Child Sexual Abuse from the Shadow of Sexism" examine "the
+attitudes and prejudices that blamed the victim, minimized her experience, and held her accountable" in light of "Freud's legacy
+... which has pervaded our conception of child sexual abuse for nearly 100 years, informing medical, legal, and psychiatric
+treatment" (Bayer and Connors 1988, 12). In the evolution of Freud's ideas from the seduction hypothesis to the Oedipus and
+Electra complexes: "The real experience of sexual abuse, which was the basis for the earlier theory, was turned into a fantasy
+of longing and seduction in which the child is transformed from a victim of adult power to a willing participant in the sexual
+fantasy" (Bayer and Connors 1988, 13). It is an interesting twist on wish-fulfillment that Freudian ideas like the Electra complex
+"reinforce feelings of self-blame on the assumption that children's feelings are responsible for the alleged trauma" (Bayer and
+
+Connors 1988, 14, italics in original). In the case of ATU 510B, the protagonist's desire for her father's love can be seen as the
+motivation for the tale's plot, but only if the entire tale is understood as fantasy, not mimesis. That is, any incestuous feelings on
+the part of the girl toward her father would seek an outlet through a fantasy that exculpates her from responsibility for taboo
+desires.
+Projection and identification present further problems with the psychoanalytic approach to fairy tales. For instance, Francisco
+Vaz da Silva asserts that projection cannot be attributed to fairy tale characters at all. Instead, he declares, "there cannot of
+course be such a thing as projection on the part of a fairy tale character" which means "projection is to be ascribed to narrators
+identifying with" characters (2000, 5). In Vaz da Silva's view, then, projection can be seen as an artificial construct imposed by
+narrators upon characters, or worse, as a theoretical frame forced by the interpreter.
+Another concern with projection is the difficulty of determining who is doing the projecting upon whom. Specifically, the premise
+that fairy tales are told from a child's perspective raises issues of culpability and authority. Maria Tatar notes that people are
+drawn to readings of fairy tales that blame children's sexuality for what befalls them "in part out of a desire to avoid facing the
+'unpleasant truths' that emerge once we conceded that some of the events staged in fairy-tale fictions can be as real as the
+fantasies they seem to represent" (1992, xx-xxi). In tales like ATU 510B, where the protagonist is threatened with incest that
+she supposedly desires from a psychoanalytic view, the incest that is present in the text is thereby dismissed as a
+subconscious fantasy, not something that might be present in real life. If tales of abuse are not, as psychoanalytic interpreters
+assume, told from the children's perspective, then they mean something very different about power relations. Jack Zipes claims
+that fairy tales, along with other folk narrative genres, express an adult perspective on power and the family (1995, 220). That
+is, they rationalize the self-serving actions of adults, while portraying the consequences for--not the desires of--children.
+Interestingly, Otto Rank, a member of Freud's circle in Vienna, viewed father-daughter incest stories as fantasies from the
+father's perspective (1992), hinting at a more culture-reflective view of the tales' content.
+Jungian interpreters have, at times, completely ignored any reality of violence, instead viewing the fairy tale as a journey of the
+soul, disconnected from any reality of sexual abuse. Woodman, for example, acknowledges that physical incest occurs, but
+uses ATU 510B to address psychic incest, which she believes is more prevalent and requires women to re-evaluate how they
+relate to femininity and masculinity--rather than addressing the underlying social and sexual problems of living in patriarchal
+societies. At their worst, psychological analyses of fairy tales not only ignore realities of abuse, but also rationalize them. For
+example, Bettelheim's Freudian explication of the protagonist's punishment in ATU 510A, "Cinderella," uses the problematic
+idea of masochism: "deep down a child who knows that she does want her father to prefer her to her mother feels she
+deserves to be punished for it--thus her flight or banishment, and degradation to a Cinderella existence" (1989, 246). This
+mentality can be used to justify violence against children, as in Ben Rubenstein's analysis of his young daughter's behavior in
+the context of the Cinderella story and psychoanalytic theories of masochism. He writes that his daughter's "unconscious
+constructed a beating phantasy [sic] arising sharply out of her castrated feelings" (1982, 226). Further: "It was obviously her
+wish that I would come and beat (attack) her. I had, many times, been quite impressed by the obviousness of this wish" (1982,
+226-27). This interpretation exemplifies many of the problems with psychoanalytic approaches to fairy tales--its dogmatic lens
+that departs from the text, and its reliance on the ideologically skewed roots of psychoanalysis--in addition to offering a
+disturbing glimpse of how a fairy tale can be read to justify one's own power by blaming the victim.
+Literal Approaches to the Tale
+By contrast, scholars such as Jack Zipes reject psychological approaches to fairy tales in favor of highlighting the realities of
+"child abuse, neglect, and abandonment" in fairy tales (1995, 220). Literal-minded scholars are also aware that psychological
+interpretations can detract from the sobriety of problems like sexual abuse by transforming them from social crimes into
+harmless and universal developmental issues. A literal interpretation of ATU 510B highlights the incest motif as reality, not
+symbol. Though in many versions of ATU 510B the incestuous act is threatened rather than carried out, I consider even the
+threat of sexual violence to be damaging and thus worthy of discussion. (13) In this light, the magical elements become
+metaphors for the heroine's experience of abuse, as well as reflections of a patriarchal society that condones such abuse by
+veiling or ignoring it. Often, literally-oriented scholars draw attention to the problems inherent in viewing the father in the tale as
+faultless, as psychoanalytic interpretations seem to portray him. Indeed, all motivations--of characters in tales, and of the
+interpreters themselves--are questioned. As Alice Miller points out, psychoanalysis has generally had a one-sided view of the
+parent-child relationship: "The way parents actually feel about their children is brought out very clearly in fairy tales. In
+psychoanalytic literature, on the other hand, parents' feelings towards their children are hardly ever the subject of research"
+(1984, 237). Projection and power remain key issues in literal interpretations of ATU 510B, though seen from a different angle
+than in psychological interpretations.
+Two approaches to literal interpretations of fairy tales are the historical and feminist perspectives, which are complementary but
+with differing assumptions and goals. I characterize as "feminist" those approaches that not only focus on women's
+perspectives, but also actively theorize the connections between gender, sexuality, society, and power. (14) Some of the
+historical approaches to incest tales border on myth-ritualism in their attempts to elucidate the inclusion of incest in folklore;
+Dundes characterizes these approaches as attempting to explain away the "monstrous" incest motif with rationalizations that
+reach far back into ancient times (1989, 136-37). (15) In Holbek's methodological remarks on socio-historical approaches to
+fairy tales, he concludes that all the sources he surveyed "pointed to a connection between the contents of the tales and the
+
+living conditions of the narrators" (1998, 400). (16)
+Helen Pilinovsky deals with the literal possibility of incest in her essay "Donkeyskin, Deerskin, Allerleirauh: The Reality of the
+Fairy Tale," in which she traces recent literary transformations of ATU 510B as well as the symbolism found within oral
+tradition. Pilinovsky focuses on the tale's potential to convey the heroine's positive responses to danger: "Although the princess
+in each version of tale type 510B does face the possibility of sexual abuse, she is portrayed as being able to avoid it through a
+combination of unlikely luck ... and unrealistically achieved accomplishments" (2001). Pilinovsky does not take into account
+psychoanalytic scholarship, dismissing the possibility that the heroine desires her father's attention by stating that abuse is
+never the victim's fault. She rejects psychoanalytic theory on the basis of its "number of problematic qualities," only
+acknowledging "examples in the genre of the fairy tale have been said to serve a therapeutic psychological function" (2001).
+Literal approaches tend to follow the culture-reflector theory of folklore, which, in the case of ATU 510B, would state that the
+manifest details of the tale reveal something about the culture in which it is told. D. L. Ashliman, in his essay "Incest in Indo-
+European Folktales," refers to the cultural context which sustains the plot of ATU 510B: "Reflecting the patriarchal values of the
+society that used them, these folktales seldom challenge a father's authority to do with the members of his household whatever
+he pleases" (1997). This is congruent with the context-sensitive approach that Ibrahim Muhawi and Sharif Kanaana use in their
+study of Palestinian-Arab folktales, which include a variant of ATU 510B, "Sackcloth." Muhawi and Kanaana interpret the
+heroine's plight thus: "the sexual awareness begins even before the girl leaves home, producing feelings of confusion, shame,
+and guilt, especially since she seems to arouse a most unnatural passion in her father. Hence her desire to cover her body
+completely, so as to appear to be not only of the opposite sex but also a horrible freak whom no one would want to touch"
+(1989, 145).
+Some literally-oriented scholars incorporate psychological approaches, even while acknowledging skepticism toward the power
+structures contained within. Ashliman states, "folktales dealing with father-daughter incest often reflect a psychological
+projection of unresolved Oedipal issues" (1997). Further, "the description of the fleeing daughter's 'rescue' gives further
+credence to a psychological projection interpretation of type 510B tales" because "the man who discovers and ultimately
+marries the runaway princess closely resembles the girl's own father. He too is a king, exerting despotic, patriarchal authority
+over his household" (1997). Ashliman also examines the rhetorical devices that transfer culpability from the father or obscure
+his role in the incest. Examples include the promise extracted by the king's dying wife to remarry under certain conditions, or
+the daughter's initiative in trying on her mother's ring (or shoe in some versions).
+Literal interpretations convincingly highlight power imbalances within patriarchal family structures, but they do not account for
+all of the tale's features. Forcing certain details that appear in any one version of the tale to conform to a case study of incest is
+difficult at best. Isolated aspects make sense, but others are too marvelous or too unique to fairy-tale structure to be interpreted
+in a realistic light. For instance, why would a tale depicting the trauma resulting from incest seek to exculpate the perpetrator,
+and not punish him as so many female villains are cruelly punished in other tales?
+Synthesis
+Claude Levi-Strauss famously criticized attempts to artificially splice together psychological and literal explanations of folklore.
+In these attempts, Levi-Strauss points out, a piece of narrative data is either made to fit a society directly--"mythology reflects
+the social structure and social relations"--or if the data does not directly fit the society, made to fit indirectly: "should the data be
+conflicting, it would be readily claimed that the purpose of mythology is to provide an outlet for repressed feelings" (1965, 83).
+This dichotomy, which Levi-Strauss portrays as a way for scholars to map their theories to their data, may not actually be an
+irreconcilable opposition. Rather, it is possible to view psychological and literal explanations as opposite yet complementary,
+just as there are many levels of meaning that coexist within fairy tale texts.
+While certain studies have been critiqued for placing too much weight on either the manifest or the latent content of incest fairy
+tale texts, (17) some folklorists have already begun to show how it is possible to integrate literal and symbolic approaches to
+father-daughter incest tales. Below, I shall argue why this strategy is essential. As Tatar notes, "to see a daughter as wholly
+detached from the drama of her father's desire is just as absurd as labeling her 'guilty of the original incestuous thought' when it
+is the father who makes the advances" (1992, 126). In fact, Tatar and Ashliman both incorporate psychoanalytic theory to
+describe some reasons for the appeal of these tales. Tatar explores the characters of the seductive daughter and the collusive
+mother, who have emerged in folktales and literature, predating psychoanalytic theory (1992, 130). This observation parallels
+Dundes's argument that the "folk" have been using Freudian symbolism long before Freud put a name to it (2007, 319-320).
+Ashliman agrees that "projective inversion ... has contributed to the broad dissemination of the folktales dealing with father-
+daughter incest" (1997). Though he agrees that these tales can" provide positive emotional responses to diverse problems"
+and "could indeed bring psychological comfort to a young woman troubled by unresolved Oedipal issues," he does "not want
+such a reading to deflect attention from the principal source (in [his] opinion) of the tales' popularity and longevity: their
+depiction of problems ensuing from the sexual abuse of a child" (1997). Marina Warner's common-sense observation seems to
+cover all the aspects of an interpretation of the tale: "the 'Donkeyskin' type of story yields a common insight into minds and
+experiences of young women growing up, and into erotic fantasies on both sides, the father's and the daughter's, conscious as
+well as unconscious" (1994, 350).
+
+A rejection of psychoanalysis
+  and Freud's works is fatal for
+  feminism. However it may have
+  been used, psychoanalysis is not a
+  recommendation for a patriarchal
+  society, but an analysis of one. If we
+  are interested in understanding and
+  challenging the oppression of women,
+  we cannot afford to neglect it (1974, xv,
+  italics in original).
+Context is key in determining how to evaluate the usefulness of an approach to interpreting a fairy tale. For instance, although
+feminists are justifiably wary of psychoanalysis, as mired as it is in sexism, Juliet Mitchell notes in Feminism and
+Psychoanalysis:
+Thus, if the Electra complex is at all present in ATU 510B, it is helpful as a descriptive, not prescriptive, model. Other feminists
+have critically employed psychoanalytic concepts in order to explain the sexist phenomena they observe in society. Gayle
+Rubin modifies Levi-Strauss's kinship theories to argue that the essence of kinship systems lies in an exchange of women
+among men. Rubin's theory, along with Judith Butler's writings about the performativity of gender, pairs psychoanalytic insights
+(like Freud's work) with structuralism (like Levi-Strauss) to reach a feminist scholarly synthesis (18).
+Psychological approaches to fairy tales do in fact have a subtle contribution to make to literal-minded scholars of fairy tales.
+Psychoanalysis, like analytic psychology, presents itself as revealing universal truths--about subconscious drives in the former
+case, and ties to archetypes and the collective unconscious in the latter, each of which is translated into symbols that
+ostensibly populate fairy tales. Both systems suffer from a lack of cultural context, but then, each of these systems reveals
+something about the worldviews of its adherents. If psychoanalysis is a patriarchal and sexist system of thought, and if its
+content can illuminate fairy tales, then these connections will indicate something about patriarchal values in and around fairy-
+tale contexts.
+In contrast, one of the downsides to literally interpreting fairy tales is that it ties them very closely to their particular cultural
+contexts, making it difficult to extract theoretical statements that can be generalized to other conditions. Viewing fairy tales
+within the context of transmission is useful to a point, and this is when the scholar must step in to try on different exoteric
+theories. Remaining close to the text by prioritizing the manifest details of the tale, though, prevents the interpretation from
+straying too far into abstraction (or wrong-headedness). It is crucial to integrate symbolic and literal approaches to fairy tales in
+order to ensure that an interpretation is not one-sided. And perhaps surprisingly, psychological and literal interpretations of
+ATU 510B do converge very neatly.
+Converging Interpretations
+Tatar persuasively suggests that not only narrators, but also audiences and readers, of tales are drawn to privilege certain
+readings of tales over others, according to where they would like to assign blame and agency (1992, xx). This matters
+because, among other things, fairy tales offer models for how to interpret beliefs and actions in the real world. The history of
+interpreting "Bluebeard" as a tale chastising curious women--rather than chastising serial killer husbands!--set against a
+background of domestic assault in the West is a prime example of the relevance of fairy tale logic in the real world (see
+Bacchilega 1997, 104-112). The "folk" as well as interpreters of folklore utilize multiple strategies for identifying and assigning
+blame and agency within the tales. These strategies include the instrumentalization and conflation of tale roles, as well as the
+constellation of symbols involving the heroine's skin covering.
+From a structural perspective, the father in ATU 510B serves as a catalyst for the heroine's flight, and also a hostile donor
+figure to the heroine (Holbek 1998, 417). Vaz da Silva points out that the father usually gives the gifts as a result of the promise
+made to the mother, and sometimes the heroine takes items belonging to her deceased mother (2002, 217 n. 3). The mother's
+role in motivating the incestuous intent that occurs after her death can be read in a number of ways. Ashliman notes that the
+technique of shifting the blame from the incestuous father to the dying mother often appears in conjunction with an episode in
+which the daughter tries on her deceased mother's shoes, clothes, or ring, thus seeming to invite engagement from her father.
+Amelia Rutledge suggests in her reading of the novelization of ATU 510B, Deerskin: "The promise to the wife can be read as
+an attempt to mitigate paternal culpability by suggesting his misguided fidelity; the promise also aligns both parents against the
+daughter" (2001, 175).
+Though absent, the mother can mean many things in tales of father-daughter incest, and she continues to exert a large
+influence over not only the story's plot, but also the interpretations thereof. Alan Dundes interprets the absence of the mother in
+510B-type tales as a case of wish fulfillment for the girl who theoretically wants to marry her father, given that the mother is out
+of the picture at the story's start (1982, 236). Yet a dead mother could also signify a girl's conscious feelings of abandonment in
+
+... illustrate[s] that the heroine's
+  entanglement with her father and her
+  emergence from that entanglement
+  come about as a result of her
+  complicated relationship with her
+  mother ... On the one hand, the
+  narcissistic and controlling mother
+  instructs her husband to marry only
+  another woman who looks like her and
+  unwittingly places her daughter in the
+  Oedipal situation. The widowed father
+  follows the wishes of the heroine's
+  mother and proposes marriage to
+  his daughter because she is the only
+  woman who looks like his dead wife
+  ... On the other hand, the mother,
+  symbolically recast as the female
+  neighbor, helps Cinderella extract
+  herself from her Oedipal entanglement
+  by giving her advice and the pelican
+  suit, by which she escapes her father's
+  incestuous proposal of marriage (1990,
+  110).
+an incest situation. As Judith Herman and Lisa Hirschman note in Father-Daughter Incest, female incest survivors often feel
+abandoned by their mothers in their roles as protective adults (1981, 31). Many of these women also reported feeling hostile
+toward their mothers. This corresponds to the villainization of the mother in ATU 510B which, according to Tatar, results from
+the dying mother's wishes being used to justify the father's attempted seduction (1992, 128-29). This interpretation works with
+both psychological and literal approaches: from the daughter's perspective, psychoanalytically, the mother really is the villain in
+the Oedipal drama, or read in light of real-world incest, the mother is the villain in abandoning her child to the sexual predation
+of the father, or further, providing him with the incentive to sexually pursue his daughter.
+Within the tales, however, the mother-daughter relationship is much more complex than villain-victim. Taggart analyzes the
+version of ATU 510B he collected in Spain by using some psychoanalytic concepts (the Oedipal triangle and the concept of
+split projections) but he does not simplify his data to make it fit the psychoanalytic model. He states that the (female) narrator's
+telling
+It is interesting that Taggart does not scrutinize the father's role in following the death-bed premise, only portraying him as a
+pawn of the mother. Among the tales I have selected to analyze, the death-bed promise appears in the majority: Perrault's
+"Donkey Skin," "Fair Maria Wood," the Grimms' "All Kinds of Fur," "Betta Pilusa," Falassi's "Donkey Skin," "Cinderella,"
+Deerskin, Yolen's "Allerleirauh," and Windling's "Donkeyskin." The criteria given for the selection of a new bride include
+marrying someone who looks like the mother in "Cinderella" (Taggart 1990, 106), someone as beautiful as the mother in
+Deerskin (McKinley 1993, 20), someone as beautiful and with the same golden hair in the Grimms' "All Kinds of Fur" (Ashliman
+1998), someone whom the mother's ring fits in "Fair Maria Wood" (Ashliman 1998), and someone whom a ring belonging to the
+mother fits in Falassi's "Donkey Skin" (1980, 42) as well as in "Betta Pilusa" (Zipes 2004, 52).
+With regard to the beauty conditions, it is the father who decides that only his daughter is as or more beautiful than her mother,
+and thus proposes marriage to her. These tales give narrative agency to the father, transforming the girl into a victim, whereas
+in the tales that require fulfillment of a condition, the girl often acts in a way that seems to invite her father's attention, because
+she is emulating her mother. In "Donkey Skin," the girl tries on her mother's wedding ring and comments: "Look, father, how
+nice it looks on me ... mother's ring" (Falassi 1980, 42). Similarly, in "Betta Pilusa," the girl tries on her mother's ring, but with
+an unexpected effect: "The ring slid very easily onto her finger, but when she wanted to take it off, she could not manage to do
+it" (Zipes 2004, 52). The girl becomes frightened, and wraps a piece of cloth around her finger so her father will not see, but he
+becomes angry and rips the cloth away, then declares his intention to marry her. In this tale, the ring's magical staying power
+illuminates the flow of desire from two angles: it exculpates a girl who may desire her father and traps a girl who may fear her
+father's desire. Both dynamics can coexist within an individual's psyche, just as both possibilities exist within the scope of the
+tale's variations.
+In "Fair Maria Wood," the father tries the wedding ring on various women, and then puts the ring on his daughter's finger
+against her will. (19) Yet this version is anomalous, because she consents to marry him, and the wedding actually takes place
+prior to the donor sequence, whereas in most versions the heroine obtains gifts from her father and leaves home before they
+can be wed. Here, the father asks her what she wants on the day of the wedding, and then provides her with four silk dresses
+and a wooden dress, with which the daughter escapes--but not until her father is referred to in the text as her husband. This
+version is unique in hinting that actual incest has occurred, which supports the notion that ATU 510B deals with sexual abuse
+in addition to psychological development issues. Similarly, in Windling's "Donkeyskin," the father acts on a promise to his
+
+deceased wife to marry only a "maid ... better than the Queen," who turns out to be their daughter (1995, 298). By juxtaposing
+the fairy tale and a realistic account of an abused girl, Windling concretizes the issue of incest. A related thing happens in
+Yolen's "Allerleirauh," wherein the father succeeds in marrying his daughter, leading to a chilling conclusion: "But this is not a
+fairy tale. This princess is married to her father and, always having wanted his love, does not question the manner of it" (1995,
+39). The resolution of this literary version addresses both the actual and the psychological realities of incest, already present in
+oral tellings of 510B, implying that modern authors detect both levels of meaning and view them as inextricable.
+In "Broomthrow, Brushthrow, Combthrow," "Sackcloth," and "Pulleru" the father elects to remarry of his own initiative, without
+the mother setting conditions. Holbek only provides an abbreviated version of "Pulleru," but in it, after the mother dies, the
+father "wants to marry another woman like her" and thus proposes to their daughter, who resembles her (Holbek 1998, 552). In
+"Sackcloth," the father wishes to marry his daughter simply because: "No one seemed more beautiful in his eyes, so the story
+goes, than his own daughter and he had no wish to marry another" (Muhawi and Kanaana 1989, 125). In this tale, the father
+goes so far as to ask his daughter to call him "cousin," which Muhawi and Kanaana explain is a culturally relevant detail
+because in Palestinian society, endogamy in the form of parallel first cousin marriage is "ideal" for a number of reasons (1989,
+16). In "Broomthrow, Brushthrow, Combthrow," the mother and daughter both have golden crosses on their foreheads, and the
+father decides to only marry a woman with a mark like that. This biological determinism can be read in two ways: the
+inevitability of the Electra complex in girls who have been socialized in a patriarchal society, or the certainty of a father's right to
+consider his daughter his property in a patriarchal society.
+As Tatar observes, fathers in ATU 510B and related tales are rarely portrayed as evil or punished for their incestuous desires
+(1992, 131). Considering that the mother in 510B texts has already been punished by death, it is incongruent that so few
+fathers are even reprimanded. This fits with Tatar's observation that in fairy tales more generally: "Even when they violate basic
+codes of morality and decency, fathers remain noble figures, who rarely commit premeditated acts of evil" (1987, 151). For
+instance, in "Fair Maria Wood," the father--on the day of his marriage to his daughter--is named a gentleman for gratifying his
+daughter's wishes for silk dresses. This positive view of fathers resonates with Herman and Hirschman's data collected from
+incestuous families: "most of our informants had some fond memories of their fathers. Although they feared their fathers, they
+also admired their competence and power" (1981, 82). Since incest survivors as well as Electral-phase girls can be reluctant to
+blame their fathers for their actions, and due to the frequency with which fairy tales espouse patriarchal values, it makes sense
+that in these tales, fathers would rarely, if ever, be punished.
+When the heroine flees her father's incestuous advances, she often has a helper. In Perrault's "Donkey Skin" as well as
+Falassi's "Donkey Skin," she has a fairy godmother to help her; in "Pulleru" she gets advice at her dead mother's grave; in
+Taggart's "Cinderella" she receives advice from a neighbor; and in "Betta Pilusa" she receives advice from her father
+confessor. These various helper figures all signify different aspects in the meaning(s) of the tale: the fairy godmother and
+neighbor can assimilate with the mother to represent a maternal figure, whose aim is to prevent incest from occurring (be it out
+of protectiveness or jealousy). The father confessor can represent an authority higher than the father, which is a direct
+challenge to the father's rule of the family. This intervention is in the girl's interests, but still locates the tale within a patriarchal
+frame. "Sackcloth" also features a religious figure, an Islamic cadi, whom the father asks in metaphorical terms whether
+marriage to his daughter is acceptable. The cadi's support of the father's bid to marry his daughter demonstrates the potential
+complicity of patriarchal authority figures with the familial authority of the father. The girl is her own helper in the following tales:
+"All Kinds of Fur," "Fair Maria Wood," "Broomthrow, Brushthrow, Combthrow," and "Sackcloth." These tales may represent an
+optimistic view that the girl is able to move past her Electral desires, or the abuse she either feared or endured, and essentially
+save herself.
+Another point of convergence between psychological and literal interpretations, and one that is manifestly present in many
+versions of the tale, is the eerie resemblance between the heroine's father and future husband. In the Grimms' version of the
+tale, there is practically no differentiation of the two men (Ashliman 1998; Tatar 1992, 134; Vaz da Silva 2002, 299). On a
+symbolic level, Vaz da Silva argues that themes in Iberian versions "reveal continuity between the old man and the young one
+who replaces the former in marrying the juvenile avatar of the deceased wife" (2002, 103). From \a Freudian point of view, this
+makes perfect sense. In breaking free of her Electral attachments, the heroine seeks a substitute that closely resembles her
+father. This also tallies with a feminist view of things, as in Gayle Rubin's description of how women are traded among men, in
+an effort to maintain homosocial alliances without lapsing into homosexuality (1975).
+In "Pulleru," the prince hits the heroine with a boot and later a towel, and she then teases him with these details at the dance.
+The heroine of "Allerleirauh" has to endure daily beatings over the head with the king's boots, which she must pull off for him
+each night before bed. The abuse is even more severe in "Fair Maria Wood." At first the master of the house merely abuses
+the heroine verbally, but when she asks for permission to attend the second dance: "He grew angry then, and took a stick and
+began to beat the poor servant" (Ashliman 1998). As might be guessed from the title of "Broomthrow, Brushthrow, Combthrow,"
+the prince angrily hurls each of these objects at the heroine one day after another, and she teases him by hinting at those
+objects at the balls.
+Details fromtheseversionsofATU510B support a literal interpretation parallel to the psychoanalytic interpretation. Because the
+heroine marries her husband regardless of his abusive tendencies, Tatar pessimistically questions "whether this is really a
+story that charts a course from incest averted to the legitimate fulfillment of desire" (1992, 135). Ashliman laments the cruel
+
+The heroine under her hide is, quite
+  literally, an enigma to be unraveled ...
+  as she hints, at the balls, that she is
+  the same lowly wretch the prince
+  loathes and mistreats at home ... no
+  one can unveil the riddle in her until
+  her hide falls off. The gist of this
+  theme is, then, that the hidden maiden
+  appears as two separate persons, the
+  final identification of which leads to
+  marriage (2002, 213).
+  The female protagonist, while
+  nameless as a princess, bears the name
+  of the rough and unbecoming coat
+  she has to wear as a fugitive from
+  persecution; she consequently has to
+  live out her new coat-given identity
+  by being relegated to do the most
+  menial tasks. One cannot be a princess
+  or beautiful or both when one bears
+  humble or even ugly names such as
+exploitation the heroine often encounters in her new home, commenting: "Perhaps the most disturbing aspect of 'All-Kinds-of-
+Fur' and other tales of this type is the apparent passivity with which the heroines accept the verbal abuse, the physical blows,
+and the sexual harassment dealt to them by their future husbands" (1997). The transition from an abusive parent to an abusive
+spouse, repeatedly found in ATU 510B, is reminiscent of a real-life pattern observed by therapists and caseworkers. Herman
+and Hirschman state based on clinical evidence, that "incestuous abuse has also been frequently associated with a tendency
+toward repeated victimization in adult life" (1981, 29). Framing every version of ATU 510B as a portrayal of repeated
+victimization is not necessarily true, however.
+In "Betta Pilusa," the heroine suffers no abuse at the hands of her master--in fact, he is kind: "The king went to her every day,
+brought her delicious bits of food, and conversed with her," and he is the one to invite her to his wedding ball (Zipes 2004, 55).
+In Taggart's "Cinderella," the heroine does not even come into contact with the king's son until she attends the ball. The initial
+encounter in Perrault's "Donkey Skin" is one-sided, privileging the male gaze: the prince glimpses the heroine in her lovely
+dresses by spying on her humble lodgings. Likewise, in Falassi's "Donkey Skin" and Muhawi and Kanaana's "Sackcloth," the
+king does not abuse the heroine, but rather is curious about her upon hearing reports of her beauty. It is tempting to speculate,
+that since women narrated most of these non-abusive versions (barring Perrault's), these narrators were projecting into the
+tales their ideal concepts of marriage partners--men who are not abusive. These versions make sense in light of Marina
+Warner's statement that "in the 'Donkeyskin' cycle, [the heroine's] rebellion means she chooses between father and lover, and
+they do not conspire" (1994, 325). If taken to mean that father and future husband do not conspire to abuse and oppress the
+heroine, this is an optimistic model for feminine development, for its implies that a girl can mature to the point of moving beyond
+her (Electral) attachment to her father and thus seek a suitable replacement.
+Thus, abuse in the heroine's new home is not a requisite definition for ATU 510B. The spectrum of possibilities in both oral and
+written versions makes it clear that, for some of the "folk" abuse is an issue that needs to be addressed in some form, while for
+others, it is not the primary issue in the tale. Regardless, the connection between the father and the husband parallels an
+oscillating identification of the heroine's two personas in the tale. As Vaz da Silva notes:
+The husband's ability to identify these "two separate persons" is an inversion of the father's inability to recognize his daughter
+as an unsuitable spouse. While the father tries (and fails) to conflate wife with daughter, the husband succeeds in meshing two
+personas that are a good match for him: a servant-provider and a woman who conspicuously presents herself as sexually
+available. What Vaz da Silva's analysis omits, though, are the sexual politics of the heroine's oppression and the fact that
+rather than "her hide" simply falling off, in varying versions of the tale she is often stripped of her protective covering by force.
+The heroine's skin covering is an important part of ATU 510B. One way to approach its meaning(s) is to use Arnold Van
+Gennep's work on rituals, as a frame for understanding the heroine's donning of the skin as a separation from her world (i.e., a
+journey to the spirit world) before being reincorporated into a nuclear family structure (1999). As noted earlier, the heroine
+transitions from living with her father to marrying a man somewhat like him. While she is between the two states of attachment,
+she exists in a liminal place, which her disguise makes material. Her disguises vary oicotypically, but they have central
+characteristics in common. Margaret Yocom discusses the disguise in a broad international selection of ATU 510B tales,
+demonstrating how with "the multiple skins of her ambiguous body, she sometimes disgusts but always intrigues those who
+meet her" (2012, 97). W. F. Nicolaisen describes instances of naming as linguistic cloaking in versions of ATU 510B:
+
+"Katie Woodencloak," "Donkey Skin,"
+  "All-kinds-of-fur," "Cap o' Rushes,"
+  "Ruuchklaas," or "Catskin" (1984,
+  261).
+Of the tales in my sample, the following are named for the heroine's disguise: all three contemporary literary transformations
+("Allerleirauh," "Donkeyskin," and Deerskin), "Betta Pilusa" which translates to "Hairy Bertha" (Zipes 2004, 55); "Sackcloth,"
+both Perrault's and Falassi's "Donkey Skin" versions; the Grimms' "All Kinds of Fur," "Fair Maria Wood," and "Pulleru," which
+Holbek describes in his summary of the tale thus: "They called her Pulleru because she looks pulleret (tousled, messed up)"
+(1998, 552). These names are inflicted upon the heroine along with her servant status. They align her with nature, since many
+are animal skins or other natural substances, such as wood or barely-processed materials like rough cloth. (20)
+That the function of such a disguise might conceal the heroine's sexual shame works equally well in both symbolic and literal
+interpretations. In a Freudian reading, the girl cannot stand to recognize her unconscious desires, just as in a literal reading the
+heroine would be traumatized by the possibility if not the occurrence of incest. Warner illuminates the underlying similarities
+between the psychological and literal interpretations: "Although [the heroines] have suffered wrong in all innocence in the fairy
+tales, they accept the taint and enact it on their own persons. Shame and guilt do not prompt different reactions, and in this the
+victims behave exactly like penitents" (1994, 358). Whether the heroine's actions express shame or guilt, ATU 510B is a tale
+about surviving certain aspects of childhood and adolescence and maturing, with the mediation of a protective skin covering. If
+one is inclined to recognize an Electral attachment binding father and daughter, the heroine's flight is necessary once she
+realizes that her father is not a suitable husband for her. Recognizing that it would be an unhealthy arrangement for her to
+actually marry her father, the heroine initiates the plot of the tale by withdrawing from her nearly fulfilled wish in order to seek a
+wholesome alternative. As such, this tale can be interpreted as the necessary stage in childhood development when the girl
+surmounts her Electral attachment to her father, in order to attach her love to a viable mate. Falassi's reading of "Donkey Skin"
+supports this interpretation: he links a real-life refusal of incest with the refusal of incest that occurs within the tale, leading to a
+real-life latency phase, and in the tale to an "intermediate phase" featuring "indeterminate ugliness" (1980, 46). This evaluation
+lends the tale an inner logic. It describes maturation using symbols that resonate on multiple levels.
+Symbolically, the heroine's skin camouflage takes on polyvalent meanings when interpreted with attention to the heroine's
+flight. Pilinovsky discusses the implications of the garment, citing the Law of Contagion in connection with the nature of the coat
+made of "skins, either from a creature magical in itself, or procured through magical means" (2001). Yet where Pilinovsky sees
+the heroine's disguise as a resource, Ashliman views it as a "grotesque cloak" that reflects the "intense feelings of shame" the
+heroine experiences (1997). Heroines in ATU 510B sometimes try to conceal all vestiges of their femininity, as in "Sackcloth"
+wherein the heroine dons "a tight-fitting sackcloth that will cover [her] whole body, except [her] nostrils, mouth, and eyes"
+(Muhawi and Kanaana 1989, 126). Here, the girl becomes a "strange-looking man" and "some kind of freak," thus losing both
+her femininity and her humanity (1989, 128, 129). Even when the heroine does not cross-dress, her humanity may be
+questionable. Tatar states that the "flight into the woods, with its concomitant degradation of the heroine into a creature of
+nature, remains the lasting mark of the father's attempted incestuous violation" (1992, 133). In contrast, Yocom views the furry
+disguise as a resource: "She strategically uses asexuality to camouflage her sexual body" (2012, 105). In some cases--like in
+the Grimms' "All Kinds of Fur" where the king finds her in a tree; in "Sackcloth" where she is discovered eating leftover
+household scraps; and in "Betta Pilusa" where the king sees her in her gray fur and wants to shoot her--heroines are first
+discovered in an animal situation. Often, the heroine is forced to live in animal-like conditions, or with animals, as in "All Kinds
+of Fur" where she sleeps "in a little stall beneath the steps" (Ashliman 1998); in Falassi's "Donkey Skin" where she tends the
+king's geese; in Taggart's "Cinderella" where she wears a pelican suit and tends turkeys; in "Betta Pilusa" where she lives in a
+chicken coop; and in Deerskin, where she cares for the prince's hounds. Thus, not only the heroine's disguise, but also how
+she is treated, reflects her forced association with nature. (21)
+In order to re-enter civilized society, the heroine must demonstrate her capacity to conform to patriarchal standards of feminine
+competence. Sandra Gilbert questions whether the heroine chooses to re-enter society, or whether she "cannot altogether
+abandon the imperatives her culture has impressed upon her" (1985, 377). In many versions of ATU 510B, the heroine
+prepares food for the lovesick prince, which serves not only to heal him but also to identify her as his chosen lover. For
+example, she cooks porridge for the king's son upon his orders in Falassi's "Donkey Skin;" she prepares bread containing
+recognition tokens in "Betta Pilusa;" a cake containing a ring in Perrault's "Donkey Skin;" a custard containing a ring in
+"Cinderella;" and soup containing a ring in "Pulleru," "Broomthrow, Brushthrow, Combthrow," "Allerleirauh," and "Fair Maria
+Wood;" and she serves the king's son his dinner in "Sackcloth," although she drops the tray more than once in order to avoid
+him in this version. When the heroine cooks or bakes for the prince, this is a functional display of her domestic abilities, as well
+as a demonstration of her replacement of his mother as the main nurturer in his life (which is an interesting transformation of
+her father's attempt to force her to replace her mother, his wife). In some versions, the heroine engages in other clearly
+"feminine" activities, such as spinning. Thus, she is not only reincorporated into a cultural sphere where she is no longer
+identified as or with animals, but also valued for her human skills. This valuation may not be immediately apparent, however,
+due to the manner of the heroine's uncloaking--sometimes voluntary, sometimes not.
+Heroines of ATU 510B are forced from their homes and compelled to rely on the dubious charity of a future husband. The
+circumstances under which their trials end vary. Goldberg hypothesizes that, over time the heroines in ATU 510B have
+developed more self-reliance and independence (1997, 41). However, these conditions continue to fluctuate. The heroine in
+"Sackcloth" displays the initiative to attend a wedding dance, but this version does not contain the recognition token motif, and
+
+instead the heroine must be ordered to serve the king's son food. However, even in versions where the heroine attends parties
+and ventures as far as teasing the prince with hints of her identity, the extent of her initiative is difficult to determine. Ashliman
+makes a convincing case for the traumatized behavior of the heroine, demonstrating that she is not yet capable of recognizing
+and securing a suitable partner for herself (1997). He sees the heroine's teasing of the prince as "psychotic behavior," which is
+"perfectly believable for one who has just been sexually threatened by the man who should have been her closest and most
+powerful protector, her own father" (1997). This "psychotic behavior" corresponds to Herman and Hirschman's list of symptoms
+found in female incest survivors: "guilt, shame, feelings of inferiority and low self-esteem, anxiety, imitative ritualized sexual
+behavior, hostile or aggressive behavior, and school problems" (1981, 30). The heroine's inferior social status while she is a
+servant, and her compulsorily repeated trips to the dances, could well fit this description.
+When her future husband finally figures out his beloved's identity, often it is he who must bring her out into the open. Holbek
+notes that persecuted heroines in tales must "suffer in patience" to be "discovered by their princes, in some cases quite literally
+dis-covered ... Pulleru is stripped of her rags" (1998, 584, italics in original). The same thing occurs in the Grimms' 1812
+version of "All Kinds of Fur," when the disguised heroine is summoned by the king: "she tried to make an excuse and then run
+away, but as she ran by, the king noticed a white finger on her hand, and he held her fast. He found the ring that had slipped
+into her finger, and then he ripped off her fur coat" (Ashliman 1998). The heroine resists having her identity revealed, and the
+act occurs in an almost violent struggle, which she loses. In Falassi's "Donkey Skin," the king's son threatens the heroine if she
+does not comply with his wishes, and removes her donkey skin so "whether she wanted to or not," she agrees and takes it off
+(1980, 44). Similarly, in "Betta Pilusa," the king she serves threatens to cut off her head unless she reveals her identity to him--
+yet she then actively throws off the cat skin she wears (Zipes 2004, 58). These stratagems are not empowering for the heroine;
+she is stripped of the comforting anonymity of her disguise, and forced to confront her fears of human contact that her
+overzealous father instilled in her. The inherent variability of oral tradition, however, also supplies the occasional empowering
+alternative: in Taggart's "Cinderella," the heroine asks for a few minutes to comb her hair and get dressed, and is granted these
+small kindnesses. In "Sackcloth," Muhawi and Kanaana explain the heroine's dancing in public as "a declaration of her new
+awareness, her readiness to accept a mate" now that she is more secure in her identity (1989, 145). However, the heroine is
+finally revealed to the king's son only once the prince pulls out a knife in order to disrobe her (1989, 130). This example--
+empowerment coexisting with coercion--demonstrates the difficulty of extricating these themes from each other in the tale as a
+whole.
+The tale's outcome offers a final view of converging interpretations of ATU 510B. The heroine's dark past does not get much in
+the way of resolution; like the dirty animal skin she discards after being discovered, the incest is rarely mentioned again at the
+denouement. Only in two versions--"Broomthrow, Brushthrow, Combthrow" and Falassi's "Donkey Skin"--is it said that the
+heroine is able to reveal her father's incestuous advances. In the former, when the prince recognizes her, "she now [has] to tell
+him her life story," which does not sound entirely voluntary (Ashliman 1998). In the latter, the heroine serves her father salt-less
+food at her wedding, and when he complains, she publicly announces: "It has no taste, just as the man who wants to marry his
+daughter has no taste" (1980, 45). These declarations, and related confrontations with the father, are few, as can be seen in
+Cox's plot summaries of 510B tales (1893, 53-79). The fact that so few daughters confront their fathers with their crimes is an
+indication of the power structures within these societies, as well as the effects of victimization. As Herman and Hirschman point
+out: "Most incest victims both long and fear to reveal their secret" (1981, 129). Just as likely is the possibility that such Electral
+wishes on the daughter's part have been repressed, then overcome, hence there is no need (and certainly no desire) to bring
+them up again.
+Conclusion
+I share Michele Simonsen's skepticism about whether it is possible to interpret fairy tales, in the sense of decoding some secret
+meaning, or rather to simply understand them in a given context (1985). Because fairy tales contain both literal and fantastic
+elements, we must employ more than one interpretive frame in order to access both surface and symbolic meanings. ATU
+510B, in particular, is a problematic case due to the portrait of incest and power structures it depicts, a picture all too easy to
+ignore by switching one's focus to the "hidden" meaning of the tale. There is only so much "hidden" in this tale, however. As
+Elizabeth Marshall explains: "The daughter rather than the father bears the cultural punishment that highlights the danger
+inherent in forbidden sexual contacts" (2004, 409). In other words, it is significant that tale contains the message that the
+daughter is the one punished for the sexual transgression. Marshall points out that the tale's message is more than the sum of
+its parts; there are messages not only about incest and family relations, but also about how society codes, condones, and
+communicates about these topics. Read in this light, the tale "suggests that the danger inherent in father-daughter incest is not
+the act itself, but in potentially knowing and telling about it" (2004, 410).
+Contemplating the layers of meaning in this tale is a bit like peeling back the layers of the heroine's skin to uncover who she is
+and what she means. The heroine's father decides to marry her, often because of a characteristic close to her biological skin: a
+golden star or cross on her forehead, golden hair, the way a dress or ring or shoe molds itself to her body. The heroine's skin,
+therefore, is part of her sexual and social identity, inevitably desired by her father, which causes her to hide herself under
+layers that obscure this new, maturing identity. In Yocom's analysis, "the beautiful gowns of the heroine are just as much a
+disguise as her ashy rags or her rough fur pelt" (2012, 93). The multiple skins she wears reinforce the idea that "gender is an
+'act'" (Butler 1999 [1990], 187), that she dons femininity and animality as the situation demands. (22) Whether she enters a
+period of latent sexuality or traumatized anxiety, the heroine's triple skins--her own skin, the dresses, and the disguise--become
+a chain of symbols through which taletellers, collectors, editors, and writers can express their views on feminine development
+
+In depicting erotic persecution of a
+  daughter by her father ... mothers and
+  stepdaughters tend to vanish from the
+  central arena of action. Yet the father's
+  desire for his daughter in the second
+  tale type furnishes a powerful motive
+  for a stepmother's jealous rages and
+  unnatural deeds in the first tale type.
+  The two plots thereby conveniently
+  dovetail to produce an intrigue that
+  corresponds almost perfectly to the
+  Oedipal fantasies of female children. In
+  this way fairy tales are able to stage the
+  Oedipal drama even as they disguise it
+  by eliminating one of its two essential
+  components (1987, 150).
+in patriarchal societies. Just as the heroine's beautiful apparel conceals her possibly bruised and scarred skin, so the
+interpretations of ATU 510B that exonerate the father, veil a potentially ugly reality.
+The physical and sexual abuse (often incestuous) of children continues today, as do retellings of ATU 510B, though these are
+not usually aimed at children in Western society. The fact that retellings of 510B are not as popular as those of 510A leads
+some scholars to the misconception that incest is simply no longer a relevant topic: "During the evolution of the story, the motif
+of the 'unnatural father' gradually vanishes, and the relation with the cruel stepmother and stepsisters is foregrounded" (Mei
+1995, 5). Tatar, on the other hand, recognizes that while incest may have vanished from the manifest layer of many retellings
+of tales in the 510 cycle, the latent contents remain both comprehensible and necessary:
+Yet Tatar's methodology is also valuable in that it does not immediately reject psychological concepts, but rather integrates
+them into an analysis that is keenly aware of power structures.
+As this survey of material establishes, it is both impossible and unwise to wholly accept or reject either the psychological or
+literal methods of interpretation. The most comprehensive and rewarding approach is to compromise and to attempt to
+integrate these perspectives, using them to illuminate one another and, most importantly, the tale in question. As I believe I
+have shown, interpretations of tales can and should converge. This method ensures that no single approach is allowed to
+dominate the tale's interpretation, and that fairy tales act less as mirrors for the interpreter's biases than as texts that can be
+understood within various contexts. Meaning, like all cultural performance, is always embedded, and should be studied in ways
+that allow for the most nuanced expressions of human experiences, whether they be actual, symbolic, or something in
+between.
+Response
+Aimee Bender
+University of Southern California
+I teach a course on fairy tales at USC, and we dip into Bettelheim and von Franz alongside reading a few of these
+"Donkeyskin"-type-tales, so this article was especially interesting to me. First: I found it very helpful that Jorgensen broke down
+the methods of analysis so clearly. Symbolic, literal. I also appreciated that she seemed to favor both, while taking into account
+possible issues with each. Although the psychoanalytic approach can be dogmatic and reductive, I also think fairy tales are
+uniquely suited toward this kind of analysis.
+As a fiction writer, I am particularly attracted to fairy tales as a counter to the more character-driven fiction that is the American
+norm; there, we usually have some internal engagement with the characters' thoughts and emotions to help a reader piece
+together motivation. "What a character wants" or why they act is often the driving question in book group discussions and
+writing workshops. This allows for a certain kind of psychological interpretation, but one usually based on direct passages that
+give access to internal information. But with fairy tales, the internal is generally shut-off, unavailable. No one is thinking or
+feeling overtly; motivation is usually fairly opaque. The actions, however, are plain and stark, and a reader is left with story as
+the main source of analytic material.
+There are many issues that come up with a story like ATU 510B, and with the patriachal problem Jorgensen acknowledges--
+the problem of ascribing the girl's longing for her father as the reason for the story's plot. But! It also strikes me that a tale is
+
+What's magical about the object
+  is that it both invites and resists
+  interpretation ... its artistic worth is
+  measurable by the degree to which it
+  remains, after interpretation, vital--no
+  interpretation or cardiopulmonary
+  push-pull can exhaust or empty it
+  (20).
+one of the only types of storytelling where this kind of psychological wondering can be even considered. Because we do not
+know what she is thinking, we have a lot of room to guess, and to make flat and symbolic and archetypal what might otherwise
+be offensive, if used upon a three-dimensional character. If/when taken literally, all the complications of actual real incest and
+abuse flood in, as Tatar and Zipes and others here address, importantly. These concerns are valid and crucial, and cannot be
+skipped. But they often are the frontline of inquiry, which is why I find the symbolic interpretations almost illicit in their
+assertions. Which area of interpretation is an underdog here, when it comes to fairy tales? I'm not sure.
+What Jorgensen does very effectively is move us through a range of interpretations--from the more plodding and reductive
+Freudian interpretations to the more historical and realistic interpretations and finally to psychological ones that feel more
+nuanced, such as those from Woodman and Falassi.
+Jorgensen also admits to the limitations of analyzing these tales in her conclusion.
+I agree; I was thinking of Donald Barthelme's concept of good art in his great essay Not Knowing. He's talking about his
+experience of Rauschenberg's sculpture of a goat and tire that both intrigues and confounds him.
+I do believe fairy tales model this as well as anything: whatever lens we use to view the tale and its meaning does not stick
+permanently to the tale. The tale, told and retold and retold, seems to be one of the most pleasurable items to analyze, and
+deserves deep and complex study, but will always, always, ultimately resist the analysis and return to its fairly blank state, to its
+story-self, open again to interpretation.
+Works Cited
+Ashliman, D. L. 1987."Incest in Indo European Folktales." Folklore and Mythology Electronic Texts.
+http://www.pitt.edu/~dash/incest.html
+--1998. "The Father Who Wanted to Marry His Daughter: Folktales of Aarne-Thompson Type 510B." Folklore and Mythology
+Electronic Texts. http://www.pitt. edu/~dash/type0510b.html
+Bacchilega, Cristina. 1997. Postmodern Fairy Tales: Gender and Narrative Strategies. Philadelphia: University of Pennsylvania
+Press.
+Bayer, Trudy, and Robin Connors. 1988. "The Emergence of Child Sexual Abuse from the Shadow of Sexism." Responses to
+Victimization of Women and Children: Journal of the Center for Women Policy Studies no. 11(4): 12-15.
+Bernheimer, Kate, ed. 2002. Mirror, Mirror on the Wall: Women Writers Explore Their Favorite Fairy Tales. New York: Anchor
+Books.
+Bettelheim, Bruno. 1989. The Uses of Enchantment: The Meaning and Importance of Fairy Tales. New York: Random House.
+Butler, Judith. 1999 [1990]. Gender Trouble: Feminism and the Subversion of Identity. New York: Routledge.
+Cox, Marian Rolfe. 1893. Cinderella. London: Publications of the Folk-Lore Society XXXI.
+Dundes, Alan. 1982. 'To Love My Father All': A Psychoanalytic Study of the Folktale Source of King Lear." In Cinderella: A
+Casebook, 1982, edited by Alan Dundes, 229-224. Madison: The University of Wisconsin Press.
+
+--. 1987. "The Symbolic Equivalence of Allomotifs in the Rabbit-Herd (AT 570)." In Parsing Through Customs: Essays by a
+Freudian Folklorist, edited by Alan Dundes, 167-177. Madison: The University of Wisconsin Press.
+--. 1989. "The Psychoanalytic Study of the Grimms' Tales: 'The Maiden Without Hands' (AT 706)." In Folklore Matters, edited
+by Alan Dundes, 112-150. Knoxville: The University of Tennessee Press.
+--, ed. 1982. Cinderella: A Casebook. Madison: The University of Wisconsin Press.
+--, ed. 1999. International Folkloristics: Classic Contributions by the Founders of Folklore. Lanham, MD: Rowman & Littlefield.
+--. 2007. "The Symbolic Equivalence of Allomotifs: Towards a Method of Analyzing Folktales." In The Meaning of Folklore: The
+Analytical Essays of Alan Dundes, edited by Simon Bronner, 319-324. Logan, UT: Utah State University Press.
+Gilbert, Sandra M. 1985. "Life's Empty Pack: Notes Toward a Literary Daughterectomy." Critical Inquiry no. 11: 355-384.
+Goldberg, Christine. 1997. "The Donkey Skin Folktale Cycle (AT 510B)." Journal of American Folklore 110, no. 435: 28-46.
+Haase, Donald. 2000. "Psychology and Fairy Tales." In The Oxford Companion to Fairy Tales, edited by Jack Zipes, 404-408.
+Oxford: Oxford University Press.
+Herman, Judith Lewis, and Lisa Hirschman. 1981. Father-Daughter Incest. London: Harvard University Press.
+Holbek, Bengt. 1998. Interpretation of Fairy Tales. Helsinki: Academia Scientiarum Fennica.
+Jones, Steven Swann. 2002. The Fairy Tale: The Magic Mirror of the Imagination. New York: Routledge.
+Kilmartin, Christopher T., and Daniel Dervin. 1997. "Inaccurate Representation of the Electra Complex in Psychology
+Textbooks." Teaching of Psychology 24, no. 4: 269-70.
+Levi-Strauss, Claude. 1965. "The Structural Study of Myth" In Myth: A Symposium, edited by T. A. Sebeok. Bloomington:
+Indiana University Press.
+Luthi, Max. 1982. The European Folktale: Form and Nature. Indianapolis: Indiana University Press.
+Marshall, Elizabeth. 2004. "The Daughter's Disenchantment: Incest as Pedagogy in FairyTales and Kathryn Harrison's 'The
+Kiss.'" College English 66, no. 4: 403-426.
+McKinley, Robin. 1993. Deerskin. New York: Ace Books.
+Mei, Huang. 1990. Transforming the Cinderella Dream: From Frances Burney to Charlotte Bronte. New Brunswick: Rutgers
+University Press.
+Miller, Alice. 1984. Thou Shalt Not Be Aware: Society's Betrayal of the Child. Translated by H. Hannum. New York: Farrar,
+Straus and Giroux.
+Mitchell, Juliet. 1974. Feminism and Psychoanalysis. New York: Pantheon Books.
+Muhawi, Ibrahim, and Sharif Kanaana. 1989. Speak, Bird, Speak Again: Palestinian Arab Folktales. Berkeley: University of
+California Press.
+Nicolaisen, W. F. H. 1984. "Names and Narratives." Journal of American Folklore 97 : 259-272.
+
+Ortner, Sherry. 1974. "Is Female to Male as Nature is to Culture?" In Woman, Culture, and Society, edited by M. Z. Rosaldo
+and L. Lamphere, 68-87. Stanford, CA: Stanford University Press.
+Pilinovsky, Helen. 2001. Donkeyskin, Deerskin, Allerleirauh: The Reality of the Fairy Tale. http://www. endicott-
+studio.com/rdrm/ fordnky.html
+Propp, Vladimir. 1984. Theory and History of Folklore. Edited by Anatoly Liberman. Translated by A. Y. Martin et al.
+Minneapolis: University of Minnesota Press.
+Rank, Otto. 1992. The Incest Theme in Literature and Legend: Fundamentals of a Psychology of Literary Creation. Baltimore:
+The John Hopkins University Press.
+Rohrich, Lutz. 1991. Folktales and Reality. Indianapolis: Indiana University Press.
+Rooth, Anna Birgitta. 1951. The Cinderella Cycle. Lund: C.W.K Gleerup.
+Rubenstein, Ben. 1982. "The Meaning of the Cinderella Story." In Cinderella: A Casebook, edited by Alan Dundes, 219-228.
+Madison: The University of Wisconsin Press.
+Rubin, Gayle. 1975. "The Traffic in Women: Notes on the 'Political Economy' of Sex." In Toward an Anthropology of Women,
+edited by R. R. Reiter, 187-210. New York: Monthly Review Press.
+Rutledge, Amelia A. 2001. "Robin McKinley's Deerskin: Challenging Narcissisms." Marvels & Tales no. 15: 168-82.
+Simonsen, Michele. 1985. "Do Fairy Tales Make Sense?" Journal of Folklore Research no. 22: 29-36.
+Stone, Kay. 1975. "Things Walt Disney Never Told Us." In Women and Folklore: Images and Genres, edited by C. R. Farrer,
+42-50. Prospect Heights, IL: Waveland Press.
+Taggart, James M. 1990. Enchanted Maidens: Gender Relations in Spanish Folktales of Courtship and Marriage. Princeton:
+Princeton University Press.
+Tatar, Maria. 1987. The Hard Facts of the Grimms' Fairy Tales. Princeton: Princeton University Press.
+--. 1992. Off with Their Heads! Fairy Tales and the Culture of Childhood. Princeton: Princeton University Press.
+Uther, Hans-Jorg. 2004. The Types of International Folktales: A Classification and Bibliography. Helsinki: Academia
+Scientiarum Fennica.
+Van Gennep, Arnold. 1999. "The Rites of Passage." In International Folkloristics, edited by Alan Dundes, 99-108. Lanham, MD:
+Rowman & Littlefield Publishers.
+Vaz da Silva, Francisco. 2000. "Bengt Holbek and the Study of Meaning in Fairy Tales." Cultural Analysis no. 1: 3-14.
+--. 2002. Metamorphosis: The Dynamics of Symbolism in European Fairy Tales. New York: Peter Lang.
+von Franz, Marie-Louise. 1993. The Feminine in Fairy Tales[revised ed.]. London: Shambhala.
+Warner, Marina. 1994. From the Beast to the Blonde: On Fairy Tales and Their Tellers. New York: Farrar, Straus and Giroux.
+Windling, Terri. 1995. "Donkeyskin." In The Armless Maiden, edited by T. Windling, 295-299. New York: Tom Doherty
+Associates.
+
+Woodman, Marion. 1992. Leaving My Fatiter's House: A Journey to Conscious Femininity. London: Shambhala.
+Yocom, Margaret. 2012. "'But Who Are You Really?': Ambiguous Bodies and Ambiguous Pronouns in 'Allerleirauh.'" In
+Transgressive Tales: Queering the Grimms, edited by Kay Turner and Pauline Greenhill, 91-118. Detroit: Wayne State
+University Press.
+Yolen, Jane. 1995. Allerleirauh. In The Armless Maiden, edited by T. Win dling, 36-39. New York: Tom Do herty Associates.
+Zipes, Jack. 1995. Creative Storytelling: Building Community, Changing Lives. New York: Routledge.
+--.2004. Beautiful Angiola: The Great Treasury of Sicilian Folk and Fairy Tales Collected by Laura Gonzenbach. New York:
+Routledge.
+Jeana Jorgensen
+Indiana University-Purdue
+University of Indianapolis
+Notes
+(1) I would like to thank the editors and reviewers at Cultural Analysis for their insightful commentary and guidance in clarifying
+my arguments. This article also owes much to Pravina Shukla, Sandra Dolby, and Henry Glassie for their support while I
+transformed my research into a suitable master's thesis project at Indiana University. I am grateful to my colleagues, friends,
+and family members who have listened to me talk (perhaps too much) about my ideas on this topic. Finally, I owe a lasting debt
+to Alan Dundes, who first inspired me to research the possible convergence between psychological and feminist approaches to
+ATU 510B, when I came to his office hours to argue about his lecture on incest in fairy tales and he said, "Well, write a paper
+on it!"
+(2) It is interesting that Uther notes: "This form of the incest motif (the king wants to marry his daughter after the death of his
+wife) is often documented independently since the 12th century" (2004, 295). Other scholars, such as Christine Goldberg,
+downplay the incest motif in favor of other defining characteristics.
+(3) Goldberg's historical analysis of multiple versions of ATU 510B leads her to some interesting conclusions about women's
+agency, claiming that the motifs of hiding boxes and spying scenes in earlier versions of ATU 510B gave way to plot
+mechanisms in which "the heroine achieves a considerable degree of self-determination" (1997, 41).
+(4) The fact that incest is mentioned in more than one tale type does not invalidate its presence as a key motif in the definition
+of ATU 510B. One reason that the father daughter incest does not blur the lines between ATU 510B and ATU 706 is that the
+maiden without hands leaves home under different circumstances--not only after suffering mutilation, but without the magical
+garb, disguise, and/or transportation that the incestuous father, tricked into serving as a donor figure, usually provides.
+Similarly, in ATU 923, the donor sequence is missing, and the heroine must win the prince under a different set of
+circumstances from the dances and visits typical of ATU 510B. Thus, motifs must be examined within the contexts they appear.
+(5) Moves are discussed in Holbek 1998. Ashliman's plot formula for ATU 510B is:
+1. A dying woman extracts from her husband the promise that he will remarry only if he can find a woman that fits a certain
+description.
+2. After a period of mourning, the widower discovers that only his daughter meets the requirements for remarriage set by his
+deceased wife, and he asks her to marry him.
+3. The daughter, in order to buy time, and in hope of dissuading her father, asks for a number of gifts, but he finds these with
+little difficulty.
+
+4. Seeing no other solution to her dilemma, the girl dresses herself in an unusual garb and runs away.
+5. She finds both refuge and abuse in another man's household, where she serves as a maid.
+6. She temporarily escapes from the kitchen where she works and makes a series of appearances at a dress ball.
+7. A prince falls in love with the heroine in her beautiful attire. He discovers that the beautiful woman is none other than his
+maid, and he marries her. (1998).
+(6) It is important to note that distinguishing between author and collector is a tricky issue. As many Grimms' scholars have
+documented, the Grimms made substantial changes to their tales while claiming that they were representing stories straight
+from the mouths of the "folk" (discussed in Dundes 1999, 1-5). Rather than draw a firm line between author and collector, I
+prefer to follow Francisco Vaz da Silva's lead in asking, "[W]hy then would different criteria apply to oral folk-tellers and to the
+Grimms, if not for the notion that the former are the sole bearers of 'pure oral tradition'--and that therefore the latter cannot but
+produce 'fakelore'" (2002, 116)? Like Vaz da Silva, I see many authorial inventions as "thematic transformations within an age-
+old tradition" (2002, 119), and thus I tend to view oral and literary versions of a tale type as existing on a spectrum.
+(7) The argument for abstract/archetypal characterization in fairy tales fits Max Luthi's description of fairy tale characters as
+depthless. Luthi claims: "The whole realm of sentiment is absent from folktale characters ... Individual narrators, of course, may
+interject a word about the hero's sorrow or joy. But we clearly sense that this is incidental embellishment and does not pertain
+essentially to the folktale as a form" (1982, 13). Supporting Luthi's argument, the characters in the Grimms' version of ATU
+510B are barely described at all. Yet at the other end of the spectrum, tale characters can and do exhibit real human emotions.
+The heroine in "Betta Pilusa" weeps when she goes to a priest to confess her father's crimes, and her father becomes "very
+sullen" when his immediate desire for his daughter is thwarted.
+(8) In dividing the approaches I address into psychological and literal, I am not neglecting structuralism, but rather using it apart
+from these, because it is not an interpretive method so much as a descriptive one--less about meaning than form.
+(9) One notable exception is Alan Dundes's use of allomotifs to access an underlying folk symbolic code, which can be done
+without resorting to any particular theoretical model. However, Dundes's application of allomotific analysis to ATU 570, "The
+Rabbit Herd" (1987) is unmistakably psychoanalytic in tone, as is Holbek's application to ATU 433, "King Wivern" (discussed in
+Vaz da Silva 2002, 22-24). Further, as Claude Levi-Strauss notes in a discussion of symbolism, Freud "tries to decipher myths
+by means of a single and exclusive code, while a myth will always put several codes into play" (1988, 186). Freud's code of
+choice was, of course, psychosexual, and while Levi-Strauss also prioritizes sexual codes in The Jealous Potter, he makes a
+compelling case for interpreting myth according to multiple codes, and allowing for symbolism and metaphor to work multi-
+directionally rather than uni-directionally (1988, 193-195). I focus on psychological approaches in this essay because they have
+been the most prevalent application of symbolic reading in fairy tale research.
+(10) Alan Dundes concurs with this point: "The literal-historical approach has its good points, but it cannot possibly plumb the
+depths of the fantastic" (1989, 144).
+(11) Alternate psychological approaches--to ATU 510B and to fairy tales in general--remain rare. Amelia Rutledge analyzes
+McKinley's novelization of ATU 510B, Deerskin, using Lacan's theories of identity to map the protagonist's transition to
+subjectivity. Rutledge describes the protagonist's relationships with others, primarily her mother and her future husband, in
+terms of Lacan's mirror stage, wherein a child progresses towards self/other distinctions in the social (symbolic) world.
+Rutledge's use of a psychological approach does not prevent her from referring to different versions of ATU 510B that
+intertextually inform Deerskin, nor from treating the incest within the text as real. Thus, Rutledge's analysis finds a balance
+between the tales she works with and the theories she employs.
+(12) An example of Woodman's style of interpretation is: "In rejecting an incestuous marriage, Allerleirauh leaves behind the
+collective crutches that supported her as the golden-haired daughter of her golden-haired mother" and "chose to give nature a
+chance by living in the forest" (1992, 205).
+(13) I especially agree with Yocom's interpretation of the tale's theme of survival: "Some see in 'Allerleirauh,' as I do, an
+undercurrent that carries the experiences of incest survivors who move back and forth among different perceptions of
+themselves and their bodies as they journey toward renewed life" (2012, 93).
+(14) Also notable is the recent queer approach to fairy tales, as seen in Trangressive Tales: Queering the Grimms, edited by
+Kay Turner and Pauline Greenhill. Detroit: Wayne State University Press, 2012.
+
+(15) In my view, trying to explain the incest motif by means of a historical approach, such as claiming that ritual incest used to
+occur and remains in the "folk" memory, is not only unverifiable, but also tells us nothing of why the tale remains relevant
+enough to continue in oral and literary circulation. Holbek criticizes historically-oriented interpretations as grossly
+underestimating the role of the individual narrator, but not to be entirely dismissed because, "There are traces of ancient beliefs
+and rituals in many fairy tale motifs" (1998, 258).
+(16) However, Holbek also claims that incestuous desires "are manifestly present in tales like AT 510B and other tales of the
+feminine pattern" which would lend credence to a literal interpretation of the tale type (1998, 320, italics in original).
+(17) Examples of placing too much emphasis on only one aspect of interpretation exist in both psychological and literal studies.
+Tatar critiques Dundes's reading of ATU 706 for ignoring the heroine's crippling vulnerability and making her the story's villain.
+This instance of victim-blaming leads Tatar to claim that Dundes's interpretation "is a perfect illustration of the hazards of giving
+too much weight to 'hidden meanings' while neglecting the significance of a tale's manifest content" (1992, 125). Yet Dundes is
+not ignoring the manifest content of the tale--namely, incest--but rather shifting the emphasis from a sexual crime to a
+psychological desire. Conversely, Holbek utilizes similar reasoning--"one should pay attention to what the characters do rather
+than to what they say"--to explain how in ATU 510B, "we see no reason why the father's desire should not be taken at face
+value" (1998, 554, italics in original). This is one inconsistency of Holbek's approach, as he reads incest into "King Wivern"
+(ATU 433B) when it is not there manifestly in the text, and ignores latent desires in ATU 510B.
+(18) Indeed, applying Judith Butler's model of gender performativity to ATU 510B yields an intriguing starting point for a future
+study. The polyvalence of the heroine's identity and the importance of surfaces (skin disguises; sooty skin) point to a complexly
+embodied and contested gender identity.
+(19) Dundes has demonstrated the "explicit ... symbolism of finger-rings" to refer to sexual intercourse, which would be a fitting
+explanation of the father's attempt to force his daughter to wear a ring in her mother's place (1989, 14). It might also be a
+metaphor for the father's rape of the daughter.
+(20) Moreover, as Marina Warner points out, in certain renditions of the tale, the tellers and audiences would have been aware
+of additional meanings in the heroine's disguise: "As an outcast, spurning the sexual demand made upon her, her disguises--
+donkey, cat, or bear--reproduce the traditional iconography of the very passion she is fleeing," and these particular animal
+forms also anticipate sexual pollution (1994, 355).
+(21) For the association between women and nature in the West, in contrast to how men tend to be aligned with culture, see
+Ortner 1974.
+(22) This morphological variability connects to Butler's notion of agency: "Indeed, the source of personal and political agency
+comes not from within the individual, but in and through the complex cultural exchanges among bodies in which identity itself is
+ever-shifting, indeed, where identity itself is constructed, disintegrated, and recirculated only within the context of a dynamic
+field of cultural relations" (1999 [1990], 161-162). From this perspective, the heroine in 510B approaches a Butlerian notion of
+agency by being so flexible in terms of her shifting skins and identities.
+Jorgensen, Jeana
+Copyright:  COPYRIGHT 2012 Cultural Analysis 
+http://socrates.berkeley.edu/~caforum/index.html
+Source Citation
+Jorgensen, Jeana. "Sorting out donkey skin (ATU 510B): toward an integrative literal-symbolic analysis of fairy tales." Cultural
+Analysis, vol. 11, annual 2012, pp. 91+. Gale Academic OneFile,
+link.gale.com/apps/doc/A334844902/AONE?u=ucl_ttda&sid=bookmark-AONE. Accessed 14 Feb. 2025.
+   
+Gale Document Number: GALE|A334844902
